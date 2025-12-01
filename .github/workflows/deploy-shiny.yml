@@ -27,7 +27,7 @@ jobs:
         Rscript run_archive.R
 
     - name: Deploy to ShinyApps.io
-      uses: rstudio/shinyapps-deploy@v1
+      uses: rstudio/shinyapps-deploy-action@v1
       with:
         shinyapps-token: ${{ secrets.TOKEN }}
         shinyapps-secret: ${{ secrets.SECRET }}
