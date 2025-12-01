@@ -15,7 +15,7 @@ library(readxl)
 
 source("ranking_function_shiny.R", local = TRUE)
 
-upd_text <- paste0("Last Update: ", Sys.Date(), ". Added 1.Swiss Liga 2024, 1.Bundesliga Matchday 2, RBWL Lovain-La-Neuve 2025, some Canadian Tournaments. Reparametrized value of c for Squad Competitions with few matches per player.")
+upd_text <- paste0("Last Update: ", Sys.Date(), ". Testing git push. Added CDC 2025 and First Italian Winter League Matchday.")
 
 
 ui <- dashboardPage(
