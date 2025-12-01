@@ -1,4 +1,3 @@
-library(PlayerRatings)
 library(readxl)
 library(xlsx)
 library(tidyverse)
@@ -6,14 +5,15 @@ library(ggdark)
 library(ggthemes)
 library(tools)
 library(foreach)
-setwd("D:/Personal Statistics/rcb/Ranking/data/")
-load("D:/Personal Statistics/rcb/Ranking/data/Extra/Init.rda")
-source("D:/Personal Statistics/rcb/Ranking/ranking_function.R")
+load("R/Init.rda")
+source("R/ranking_function.R")
 
 # Manual Entries ####
 
 load("WORLDS/IndRat.rda")
 load("WORLDS/SquadRat.rda")
+
+# Needs to be run if a tournament pre 2024 Worlds is Run. !! TO BE DONE IN LOCAL !!
 # WorldsOut <- worlds_obj(rsBang24, t = "ind"); WorldsRat <- WorldsOut$rat; save(WorldsRat,file =  "WORLDS/IndRat.rda")
 # WorldsOut <- worlds_obj(rsBang24, t = "squad"); SquadRat <- WorldsOut$rat; save(SquadRat, file = "WORLDS/SquadRat.rda")
 
@@ -66,7 +66,7 @@ rm(datasets)
 datasets <- ranking_datasets(flatten=T)
 for(tour in names(datasets)) assign(tour, datasets[[tour]])
 dft <- order_datasets()
-saveRDS(dft, file = "D:/Personal Statistics/rcb/Ranking/shiny/www/DataBaseOutput.RDS")
+saveRDS(dft, file = "shiny/www/DataBaseOutput.RDS")
 
 pb <- txtProgressBar(min = 1, max = nrow(dft),style = 3)
 for (i in seq_len(nrow(dft))) {
@@ -106,6 +106,6 @@ for (i in seq_len(nrow(dft))) {
 #                   arch = NULL,
 #                   initval = init_control(weeks_passed(date = today()), dft= dft))
 
-source("D:/Personal Statistics/rcb/Ranking/run_archive.R")
+source("R/run_archive.R")
 
 

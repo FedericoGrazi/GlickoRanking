@@ -195,66 +195,7 @@ remove_third_player <- function(file= NULL, x){
   }
   return(x)
 }
-# 
-# from_worlds_to_glicko <- function(file, year, month, day , GroupStage = T){
-#   
-#   x <- read.csv(file)
-#   x <- x[,-c(15:18,21:32,35:46)]
-#   sets <- matrix(c(x$Game.1...Score.team.A,x$Game.2...Score.team.A,x$Game.3...Score.team.A),ncol = 3, nrow = nrow(x))
-#   setwin <- matrix(c(ifelse(x$Game.1...Score.team.A>x$Game.1...Score.team.B,1,0),ifelse(x$Game.2...Score.team.A>x$Game.2...Score.team.B,1,0),ifelse(x$Game.3...Score.team.A>x$Game.3...Score.team.B,1,0)),ncol = 3, nrow = nrow(x))
-#   
-#   df <- data.frame(
-#     Stage = x$Stage,
-#     Match = x$Match.format,
-#     cat = x$Division,
-#     g1 = x$Team.A...Player.1,
-#     g2 = x$Team.A...Player.2,
-#     g3 = x$Team.B...Player.1,
-#     g4 = x$Team.B...Player.2,
-#     Score = ifelse(x$Winning.team == x$Team.A,1,0),
-#     sets = apply(sets, 1, function(x) sum(!is.na(x))),
-#     Awins = apply(setwin,1, function(x) sum(x,na.rm = T))
-#   )
-#   
-#   df$Weight <- with(df, case_when(
-#     Stage == "Group Stage" ~ 0.4,
-#     Stage == "Gold Groups" ~ 0.75-0.001,
-#     Stage == "Silver Groups" ~ 0.75-0.001,
-#     Stage == "Bronze Groups" ~ 0.75-0.001,
-#     Stage == "Gold Bracket" & Match == "Best of 3"  ~ 1-0.001,
-#     Stage == "Gold Bracket" & Match == "Single game"  ~ .65-0.001,
-#     Stage == "Silver Bracket" & Match == "Best of 3"  ~ 1-0.002,
-#     Stage == "Silver Bracket" & Match == "Single game"  ~ .35-0.001,
-#     Stage == "Bronze Bracket" & Match == "Best of 3"  ~ .8-0.001,
-#     Stage == "Bronze Bracket" & Match == "Single game"  ~ .25-0.001
-#   ))
-#   
-#   
-#   df$Score <- (df$Awins)/df$sets
-#   df$Score[df$Score == 2/3] <- 0.75
-#   df$Score[df$Score == 1/3] <- 0.25
-#   
-#   df$cat <- with(df, ifelse(Stage == "Group Stage",
-#                   cat,
-#                   paste(cat, str_extract(Stage, "^[^ ]+"))))
-#   
-#   
-#   if(GroupStage==T) df <- df[str_detect(df$Stage, "Group Stage"),] else df <- df[!str_detect(df$Stage, "Group Stage"),]
-#   df <- df[,-which(names(df) %in% c("Match","Stage","sets","Awins"))]
-#   
-#  
-#   dfout <- data.frame(
-#     cat = df$cat,
-#     Time = weeks_passed(year,month,day),
-#     Play1 = paste(df$g1,"&",df$g2),
-#     Play2 = paste(df$g3,"&",df$g4),
-#     Score = df$Score,
-#     Weight = df$Weight
-#   )
-#   
-#   
-#   return(dfout)
-# }
+
 
 from_csv_to_glicko <- function(file, year, month, day, draws = NULL, mixed = F){
 
@@ -275,7 +216,6 @@ from_csv_to_glicko <- function(file, year, month, day, draws = NULL, mixed = F){
     Score = ifelse(x$Winning.team == x$Team.A,1,0),
     sets = apply(sets, 1, function(x) sum(!is.na(x))),
     placement = ifelse(str_detect(x$Round, "(P)[0-9]*"),1,0), # Placement
-    # p3 = ifelse(str_detect(x$Round, "(P3: Final)"),1,0), # Placement
     Awins = apply(setwin,1, function(x) sum(x,na.rm = T)),
     PowerPool = ifelse(str_detect(x$Group.Bracket, "Power Pool"),1,0),
     SeedingRB = ifelse(str_detect(x$Group.Bracket, "(Seed)|(Seeding)"),1,0),
@@ -292,13 +232,12 @@ from_csv_to_glicko <- function(file, year, month, day, draws = NULL, mixed = F){
   
  
   df$Weight <- ifelse(df$sets==1, .5,1)
-  # df$Weight <- ifelse(df$sets==1, .75,1)
+
   df$Weight[df$PowerPool==1] <- .775 # Power Pool Groups A/R
   df$Weight[df$SeedingRB==1 | df$PositioningRB] <- .45  # Power Pool Groups A/R
   df$Weight[df$Division2==1] <- .35 # Lower
   df$Weight[df$placement==1] <- .25 # Placement
   df$Weight[df$IMP==1] <- .6        # Placement Importanti
-  # df$Weight[df$Division1 == 1 & df$third == 1] <- .75        # Placement Importanti
   df$Weight[df$Division1 == 1 & df$third == 1] <- .85        # Placement Importanti
   df$Score <- (df$Awins)/df$sets
   df$Score[df$Score == 2/3] <- 0.75
@@ -366,7 +305,7 @@ make_draws <- function(data, cats = NULL){
 
 worlds_obj <- function(rat, t = c("ind", "squad")){
   if(t == "ind"){
-  x <- read.csv("D:/Personal Statistics/rcb/Ranking/data/Extra/Worlds/24_Worlds.csv")
+  x <- read.csv("data/Extra/Worlds/24_Worlds.csv")
   giocatori = sort(unique(c(x$Team.A...Player.1, x$Team.A...Player.2, x$Team.B...Player.1, x$Team.B...Player.2)))
   
   giocatori <- stringi::stri_trans_general(str_to_title(giocatori), "Latin-ASCII")
@@ -424,7 +363,7 @@ worlds_obj <- function(rat, t = c("ind", "squad")){
   
   }else if(t == "squad"){
   # FWANGO NAMES FOR SQUAD ##
-  dwbs <- read_excel("D:/Personal Statistics/rcb/Ranking/data/Extra/Worlds/Data Worlds Bracket Squads.xlsx", sheet = "Full")
+  dwbs <- read_excel("data/Extra/Worlds/Data Worlds Bracket Squads.xlsx", sheet = "Full")
   dbsq <- dwbs %>% 
     group_by(Group, Tab) %>% 
     mutate(SS = sum(Score),
@@ -448,7 +387,7 @@ worlds_obj <- function(rat, t = c("ind", "squad")){
   names <- data.frame(names = sort(unique(c(dbsq$g1,dbsq$g2,dbsq$g3,dbsq$g4))))
   names$names <- stringi::stri_trans_general(str_to_title(names$names), "Latin-ASCII")
   
-  nadd <- read_excel("D:/Personal Statistics/rcb/Ranking/data/Extra/Worlds/Data Names Worlds Squads (Revisione1).xlsx")
+  nadd <- read_excel("data/Extra/Worlds/Data Names Worlds Squads (Revisione1).xlsx")
   nadd$names <- stringi::stri_trans_general(str_to_title(nadd$names), "Latin-ASCII")
   
   names$act <- nadd$names[match(names[,1], nadd$names)]
@@ -473,9 +412,7 @@ worlds_obj <- function(rat, t = c("ind", "squad")){
   dataWSB1 <- dataWSB[SBgroups,]
   dataWSB2 <- dataWSB[!SBgroups,]
   
-  # save(SBgroups, file = "D:/Personal Statistics/rcb/Ranking/data/WORLDS/Index Groups.rda")
-  # save(dataWSB, file = "D:/Personal Statistics/rcb/Ranking/data/WORLDS/Data Squad Battle.rda")
-  
+
   # INITVAL FOR SQUAD ##
   sqgiocatori = sort(unique(c(g1,g2,g3,g4)))
   sqgiocatori = stringi::stri_trans_general(str_to_title(sqgiocatori), "Latin-ASCII")
@@ -507,7 +444,6 @@ worlds_obj <- function(rat, t = c("ind", "squad")){
   
   positions <- c("Final", "3rd", paste(seq(from = 5,to = 20, by = 2), "th", sep = ""))
   rats <- c(1550,1550,1450,1450,1350,1350,1250, 1250, 1250, 1250)
-  # squad_worlds_cat$initrats <- c(rep(1250,4),rep(1150,5),rep(1350,3),rep(1550,3), rep(1150,7),rep(1200,2),rep(1350,2),rep(1200,3))
   squad_worlds_cat$initrats <- foreach(i = 1:nrow(squad_worlds_cat), .combine = c) %do%{
     strn <- squad_worlds_cat$cat[i]
     if(sum(str_detect(strn, positions))>0){
@@ -933,7 +869,7 @@ glicko_ets <- function(x, status = NULL,rdmax = 300, cval = 14, lambda = 1/20, b
   
   
   # Status
-  if(!exists("initval")) load("D:/Personal Statistics/rcb/Ranking/data/Extra/Init.rda")
+  if(!exists("initval")) load("R/Init.rda")
   if (!is.null(status)) {
     status$giocatore <- stringi::stri_trans_general(str_to_title(status$giocatore), "Latin-ASCII")
     npadd <- giocatori[!(giocatori %in% status$giocatore)]
@@ -1217,7 +1153,7 @@ glicko_ets <- function(x, status = NULL,rdmax = 300, cval = 14, lambda = 1/20, b
   
   
   # Adding italian part to the dataset
-  load("D:/Personal Statistics/rcb/Ranking/data/Extra/ita_players.rda")
+  load("data/Extra/ita_players.rda")
   itadfout <- dfout[dfout$giocatore %in% ita_players,]
   rownames(itadfout) <- NULL
   itahistry <- histry[rownames(histry) %in% ita_players,]
@@ -1407,7 +1343,7 @@ apply_pen <- function(dfout, time){
 
 ratingtable <- function(rat, lastT =NULL, minDev = NULL, topw = "Chiara Pernigo", nTournMin = 1, Inc = FALSE, prevrat = FALSE, peakElo = NULL){
   library(foreach)
-  elo_sesso <- read_excel("D:/Personal Statistics/rcb/Ranking/data/Extra/genere_elo_ir.xlsx") 
+  elo_sesso <- read_excel("data/Extra/genere_elo_ir.xlsx") 
   
   final_ita <- rat$ita$ratings
   # final_ita$Deviation <- update_devs(rat$ita,minTourn = 0)$`Today.s.Dev`
@@ -1465,9 +1401,9 @@ update_devs <- function(rat,cval = 16,minTourn = 2, time = weeks_passed(lubridat
 }
 
 new_ita_players <- function(names){
-  load("D:/Personal Statistics/rcb/Ranking/data/Extra/ita_players.rda")
+  load("data/Extra/ita_players.rda")
   ita_players <<- c(ita_players, names)
-  save(ita_players, file="D:/Personal Statistics/rcb/Ranking/data/Extra/ita_players.rda")
+  save(ita_players, file="data/Extra/ita_players.rda")
 }
 
 order_history <- function(rat){
@@ -1477,7 +1413,7 @@ order_history <- function(rat){
 
 improvements <- function(rat,prev.rat, sort = c("Gained","New"), it = FALSE){
   if(it){
-    elo_sesso <- read_excel("D:/Personal Statistics/rcb/Ranking/data/Extra/genere_elo_ir.xlsx")[,c(1,2)]
+    elo_sesso <- read_excel("data/Extra/genere_elo_ir.xlsx")[,c(1,2)]
     one_year_ago_week <- weeks_passed(year(today()), month(today()), day(today()))-52
     
     
@@ -1893,9 +1829,9 @@ glicko_graphs <- function(player, second.player = NULL, third.player = NULL, ...
   nn <- list(...)
   if("nom" %in% names(nn)) nom <- nn$nom else nom <-  .2 
   if("size" %in% names(nn)) size <- nn$size else size <-  1
-  if("arch" %in% names(nn)) arch <- nn$arch else load("D:/Personal Statistics/rcb/Ranking/data/Extra/Archive.rda")
+  if("arch" %in% names(nn)) arch <- nn$arch else readRDS("shiny/www/Archive.RDS")
   if("dft" %in% names(nn)) dft <- nn$dft else dft <- order_datasets()
-  if("eug" %in% names(nn)) eug <- nn$eug else load("D:/Personal Statistics/rcb/Ranking/data/Extra/EU_dataset.rda")
+  if("eug" %in% names(nn)) eug <- nn$eug else readRDS("shiny/www/EU_dataset.RDS")
   if("ratinghistr" %in% names(nn)) ratinghistr <- nn$ratinghistr else ratinghistr <-  rat_histr(order_datasets(), 0, arch = arch)
   
   
@@ -2022,30 +1958,7 @@ histry_merge <- function(list, giocatori){
   histry[,,"Rating"] = ifelse(is.na(histry[,,"Rating"]),1350.7654,histry[,,"Rating"])
   histry[,,"Win"] = ifelse(is.na(histry[,,"Win"]),0,histry[,,"Win"])
   histry[,,"Draw"] = ifelse(is.na(histry[,,"Draw"]),0,histry[,,"Draw"])
-  histry[,,"Loss"] = ifelse(is.na(histry[,,"Loss"]),0,histry[,,"Loss"])
-
-  # for(j in 2:(nt+1)){
-  #   histry[,j,6] <- paste0(as.numeric(histry[,j,3]) - as.numeric(histry[,j-1,3]), "-",
-  #                          as.numeric(histry[,j,4]) - as.numeric(histry[,j-1,4]), "-",
-  #                          as.numeric(histry[,j,5]) - as.numeric(histry[,j-1,5]))
-  #   histry[,j,6] <- ifelse( histry[,j,6] %in% c("NA-NA-NA", "0-0-0"), NA,  histry[,j,6])
-  # }
-
-  # histryfilt =
-  #   array(NA,
-  #         dim = c(length(playfilt),nt+1, 3),
-  #         dimnames = list(playfilt,1:(nt+1),
-  #                         c("Rating", "Deviation","Games")))
-  # 
-  # histryfilt[,,"Rating"] = histry[,,"Rating"][match(playfilt,rownames(histry[,,"Rating"])),]
-  # 
-  # histryfilt[,,"Deviation"] = histry[,,"Deviation"][match(playfilt,rownames(histry[,,"Deviation"])),]
-  # 
-  # histryfilt[,,"Games"] = histry[,,"Games"][match(playfilt,rownames(histry[,,"Games"])),]
-  # 
-  # 
-  # histryfilt[,,"Rating"] <- as.numeric(histryfilt[,,"Rating"])
-  
+  histry[,,"Loss"] = ifelse(is.na(histry[,,"Loss"]),0,histry[,,"Loss"])  
   return(histry)
   
 }
@@ -2111,7 +2024,7 @@ output_opprats <- function(x, status = NULL,rdmax = 200, cval = 14,ita = T, lamb
   x$Giocatore3 <- match(x$Giocatore3, giocatori)
   x$Giocatore4 <- match(x$Giocatore4, giocatori)
   
-  if(!exists("initval")) load("D:/Personal Statistics/rcb/Ranking/data/Extra/initval.rda")
+  if(!exists("initval")) load("R/initval.rda")
   
   
   if (!is.null(status)) {
@@ -2289,7 +2202,7 @@ make_groups <- function(mat, rat, ngroup = 2, pergroup = NULL, list = NULL, Adj 
 
 exportEU<- function(rat, nTournMin = 0, minGames = 0, lastT = 0){
   
-  NatData <- read_excel( "D:/Personal Statistics/rcb/Ranking/shiny/www/NatDatabase.xlsx")[, c("giocatore", "Sesso", "Nazione")]
+  NatData <- read_excel( "shiny/www/NatDatabase.xlsx")[, c("giocatore", "Sesso", "Nazione")]
   NatData$giocatore <- stringi::stri_trans_general(str_to_title(NatData$giocatore), "Latin-ASCII")
   
   rat <- subset(rat$ratings, nTourn >nTournMin &  Games > minGames & LastTourn > lastT) 
@@ -2334,7 +2247,7 @@ exportEU<- function(rat, nTournMin = 0, minGames = 0, lastT = 0){
       } else if (tolower(choice) == "e") {
         print(paste0("NA Player Left: ",sum(is.na(rat$Nazione)), sep = ""))
         NatDatabase <- rbind(rat[, c("giocatore", "Sesso",  "Nazione")],NatNA[, c("giocatore", "Sesso", "Nazione")])
-        write.xlsx(NatDatabase, file ="D:/Personal Statistics/rcb/Ranking/shiny/www/NatDatabase.xlsx",row.names = FALSE)
+        write.xlsx(NatDatabase, file ="shiny/www/NatDatabase.xlsx",row.names = FALSE)
         return(rat) 
       } else {
         cat("Invalid option. Please choose again.\n")
@@ -2344,7 +2257,7 @@ exportEU<- function(rat, nTournMin = 0, minGames = 0, lastT = 0){
   }
   
   NatDatabase <- rbind(rat[, c("giocatore", "Sesso",  "Nazione")],NatNA[, c("giocatore", "Sesso", "Nazione")])
-  write.xlsx(NatDatabase, file ="D:/Personal Statistics/rcb/Ranking/shiny/www/NatDatabase.xlsx")
+  write.xlsx(NatDatabase, file ="shiny/www/NatDatabase.xlsx")
   
   return(rat)
 }
@@ -2468,7 +2381,7 @@ glicko_keep <- function(rs, status = NULL, TourName = NULL, arch = arch, initval
   
   
   # Status
-  if(!exists("initval")) load("D:/Personal Statistics/rcb/Ranking/data/Extra//initval.rda")
+  if(!exists("initval")) load("R/initval.rda")
   if (!is.null(status)) {
     status$giocatore <- stringi::stri_trans_general(str_to_title(status$giocatore), "Latin-ASCII")
     npadd <- giocatori[!(giocatori %in% status$giocatore)]
@@ -3305,31 +3218,7 @@ order_datasets <- function(load = F){
   df$rbindStatus[df$tornei =="rsForli24WS"] <- "riwsrf"
   df$rbindStatus[df$tornei =="rsBucharest25E"] <- "sp"
   df$rbindStatus[df$tornei =="rsMontpellier23M"] <- "cm"
-  
-  # df$byrow[df$tornei == "rsSelez23Bz"]   <- "all"
-  # df$byrow[df$tornei == "rsBologna23W"]  <- "Women's Intermediate"
-  # df$byrow[df$tornei == "rsSelez24Bo"]   <- "all"
-  # df$byrow[df$tornei == "rsBologna24WS"] <- "all"
-  # df$byrow[df$tornei == "rsForli24WS"]   <- "all"
-  # df$byrow[df$tornei == "rsPadova24WS"]  <- "all"
-  # df$byrow[df$tornei == "rsBundes24M5"]  <- "all"
-  # df$byrow[df$tornei == "rsBundes24F6"]  <- "all"
-  # df$byrow[df$tornei == "rsPadova25S"]   <- "Women's Advanced"
-  # df$byrow[df$tornei == "rsMilano25"]    <- "Women's Intermediate"
-  # df$byrow[df$tornei == "rsEuropei25"]  <- "all"
-  # 
-  # 
-  # 
-  # df$cat_to_unite[df$tornei == "rsNoorderkempen23W"] <- "Intermediate German -> Open"
-  # df$cat_to_unite[df$tornei == "rsBrusselsFox24"]   <- "Open Intermediate -> Open"
-  # df$cat_to_unite[df$tornei == "rsNantes24N"]  <- "Open Intermediate -> Open"
-  # df$cat_to_unite[df$tornei == "rsMulviertel23"]  <- "Open Intermediate -> Open"
-  # df$cat_to_unite[df$tornei == "rsBrusselsWolf24"]  <- "Open Intermediate -> Open"
-  # df$cat_to_unite[df$tornei == "rsGranada25"]  <- "Women's Advanced -> Women's Intermediate"
-  # df$cat_to_unite[df$tornei == "rsBologna25"]  <- "Gardens -> Open"
-  # df$cat_to_unite[df$tornei == "rsMadrid25"]  <- "Women's Contender -> Women's Intermediate"
-
-  
+    
   df$Status = lag(df$tornei)
               
   # df$Status[1] <- NULL.ch
@@ -3360,7 +3249,7 @@ order_datasets <- function(load = F){
     date_from_weeks(unique(get(str_replace(ds, "rs", "")[1])$Time))
   ))
   
-  param <- readRDS("D:/Personal Statistics/rcb/Ranking/shiny/www/DataBaseOutput.RDS")
+  param <- readRDS("shiny/www/DataBaseOutput.RDS")
   df$param <- param$param[match(df$tornei, param$tornei)]
   
   
@@ -3443,7 +3332,7 @@ glicko_percentages <- function(rs, status = NULL, perch = perch,initval = initva
   x$Giocatore4 <- match(x$Giocatore4, giocatori)
   
   # Status
-  if(!exists("initval")) load("D:/Personal Statistics/rcb/Ranking/data/Extra/initval.rda")
+  if(!exists("initval")) load("R/initval.rda")
   if (!is.null(status)) {
     status$giocatore <- stringi::stri_trans_general(str_to_title(status$giocatore), "Latin-ASCII")
     npadd <- giocatori[!(giocatori %in% status$giocatore)]
