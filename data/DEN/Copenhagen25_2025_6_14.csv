@@ -1,0 +1,52 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Game 4 - Score team A,Game 4 - Score team B,Game 5 - Score team A,Game 5 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 5,CB/Aske,Tømmermænd i Copen,CB/Aske,15,6,15,4,1,0,,,,,Christian Brødsgaard,Aske Hammar,Mads Overgaard Jensen,Magnus Selmer
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 5,Spildt mælk,Spikelæg,Spildt mælk,15,11,15,13,1,0,,,,,Asbjørn Ditlev,Jakob Blaaholm Nielsen,Jonas Jensen,Jonatan Hauge Steffensen
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Duracell Defense,Spildt mælk,Duracell Defense,14,16,15,9,15,10,,,,,Mathias Linnet,Jeppe Norlyk Hansen,Asbjørn Ditlev,Jakob Blaaholm Nielsen
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Too Tall for Contender,CB/Aske,Too Tall for Contender,15,13,15,11,,,,,,,Hjalte Knudsen,Søren Høy,Christian Brødsgaard,Aske Hammar
+Bracket Stage,Open,Bracket A,Winners final,Best of 3,Duracell Defense,Too Tall for Contender,Too Tall for Contender,18,21,18,21,,,,,,,Mathias Linnet,Jeppe Norlyk Hansen,Hjalte Knudsen,Søren Høy
+Bracket Stage,Open,Bracket A,Final,Single game,Too Tall for Contender,CB/Aske,Too Tall for Contender,2,0,,,,,,,,,Hjalte Knudsen,Søren Høy,Christian Brødsgaard,Aske Hammar
+Bracket Stage,Open,Bracket A,Losers SF,Single game,CB/Aske,Spikelæg,CB/Aske,21,9,,,,,,,,,Christian Brødsgaard,Aske Hammar,Jonas Jensen,Jonatan Hauge Steffensen
+Bracket Stage,Open,Bracket A,Losers SF,Single game,Spildt mælk,Tømmermænd i Copen,Spildt mælk,21,10,,,,,,,,,Asbjørn Ditlev,Jakob Blaaholm Nielsen,Mads Overgaard Jensen,Magnus Selmer
+Bracket Stage,Open,Bracket A,Losers Minor Final,Single game,CB/Aske,Spildt mælk,CB/Aske,21,13,,,,,,,,,Christian Brødsgaard,Aske Hammar,Asbjørn Ditlev,Jakob Blaaholm Nielsen
+Bracket Stage,Open,Bracket A,Losers Final,Single game,Duracell Defense,CB/Aske,CB/Aske,19,21,,,,,,,,,Mathias Linnet,Jeppe Norlyk Hansen,Christian Brødsgaard,Aske Hammar
+Bracket Stage,Open,Bracket A,P5: Final,Single game,Spikelæg,Tømmermænd i Copen,Spikelæg,21,18,,,,,,,,,Jonas Jensen,Jonatan Hauge Steffensen,Mads Overgaard Jensen,Magnus Selmer
+Bracket Stage,Open,Bracket B,Semi-final,Best of 3,Die Dänen,Spikenado,Die Dänen,15,11,15,8,,,,,,,Korbi Schelzig,Magnus Bredvig,Michael Halsted,Simon Larsen
+Bracket Stage,Open,Bracket B,Semi-final,Best of 3,Lyngbye Brothers,Einspannier - Špalj,Lyngbye Brothers,15,8,16,14,,,,,,,Erik Lyngbye,David Lyngbye,Lasse Einspannier,RandomDEN Guy
+Bracket Stage,Open,Bracket B,Winners final,Best of 3,Die Dänen,Lyngbye Brothers,Lyngbye Brothers,15,10,13,15,12,15,,,,,Korbi Schelzig,Magnus Bredvig,Erik Lyngbye,David Lyngbye
+Bracket Stage,Open,Bracket B,Final,Best of 3,Lyngbye Brothers,Die Dänen,Lyngbye Brothers,15,13,17,15,,,,,,,Erik Lyngbye,David Lyngbye,Korbi Schelzig,Magnus Bredvig
+Bracket Stage,Open,Bracket B,Losers Minor Final,Single game,Einspannier - Špalj,Spikenado,Einspannier - Špalj,15,8,,,,,,,,,Lasse Einspannier,RandomDEN Guy,Michael Halsted,Simon Larsen
+Bracket Stage,Open,Bracket B,Losers Final,Single game,Die Dänen,Einspannier - Špalj,Die Dänen,2,0,,,,,,,,,Korbi Schelzig,Magnus Bredvig,Lasse Einspannier,RandomDEN Guy
+Group Stage,Women's Intermediate,Group A,1,Single game,⚠️ 220 Energy,Team SPARK,⚠️ 220 Energy,21,13,,,,,,,,,Sabina Labonc,Beatrice Tărășilă,Ida Bjerregård,Paula Peñalver Sebastián
+Group Stage,Women's Intermediate,Group A,1,Single game,Øst & Vest,Team Fynnergy,Øst & Vest,21,13,,,,,,,,,Maja Nielsen,Liv Sepstrup,Julie Fjordhave Frederiksen,Sandra Sejersen
+Group Stage,Women's Intermediate,Group A,1,Single game,Flow Energy ⚡,FLISP,Flow Energy ⚡,21,13,,,,,,,,,Alina Pîrlea,Nicoleta Toporas,Ditte Møller Gregersen,Filippa L
+Group Stage,Women's Intermediate,Group A,2,Single game,⚠️ 220 Energy,Team Fynnergy,⚠️ 220 Energy,21,13,,,,,,,,,Sabina Labonc,Beatrice Tărășilă,Julie Fjordhave Frederiksen,Sandra Sejersen
+Group Stage,Women's Intermediate,Group A,2,Single game,Øst & Vest,All offence,Øst & Vest,21,14,,,,,,,,,Maja Nielsen,Liv Sepstrup,Mie Korsholt,Minna Chang Hansen
+Group Stage,Women's Intermediate,Group A,2,Single game,FLISP,Team SPARK,FLISP,21,13,,,,,,,,,Ditte Møller Gregersen,Filippa L,Ida Bjerregård,Paula Peñalver Sebastián
+Group Stage,Women's Intermediate,Group A,3,Single game,⚠️ 220 Energy,FLISP,FLISP,20,22,,,,,,,,,Sabina Labonc,Beatrice Tărășilă,Ditte Møller Gregersen,Filippa L
+Group Stage,Women's Intermediate,Group A,3,Single game,Øst & Vest,Flow Energy ⚡,Flow Energy ⚡,24,25,,,,,,,,,Maja Nielsen,Liv Sepstrup,Alina Pîrlea,Nicoleta Toporas
+Group Stage,Women's Intermediate,Group A,3,Single game,All offence,Team Fynnergy,All offence,21,15,,,,,,,,,Mie Korsholt,Minna Chang Hansen,Julie Fjordhave Frederiksen,Sandra Sejersen
+Group Stage,Women's Intermediate,Group A,4,Single game,⚠️ 220 Energy,All offence,⚠️ 220 Energy,21,15,,,,,,,,,Sabina Labonc,Beatrice Tărășilă,Mie Korsholt,Minna Chang Hansen
+Group Stage,Women's Intermediate,Group A,4,Single game,Øst & Vest,Team SPARK,Øst & Vest,21,13,,,,,,,,,Maja Nielsen,Liv Sepstrup,Ida Bjerregård,Paula Peñalver Sebastián
+Group Stage,Women's Intermediate,Group A,4,Single game,Flow Energy ⚡,Team Fynnergy,Flow Energy ⚡,21,13,,,,,,,,,Alina Pîrlea,Nicoleta Toporas,Julie Fjordhave Frederiksen,Sandra Sejersen
+Group Stage,Women's Intermediate,Group A,5,Single game,Øst & Vest,FLISP,FLISP,14,21,,,,,,,,,Maja Nielsen,Liv Sepstrup,Ditte Møller Gregersen,Filippa L
+Group Stage,Women's Intermediate,Group A,5,Single game,Flow Energy ⚡,All offence,Flow Energy ⚡,21,16,,,,,,,,,Alina Pîrlea,Nicoleta Toporas,Mie Korsholt,Minna Chang Hansen
+Group Stage,Women's Intermediate,Group A,5,Single game,Team Fynnergy,Team SPARK,Team Fynnergy,21,13,,,,,,,,,Julie Fjordhave Frederiksen,Sandra Sejersen,Ida Bjerregård,Paula Peñalver Sebastián
+Group Stage,Women's Intermediate,Group A,6,Single game,⚠️ 220 Energy,Flow Energy ⚡,⚠️ 220 Energy,21,19,,,,,,,,,Sabina Labonc,Beatrice Tărășilă,Alina Pîrlea,Nicoleta Toporas
+Group Stage,Women's Intermediate,Group A,6,Single game,All offence,Team SPARK,All offence,21,14,,,,,,,,,Mie Korsholt,Minna Chang Hansen,Ida Bjerregård,Paula Peñalver Sebastián
+Group Stage,Women's Intermediate,Group A,6,Single game,FLISP,Team Fynnergy,FLISP,21,13,,,,,,,,,Ditte Møller Gregersen,Filippa L,Julie Fjordhave Frederiksen,Sandra Sejersen
+Group Stage,Women's Intermediate,Group A,7,Single game,⚠️ 220 Energy,Øst & Vest,Øst & Vest,18,21,,,,,,,,,Sabina Labonc,Beatrice Tărășilă,Maja Nielsen,Liv Sepstrup
+Group Stage,Women's Intermediate,Group A,7,Single game,Flow Energy ⚡,Team SPARK,Flow Energy ⚡,21,13,,,,,,,,,Alina Pîrlea,Nicoleta Toporas,Ida Bjerregård,Paula Peñalver Sebastián
+Group Stage,Women's Intermediate,Group A,7,Single game,All offence,FLISP,FLISP,13,21,,,,,,,,,Mie Korsholt,Minna Chang Hansen,Ditte Møller Gregersen,Filippa L
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,FLISP,Team SPARK,FLISP,15,5,15,1,,,,,,,Ditte Møller Gregersen,Filippa L,Ida Bjerregård,Paula Peñalver Sebastián
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,⚠️ 220 Energy,Team Fynnergy,⚠️ 220 Energy,15,12,15,11,,,,,,,Sabina Labonc,Beatrice Tărășilă,Julie Fjordhave Frederiksen,Sandra Sejersen
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Øst & Vest,All offence,All offence,15,8,13,15,14,16,,,,,Maja Nielsen,Liv Sepstrup,Mie Korsholt,Minna Chang Hansen
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Flow Energy ⚡,All offence,Flow Energy ⚡,15,12,15,9,,,,,,,Alina Pîrlea,Nicoleta Toporas,Mie Korsholt,Minna Chang Hansen
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,FLISP,⚠️ 220 Energy,⚠️ 220 Energy,12,15,13,15,,,,,,,Ditte Møller Gregersen,Filippa L,Sabina Labonc,Beatrice Tărășilă
+Bracket Stage,Women's Intermediate,Bracket A,Winners final,Best of 3,Flow Energy ⚡,⚠️ 220 Energy,⚠️ 220 Energy,13,15,15,8,13,15,,,,,Alina Pîrlea,Nicoleta Toporas,Sabina Labonc,Beatrice Tărășilă
+Bracket Stage,Women's Intermediate,Bracket A,Final,Best of 3,⚠️ 220 Energy,FLISP,⚠️ 220 Energy,21,13,21,13,,,,,,,Sabina Labonc,Beatrice Tărășilă,Ditte Møller Gregersen,Filippa L
+Bracket Stage,Women's Intermediate,Bracket A,Losers Minor SF,Single game,Team Fynnergy,Team SPARK,Team Fynnergy,15,6,,,,,,,,,Julie Fjordhave Frederiksen,Sandra Sejersen,Ida Bjerregård,Paula Peñalver Sebastián
+Bracket Stage,Women's Intermediate,Bracket A,Losers SF,Single game,FLISP,Øst & Vest,FLISP,21,14,,,,,,,,,Ditte Møller Gregersen,Filippa L,Maja Nielsen,Liv Sepstrup
+Bracket Stage,Women's Intermediate,Bracket A,Losers SF,Single game,All offence,Team Fynnergy,All offence,21,16,,,,,,,,,Mie Korsholt,Minna Chang Hansen,Julie Fjordhave Frederiksen,Sandra Sejersen
+Bracket Stage,Women's Intermediate,Bracket A,Losers Minor Final,Single game,FLISP,All offence,FLISP,22,20,,,,,,,,,Ditte Møller Gregersen,Filippa L,Mie Korsholt,Minna Chang Hansen
+Bracket Stage,Women's Intermediate,Bracket A,Losers Final,Single game,Flow Energy ⚡,FLISP,FLISP,19,21,,,,,,,,,Alina Pîrlea,Nicoleta Toporas,Ditte Møller Gregersen,Filippa L
+Bracket Stage,Women's Intermediate,Bracket A,P5: Final,Single game,Øst & Vest,Team Fynnergy,Team Fynnergy,0,1,,,,,,,,,Maja Nielsen,Liv Sepstrup,Julie Fjordhave Frederiksen,Sandra Sejersen

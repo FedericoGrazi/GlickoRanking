@@ -1,0 +1,116 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Women's Pro,Group W,1,Single game,Patel/Foster,Last Minute,Patel/Foster,21,8,,,,,Shachi Patel,Allie Foster,Sophia Peach,Mary Buys
+Pool Play,Women's Pro,Group W,1,Single game,Royalty,Goofy Goobers,Royalty,21,10,,,,,Katie Pierson,Laurence Vallée,Alyssa Drain,Katheleen Phan
+Pool Play,Women's Pro,Group W,1,Single game,angst,Liz and Lourna,angst,21,6,,,,,Kalin Morgan,Sarah Allen,Lourna Szabanos,Elizabeth Wiecek
+Pool Play,Women's Pro,Group W,2,Single game,Patel/Foster,Goofy Goobers,Patel/Foster,21,10,,,,,Shachi Patel,Allie Foster,Alyssa Drain,Katheleen Phan
+Pool Play,Women's Pro,Group W,2,Single game,Royalty,angst,Royalty,21,12,,,,,Katie Pierson,Laurence Vallée,Kalin Morgan,Sarah Allen
+Pool Play,Women's Pro,Group W,2,Single game,Liz and Lourna,Last Minute,Liz and Lourna,21,10,,,,,Lourna Szabanos,Elizabeth Wiecek,Sophia Peach,Mary Buys
+Pool Play,Women's Pro,Group W,3,Single game,Patel/Foster,Liz and Lourna,Patel/Foster,21,9,,,,,Shachi Patel,Allie Foster,Lourna Szabanos,Elizabeth Wiecek
+Pool Play,Women's Pro,Group W,3,Single game,Royalty,Last Minute,Royalty,21,6,,,,,Katie Pierson,Laurence Vallée,Sophia Peach,Mary Buys
+Pool Play,Women's Pro,Group W,3,Single game,angst,Goofy Goobers,angst,21,9,,,,,Kalin Morgan,Sarah Allen,Alyssa Drain,Katheleen Phan
+Pool Play,Women's Pro,Group W,4,Single game,Patel/Foster,angst,angst,20,22,,,,,Shachi Patel,Allie Foster,Kalin Morgan,Sarah Allen
+Pool Play,Women's Pro,Group W,4,Single game,Royalty,Liz and Lourna,Royalty,21,4,,,,,Katie Pierson,Laurence Vallée,Lourna Szabanos,Elizabeth Wiecek
+Pool Play,Women's Pro,Group W,4,Single game,Goofy Goobers,Last Minute,Goofy Goobers,21,10,,,,,Alyssa Drain,Katheleen Phan,Sophia Peach,Mary Buys
+Pool Play,Women's Pro,Group W,5,Single game,Patel/Foster,Royalty,Royalty,18,21,,,,,Shachi Patel,Allie Foster,Katie Pierson,Laurence Vallée
+Pool Play,Women's Pro,Group W,5,Single game,angst,Last Minute,angst,21,6,,,,,Kalin Morgan,Sarah Allen,Sophia Peach,Mary Buys
+Pool Play,Women's Pro,Group W,5,Single game,Liz and Lourna,Goofy Goobers,Liz and Lourna,21,19,,,,,Lourna Szabanos,Elizabeth Wiecek,Alyssa Drain,Katheleen Phan
+Bracket Stage,Women's Pro,Bracket A,Quarter-final,Best of 3,Patel/Foster,Last Minute,Patel/Foster,21,9,21,8,,,Shachi Patel,Allie Foster,Sophia Peach,Mary Buys
+Bracket Stage,Women's Pro,Bracket A,Quarter-final,Best of 3,Liz and Lourna,Goofy Goobers,Goofy Goobers,16,21,11,21,,,Lourna Szabanos,Elizabeth Wiecek,Alyssa Drain,Katheleen Phan
+Bracket Stage,Women's Pro,Bracket A,Semi-final,Best of 3,Royalty,Goofy Goobers,Royalty,21,4,21,18,,,Katie Pierson,Laurence Vallée,Alyssa Drain,Katheleen Phan
+Bracket Stage,Women's Pro,Bracket A,Semi-final,Best of 3,angst,Patel/Foster,angst,21,19,21,16,,,Kalin Morgan,Sarah Allen,Shachi Patel,Allie Foster
+Bracket Stage,Women's Pro,Bracket A,Winners final,Best of 3,Royalty,angst,Royalty,21,19,21,13,,,Katie Pierson,Laurence Vallée,Kalin Morgan,Sarah Allen
+Bracket Stage,Women's Pro,Bracket A,Losers SF,Best of 3,Patel/Foster,Liz and Lourna,Patel/Foster,21,7,21,5,,,Shachi Patel,Allie Foster,Lourna Szabanos,Elizabeth Wiecek
+Bracket Stage,Women's Pro,Bracket A,Losers SF,Best of 3,Goofy Goobers,Last Minute,Goofy Goobers,21,16,1,0,,,Alyssa Drain,Katheleen Phan,Sophia Peach,Mary Buys
+Bracket Stage,Women's Pro,Bracket A,Losers Minor Final,Best of 3,Patel/Foster,Goofy Goobers,Patel/Foster,21,9,21,10,,,Shachi Patel,Allie Foster,Alyssa Drain,Katheleen Phan
+Bracket Stage,Women's Pro,Bracket A,P5: Final,Best of 3,Liz and Lourna,Last Minute,Liz and Lourna,21,15,21,15,,,Lourna Szabanos,Elizabeth Wiecek,Sophia Peach,Mary Buys
+Pool Play,Pro German,Group 5.0 A,1,Single game,TRP Spotless,CNU Mustard Packets,TRP Spotless,21,12,,,,,Ryan Gross,Joe Bondi,Calvin Smith,Luke Repass
+Pool Play,Pro German,Group 5.0 A,1,Single game,Jersey Boyz,GwR Night nighT,Jersey Boyz,21,16,,,,,Corey Weiss,Matt Spolarich,Albert Tong,Brian Perlson
+Pool Play,Pro German,Group 5.0 B,1,Single game,TRP Volley Dawgs,Slapped,TRP Volley Dawgs,21,13,,,,,Will Picone,Noah Luskus,Sam Mccune,Joel Lapp
+Pool Play,Pro German,Group 5.0 B,1,Single game,Project Roundnet,Easily Trafficked,Project Roundnet,21,16,,,,,Samuel Corey,Josh Esposo,Nicolas Yabar,Ezra Dantowitz
+Pool Play,Pro German,Group 5.0 C,1,Single game,BD Energy,The Whole Bag,BD Energy,21,9,,,,,Dawson Morgan,Brendan Ferreira,Josef Bekiranov,Josh Hutko
+Pool Play,Pro German,Group 5.0 C,1,Single game,Autonomous,PBR Mikey & Mackey,Autonomous,21,15,,,,,Tyler Fernandez,Chase Meyer,Aidan Mackey,Michael Capobianco
+Pool Play,Pro German,Group 5.0 D,1,Single game,Bot House,Nittany Nation,Bot House,21,12,,,,,Owen Lippman,West Peterson,Tyler Keener,Henry Pleszkoch
+Pool Play,Pro German,Group 5.0 D,1,Single game,Boat Carriers,Martin/Garrett,Boat Carriers,21,16,,,,,Matthew Burrows,Brayden Latham,Mike Garrett,A.j. Martin
+Pool Play,Pro German,Group 5.0 D,1,Single game,VBR CeeDeez 💿,PBR Jared Almon,PBR Jared Almon,22,24,,,,,Andrew Gunter,James Mitchum,Liam Sherron,Jacob Arzaga
+Pool Play,Pro German,Group 5.0 E,1,Single game,Profit Boost,LL Unfinished Business,Profit Boost,21,12,,,,,Kieran Rose,Justin Shaytar,Josh DiDonato,Ryan Paul
+Pool Play,Pro German,Group 5.0 E,1,Single game,Frag/Cummings,Tazzmires,Frag/Cummings,21,14,,,,,Caleb Cummings,Josh Fragiacomo,Connor Reid,Dylan Rourke
+Pool Play,Pro German,Group 5.0 E,1,Single game,Eternal Atake,Limitless Faith,Eternal Atake,21,16,,,,,Reid Lampert,Kurt Lannetti,Ethan Domster,Andrew Raber
+Pool Play,Pro German,Group 5.0 A,2,Single game,TRP Spotless,GwR Night nighT,TRP Spotless,21,9,,,,,Ryan Gross,Joe Bondi,Albert Tong,Brian Perlson
+Pool Play,Pro German,Group 5.0 A,2,Single game,Chandler is my handler,CNU Mustard Packets,CNU Mustard Packets,23,25,,,,,Chandler Hertzler,Garrett Carver,Calvin Smith,Luke Repass
+Pool Play,Pro German,Group 5.0 B,2,Single game,TRP Volley Dawgs,Easily Trafficked,TRP Volley Dawgs,21,10,,,,,Will Picone,Noah Luskus,Nicolas Yabar,Ezra Dantowitz
+Pool Play,Pro German,Group 5.0 B,2,Single game,Shorter & Taller,Slapped,Shorter & Taller,21,13,,,,,Andrew Sullivan,Caleb Shorter,Sam Mccune,Joel Lapp
+Pool Play,Pro German,Group 5.0 C,2,Single game,BD Energy,PBR Mikey & Mackey,BD Energy,21,14,,,,,Dawson Morgan,Brendan Ferreira,Aidan Mackey,Michael Capobianco
+Pool Play,Pro German,Group 5.0 C,2,Single game,DUN,The Whole Bag,DUN,21,15,,,,,Demitri Forand,Henry Pilliod,Josef Bekiranov,Josh Hutko
+Pool Play,Pro German,Group 5.0 D,2,Single game,Bot House,Martin/Garrett,Bot House,21,15,,,,,Owen Lippman,West Peterson,Mike Garrett,A.j. Martin
+Pool Play,Pro German,Group 5.0 D,2,Single game,Boat Carriers,VBR CeeDeez 💿,Boat Carriers,21,18,,,,,Matthew Burrows,Brayden Latham,Andrew Gunter,James Mitchum
+Pool Play,Pro German,Group 5.0 D,2,Single game,PBR Jared Almon,Nittany Nation,PBR Jared Almon,21,18,,,,,Liam Sherron,Jacob Arzaga,Tyler Keener,Henry Pleszkoch
+Pool Play,Pro German,Group 5.0 E,2,Single game,Profit Boost,Tazzmires,Profit Boost,21,8,,,,,Kieran Rose,Justin Shaytar,Connor Reid,Dylan Rourke
+Pool Play,Pro German,Group 5.0 E,2,Single game,Frag/Cummings,Eternal Atake,Eternal Atake,17,21,,,,,Caleb Cummings,Josh Fragiacomo,Reid Lampert,Kurt Lannetti
+Pool Play,Pro German,Group 5.0 E,2,Single game,Limitless Faith,LL Unfinished Business,Limitless Faith,21,17,,,,,Ethan Domster,Andrew Raber,Josh DiDonato,Ryan Paul
+Pool Play,Pro German,Group 5.0 A,3,Single game,TRP Spotless,Chandler is my handler,TRP Spotless,21,12,,,,,Ryan Gross,Joe Bondi,Chandler Hertzler,Garrett Carver
+Pool Play,Pro German,Group 5.0 A,3,Single game,Jersey Boyz,CNU Mustard Packets,Jersey Boyz,21,17,,,,,Corey Weiss,Matt Spolarich,Calvin Smith,Luke Repass
+Pool Play,Pro German,Group 5.0 B,3,Single game,TRP Volley Dawgs,Shorter & Taller,TRP Volley Dawgs,21,13,,,,,Will Picone,Noah Luskus,Andrew Sullivan,Caleb Shorter
+Pool Play,Pro German,Group 5.0 B,3,Single game,Project Roundnet,Slapped,Project Roundnet,21,19,,,,,Samuel Corey,Josh Esposo,Sam Mccune,Joel Lapp
+Pool Play,Pro German,Group 5.0 C,3,Single game,BD Energy,DUN,DUN,20,22,,,,,Dawson Morgan,Brendan Ferreira,Demitri Forand,Henry Pilliod
+Pool Play,Pro German,Group 5.0 C,3,Single game,Autonomous,The Whole Bag,Autonomous,21,16,,,,,Tyler Fernandez,Chase Meyer,Josef Bekiranov,Josh Hutko
+Pool Play,Pro German,Group 5.0 D,3,Single game,Bot House,PBR Jared Almon,Bot House,21,13,,,,,Owen Lippman,West Peterson,Liam Sherron,Jacob Arzaga
+Pool Play,Pro German,Group 5.0 D,3,Single game,Boat Carriers,Nittany Nation,Boat Carriers,21,16,,,,,Matthew Burrows,Brayden Latham,Tyler Keener,Henry Pleszkoch
+Pool Play,Pro German,Group 5.0 D,3,Single game,VBR CeeDeez 💿,Martin/Garrett,VBR CeeDeez 💿,21,16,,,,,Andrew Gunter,James Mitchum,Mike Garrett,A.j. Martin
+Pool Play,Pro German,Group 5.0 E,3,Single game,Profit Boost,Limitless Faith,Profit Boost,25,24,,,,,Kieran Rose,Justin Shaytar,Ethan Domster,Andrew Raber
+Pool Play,Pro German,Group 5.0 E,3,Single game,Frag/Cummings,LL Unfinished Business,Frag/Cummings,21,10,,,,,Caleb Cummings,Josh Fragiacomo,Josh DiDonato,Ryan Paul
+Pool Play,Pro German,Group 5.0 E,3,Single game,Eternal Atake,Tazzmires,Eternal Atake,21,12,,,,,Reid Lampert,Kurt Lannetti,Connor Reid,Dylan Rourke
+Pool Play,Pro German,Group 5.0 A,4,Single game,Jersey Boyz,Chandler is my handler,Jersey Boyz,25,24,,,,,Corey Weiss,Matt Spolarich,Chandler Hertzler,Garrett Carver
+Pool Play,Pro German,Group 5.0 A,4,Single game,GwR Night nighT,CNU Mustard Packets,GwR Night nighT,21,15,,,,,Albert Tong,Brian Perlson,Calvin Smith,Luke Repass
+Pool Play,Pro German,Group 5.0 B,4,Single game,Project Roundnet,Shorter & Taller,Shorter & Taller,17,21,,,,,Samuel Corey,Josh Esposo,Andrew Sullivan,Caleb Shorter
+Pool Play,Pro German,Group 5.0 B,4,Single game,Easily Trafficked,Slapped,Slapped,13,21,,,,,Nicolas Yabar,Ezra Dantowitz,Sam Mccune,Joel Lapp
+Pool Play,Pro German,Group 5.0 C,4,Single game,Autonomous,DUN,DUN,20,22,,,,,Tyler Fernandez,Chase Meyer,Demitri Forand,Henry Pilliod
+Pool Play,Pro German,Group 5.0 C,4,Single game,PBR Mikey & Mackey,The Whole Bag,PBR Mikey & Mackey,21,13,,,,,Aidan Mackey,Michael Capobianco,Josef Bekiranov,Josh Hutko
+Pool Play,Pro German,Group 5.0 D,4,Single game,Bot House,VBR CeeDeez 💿,Bot House,21,11,,,,,Owen Lippman,West Peterson,Andrew Gunter,James Mitchum
+Pool Play,Pro German,Group 5.0 D,4,Single game,Boat Carriers,PBR Jared Almon,Boat Carriers,21,11,,,,,Matthew Burrows,Brayden Latham,Liam Sherron,Jacob Arzaga
+Pool Play,Pro German,Group 5.0 D,4,Single game,Martin/Garrett,Nittany Nation,Nittany Nation,19,21,,,,,Mike Garrett,A.j. Martin,Tyler Keener,Henry Pleszkoch
+Pool Play,Pro German,Group 5.0 E,4,Single game,Profit Boost,Eternal Atake,Profit Boost,21,17,,,,,Kieran Rose,Justin Shaytar,Reid Lampert,Kurt Lannetti
+Pool Play,Pro German,Group 5.0 E,4,Single game,Frag/Cummings,Limitless Faith,Frag/Cummings,21,11,,,,,Caleb Cummings,Josh Fragiacomo,Ethan Domster,Andrew Raber
+Pool Play,Pro German,Group 5.0 E,4,Single game,Tazzmires,LL Unfinished Business,LL Unfinished Business,17,21,,,,,Connor Reid,Dylan Rourke,Josh DiDonato,Ryan Paul
+Pool Play,Pro German,Group 5.0 A,5,Single game,TRP Spotless,Jersey Boyz,TRP Spotless,21,6,,,,,Ryan Gross,Joe Bondi,Corey Weiss,Matt Spolarich
+Pool Play,Pro German,Group 5.0 A,5,Single game,Chandler is my handler,GwR Night nighT,Chandler is my handler,21,14,,,,,Chandler Hertzler,Garrett Carver,Albert Tong,Brian Perlson
+Pool Play,Pro German,Group 5.0 B,5,Single game,TRP Volley Dawgs,Project Roundnet,TRP Volley Dawgs,21,19,,,,,Will Picone,Noah Luskus,Samuel Corey,Josh Esposo
+Pool Play,Pro German,Group 5.0 B,5,Single game,Shorter & Taller,Easily Trafficked,Shorter & Taller,21,16,,,,,Andrew Sullivan,Caleb Shorter,Nicolas Yabar,Ezra Dantowitz
+Pool Play,Pro German,Group 5.0 C,5,Single game,BD Energy,Autonomous,BD Energy,21,19,,,,,Dawson Morgan,Brendan Ferreira,Tyler Fernandez,Chase Meyer
+Pool Play,Pro German,Group 5.0 C,5,Single game,DUN,PBR Mikey & Mackey,DUN,21,15,,,,,Demitri Forand,Henry Pilliod,Aidan Mackey,Michael Capobianco
+Pool Play,Pro German,Group 5.0 D,5,Single game,Bot House,Boat Carriers,Bot House,21,15,,,,,Owen Lippman,West Peterson,Matthew Burrows,Brayden Latham
+Pool Play,Pro German,Group 5.0 D,5,Single game,VBR CeeDeez 💿,Nittany Nation,Nittany Nation,17,21,,,,,Andrew Gunter,James Mitchum,Tyler Keener,Henry Pleszkoch
+Pool Play,Pro German,Group 5.0 D,5,Single game,PBR Jared Almon,Martin/Garrett,Martin/Garrett,15,21,,,,,Liam Sherron,Jacob Arzaga,Mike Garrett,A.j. Martin
+Pool Play,Pro German,Group 5.0 E,5,Single game,Profit Boost,Frag/Cummings,Profit Boost,21,15,,,,,Kieran Rose,Justin Shaytar,Caleb Cummings,Josh Fragiacomo
+Pool Play,Pro German,Group 5.0 E,5,Single game,Eternal Atake,LL Unfinished Business,Eternal Atake,21,17,,,,,Reid Lampert,Kurt Lannetti,Josh DiDonato,Ryan Paul
+Pool Play,Pro German,Group 5.0 E,5,Single game,Limitless Faith,Tazzmires,Limitless Faith,21,17,,,,,Ethan Domster,Andrew Raber,Connor Reid,Dylan Rourke
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,BD Energy,Tazzmires,BD Energy,21,11,21,18,,,Dawson Morgan,Brendan Ferreira,Connor Reid,Dylan Rourke
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Eternal Atake,The Whole Bag,Eternal Atake,21,14,21,15,,,Reid Lampert,Kurt Lannetti,Josef Bekiranov,Josh Hutko
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Boat Carriers,Easily Trafficked,Boat Carriers,21,13,21,17,,,Matthew Burrows,Brayden Latham,Nicolas Yabar,Ezra Dantowitz
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Shorter & Taller,LL Unfinished Business,Shorter & Taller,21,16,21,9,,,Andrew Sullivan,Caleb Shorter,Josh DiDonato,Ryan Paul
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Jersey Boyz,Martin/Garrett,Jersey Boyz,21,17,21,19,,,Corey Weiss,Matt Spolarich,Mike Garrett,A.j. Martin
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Frag/Cummings,VBR CeeDeez 💿,Frag/Cummings,21,16,21,17,,,Caleb Cummings,Josh Fragiacomo,Andrew Gunter,James Mitchum
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Autonomous,CNU Mustard Packets,Autonomous,21,14,21,14,,,Tyler Fernandez,Chase Meyer,Calvin Smith,Luke Repass
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Project Roundnet,GwR Night nighT,Project Roundnet,19,21,21,17,21,10,Samuel Corey,Josh Esposo,Albert Tong,Brian Perlson
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Chandler is my handler,PBR Jared Almon,Chandler is my handler,15,21,21,16,23,21,Chandler Hertzler,Garrett Carver,Liam Sherron,Jacob Arzaga
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Limitless Faith,PBR Mikey & Mackey,PBR Mikey & Mackey,19,21,17,21,,,Ethan Domster,Andrew Raber,Aidan Mackey,Michael Capobianco
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Nittany Nation,Slapped,Slapped,22,24,21,18,18,21,Tyler Keener,Henry Pleszkoch,Sam Mccune,Joel Lapp
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,TRP Spotless,Slapped,TRP Spotless,21,12,21,12,,,Ryan Gross,Joe Bondi,Sam Mccune,Joel Lapp
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,Bot House,PBR Mikey & Mackey,Bot House,21,12,21,15,,,Owen Lippman,West Peterson,Aidan Mackey,Michael Capobianco
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,TRP Volley Dawgs,Chandler is my handler,TRP Volley Dawgs,21,14,21,18,,,Will Picone,Noah Luskus,Chandler Hertzler,Garrett Carver
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,Profit Boost,Project Roundnet,Profit Boost,21,19,21,18,,,Kieran Rose,Justin Shaytar,Samuel Corey,Josh Esposo
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,DUN,Autonomous,Autonomous,17,21,18,21,,,Demitri Forand,Henry Pilliod,Tyler Fernandez,Chase Meyer
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,BD Energy,Frag/Cummings,Frag/Cummings,16,21,15,21,,,Dawson Morgan,Brendan Ferreira,Caleb Cummings,Josh Fragiacomo
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,Eternal Atake,Jersey Boyz,Jersey Boyz,27,29,21,15,19,21,Reid Lampert,Kurt Lannetti,Corey Weiss,Matt Spolarich
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,Boat Carriers,Shorter & Taller,Shorter & Taller,16,21,21,19,19,21,Matthew Burrows,Brayden Latham,Andrew Sullivan,Caleb Shorter
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,VBR CeeDeez 💿,Tazzmires,VBR CeeDeez 💿,21,16,21,17,,,Andrew Gunter,James Mitchum,Connor Reid,Dylan Rourke
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Martin/Garrett,The Whole Bag,The Whole Bag,18,21,19,21,,,Mike Garrett,A.j. Martin,Josef Bekiranov,Josh Hutko
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,LL Unfinished Business,Easily Trafficked,Easily Trafficked,22,20,16,21,-2,0,Josh DiDonato,Ryan Paul,Nicolas Yabar,Ezra Dantowitz
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,TRP Spotless,Shorter & Taller,TRP Spotless,21,23,21,19,21,19,Ryan Gross,Joe Bondi,Andrew Sullivan,Caleb Shorter
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Bot House,Jersey Boyz,Bot House,21,13,21,18,,,Owen Lippman,West Peterson,Corey Weiss,Matt Spolarich
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,TRP Volley Dawgs,Frag/Cummings,TRP Volley Dawgs,21,19,21,18,,,Will Picone,Noah Luskus,Caleb Cummings,Josh Fragiacomo
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Profit Boost,Autonomous,Autonomous,22,24,26,28,,,Kieran Rose,Justin Shaytar,Tyler Fernandez,Chase Meyer
+Bracket Stage,Pro German,Bracket A,P9: Quarter-final,Best of 3,DUN,Project Roundnet,,21,12,,,,,Demitri Forand,Henry Pilliod,Samuel Corey,Josh Esposo
+Bracket Stage,Pro German,Bracket A,Semi-final,Best of 3,TRP Spotless,Autonomous,TRP Spotless,21,15,21,15,,,Ryan Gross,Joe Bondi,Tyler Fernandez,Chase Meyer
+Bracket Stage,Pro German,Bracket A,Semi-final,Best of 3,Bot House,TRP Volley Dawgs,Bot House,21,19,21,16,,,Owen Lippman,West Peterson,Will Picone,Noah Luskus
+Bracket Stage,Pro German,Bracket A,Final,Best of 3,TRP Spotless,Bot House,TRP Spotless,21,19,18,21,21,16,Ryan Gross,Joe Bondi,Owen Lippman,West Peterson
+Bracket Stage,Pro German,Bracket A,P3: Final,Best of 3,TRP Volley Dawgs,Autonomous,TRP Volley Dawgs,21,14,21,15,,,Will Picone,Noah Luskus,Tyler Fernandez,Chase Meyer

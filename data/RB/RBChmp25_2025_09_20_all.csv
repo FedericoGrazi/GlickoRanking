@@ -1,0 +1,161 @@
+﻿Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Group A,1,Single game,TV Time,Spike Jam,TV Time,15,3,,,,,Gauthier Vandamme,Frederik Theunis,Pieter-Jan Zwaan,Jonas Adriaenssens
+Group Stage,Open,Group A,1,Single game,Spike Ops,Raptors Margoulins,Spike Ops,15,4,,,,,Wout Seynaeve,Adriaan Van Gerven,Quentin Remacle,Rayane Al Zein
+Group Stage,Open,Group B,1,Single game,Bip Bap Boup,E Bergh op je Mulle,Bip Bap Boup,15,2,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Tim Mulleman,Matthias Van Den Bergh
+Group Stage,Open,Group B,1,Single game,Underdogs,Two years later ðŸ¦Š,Underdogs,15,8,,,,,joeri vlassaks,Stijn Van den Branden,Manuel Van Rensbergen,Nathan Colle
+Group Stage,Open,Group C,1,Single game,Uno Reverse,TMNR,Uno Reverse,15,4,,,,,Daan Paes,Martijn Paes,Niels Verbois,Stephane Colfs
+Group Stage,Open,Group C,1,Single game,The hope of Wallonia,Last minute,The hope of Wallonia,15,7,,,,,Martin Clotman,Gilles Talmasse,Quentin van Kesteren,arno Hegge
+Group Stage,Open,Group D,1,Single game,The Nice Biches,Broâ€™s before hoâ€™s,The Nice Biches,15,3,,,,,Maelig Potiau,wout thysens,Barend Fieuws,Xander Fieuws
+Group Stage,Open,Group D,1,Single game,Captain Demon ðŸ¦ŠðŸ˜ˆ,Alex et Nico,Captain Demon ðŸ¦ŠðŸ˜ˆ,15,2,,,,,Irian Baert,Igor Jottrand,Nicolas Manneback,Alexandre Esposito
+Group Stage,Open,Group A,2,Single game,TV Time,Raptors Margoulins,TV Time,15,0,,,,,Gauthier Vandamme,Frederik Theunis,Quentin Remacle,Rayane Al Zein
+Group Stage,Open,Group A,2,Single game,Spike Ops,Spike Jam,Spike Ops,15,13,,,,,Wout Seynaeve,Adriaan Van Gerven,Pieter-Jan Zwaan,Jonas Adriaenssens
+Group Stage,Open,Group B,2,Single game,Bip Bap Boup,Two years later ðŸ¦Š,Bip Bap Boup,15,5,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Manuel Van Rensbergen,Nathan Colle
+Group Stage,Open,Group B,2,Single game,Underdogs,E Bergh op je Mulle,Underdogs,15,5,,,,,joeri vlassaks,Stijn Van den Branden,Tim Mulleman,Matthias Van Den Bergh
+Group Stage,Open,Group C,2,Single game,Uno Reverse,Last minute,Uno Reverse,15,3,,,,,Daan Paes,Martijn Paes,Quentin van Kesteren,arno Hegge
+Group Stage,Open,Group C,2,Single game,The hope of Wallonia,TMNR,The hope of Wallonia,15,5,,,,,Martin Clotman,Gilles Talmasse,Niels Verbois,Stephane Colfs
+Group Stage,Open,Group D,2,Single game,The Nice Biches,Alex et Nico,The Nice Biches,15,10,,,,,Maelig Potiau,wout thysens,Nicolas Manneback,Alexandre Esposito
+Group Stage,Open,Group D,2,Single game,Captain Demon ðŸ¦ŠðŸ˜ˆ,Broâ€™s before hoâ€™s,Captain Demon ðŸ¦ŠðŸ˜ˆ,15,8,,,,,Irian Baert,Igor Jottrand,Barend Fieuws,Xander Fieuws
+Group Stage,Open,Group A,3,Single game,TV Time,Spike Ops,TV Time,15,4,,,,,Gauthier Vandamme,Frederik Theunis,Wout Seynaeve,Adriaan Van Gerven
+Group Stage,Open,Group A,3,Single game,Raptors Margoulins,Spike Jam,Spike Jam,5,15,,,,,Quentin Remacle,Rayane Al Zein,Pieter-Jan Zwaan,Jonas Adriaenssens
+Group Stage,Open,Group B,3,Single game,Bip Bap Boup,Underdogs,Bip Bap Boup,15,6,,,,,Gilles Hublet,Guillaume Van Eeckhaute,joeri vlassaks,Stijn Van den Branden
+Group Stage,Open,Group B,3,Single game,Two years later ðŸ¦Š,E Bergh op je Mulle,Two years later ðŸ¦Š,15,5,,,,,Manuel Van Rensbergen,Nathan Colle,Tim Mulleman,Matthias Van Den Bergh
+Group Stage,Open,Group C,3,Single game,Uno Reverse,The hope of Wallonia,Uno Reverse,15,7,,,,,Daan Paes,Martijn Paes,Martin Clotman,Gilles Talmasse
+Group Stage,Open,Group C,3,Single game,Last minute,TMNR,Last minute,15,9,,,,,Quentin van Kesteren,arno Hegge,Niels Verbois,Stephane Colfs
+Group Stage,Open,Group D,3,Single game,The Nice Biches,Captain Demon ðŸ¦ŠðŸ˜ˆ,The Nice Biches,15,10,,,,,Maelig Potiau,wout thysens,Irian Baert,Igor Jottrand
+Group Stage,Open,Group D,3,Single game,Alex et Nico,Broâ€™s before hoâ€™s,Alex et Nico,15,11,,,,,Nicolas Manneback,Alexandre Esposito,Barend Fieuws,Xander Fieuws
+Group Stage,Open,Group A,4,Single game,TV Time,Spike Jam,TV Time,15,5,,,,,Gauthier Vandamme,Frederik Theunis,Pieter-Jan Zwaan,Jonas Adriaenssens
+Group Stage,Open,Group A,4,Single game,Spike Ops,Raptors Margoulins,Spike Ops,15,5,,,,,Wout Seynaeve,Adriaan Van Gerven,Quentin Remacle,Rayane Al Zein
+Group Stage,Open,Group B,4,Single game,Bip Bap Boup,E Bergh op je Mulle,Bip Bap Boup,15,1,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Tim Mulleman,Matthias Van Den Bergh
+Group Stage,Open,Group B,4,Single game,Underdogs,Two years later ðŸ¦Š,Underdogs,15,11,,,,,joeri vlassaks,Stijn Van den Branden,Manuel Van Rensbergen,Nathan Colle
+Group Stage,Open,Group C,4,Single game,Uno Reverse,TMNR,Uno Reverse,15,4,,,,,Daan Paes,Martijn Paes,Niels Verbois,Stephane Colfs
+Group Stage,Open,Group C,4,Single game,The hope of Wallonia,Last minute,The hope of Wallonia,16,14,,,,,Martin Clotman,Gilles Talmasse,Quentin van Kesteren,arno Hegge
+Group Stage,Open,Group D,4,Single game,The Nice Biches,Broâ€™s before hoâ€™s,The Nice Biches,15,4,,,,,Maelig Potiau,wout thysens,Barend Fieuws,Xander Fieuws
+Group Stage,Open,Group D,4,Single game,Captain Demon ðŸ¦ŠðŸ˜ˆ,Alex et Nico,Captain Demon ðŸ¦ŠðŸ˜ˆ,15,8,,,,,Irian Baert,Igor Jottrand,Nicolas Manneback,Alexandre Esposito
+Group Stage,Open,Group A,5,Single game,TV Time,Raptors Margoulins,TV Time,15,2,,,,,Gauthier Vandamme,Frederik Theunis,Quentin Remacle,Rayane Al Zein
+Group Stage,Open,Group A,5,Single game,Spike Ops,Spike Jam,Spike Ops,15,10,,,,,Wout Seynaeve,Adriaan Van Gerven,Pieter-Jan Zwaan,Jonas Adriaenssens
+Group Stage,Open,Group B,5,Single game,Bip Bap Boup,Two years later ðŸ¦Š,Bip Bap Boup,15,5,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Manuel Van Rensbergen,Nathan Colle
+Group Stage,Open,Group B,5,Single game,Underdogs,E Bergh op je Mulle,Underdogs,15,8,,,,,joeri vlassaks,Stijn Van den Branden,Tim Mulleman,Matthias Van Den Bergh
+Group Stage,Open,Group C,5,Single game,Uno Reverse,Last minute,Uno Reverse,15,1,,,,,Daan Paes,Martijn Paes,Quentin van Kesteren,arno Hegge
+Group Stage,Open,Group C,5,Single game,The hope of Wallonia,TMNR,The hope of Wallonia,15,5,,,,,Martin Clotman,Gilles Talmasse,Niels Verbois,Stephane Colfs
+Group Stage,Open,Group D,5,Single game,The Nice Biches,Alex et Nico,The Nice Biches,15,12,,,,,Maelig Potiau,wout thysens,Nicolas Manneback,Alexandre Esposito
+Group Stage,Open,Group D,5,Single game,Captain Demon ðŸ¦ŠðŸ˜ˆ,Broâ€™s before hoâ€™s,Captain Demon ðŸ¦ŠðŸ˜ˆ,15,3,,,,,Irian Baert,Igor Jottrand,Barend Fieuws,Xander Fieuws
+Group Stage,Open,Group A,6,Single game,TV Time,Spike Ops,TV Time,15,4,,,,,Gauthier Vandamme,Frederik Theunis,Wout Seynaeve,Adriaan Van Gerven
+Group Stage,Open,Group A,6,Single game,Raptors Margoulins,Spike Jam,Spike Jam,1,15,,,,,Quentin Remacle,Rayane Al Zein,Pieter-Jan Zwaan,Jonas Adriaenssens
+Group Stage,Open,Group B,6,Single game,Bip Bap Boup,Underdogs,Bip Bap Boup,15,10,,,,,Gilles Hublet,Guillaume Van Eeckhaute,joeri vlassaks,Stijn Van den Branden
+Group Stage,Open,Group B,6,Single game,Two years later ðŸ¦Š,E Bergh op je Mulle,Two years later ðŸ¦Š,15,7,,,,,Manuel Van Rensbergen,Nathan Colle,Tim Mulleman,Matthias Van Den Bergh
+Group Stage,Open,Group C,6,Single game,Uno Reverse,The hope of Wallonia,Uno Reverse,15,4,,,,,Daan Paes,Martijn Paes,Martin Clotman,Gilles Talmasse
+Group Stage,Open,Group C,6,Single game,Last minute,TMNR,Last minute,15,12,,,,,Quentin van Kesteren,arno Hegge,Niels Verbois,Stephane Colfs
+Group Stage,Open,Group D,6,Single game,The Nice Biches,Captain Demon ðŸ¦ŠðŸ˜ˆ,The Nice Biches,15,12,,,,,Maelig Potiau,wout thysens,Irian Baert,Igor Jottrand
+Group Stage,Open,Group D,6,Single game,Alex et Nico,Broâ€™s before hoâ€™s,Alex et Nico,15,8,,,,,Nicolas Manneback,Alexandre Esposito,Barend Fieuws,Xander Fieuws
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Alex et Nico,Pjoew pjoew pjoew,Alex et Nico,15,3,15,8,,,Nicolas Manneback,Alexandre Esposito,Jarne Croonen,Lowie Lauwen
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Last minute,DJ Redo,Last minute,11,15,15,10,15,10,Quentin van Kesteren,arno Hegge,Raphael Solari,Jeremy Minet
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Spike Jam,De SpiBronauten,Spike Jam,15,4,15,3,,,Pieter-Jan Zwaan,Jonas Adriaenssens,Tuur Dejonghe,Brian Desplinter
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Two years later ðŸ¦Š,Sneaky Foxes ðŸ¦Š,Two years later ðŸ¦Š,15,7,15,12,,,Manuel Van Rensbergen,Nathan Colle,Romain Hardat,Amaury Bignaud
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Raptors Margoulins,Spikebears Reunion,Spikebears Reunion,7,15,11,15,,,Quentin Remacle,Rayane Al Zein,Lars Neyens,Jorn neyens
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,E Bergh op je Mulle,Veli-laki,Veli-laki,15,11,13,15,13,15,Tim Mulleman,Matthias Van Den Bergh,Ian Coucquyt,Jerre Latruwe
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Broâ€™s before hoâ€™s,Random Tandem,Random Tandem,5,15,13,15,,,Barend Fieuws,Xander Fieuws,mathias genoe,Xavier van Gorp
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,TMNR,Kioskvrienden,Kioskvrienden,5,15,1,17,,,Niels Verbois,Stephane Colfs,Emilio Goethals,Xander De Bisschop
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,TV Time,Kioskvrienden,TV Time,15,6,15,6,,,Gauthier Vandamme,Frederik Theunis,Emilio Goethals,Xander De Bisschop
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Bip Bap Boup,Random Tandem,Bip Bap Boup,15,2,15,8,,,Gilles Hublet,Guillaume Van Eeckhaute,mathias genoe,Xavier van Gorp
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Uno Reverse,Veli-laki,Uno Reverse,15,1,15,4,,,Daan Paes,Martijn Paes,Ian Coucquyt,Jerre Latruwe
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,The Nice Biches,Spikebears Reunion,The Nice Biches,15,7,15,7,,,Maelig Potiau,wout thysens,Lars Neyens,Jorn neyens
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,The hope of Wallonia,Two years later ðŸ¦Š,The hope of Wallonia,15,4,15,6,,,Martin Clotman,Gilles Talmasse,Manuel Van Rensbergen,Nathan Colle
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Captain Demon ðŸ¦ŠðŸ˜ˆ,Spike Jam,Captain Demon ðŸ¦ŠðŸ˜ˆ,15,9,15,8,,,Irian Baert,Igor Jottrand,Pieter-Jan Zwaan,Jonas Adriaenssens
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Spike Ops,Last minute,Spike Ops,15,7,15,3,,,Wout Seynaeve,Adriaan Van Gerven,Quentin van Kesteren,arno Hegge
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Underdogs,Alex et Nico,Underdogs,15,12,15,10,,,joeri vlassaks,Stijn Van den Branden,Nicolas Manneback,Alexandre Esposito
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,TV Time,Underdogs,TV Time,17,15,15,7,,,Gauthier Vandamme,Frederik Theunis,joeri vlassaks,Stijn Van den Branden
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Bip Bap Boup,Spike Ops,Bip Bap Boup,15,8,15,9,,,Gilles Hublet,Guillaume Van Eeckhaute,Wout Seynaeve,Adriaan Van Gerven
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Uno Reverse,Captain Demon ðŸ¦ŠðŸ˜ˆ,Uno Reverse,15,10,15,9,,,Daan Paes,Martijn Paes,Irian Baert,Igor Jottrand
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,The Nice Biches,The hope of Wallonia,The Nice Biches,15,11,15,10,,,Maelig Potiau,wout thysens,Martin Clotman,Gilles Talmasse
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Alex et Nico,Kioskvrienden,Alex et Nico,15,13,15,8,,,Nicolas Manneback,Alexandre Esposito,Emilio Goethals,Xander De Bisschop
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Last minute,Random Tandem,Random Tandem,4,15,9,15,,,Quentin van Kesteren,arno Hegge,mathias genoe,Xavier van Gorp
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Spike Jam,Veli-laki,Spike Jam,15,1,15,2,,,Pieter-Jan Zwaan,Jonas Adriaenssens,Ian Coucquyt,Jerre Latruwe
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Two years later ðŸ¦Š,Spikebears Reunion,Spikebears Reunion,15,7,12,15,6,15,Manuel Van Rensbergen,Nathan Colle,Lars Neyens,Jorn neyens
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,TMNR,Pjoew pjoew pjoew,TMNR,15,5,15,1,,,Niels Verbois,Stephane Colfs,Jarne Croonen,Lowie Lauwen
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,Broâ€™s before hoâ€™s,DJ Redo,DJ Redo,14,16,12,15,,,Barend Fieuws,Xander Fieuws,Raphael Solari,Jeremy Minet
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,E Bergh op je Mulle,De SpiBronauten,E Bergh op je Mulle,15,10,15,9,,,Tim Mulleman,Matthias Van Den Bergh,Tuur Dejonghe,Brian Desplinter
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,Raptors Margoulins,Sneaky Foxes ðŸ¦Š,Sneaky Foxes ðŸ¦Š,11,15,11,15,,,Quentin Remacle,Rayane Al Zein,Romain Hardat,Amaury Bignaud
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,TV Time,The Nice Biches,TV Time,16,21,21,16,21,18,Gauthier Vandamme,Frederik Theunis,Maelig Potiau,wout thysens
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Bip Bap Boup,Uno Reverse,Bip Bap Boup,21,17,21,19,,,Gilles Hublet,Guillaume Van Eeckhaute,Daan Paes,Martijn Paes
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,The hope of Wallonia,Underdogs,The hope of Wallonia,15,12,15,10,,,Martin Clotman,Gilles Talmasse,joeri vlassaks,Stijn Van den Branden
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Captain Demon ðŸ¦ŠðŸ˜ˆ,Spike Ops,Captain Demon ðŸ¦ŠðŸ˜ˆ,13,15,15,2,15,9,Irian Baert,Igor Jottrand,Wout Seynaeve,Adriaan Van Gerven
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,Alex et Nico,Spikebears Reunion,Spikebears Reunion,0,1,0,1,,,Nicolas Manneback,Alexandre Esposito,Lars Neyens,Jorn neyens
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,Random Tandem,Spike Jam,Random Tandem,15,13,15,12,,,mathias genoe,Xavier van Gorp,Pieter-Jan Zwaan,Jonas Adriaenssens
+Bracket Stage,Open,Bracket A,P13: Semi-final,Best of 3,Two years later ðŸ¦Š,Kioskvrienden,Kioskvrienden,15,13,14,16,11,15,Manuel Van Rensbergen,Nathan Colle,Emilio Goethals,Xander De Bisschop
+Bracket Stage,Open,Bracket A,P13: Semi-final,Best of 3,Veli-laki,Last minute,Last minute,5,15,7,15,,,Ian Coucquyt,Jerre Latruwe,Quentin van Kesteren,arno Hegge
+Bracket Stage,Open,Bracket A,P17: Semi-final,Best of 3,TMNR,Sneaky Foxes ðŸ¦Š,TMNR,15,12,16,14,,,Niels Verbois,Stephane Colfs,Romain Hardat,Amaury Bignaud
+Bracket Stage,Open,Bracket A,P17: Semi-final,Best of 3,DJ Redo,E Bergh op je Mulle,DJ Redo,16,17,15,3,15,9,Raphael Solari,Jeremy Minet,Tim Mulleman,Matthias Van Den Bergh
+Bracket Stage,Open,Bracket A,P21: Semi-final,Best of 3,Raptors Margoulins,Pjoew pjoew pjoew,Raptors Margoulins,15,7,15,11,,,Quentin Remacle,Rayane Al Zein,Jarne Croonen,Lowie Lauwen
+Bracket Stage,Open,Bracket A,P21: Semi-final,Best of 3,De SpiBronauten,Broâ€™s before hoâ€™s,De SpiBronauten,15,0,15,0,,,Tuur Dejonghe,Brian Desplinter,Barend Fieuws,Xander Fieuws
+Bracket Stage,Open,Bracket A,Final,Best of 3,TV Time,Bip Bap Boup,Bip Bap Boup,21,16,10,21,7,15,Gauthier Vandamme,Frederik Theunis,Gilles Hublet,Guillaume Van Eeckhaute
+Bracket Stage,Open,Bracket A,P3: Final,Single game,Uno Reverse,The Nice Biches,Uno Reverse,21,13,,,,,Daan Paes,Martijn Paes,Maelig Potiau,wout thysens
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,The hope of Wallonia,Captain Demon ðŸ¦ŠðŸ˜ˆ,Captain Demon ðŸ¦ŠðŸ˜ˆ,8,15,15,13,11,15,Martin Clotman,Gilles Talmasse,Irian Baert,Igor Jottrand
+Bracket Stage,Open,Bracket A,P7: Final,Single game,Spike Ops,Underdogs,Spike Ops,21,17,,,,,Wout Seynaeve,Adriaan Van Gerven,joeri vlassaks,Stijn Van den Branden
+Bracket Stage,Open,Bracket A,P9: Final,Best of 3,Spikebears Reunion,Random Tandem,Spikebears Reunion,15,8,15,7,,,Lars Neyens,Jorn neyens,mathias genoe,Xavier van Gorp
+Bracket Stage,Open,Bracket A,P11: Final,Best of 3,Spike Jam,Alex et Nico,Spike Jam,1,0,1,0,,,Pieter-Jan Zwaan,Jonas Adriaenssens,Nicolas Manneback,Alexandre Esposito
+Bracket Stage,Open,Bracket A,P13: Final,Best of 3,Kioskvrienden,Last minute,Kioskvrienden,15,3,15,4,,,Emilio Goethals,Xander De Bisschop,Quentin van Kesteren,arno Hegge
+Bracket Stage,Open,Bracket A,P15: Final,Best of 3,Veli-laki,Two years later ðŸ¦Š,Two years later ðŸ¦Š,0,15,8,15,,,Ian Coucquyt,Jerre Latruwe,Manuel Van Rensbergen,Nathan Colle
+Bracket Stage,Open,Bracket A,P17: Final,Best of 3,TMNR,DJ Redo,DJ Redo,15,8,12,15,8,15,Niels Verbois,Stephane Colfs,Raphael Solari,Jeremy Minet
+Bracket Stage,Open,Bracket A,P19: Final,Best of 3,E Bergh op je Mulle,Sneaky Foxes ðŸ¦Š,Sneaky Foxes ðŸ¦Š,11,15,11,15,,,Tim Mulleman,Matthias Van Den Bergh,Romain Hardat,Amaury Bignaud
+Bracket Stage,Open,Bracket A,P21: Final,Best of 3,Raptors Margoulins,De SpiBronauten,Raptors Margoulins,15,13,15,5,,,Quentin Remacle,Rayane Al Zein,Tuur Dejonghe,Brian Desplinter
+Bracket Stage,Open,Bracket A,P23: Final,Best of 3,Broâ€™s before hoâ€™s,Pjoew pjoew pjoew,Pjoew pjoew pjoew,0,15,0,15,,,Barend Fieuws,Xander Fieuws,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group A,1,Single game,Kioskvrienden,Pjoew pjoew pjoew,Kioskvrienden,15,0,,,,,Emilio Goethals,Xander De Bisschop,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group A,1,Single game,De SpiBronauten,Veli-laki,Veli-laki,10,15,,,,,Tuur Dejonghe,Brian Desplinter,Ian Coucquyt,Jerre Latruwe
+Group Stage,Open Intermediate,Group B,1,Single game,Sneaky Foxes ðŸ¦Š,Random Tandem,Random Tandem,7,15,,,,,Romain Hardat,Amaury Bignaud,mathias genoe,Xavier van Gorp
+Group Stage,Open Intermediate,Group B,1,Single game,Spikebears Reunion,DJ Redo,DJ Redo,13,15,,,,,Lars Neyens,Jorn neyens,Raphael Solari,Jeremy Minet
+Group Stage,Open Intermediate,Group A,2,Single game,Kioskvrienden,Veli-laki,Kioskvrienden,15,3,,,,,Emilio Goethals,Xander De Bisschop,Ian Coucquyt,Jerre Latruwe
+Group Stage,Open Intermediate,Group A,2,Single game,De SpiBronauten,Pjoew pjoew pjoew,Pjoew pjoew pjoew,12,15,,,,,Tuur Dejonghe,Brian Desplinter,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group B,2,Single game,Sneaky Foxes ðŸ¦Š,DJ Redo,Sneaky Foxes ðŸ¦Š,15,8,,,,,Romain Hardat,Amaury Bignaud,Raphael Solari,Jeremy Minet
+Group Stage,Open Intermediate,Group B,2,Single game,Spikebears Reunion,Random Tandem,Random Tandem,9,15,,,,,Lars Neyens,Jorn neyens,mathias genoe,Xavier van Gorp
+Group Stage,Open Intermediate,Group A,3,Single game,Kioskvrienden,De SpiBronauten,Kioskvrienden,15,5,,,,,Emilio Goethals,Xander De Bisschop,Tuur Dejonghe,Brian Desplinter
+Group Stage,Open Intermediate,Group A,3,Single game,Veli-laki,Pjoew pjoew pjoew,Veli-laki,15,11,,,,,Ian Coucquyt,Jerre Latruwe,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group B,3,Single game,Sneaky Foxes ðŸ¦Š,Spikebears Reunion,Spikebears Reunion,10,15,,,,,Romain Hardat,Amaury Bignaud,Lars Neyens,Jorn neyens
+Group Stage,Open Intermediate,Group B,3,Single game,DJ Redo,Random Tandem,Random Tandem,8,15,,,,,Raphael Solari,Jeremy Minet,mathias genoe,Xavier van Gorp
+Group Stage,Open Intermediate,Group A,4,Single game,Kioskvrienden,Pjoew pjoew pjoew,Kioskvrienden,15,3,,,,,Emilio Goethals,Xander De Bisschop,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group A,4,Single game,De SpiBronauten,Veli-laki,Veli-laki,13,15,,,,,Tuur Dejonghe,Brian Desplinter,Ian Coucquyt,Jerre Latruwe
+Group Stage,Open Intermediate,Group B,4,Single game,Sneaky Foxes ðŸ¦Š,Random Tandem,Sneaky Foxes ðŸ¦Š,15,12,,,,,Romain Hardat,Amaury Bignaud,mathias genoe,Xavier van Gorp
+Group Stage,Open Intermediate,Group B,4,Single game,Spikebears Reunion,DJ Redo,Spikebears Reunion,15,11,,,,,Lars Neyens,Jorn neyens,Raphael Solari,Jeremy Minet
+Group Stage,Open Intermediate,Group A,5,Single game,Kioskvrienden,Veli-laki,Kioskvrienden,15,2,,,,,Emilio Goethals,Xander De Bisschop,Ian Coucquyt,Jerre Latruwe
+Group Stage,Open Intermediate,Group A,5,Single game,De SpiBronauten,Pjoew pjoew pjoew,De SpiBronauten,15,8,,,,,Tuur Dejonghe,Brian Desplinter,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group B,5,Single game,Sneaky Foxes ðŸ¦Š,DJ Redo,Sneaky Foxes ðŸ¦Š,15,10,,,,,Romain Hardat,Amaury Bignaud,Raphael Solari,Jeremy Minet
+Group Stage,Open Intermediate,Group B,5,Single game,Spikebears Reunion,Random Tandem,Random Tandem,13,15,,,,,Lars Neyens,Jorn neyens,mathias genoe,Xavier van Gorp
+Group Stage,Open Intermediate,Group A,6,Single game,Kioskvrienden,De SpiBronauten,Kioskvrienden,15,2,,,,,Emilio Goethals,Xander De Bisschop,Tuur Dejonghe,Brian Desplinter
+Group Stage,Open Intermediate,Group A,6,Single game,Veli-laki,Pjoew pjoew pjoew,Veli-laki,15,7,,,,,Ian Coucquyt,Jerre Latruwe,Jarne Croonen,Lowie Lauwen
+Group Stage,Open Intermediate,Group B,6,Single game,Sneaky Foxes ðŸ¦Š,Spikebears Reunion,Spikebears Reunion,7,15,,,,,Romain Hardat,Amaury Bignaud,Lars Neyens,Jorn neyens
+Group Stage,Open Intermediate,Group B,6,Single game,DJ Redo,Random Tandem,Random Tandem,7,15,,,,,Raphael Solari,Jeremy Minet,mathias genoe,Xavier van Gorp
+Group Stage,Women's Intermediate,Group A,1,Single game,Plot twist,The pockets,Plot twist,15,6,,,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Bieke Jans,Julie Desaintes
+Group Stage,Women's Intermediate,Group A,1,Single game,M&Mâ€™s,Valkyries,M&Mâ€™s,15,5,,,,,Melene Marynissen,Marthe Michielsen,Romanie Van Praet,Tabita Latruwe
+Group Stage,Women's Intermediate,Group B,1,Single game,Liende,Hier voor sfeer en gezelligheid,Liende,15,10,,,,,Lien Keersse,Linde Van Wambeke,Lou Albregts,Joni Neyens
+Group Stage,Women's Intermediate,Group B,1,Single game,SpaÃ¯ki noodles,Een cola a.u.b.,SpaÃ¯ki noodles,15,13,,,,,Luna Clarysse,Clara De Ryck,Lisa De Meester,Amber Veelaert
+Group Stage,Women's Intermediate,Group A,2,Single game,Plot twist,Valkyries,Plot twist,15,4,,,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Romanie Van Praet,Tabita Latruwe
+Group Stage,Women's Intermediate,Group A,2,Single game,M&Mâ€™s,The pockets,M&Mâ€™s,15,10,,,,,Melene Marynissen,Marthe Michielsen,Bieke Jans,Julie Desaintes
+Group Stage,Women's Intermediate,Group B,2,Single game,Liende,Een cola a.u.b.,Liende,15,7,,,,,Lien Keersse,Linde Van Wambeke,Lisa De Meester,Amber Veelaert
+Group Stage,Women's Intermediate,Group B,2,Single game,SpaÃ¯ki noodles,Hier voor sfeer en gezelligheid,Hier voor sfeer en gezelligheid,8,15,,,,,Luna Clarysse,Clara De Ryck,Lou Albregts,Joni Neyens
+Group Stage,Women's Intermediate,Group A,3,Single game,Plot twist,M&Mâ€™s,Plot twist,15,6,,,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Melene Marynissen,Marthe Michielsen
+Group Stage,Women's Intermediate,Group A,3,Single game,Valkyries,The pockets,Valkyries,17,16,,,,,Romanie Van Praet,Tabita Latruwe,Bieke Jans,Julie Desaintes
+Group Stage,Women's Intermediate,Group B,3,Single game,Liende,SpaÃ¯ki noodles,Liende,15,6,,,,,Lien Keersse,Linde Van Wambeke,Luna Clarysse,Clara De Ryck
+Group Stage,Women's Intermediate,Group B,3,Single game,Een cola a.u.b.,Hier voor sfeer en gezelligheid,Hier voor sfeer en gezelligheid,5,15,,,,,Lisa De Meester,Amber Veelaert,Lou Albregts,Joni Neyens
+Group Stage,Women's Intermediate,Group A,4,Single game,Plot twist,The pockets,Plot twist,15,4,,,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Bieke Jans,Julie Desaintes
+Group Stage,Women's Intermediate,Group A,4,Single game,M&Mâ€™s,Valkyries,M&Mâ€™s,15,4,,,,,Melene Marynissen,Marthe Michielsen,Romanie Van Praet,Tabita Latruwe
+Group Stage,Women's Intermediate,Group B,4,Single game,Liende,Hier voor sfeer en gezelligheid,Liende,15,9,,,,,Lien Keersse,Linde Van Wambeke,Lou Albregts,Joni Neyens
+Group Stage,Women's Intermediate,Group B,4,Single game,SpaÃ¯ki noodles,Een cola a.u.b.,SpaÃ¯ki noodles,15,9,,,,,Luna Clarysse,Clara De Ryck,Lisa De Meester,Amber Veelaert
+Group Stage,Women's Intermediate,Group A,5,Single game,Plot twist,Valkyries,Plot twist,15,3,,,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Romanie Van Praet,Tabita Latruwe
+Group Stage,Women's Intermediate,Group A,5,Single game,M&Mâ€™s,The pockets,M&Mâ€™s,15,8,,,,,Melene Marynissen,Marthe Michielsen,Bieke Jans,Julie Desaintes
+Group Stage,Women's Intermediate,Group B,5,Single game,Liende,Een cola a.u.b.,Liende,15,9,,,,,Lien Keersse,Linde Van Wambeke,Lisa De Meester,Amber Veelaert
+Group Stage,Women's Intermediate,Group B,5,Single game,SpaÃ¯ki noodles,Hier voor sfeer en gezelligheid,Hier voor sfeer en gezelligheid,8,15,,,,,Luna Clarysse,Clara De Ryck,Lou Albregts,Joni Neyens
+Group Stage,Women's Intermediate,Group A,6,Single game,Plot twist,M&Mâ€™s,Plot twist,15,7,,,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Melene Marynissen,Marthe Michielsen
+Group Stage,Women's Intermediate,Group A,6,Single game,Valkyries,The pockets,The pockets,9,15,,,,,Romanie Van Praet,Tabita Latruwe,Bieke Jans,Julie Desaintes
+Group Stage,Women's Intermediate,Group B,6,Single game,Liende,SpaÃ¯ki noodles,Liende,15,8,,,,,Lien Keersse,Linde Van Wambeke,Luna Clarysse,Clara De Ryck
+Group Stage,Women's Intermediate,Group B,6,Single game,Een cola a.u.b.,Hier voor sfeer en gezelligheid,Hier voor sfeer en gezelligheid,7,15,,,,,Lisa De Meester,Amber Veelaert,Lou Albregts,Joni Neyens
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Plot twist,Een cola a.u.b.,Plot twist,15,2,15,11,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Lisa De Meester,Amber Veelaert
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Liende,Valkyries,Liende,15,9,15,9,,,Lien Keersse,Linde Van Wambeke,Romanie Van Praet,Tabita Latruwe
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,M&Mâ€™s,SpaÃ¯ki noodles,M&Mâ€™s,10,15,15,11,15,9,Melene Marynissen,Marthe Michielsen,Luna Clarysse,Clara De Ryck
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Hier voor sfeer en gezelligheid,The pockets,Hier voor sfeer en gezelligheid,15,5,15,12,,,Lou Albregts,Joni Neyens,Bieke Jans,Julie Desaintes
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Plot twist,Hier voor sfeer en gezelligheid,Plot twist,15,10,15,12,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Lou Albregts,Joni Neyens
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Liende,M&Mâ€™s,Liende,15,8,10,15,15,6,Lien Keersse,Linde Van Wambeke,Melene Marynissen,Marthe Michielsen
+Bracket Stage,Women's Intermediate,Bracket A,P5: Semi-final,Best of 3,The pockets,Een cola a.u.b.,Een cola a.u.b.,14,16,15,10,13,15,Bieke Jans,Julie Desaintes,Lisa De Meester,Amber Veelaert
+Bracket Stage,Women's Intermediate,Bracket A,P5: Semi-final,Best of 3,SpaÃ¯ki noodles,Valkyries,SpaÃ¯ki noodles,15,7,15,5,,,Luna Clarysse,Clara De Ryck,Romanie Van Praet,Tabita Latruwe
+Bracket Stage,Women's Intermediate,Bracket A,Final,Best of 3,Plot twist,Liende,Plot twist,21,11,21,15,,,Marie-Alexia Teisseyre,Tatiana Delbecke,Lien Keersse,Linde Van Wambeke
+Bracket Stage,Women's Intermediate,Bracket A,P3: Final,Best of 3,M&Mâ€™s,Hier voor sfeer en gezelligheid,Hier voor sfeer en gezelligheid,11,15,9,15,,,Melene Marynissen,Marthe Michielsen,Lou Albregts,Joni Neyens
+Bracket Stage,Women's Intermediate,Bracket A,P5: Final,Best of 3,Een cola a.u.b.,SpaÃ¯ki noodles,SpaÃ¯ki noodles,16,18,9,15,,,Lisa De Meester,Amber Veelaert,Luna Clarysse,Clara De Ryck
+Bracket Stage,Women's Intermediate,Bracket A,P7: Final,Best of 3,Valkyries,The pockets,The pockets,13,15,17,15,9,15,Romanie Van Praet,Tabita Latruwe,Bieke Jans,Julie Desaintes

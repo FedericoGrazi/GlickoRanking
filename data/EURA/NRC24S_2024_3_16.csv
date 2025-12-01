@@ -1,0 +1,445 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Pro,Group A,1,Single game,Copy paste,Le Spiko de Familia,Copy paste,17,15,,,,,Julian Krehle,Tim Klement,Kasper Søvndal,Andreas Christensen
+Group Stage,Open Pro,Group A,1,Single game,Anderson/Elbourne,Spikeghetti,Anderson/Elbourne,16,14,,,,,Bennett Anderson,Mark Elbourne,Hjalte Knudsen,Jakob G. Damgaard
+Group Stage,Open Pro,Group B,1,Single game,Codex!,The Blocksmiths,Codex!,15,12,,,,,Yvo Heinen,Jan Petersen,Jeppe Norlyk Hansen,Aske Hammar
+Group Stage,Open Pro,Group B,1,Single game,Smooth Operators,For Andreas,Smooth Operators,15,10,,,,,David Rowlands,Trevor Cook,Gerrit Lang,Mathias Linnet
+Group Stage,Open Pro,Group A,2,Single game,Copy paste,Spikeghetti,Copy paste,15,11,,,,,Julian Krehle,Tim Klement,Hjalte Knudsen,Jakob G. Damgaard
+Group Stage,Open Pro,Group A,2,Single game,Cobra Spike,Le Spiko de Familia,Cobra Spike,15,9,,,,,Herman Henström,Samuel Mjönes,Kasper Søvndal,Andreas Christensen
+Group Stage,Open Pro,Group B,2,Single game,Codex!,For Andreas,Codex!,15,8,,,,,Yvo Heinen,Jan Petersen,Gerrit Lang,Mathias Linnet
+Group Stage,Open Pro,Group B,2,Single game,Mallton & Biggman,The Blocksmiths,The Blocksmiths,17,19,,,,,Felix Millton,Edvin Baggman,Jeppe Norlyk Hansen,Aske Hammar
+Group Stage,Open Pro,Group A,3,Single game,Copy paste,Cobra Spike,Copy paste,15,12,,,,,Julian Krehle,Tim Klement,Herman Henström,Samuel Mjönes
+Group Stage,Open Pro,Group A,3,Single game,Anderson/Elbourne,Le Spiko de Familia,Le Spiko de Familia,10,15,,,,,Bennett Anderson,Mark Elbourne,Kasper Søvndal,Andreas Christensen
+Group Stage,Open Pro,Group B,3,Single game,Codex!,Mallton & Biggman,Codex!,15,10,,,,,Yvo Heinen,Jan Petersen,Felix Millton,Edvin Baggman
+Group Stage,Open Pro,Group B,3,Single game,Smooth Operators,The Blocksmiths,Smooth Operators,15,8,,,,,David Rowlands,Trevor Cook,Jeppe Norlyk Hansen,Aske Hammar
+Group Stage,Open Pro,Group A,4,Single game,Anderson/Elbourne,Cobra Spike,Cobra Spike,11,15,,,,,Bennett Anderson,Mark Elbourne,Herman Henström,Samuel Mjönes
+Group Stage,Open Pro,Group A,4,Single game,Spikeghetti,Le Spiko de Familia,Le Spiko de Familia,9,15,,,,,Hjalte Knudsen,Jakob G. Damgaard,Kasper Søvndal,Andreas Christensen
+Group Stage,Open Pro,Group B,4,Single game,Smooth Operators,Mallton & Biggman,Smooth Operators,15,9,,,,,David Rowlands,Trevor Cook,Felix Millton,Edvin Baggman
+Group Stage,Open Pro,Group B,4,Single game,For Andreas,The Blocksmiths,The Blocksmiths,12,15,,,,,Gerrit Lang,Mathias Linnet,Jeppe Norlyk Hansen,Aske Hammar
+Group Stage,Open Pro,Group A,5,Single game,Copy paste,Anderson/Elbourne,Copy paste,15,11,,,,,Julian Krehle,Tim Klement,Bennett Anderson,Mark Elbourne
+Group Stage,Open Pro,Group A,5,Single game,Cobra Spike,Spikeghetti,Spikeghetti,15,17,,,,,Herman Henström,Samuel Mjönes,Hjalte Knudsen,Jakob G. Damgaard
+Group Stage,Open Pro,Group B,5,Single game,Codex!,Smooth Operators,Smooth Operators,11,15,,,,,Yvo Heinen,Jan Petersen,David Rowlands,Trevor Cook
+Group Stage,Open Pro,Group B,5,Single game,Mallton & Biggman,For Andreas,Mallton & Biggman,15,10,,,,,Felix Millton,Edvin Baggman,Gerrit Lang,Mathias Linnet
+Bracket Stage,Open Pro,Bracket A,Round of 16,Best of 3,Mallton & Biggman,For Andreas,Mallton & Biggman,19,17,15,13,,,Felix Millton,Edvin Baggman,Gerrit Lang,Mathias Linnet
+Bracket Stage,Open Pro,Bracket A,Round of 16,Best of 3,Spikeghetti,Anderson/Elbourne,Anderson/Elbourne,13,15,12,15,,,Hjalte Knudsen,Jakob G. Damgaard,Bennett Anderson,Mark Elbourne
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Smooth Operators,Anderson/Elbourne,Smooth Operators,8,15,16,14,21,19,David Rowlands,Trevor Cook,Bennett Anderson,Mark Elbourne
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Copy paste,Mallton & Biggman,Copy paste,15,9,15,9,,,Julian Krehle,Tim Klement,Felix Millton,Edvin Baggman
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Codex!,The Blocksmiths,Codex!,18,16,15,10,,,Yvo Heinen,Jan Petersen,Jeppe Norlyk Hansen,Aske Hammar
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Cobra Spike,Le Spiko de Familia,Le Spiko de Familia,12,15,11,15,,,Herman Henström,Samuel Mjönes,Kasper Søvndal,Andreas Christensen
+Bracket Stage,Open Pro,Bracket A,Semi-final,Best of 3,Smooth Operators,Le Spiko de Familia,Le Spiko de Familia,12,21,13,21,,,David Rowlands,Trevor Cook,Kasper Søvndal,Andreas Christensen
+Bracket Stage,Open Pro,Bracket A,Semi-final,Best of 3,Copy paste,Codex!,Codex!,17,21,18,21,,,Julian Krehle,Tim Klement,Yvo Heinen,Jan Petersen
+Bracket Stage,Open Pro,Bracket A,P5: Semi-final,Best of 3,Cobra Spike,Anderson/Elbourne,Cobra Spike,15,10,15,10,,,Herman Henström,Samuel Mjönes,Bennett Anderson,Mark Elbourne
+Bracket Stage,Open Pro,Bracket A,P5: Semi-final,Best of 3,The Blocksmiths,Mallton & Biggman,Mallton & Biggman,17,19,13,15,,,Jeppe Norlyk Hansen,Aske Hammar,Felix Millton,Edvin Baggman
+Bracket Stage,Open Pro,Bracket A,Final,Best of 3,Le Spiko de Familia,Codex!,Codex!,20,22,16,21,,,Kasper Søvndal,Andreas Christensen,Yvo Heinen,Jan Petersen
+Bracket Stage,Open Pro,Bracket A,P3: Final,Best of 3,Copy paste,Smooth Operators,Copy paste,21,16,21,18,,,Julian Krehle,Tim Klement,David Rowlands,Trevor Cook
+Bracket Stage,Open Pro,Bracket A,P5: Final,Best of 3,Cobra Spike,Mallton & Biggman,Cobra Spike,15,12,14,16,15,13,Herman Henström,Samuel Mjönes,Felix Millton,Edvin Baggman
+Bracket Stage,Open Pro,Bracket A,P7: Final,Best of 3,The Blocksmiths,Anderson/Elbourne,Anderson/Elbourne,0,1,0,1,,,Jeppe Norlyk Hansen,Aske Hammar,Bennett Anderson,Mark Elbourne
+Bracket Stage,Open Pro,Bracket A,P9: Final,Best of 3,Spikeghetti,For Andreas,Spikeghetti,20,22,24,22,21,17,Hjalte Knudsen,Jakob G. Damgaard,Gerrit Lang,Mathias Linnet
+Group Stage,Open Contender,Group A,1,Single game,Nasenbori,Rømø Ultras,Nasenbori,15,13,,,,,Moritz Dubiel,Bo Carstensen,Noah Rohloff,Niklas Kopatz
+Group Stage,Open Contender,Group A,1,Single game,What the duck is a kilometer?,Holy Spirit Spike,What the duck is a kilometer?,15,7,,,,,Quinn Hufler,Jakob Blaaholm Nielsen,Noah Nabe,David Lyngbye
+Group Stage,Open Contender,Group A,1,Single game,Team Rocket,NetWorkers,Team Rocket,15,13,,,,,Konstantin Breuer,Sebastian Christophe,Hauke Wernecke,Fabian Hofacker
+Group Stage,Open Contender,Group B,1,Single game,Lobster Boys,Spike Wazowski,Lobster Boys,15,11,,,,,Christian Brødsgaard,Malte Klinkby,Asbjørn Ditlev,Phillip Ravn
+Group Stage,Open Contender,Group B,1,Single game,Out Of Order,Johnjohn,Out Of Order,15,10,,,,,Nora Haas,Lou Washburn,Jonas Jensen,Jonatan Hauge Steffensen
+Group Stage,Open Contender,Group B,1,Single game,TBA,doesn't make anything,TBA,15,9,,,,,Mario Kurz,Paul Thoss,Jeremias-Caspar Podstawa,Jonathan Wulf
+Group Stage,Open Contender,Group C,1,Single game,Georg/Laura,The Imposters,Georg/Laura,15,2,,,,,Laura Kunzelmann,Georg Seiffarth,Lasse Einspannier,Ingvi Örnolfsson
+Group Stage,Open Contender,Group C,1,Single game,KRC North,Matadorerne,KRC North,15,7,,,,,Jørgen Steinsholt,Benjamin Aasen,Magnus  Karmark,Peter Madsen
+Group Stage,Open Contender,Group C,1,Single game,Jam with the boys,Sandmann,Jam with the boys,19,17,,,,,Max Jansson,William Mehler,Haye Hoffmann,Tomke Sandberg
+Group Stage,Open Contender,Group D,1,Single game,Jewitt/Łochowski,Zwei weiße Tauben,Jewitt/Łochowski,16,14,,,,,Max Łochowski,James Jewitt,Max Rodamer,Christoffer Sega
+Group Stage,Open Contender,Group D,1,Single game,Stort og Småt brændbart,Mosesgaard!,Stort og Småt brændbart,15,11,,,,,Niklas Daugbjerg,Søren Høy,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig
+Group Stage,Open Contender,Group D,1,Single game,chaumut,KRC Blaze,chaumut,15,13,,,,,Umut Renkligül,Chau Doan,Jared Boyle,Andrew Kuehl
+Group Stage,Open Contender,Group E,1,Single game,Screams,The Trickers,Screams,15,7,,,,,Charlie Wilson,Jim Buhler,Daniel Henriksen,Ruben Møberg
+Group Stage,Open Contender,Group E,1,Single game,Capp/Hurley,Mother-in-law's dream,Mother-in-law's dream,13,15,,,,,Christian Hurley,Alex Capp,Malte Drauschke,Ben Stadler
+Group Stage,Open Contender,Group E,1,Single game,Vagabundo Gato,Flying Focas,Vagabundo Gato,15,6,,,,,Virgilijus Peseckas,Gytis Buckiūnas,Franco Munoz,Maximilian Portee
+Group Stage,Open Contender,Group A,2,Single game,Nasenbori,Holy Spirit Spike,Nasenbori,15,3,,,,,Moritz Dubiel,Bo Carstensen,Noah Nabe,David Lyngbye
+Group Stage,Open Contender,Group A,2,Single game,What the duck is a kilometer?,Team Rocket,What the duck is a kilometer?,15,10,,,,,Quinn Hufler,Jakob Blaaholm Nielsen,Konstantin Breuer,Sebastian Christophe
+Group Stage,Open Contender,Group A,2,Single game,NetWorkers,Rømø Ultras,Rømø Ultras,9,15,,,,,Hauke Wernecke,Fabian Hofacker,Noah Rohloff,Niklas Kopatz
+Group Stage,Open Contender,Group B,2,Single game,Lobster Boys,Johnjohn,Lobster Boys,15,10,,,,,Christian Brødsgaard,Malte Klinkby,Jonas Jensen,Jonatan Hauge Steffensen
+Group Stage,Open Contender,Group B,2,Single game,Out Of Order,TBA,Out Of Order,15,13,,,,,Nora Haas,Lou Washburn,Mario Kurz,Paul Thoss
+Group Stage,Open Contender,Group B,2,Single game,doesn't make anything,Spike Wazowski,Spike Wazowski,13,15,,,,,Jeremias-Caspar Podstawa,Jonathan Wulf,Asbjørn Ditlev,Phillip Ravn
+Group Stage,Open Contender,Group C,2,Single game,Georg/Laura,Matadorerne,Georg/Laura,15,6,,,,,Laura Kunzelmann,Georg Seiffarth,Magnus  Karmark,Peter Madsen
+Group Stage,Open Contender,Group C,2,Single game,KRC North,Jam with the boys,Jam with the boys,10,15,,,,,Jørgen Steinsholt,Benjamin Aasen,Max Jansson,William Mehler
+Group Stage,Open Contender,Group C,2,Single game,Sandmann,The Imposters,Sandmann,15,11,,,,,Haye Hoffmann,Tomke Sandberg,Lasse Einspannier,Ingvi Örnolfsson
+Group Stage,Open Contender,Group D,2,Single game,Jewitt/Łochowski,Mosesgaard!,Jewitt/Łochowski,16,14,,,,,Max Łochowski,James Jewitt,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig
+Group Stage,Open Contender,Group D,2,Single game,Stort og Småt brændbart,chaumut,chaumut,10,15,,,,,Niklas Daugbjerg,Søren Høy,Umut Renkligül,Chau Doan
+Group Stage,Open Contender,Group D,2,Single game,KRC Blaze,Zwei weiße Tauben,KRC Blaze,15,4,,,,,Jared Boyle,Andrew Kuehl,Max Rodamer,Christoffer Sega
+Group Stage,Open Contender,Group E,2,Single game,Screams,Mother-in-law's dream,Mother-in-law's dream,11,15,,,,,Charlie Wilson,Jim Buhler,Malte Drauschke,Ben Stadler
+Group Stage,Open Contender,Group E,2,Single game,Capp/Hurley,Vagabundo Gato,Vagabundo Gato,13,15,,,,,Christian Hurley,Alex Capp,Virgilijus Peseckas,Gytis Buckiūnas
+Group Stage,Open Contender,Group E,2,Single game,Flying Focas,The Trickers,Flying Focas,15,9,,,,,Franco Munoz,Maximilian Portee,Daniel Henriksen,Ruben Møberg
+Group Stage,Open Contender,Group A,3,Single game,Nasenbori,NetWorkers,Nasenbori,15,7,,,,,Moritz Dubiel,Bo Carstensen,Hauke Wernecke,Fabian Hofacker
+Group Stage,Open Contender,Group A,3,Single game,What the duck is a kilometer?,Rømø Ultras,Rømø Ultras,14,16,,,,,Quinn Hufler,Jakob Blaaholm Nielsen,Noah Rohloff,Niklas Kopatz
+Group Stage,Open Contender,Group A,3,Single game,Team Rocket,Holy Spirit Spike,Team Rocket,15,12,,,,,Konstantin Breuer,Sebastian Christophe,Noah Nabe,David Lyngbye
+Group Stage,Open Contender,Group B,3,Single game,Lobster Boys,doesn't make anything,Lobster Boys,15,9,,,,,Christian Brødsgaard,Malte Klinkby,Jeremias-Caspar Podstawa,Jonathan Wulf
+Group Stage,Open Contender,Group B,3,Single game,Out Of Order,Spike Wazowski,Out Of Order,15,12,,,,,Nora Haas,Lou Washburn,Asbjørn Ditlev,Phillip Ravn
+Group Stage,Open Contender,Group B,3,Single game,TBA,Johnjohn,TBA,18,16,,,,,Mario Kurz,Paul Thoss,Jonas Jensen,Jonatan Hauge Steffensen
+Group Stage,Open Contender,Group C,3,Single game,Georg/Laura,Sandmann,Georg/Laura,15,7,,,,,Laura Kunzelmann,Georg Seiffarth,Haye Hoffmann,Tomke Sandberg
+Group Stage,Open Contender,Group C,3,Single game,KRC North,The Imposters,KRC North,15,5,,,,,Jørgen Steinsholt,Benjamin Aasen,Lasse Einspannier,Ingvi Örnolfsson
+Group Stage,Open Contender,Group C,3,Single game,Jam with the boys,Matadorerne,Jam with the boys,15,7,,,,,Max Jansson,William Mehler,Magnus  Karmark,Peter Madsen
+Group Stage,Open Contender,Group D,3,Single game,Jewitt/Łochowski,KRC Blaze,KRC Blaze,14,16,,,,,Max Łochowski,James Jewitt,Jared Boyle,Andrew Kuehl
+Group Stage,Open Contender,Group D,3,Single game,Stort og Småt brændbart,Zwei weiße Tauben,Stort og Småt brændbart,15,11,,,,,Niklas Daugbjerg,Søren Høy,Max Rodamer,Christoffer Sega
+Group Stage,Open Contender,Group D,3,Single game,chaumut,Mosesgaard!,chaumut,15,7,,,,,Umut Renkligül,Chau Doan,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig
+Group Stage,Open Contender,Group E,3,Single game,Screams,Flying Focas,Screams,15,5,,,,,Charlie Wilson,Jim Buhler,Franco Munoz,Maximilian Portee
+Group Stage,Open Contender,Group E,3,Single game,Capp/Hurley,The Trickers,Capp/Hurley,15,9,,,,,Christian Hurley,Alex Capp,Daniel Henriksen,Ruben Møberg
+Group Stage,Open Contender,Group E,3,Single game,Vagabundo Gato,Mother-in-law's dream,Mother-in-law's dream,11,15,,,,,Virgilijus Peseckas,Gytis Buckiūnas,Malte Drauschke,Ben Stadler
+Group Stage,Open Contender,Group A,4,Single game,Nasenbori,Team Rocket,Nasenbori,15,5,,,,,Moritz Dubiel,Bo Carstensen,Konstantin Breuer,Sebastian Christophe
+Group Stage,Open Contender,Group A,4,Single game,What the duck is a kilometer?,NetWorkers,What the duck is a kilometer?,15,10,,,,,Quinn Hufler,Jakob Blaaholm Nielsen,Hauke Wernecke,Fabian Hofacker
+Group Stage,Open Contender,Group A,4,Single game,Holy Spirit Spike,Rømø Ultras,Rømø Ultras,11,15,,,,,Noah Nabe,David Lyngbye,Noah Rohloff,Niklas Kopatz
+Group Stage,Open Contender,Group B,4,Single game,Lobster Boys,TBA,Lobster Boys,15,8,,,,,Christian Brødsgaard,Malte Klinkby,Mario Kurz,Paul Thoss
+Group Stage,Open Contender,Group B,4,Single game,Out Of Order,doesn't make anything,Out Of Order,15,11,,,,,Nora Haas,Lou Washburn,Jeremias-Caspar Podstawa,Jonathan Wulf
+Group Stage,Open Contender,Group B,4,Single game,Johnjohn,Spike Wazowski,Spike Wazowski,12,15,,,,,Jonas Jensen,Jonatan Hauge Steffensen,Asbjørn Ditlev,Phillip Ravn
+Group Stage,Open Contender,Group C,4,Single game,Georg/Laura,Jam with the boys,Georg/Laura,16,14,,,,,Laura Kunzelmann,Georg Seiffarth,Max Jansson,William Mehler
+Group Stage,Open Contender,Group C,4,Single game,KRC North,Sandmann,KRC North,15,9,,,,,Jørgen Steinsholt,Benjamin Aasen,Haye Hoffmann,Tomke Sandberg
+Group Stage,Open Contender,Group C,4,Single game,Matadorerne,The Imposters,Matadorerne,15,12,,,,,Magnus  Karmark,Peter Madsen,Lasse Einspannier,Ingvi Örnolfsson
+Group Stage,Open Contender,Group D,4,Single game,Jewitt/Łochowski,chaumut,chaumut,15,17,,,,,Max Łochowski,James Jewitt,Umut Renkligül,Chau Doan
+Group Stage,Open Contender,Group D,4,Single game,Stort og Småt brændbart,KRC Blaze,Stort og Småt brændbart,16,14,,,,,Niklas Daugbjerg,Søren Høy,Jared Boyle,Andrew Kuehl
+Group Stage,Open Contender,Group D,4,Single game,Mosesgaard!,Zwei weiße Tauben,Zwei weiße Tauben,8,15,,,,,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig,Max Rodamer,Christoffer Sega
+Group Stage,Open Contender,Group E,4,Single game,Screams,Vagabundo Gato,Screams,15,9,,,,,Charlie Wilson,Jim Buhler,Virgilijus Peseckas,Gytis Buckiūnas
+Group Stage,Open Contender,Group E,4,Single game,Capp/Hurley,Flying Focas,Capp/Hurley,15,7,,,,,Christian Hurley,Alex Capp,Franco Munoz,Maximilian Portee
+Group Stage,Open Contender,Group E,4,Single game,Mother-in-law's dream,The Trickers,Mother-in-law's dream,18,16,,,,,Malte Drauschke,Ben Stadler,Daniel Henriksen,Ruben Møberg
+Group Stage,Open Contender,Group A,5,Single game,Nasenbori,What the duck is a kilometer?,Nasenbori,15,13,,,,,Moritz Dubiel,Bo Carstensen,Quinn Hufler,Jakob Blaaholm Nielsen
+Group Stage,Open Contender,Group A,5,Single game,Team Rocket,Rømø Ultras,Rømø Ultras,8,15,,,,,Konstantin Breuer,Sebastian Christophe,Noah Rohloff,Niklas Kopatz
+Group Stage,Open Contender,Group A,5,Single game,NetWorkers,Holy Spirit Spike,Holy Spirit Spike,13,15,,,,,Hauke Wernecke,Fabian Hofacker,Noah Nabe,David Lyngbye
+Group Stage,Open Contender,Group B,5,Single game,Lobster Boys,Out Of Order,Lobster Boys,15,11,,,,,Christian Brødsgaard,Malte Klinkby,Nora Haas,Lou Washburn
+Group Stage,Open Contender,Group B,5,Single game,TBA,Spike Wazowski,Spike Wazowski,0,15,,,,,Mario Kurz,Paul Thoss,Asbjørn Ditlev,Phillip Ravn
+Group Stage,Open Contender,Group B,5,Single game,doesn't make anything,Johnjohn,Johnjohn,12,15,,,,,Jeremias-Caspar Podstawa,Jonathan Wulf,Jonas Jensen,Jonatan Hauge Steffensen
+Group Stage,Open Contender,Group C,5,Single game,Georg/Laura,KRC North,Georg/Laura,15,9,,,,,Laura Kunzelmann,Georg Seiffarth,Jørgen Steinsholt,Benjamin Aasen
+Group Stage,Open Contender,Group C,5,Single game,Jam with the boys,The Imposters,Jam with the boys,15,6,,,,,Max Jansson,William Mehler,Lasse Einspannier,Ingvi Örnolfsson
+Group Stage,Open Contender,Group C,5,Single game,Sandmann,Matadorerne,Sandmann,15,8,,,,,Haye Hoffmann,Tomke Sandberg,Magnus  Karmark,Peter Madsen
+Group Stage,Open Contender,Group D,5,Single game,Jewitt/Łochowski,Stort og Småt brændbart,Stort og Småt brændbart,20,21,,,,,Max Łochowski,James Jewitt,Niklas Daugbjerg,Søren Høy
+Group Stage,Open Contender,Group D,5,Single game,chaumut,Zwei weiße Tauben,chaumut,15,8,,,,,Umut Renkligül,Chau Doan,Max Rodamer,Christoffer Sega
+Group Stage,Open Contender,Group D,5,Single game,KRC Blaze,Mosesgaard!,KRC Blaze,15,8,,,,,Jared Boyle,Andrew Kuehl,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig
+Group Stage,Open Contender,Group E,5,Single game,Screams,Capp/Hurley,Capp/Hurley,14,16,,,,,Charlie Wilson,Jim Buhler,Christian Hurley,Alex Capp
+Group Stage,Open Contender,Group E,5,Single game,Vagabundo Gato,The Trickers,The Trickers,13,15,,,,,Virgilijus Peseckas,Gytis Buckiūnas,Daniel Henriksen,Ruben Møberg
+Group Stage,Open Contender,Group E,5,Single game,Flying Focas,Mother-in-law's dream,Mother-in-law's dream,4,15,,,,,Franco Munoz,Maximilian Portee,Malte Drauschke,Ben Stadler
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Georg/Laura,Jewitt/Łochowski,Georg/Laura,15,12,15,12,,,Laura Kunzelmann,Georg Seiffarth,Max Łochowski,James Jewitt
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Nasenbori,Capp/Hurley,Nasenbori,15,10,15,9,,,Moritz Dubiel,Bo Carstensen,Christian Hurley,Alex Capp
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Lobster Boys,Spike Wazowski,Lobster Boys,1,0,1,0,,,Christian Brødsgaard,Malte Klinkby,Asbjørn Ditlev,Phillip Ravn
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,chaumut,KRC North,chaumut,15,8,15,13,,,Umut Renkligül,Chau Doan,Jørgen Steinsholt,Benjamin Aasen
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Mother-in-law's dream,What the duck is a kilometer?,What the duck is a kilometer?,11,15,14,16,,,Malte Drauschke,Ben Stadler,Quinn Hufler,Jakob Blaaholm Nielsen
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Jam with the boys,KRC Blaze,Jam with the boys,10,15,19,17,15,9,Max Jansson,William Mehler,Jared Boyle,Andrew Kuehl
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Rømø Ultras,Screams,Screams,8,15,13,15,,,Noah Rohloff,Niklas Kopatz,Charlie Wilson,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Out Of Order,Stort og Småt brændbart,Stort og Småt brændbart,13,15,11,15,,,Nora Haas,Lou Washburn,Niklas Daugbjerg,Søren Høy
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Georg/Laura,Stort og Småt brændbart,Georg/Laura,15,9,15,8,,,Laura Kunzelmann,Georg Seiffarth,Niklas Daugbjerg,Søren Høy
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Nasenbori,Screams,Nasenbori,15,5,15,9,,,Moritz Dubiel,Bo Carstensen,Charlie Wilson,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Lobster Boys,Jam with the boys,Jam with the boys,14,16,13,15,,,Christian Brødsgaard,Malte Klinkby,Max Jansson,William Mehler
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,chaumut,What the duck is a kilometer?,chaumut,15,13,15,11,,,Umut Renkligül,Chau Doan,Quinn Hufler,Jakob Blaaholm Nielsen
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Out Of Order,Jewitt/Łochowski,Out Of Order,15,11,15,13,,,Nora Haas,Lou Washburn,Max Łochowski,James Jewitt
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Rømø Ultras,Capp/Hurley,Rømø Ultras,15,11,13,15,15,10,Noah Rohloff,Niklas Kopatz,Christian Hurley,Alex Capp
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,KRC Blaze,Spike Wazowski,KRC Blaze,15,12,15,3,,,Jared Boyle,Andrew Kuehl,Asbjørn Ditlev,Phillip Ravn
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Georg/Laura,chaumut,Georg/Laura,15,11,15,10,,,Laura Kunzelmann,Georg Seiffarth,Umut Renkligül,Chau Doan
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Nasenbori,Jam with the boys,Nasenbori,15,9,15,9,,,Moritz Dubiel,Bo Carstensen,Max Jansson,William Mehler
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,What the duck is a kilometer?,Stort og Småt brændbart,What the duck is a kilometer?,15,11,14,16,17,15,Quinn Hufler,Jakob Blaaholm Nielsen,Niklas Daugbjerg,Søren Høy
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Lobster Boys,Screams,Lobster Boys,15,8,11,15,15,8,Christian Brødsgaard,Malte Klinkby,Charlie Wilson,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Out Of Order,KRC North,Out Of Order,15,11,15,13,,,Nora Haas,Lou Washburn,Jørgen Steinsholt,Benjamin Aasen
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Rømø Ultras,KRC Blaze,Rømø Ultras,17,15,15,11,,,Noah Rohloff,Niklas Kopatz,Jared Boyle,Andrew Kuehl
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,Spike Wazowski,Capp/Hurley,Spike Wazowski,21,18,1,0,,,Asbjørn Ditlev,Phillip Ravn,Christian Hurley,Alex Capp
+Bracket Stage,Open Contender,Bracket A,Final,Best of 3,Georg/Laura,Nasenbori,Nasenbori,17,21,19,21,,,Laura Kunzelmann,Georg Seiffarth,Moritz Dubiel,Bo Carstensen
+Bracket Stage,Open Contender,Bracket A,P3: Final,Best of 3,Jam with the boys,chaumut,chaumut,15,17,14,16,,,Max Jansson,William Mehler,Umut Renkligül,Chau Doan
+Bracket Stage,Open Contender,Bracket A,P5: Final,Best of 3,What the duck is a kilometer?,Lobster Boys,What the duck is a kilometer?,21,12,1,0,,,Quinn Hufler,Jakob Blaaholm Nielsen,Christian Brødsgaard,Malte Klinkby
+Bracket Stage,Open Contender,Bracket A,P7: Final,Best of 3,Screams,Stort og Småt brændbart,Screams,10,15,15,10,18,16,Charlie Wilson,Jim Buhler,Niklas Daugbjerg,Søren Høy
+Bracket Stage,Open Contender,Bracket A,P9: Final,Best of 3,Out Of Order,Rømø Ultras,Rømø Ultras,13,15,12,15,,,Nora Haas,Lou Washburn,Noah Rohloff,Niklas Kopatz
+Bracket Stage,Open Contender,Bracket A,P11: Final,Best of 3,KRC Blaze,KRC North,KRC North,15,10,7,15,11,15,Jared Boyle,Andrew Kuehl,Jørgen Steinsholt,Benjamin Aasen
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,TBA,The Imposters,The Imposters,12,15,15,12,11,15,Mario Kurz,Paul Thoss,Lasse Einspannier,Ingvi Örnolfsson
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,Team Rocket,Mosesgaard!,Team Rocket,15,13,15,7,,,Konstantin Breuer,Sebastian Christophe,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,Johnjohn,NetWorkers,Johnjohn,16,18,15,8,15,8,Jonas Jensen,Jonatan Hauge Steffensen,Hauke Wernecke,Fabian Hofacker
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,Zwei weiße Tauben,doesn't make anything,doesn't make anything,11,15,17,19,,,Max Rodamer,Christoffer Sega,Jeremias-Caspar Podstawa,Jonathan Wulf
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,The Trickers,Flying Focas,The Trickers,15,13,15,10,,,Daniel Henriksen,Ruben Møberg,Franco Munoz,Maximilian Portee
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,Holy Spirit Spike,Matadorerne,Holy Spirit Spike,1,0,1,0,,,Noah Nabe,David Lyngbye,Magnus  Karmark,Peter Madsen
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Vagabundo Gato,Holy Spirit Spike,Vagabundo Gato,15,11,15,10,,,Virgilijus Peseckas,Gytis Buckiūnas,Noah Nabe,David Lyngbye
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Sandmann,The Trickers,Sandmann,15,6,15,11,,,Haye Hoffmann,Tomke Sandberg,Daniel Henriksen,Ruben Møberg
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,The Imposters,doesn't make anything,doesn't make anything,11,15,10,15,,,Lasse Einspannier,Ingvi Örnolfsson,Jeremias-Caspar Podstawa,Jonathan Wulf
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Team Rocket,Johnjohn,Team Rocket,15,13,15,13,,,Konstantin Breuer,Sebastian Christophe,Jonas Jensen,Jonatan Hauge Steffensen
+Bracket Stage,Open Contender,Bracket B,P9: Quarter-final,Best of 3,Zwei weiße Tauben,TBA,Zwei weiße Tauben,15,0,15,0,,,Max Rodamer,Christoffer Sega,Mario Kurz,Paul Thoss
+Bracket Stage,Open Contender,Bracket B,P9: Quarter-final,Best of 3,NetWorkers,Mosesgaard!,NetWorkers,15,8,15,13,,,Hauke Wernecke,Fabian Hofacker,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig
+Bracket Stage,Open Contender,Bracket B,Semi-final,Best of 3,Vagabundo Gato,Team Rocket,Team Rocket,15,12,14,16,14,16,Virgilijus Peseckas,Gytis Buckiūnas,Konstantin Breuer,Sebastian Christophe
+Bracket Stage,Open Contender,Bracket B,Semi-final,Best of 3,Sandmann,doesn't make anything,Sandmann,15,10,15,12,,,Haye Hoffmann,Tomke Sandberg,Jeremias-Caspar Podstawa,Jonathan Wulf
+Bracket Stage,Open Contender,Bracket B,P5: Semi-final,Best of 3,Johnjohn,Holy Spirit Spike,Johnjohn,13,15,15,11,15,12,Jonas Jensen,Jonatan Hauge Steffensen,Noah Nabe,David Lyngbye
+Bracket Stage,Open Contender,Bracket B,P5: Semi-final,Best of 3,The Imposters,The Trickers,The Trickers,12,15,13,15,,,Lasse Einspannier,Ingvi Örnolfsson,Daniel Henriksen,Ruben Møberg
+Bracket Stage,Open Contender,Bracket B,P9: Semi-final,Best of 3,Matadorerne,NetWorkers,NetWorkers,15,12,12,15,12,15,Magnus  Karmark,Peter Madsen,Hauke Wernecke,Fabian Hofacker
+Bracket Stage,Open Contender,Bracket B,P9: Semi-final,Best of 3,Flying Focas,Zwei weiße Tauben,Zwei weiße Tauben,0,15,0,15,,,Franco Munoz,Maximilian Portee,Max Rodamer,Christoffer Sega
+Bracket Stage,Open Contender,Bracket B,Final,Best of 3,Team Rocket,Sandmann,Team Rocket,13,15,15,13,15,13,Konstantin Breuer,Sebastian Christophe,Haye Hoffmann,Tomke Sandberg
+Bracket Stage,Open Contender,Bracket B,P3: Final,Best of 3,doesn't make anything,Vagabundo Gato,doesn't make anything,19,17,13,15,15,7,Jeremias-Caspar Podstawa,Jonathan Wulf,Virgilijus Peseckas,Gytis Buckiūnas
+Bracket Stage,Open Contender,Bracket B,P5: Final,Best of 3,Johnjohn,The Trickers,Johnjohn,15,12,15,13,,,Jonas Jensen,Jonatan Hauge Steffensen,Daniel Henriksen,Ruben Møberg
+Bracket Stage,Open Contender,Bracket B,P7: Final,Best of 3,The Imposters,Holy Spirit Spike,Holy Spirit Spike,20,21,11,15,,,Lasse Einspannier,Ingvi Örnolfsson,Noah Nabe,David Lyngbye
+Bracket Stage,Open Contender,Bracket B,P9: Final,Best of 3,NetWorkers,Zwei weiße Tauben,Zwei weiße Tauben,16,21,0,1,,,Hauke Wernecke,Fabian Hofacker,Max Rodamer,Christoffer Sega
+Bracket Stage,Open Contender,Bracket B,P13: Final,Best of 3,Mosesgaard!,TBA,Mosesgaard!,15,0,15,0,,,Marcus Maarbjerg Mosegaard,Dennis Moesgaard Dyrvig,Mario Kurz,Paul Thoss
+Group Stage,Open Intermediate,Group A,1,Single game,Flunder & Aal,Adunk og Co.,Flunder & Aal,15,10,,,,,Jana Zimmer,Paul Thiessen,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Open Intermediate,Group A,1,Single game,Wiesbadener Hoodboys,Net ninjas,Wiesbadener Hoodboys,15,7,,,,,Niko Kossiwakis,Max Syndikus,Kasper Underbjerg,Lasse Gregersen
+Group Stage,Open Intermediate,Group A,1,Single game,Aalborg Spiketroopers,Redekassen,Redekassen,14,16,,,,,Anders Aaen Springborg,Magnus Bredvig,Jakob Ravn,Jacob Lerche Nygaard
+Group Stage,Open Intermediate,Group B,1,Single game,Space Balls,Just engineers,Space Balls,15,7,,,,,Jannis Fritsche,Jonas Hoffmeister,Niels Erik Sloth,Christoffer Brødsgaard
+Group Stage,Open Intermediate,Group B,1,Single game,Serve-ivors,Sol og palmer,Serve-ivors,15,6,,,,,Adam Landschoff Sommer,Korbi sch,Sebastian Laursen,Jakob Fris Hansen
+Group Stage,Open Intermediate,Group B,1,Single game,Dachshund,Maskinmestrerne,Maskinmestrerne,8,15,,,,,Martin Jes Buus,Esben Cenholt Østergaard,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen
+Group Stage,Open Intermediate,Group A,2,Single game,Flunder & Aal,Net ninjas,Flunder & Aal,15,5,,,,,Jana Zimmer,Paul Thiessen,Kasper Underbjerg,Lasse Gregersen
+Group Stage,Open Intermediate,Group A,2,Single game,Wiesbadener Hoodboys,Aalborg Spiketroopers,Wiesbadener Hoodboys,15,11,,,,,Niko Kossiwakis,Max Syndikus,Anders Aaen Springborg,Magnus Bredvig
+Group Stage,Open Intermediate,Group A,2,Single game,Redekassen,Adunk og Co.,Adunk og Co.,13,15,,,,,Jakob Ravn,Jacob Lerche Nygaard,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Open Intermediate,Group B,2,Single game,Space Balls,Sol og palmer,Space Balls,15,11,,,,,Jannis Fritsche,Jonas Hoffmeister,Sebastian Laursen,Jakob Fris Hansen
+Group Stage,Open Intermediate,Group B,2,Single game,Serve-ivors,Dachshund,Dachshund,10,15,,,,,Adam Landschoff Sommer,Korbi sch,Martin Jes Buus,Esben Cenholt Østergaard
+Group Stage,Open Intermediate,Group B,2,Single game,Maskinmestrerne,Just engineers,Maskinmestrerne,15,11,,,,,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen,Niels Erik Sloth,Christoffer Brødsgaard
+Group Stage,Open Intermediate,Group A,3,Single game,Flunder & Aal,Redekassen,Flunder & Aal,15,13,,,,,Jana Zimmer,Paul Thiessen,Jakob Ravn,Jacob Lerche Nygaard
+Group Stage,Open Intermediate,Group A,3,Single game,Wiesbadener Hoodboys,Adunk og Co.,Wiesbadener Hoodboys,15,8,,,,,Niko Kossiwakis,Max Syndikus,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Open Intermediate,Group A,3,Single game,Aalborg Spiketroopers,Net ninjas,Aalborg Spiketroopers,15,9,,,,,Anders Aaen Springborg,Magnus Bredvig,Kasper Underbjerg,Lasse Gregersen
+Group Stage,Open Intermediate,Group B,3,Single game,Space Balls,Maskinmestrerne,Maskinmestrerne,15,17,,,,,Jannis Fritsche,Jonas Hoffmeister,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen
+Group Stage,Open Intermediate,Group B,3,Single game,Serve-ivors,Just engineers,Serve-ivors,15,10,,,,,Adam Landschoff Sommer,Korbi sch,Niels Erik Sloth,Christoffer Brødsgaard
+Group Stage,Open Intermediate,Group B,3,Single game,Dachshund,Sol og palmer,Dachshund,21,19,,,,,Martin Jes Buus,Esben Cenholt Østergaard,Sebastian Laursen,Jakob Fris Hansen
+Group Stage,Open Intermediate,Group A,4,Single game,Flunder & Aal,Aalborg Spiketroopers,Flunder & Aal,15,9,,,,,Jana Zimmer,Paul Thiessen,Anders Aaen Springborg,Magnus Bredvig
+Group Stage,Open Intermediate,Group A,4,Single game,Wiesbadener Hoodboys,Redekassen,Wiesbadener Hoodboys,15,13,,,,,Niko Kossiwakis,Max Syndikus,Jakob Ravn,Jacob Lerche Nygaard
+Group Stage,Open Intermediate,Group A,4,Single game,Net ninjas,Adunk og Co.,Adunk og Co.,7,15,,,,,Kasper Underbjerg,Lasse Gregersen,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Open Intermediate,Group B,4,Single game,Space Balls,Dachshund,Space Balls,15,10,,,,,Jannis Fritsche,Jonas Hoffmeister,Martin Jes Buus,Esben Cenholt Østergaard
+Group Stage,Open Intermediate,Group B,4,Single game,Serve-ivors,Maskinmestrerne,Maskinmestrerne,10,15,,,,,Adam Landschoff Sommer,Korbi sch,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen
+Group Stage,Open Intermediate,Group B,4,Single game,Sol og palmer,Just engineers,Just engineers,14,16,,,,,Sebastian Laursen,Jakob Fris Hansen,Niels Erik Sloth,Christoffer Brødsgaard
+Group Stage,Open Intermediate,Group A,5,Single game,Flunder & Aal,Wiesbadener Hoodboys,Flunder & Aal,16,14,,,,,Jana Zimmer,Paul Thiessen,Niko Kossiwakis,Max Syndikus
+Group Stage,Open Intermediate,Group A,5,Single game,Aalborg Spiketroopers,Adunk og Co.,Adunk og Co.,12,15,,,,,Anders Aaen Springborg,Magnus Bredvig,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Open Intermediate,Group A,5,Single game,Redekassen,Net ninjas,Redekassen,15,9,,,,,Jakob Ravn,Jacob Lerche Nygaard,Kasper Underbjerg,Lasse Gregersen
+Group Stage,Open Intermediate,Group B,5,Single game,Space Balls,Serve-ivors,Space Balls,15,7,,,,,Jannis Fritsche,Jonas Hoffmeister,Adam Landschoff Sommer,Korbi sch
+Group Stage,Open Intermediate,Group B,5,Single game,Dachshund,Just engineers,Dachshund,15,6,,,,,Martin Jes Buus,Esben Cenholt Østergaard,Niels Erik Sloth,Christoffer Brødsgaard
+Group Stage,Open Intermediate,Group B,5,Single game,Maskinmestrerne,Sol og palmer,Maskinmestrerne,15,8,,,,,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen,Sebastian Laursen,Jakob Fris Hansen
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Dachshund,Net ninjas,Dachshund,15,6,12,15,15,6,Martin Jes Buus,Esben Cenholt Østergaard,Kasper Underbjerg,Lasse Gregersen
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Adunk og Co.,Sol og palmer,Adunk og Co.,1,0,1,0,,,Martin Jakobsen,Asbjørn Malmgaard,Sebastian Laursen,Jakob Fris Hansen
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Redekassen,Just engineers,Redekassen,19,17,15,6,,,Jakob Ravn,Jacob Lerche Nygaard,Niels Erik Sloth,Christoffer Brødsgaard
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Serve-ivors,Aalborg Spiketroopers,Aalborg Spiketroopers,14,16,16,14,12,15,Adam Landschoff Sommer,Korbi sch,Anders Aaen Springborg,Magnus Bredvig
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Flunder & Aal,Aalborg Spiketroopers,Flunder & Aal,15,10,15,12,,,Jana Zimmer,Paul Thiessen,Anders Aaen Springborg,Magnus Bredvig
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Maskinmestrerne,Redekassen,Maskinmestrerne,20,18,9,15,15,9,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen,Jakob Ravn,Jacob Lerche Nygaard
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Space Balls,Adunk og Co.,Adunk og Co.,0,1,0,1,,,Jannis Fritsche,Jonas Hoffmeister,Martin Jakobsen,Asbjørn Malmgaard
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Wiesbadener Hoodboys,Dachshund,Wiesbadener Hoodboys,15,5,15,13,,,Niko Kossiwakis,Max Syndikus,Martin Jes Buus,Esben Cenholt Østergaard
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,Flunder & Aal,Wiesbadener Hoodboys,Wiesbadener Hoodboys,20,21,15,9,12,15,Jana Zimmer,Paul Thiessen,Niko Kossiwakis,Max Syndikus
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,Maskinmestrerne,Adunk og Co.,Maskinmestrerne,9,15,15,11,17,15,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen,Martin Jakobsen,Asbjørn Malmgaard
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,Dachshund,Aalborg Spiketroopers,Dachshund,5,15,15,13,15,12,Martin Jes Buus,Esben Cenholt Østergaard,Anders Aaen Springborg,Magnus Bredvig
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,Space Balls,Redekassen,Redekassen,11,15,15,8,13,15,Jannis Fritsche,Jonas Hoffmeister,Jakob Ravn,Jacob Lerche Nygaard
+Bracket Stage,Open Intermediate,Bracket A,P9: Semi-final,Best of 3,Serve-ivors,Net ninjas,Net ninjas,15,9,16,18,13,15,Adam Landschoff Sommer,Korbi sch,Kasper Underbjerg,Lasse Gregersen
+Bracket Stage,Open Intermediate,Bracket A,P9: Semi-final,Best of 3,Just engineers,Sol og palmer,Just engineers,15,8,15,6,,,Niels Erik Sloth,Christoffer Brødsgaard,Sebastian Laursen,Jakob Fris Hansen
+Bracket Stage,Open Intermediate,Bracket A,Final,Best of 3,Wiesbadener Hoodboys,Maskinmestrerne,Wiesbadener Hoodboys,15,10,19,17,,,Niko Kossiwakis,Max Syndikus,Jakob Skovgaard-Jensen,Benjamin Schultz Laursen
+Bracket Stage,Open Intermediate,Bracket A,P3: Final,Best of 3,Adunk og Co.,Flunder & Aal,Flunder & Aal,0,1,0,1,,,Martin Jakobsen,Asbjørn Malmgaard,Jana Zimmer,Paul Thiessen
+Bracket Stage,Open Intermediate,Bracket A,P5: Final,Best of 3,Dachshund,Redekassen,Redekassen,8,15,18,20,,,Martin Jes Buus,Esben Cenholt Østergaard,Jakob Ravn,Jacob Lerche Nygaard
+Bracket Stage,Open Intermediate,Bracket A,P7: Final,Best of 3,Space Balls,Aalborg Spiketroopers,Aalborg Spiketroopers,15,11,12,15,12,15,Jannis Fritsche,Jonas Hoffmeister,Anders Aaen Springborg,Magnus Bredvig
+Bracket Stage,Open Intermediate,Bracket A,P9: Final,Best of 3,Net ninjas,Just engineers,Net ninjas,15,12,18,16,,,Kasper Underbjerg,Lasse Gregersen,Niels Erik Sloth,Christoffer Brødsgaard
+Bracket Stage,Open Intermediate,Bracket A,P11: Final,Best of 3,Sol og palmer,Serve-ivors,Serve-ivors,10,15,13,15,,,Sebastian Laursen,Jakob Fris Hansen,Adam Landschoff Sommer,Korbi sch
+Group Stage,Women's Contender,Group A,1,Single game,Roundabout Rallies,Allyance,Roundabout Rallies,15,12,,,,,Hanna Westerland,Rebecca Mollberg,Lynn Knapp,Annabel Malle
+Group Stage,Women's Contender,Group A,1,Single game,just two small town girls,Team Sour Cream,just two small town girls,15,8,,,,,Constanze Lehner,Sophia Walter,Astrid Andreassen,Christina Lund Nielsen
+Group Stage,Women's Contender,Group A,1,Single game,The Incrediballs,Extra Hot Choccies,The Incrediballs,15,6,,,,,Ida Finsen Flensted,Maja Nielsen,Abbey Capp,Bec Dumesny
+Group Stage,Women's Contender,Group B,1,Single game,Long Short,Sunflower Seeds,Long Short,17,15,,,,,Ellinor Gustavsson,Emmy Dahlquist,Nguyen Thi Thu Hien,Jule Grill
+Group Stage,Women's Contender,Group B,1,Single game,Wagamamas,Lunch Ladies,Wagamamas,15,2,,,,,Una Ognjenovic,Sophie Cooke,Rikke Fredberg Jørgensen,Nadia Vibenholm
+Group Stage,Women's Contender,Group B,1,Single game,T-rex serve,Nord-Ostsee-Kanal,Nord-Ostsee-Kanal,16,18,,,,,Rasmine Bak,Rikke Bloch,Sarah Steinbrecht,Carolin Oberländer
+Group Stage,Women's Contender,Group C,1,Single game,DINO,Tæverne,Tæverne,10,15,,,,,Jeanette Malene Vittrup,Mie Korsholt,Maja Liengaard,Johanne Frederiksen
+Group Stage,Women's Contender,Group C,1,Single game,D'damer,02iteam,02iteam,10,15,,,,,Josefine Kramer,Sofie Kruse,Pernille Sander,Signe Erritzøe
+Group Stage,Women's Contender,Group C,1,Single game,SkyHigh Smashers,Klönschnack,Klönschnack,5,15,,,,,Thea Højgaard,Sandra Sejersen,Finja Rentsch,Dominika Genter
+Group Stage,Women's Contender,Group A,2,Single game,Roundabout Rallies,Team Sour Cream,Roundabout Rallies,15,12,,,,,Hanna Westerland,Rebecca Mollberg,Astrid Andreassen,Christina Lund Nielsen
+Group Stage,Women's Contender,Group A,2,Single game,just two small town girls,The Incrediballs,just two small town girls,15,11,,,,,Constanze Lehner,Sophia Walter,Ida Finsen Flensted,Maja Nielsen
+Group Stage,Women's Contender,Group A,2,Single game,Extra Hot Choccies,Allyance,Allyance,10,15,,,,,Abbey Capp,Bec Dumesny,Lynn Knapp,Annabel Malle
+Group Stage,Women's Contender,Group B,2,Single game,Long Short,Lunch Ladies,Long Short,15,7,,,,,Ellinor Gustavsson,Emmy Dahlquist,Rikke Fredberg Jørgensen,Nadia Vibenholm
+Group Stage,Women's Contender,Group B,2,Single game,Wagamamas,T-rex serve,T-rex serve,12,15,,,,,Una Ognjenovic,Sophie Cooke,Rasmine Bak,Rikke Bloch
+Group Stage,Women's Contender,Group B,2,Single game,Nord-Ostsee-Kanal,Sunflower Seeds,Sunflower Seeds,13,15,,,,,Sarah Steinbrecht,Carolin Oberländer,Nguyen Thi Thu Hien,Jule Grill
+Group Stage,Women's Contender,Group C,2,Single game,DINO,02iteam,02iteam,10,15,,,,,Jeanette Malene Vittrup,Mie Korsholt,Pernille Sander,Signe Erritzøe
+Group Stage,Women's Contender,Group C,2,Single game,D'damer,SkyHigh Smashers,SkyHigh Smashers,8,15,,,,,Josefine Kramer,Sofie Kruse,Thea Højgaard,Sandra Sejersen
+Group Stage,Women's Contender,Group C,2,Single game,Klönschnack,Tæverne,Klönschnack,15,6,,,,,Finja Rentsch,Dominika Genter,Maja Liengaard,Johanne Frederiksen
+Group Stage,Women's Contender,Group A,3,Single game,Roundabout Rallies,Extra Hot Choccies,Roundabout Rallies,15,8,,,,,Hanna Westerland,Rebecca Mollberg,Abbey Capp,Bec Dumesny
+Group Stage,Women's Contender,Group A,3,Single game,just two small town girls,Allyance,just two small town girls,15,9,,,,,Constanze Lehner,Sophia Walter,Lynn Knapp,Annabel Malle
+Group Stage,Women's Contender,Group A,3,Single game,The Incrediballs,Team Sour Cream,The Incrediballs,15,10,,,,,Ida Finsen Flensted,Maja Nielsen,Astrid Andreassen,Christina Lund Nielsen
+Group Stage,Women's Contender,Group B,3,Single game,Long Short,Nord-Ostsee-Kanal,Nord-Ostsee-Kanal,10,15,,,,,Ellinor Gustavsson,Emmy Dahlquist,Sarah Steinbrecht,Carolin Oberländer
+Group Stage,Women's Contender,Group B,3,Single game,Wagamamas,Sunflower Seeds,Sunflower Seeds,7,15,,,,,Una Ognjenovic,Sophie Cooke,Nguyen Thi Thu Hien,Jule Grill
+Group Stage,Women's Contender,Group B,3,Single game,T-rex serve,Lunch Ladies,T-rex serve,17,15,,,,,Rasmine Bak,Rikke Bloch,Rikke Fredberg Jørgensen,Nadia Vibenholm
+Group Stage,Women's Contender,Group C,3,Single game,DINO,Klönschnack,Klönschnack,8,15,,,,,Jeanette Malene Vittrup,Mie Korsholt,Finja Rentsch,Dominika Genter
+Group Stage,Women's Contender,Group C,3,Single game,D'damer,Tæverne,Tæverne,10,15,,,,,Josefine Kramer,Sofie Kruse,Maja Liengaard,Johanne Frederiksen
+Group Stage,Women's Contender,Group C,3,Single game,SkyHigh Smashers,02iteam,02iteam,7,15,,,,,Thea Højgaard,Sandra Sejersen,Pernille Sander,Signe Erritzøe
+Group Stage,Women's Contender,Group A,4,Single game,Roundabout Rallies,The Incrediballs,Roundabout Rallies,15,9,,,,,Hanna Westerland,Rebecca Mollberg,Ida Finsen Flensted,Maja Nielsen
+Group Stage,Women's Contender,Group A,4,Single game,just two small town girls,Extra Hot Choccies,just two small town girls,15,5,,,,,Constanze Lehner,Sophia Walter,Abbey Capp,Bec Dumesny
+Group Stage,Women's Contender,Group A,4,Single game,Team Sour Cream,Allyance,Allyance,12,15,,,,,Astrid Andreassen,Christina Lund Nielsen,Lynn Knapp,Annabel Malle
+Group Stage,Women's Contender,Group B,4,Single game,Long Short,T-rex serve,T-rex serve,10,15,,,,,Ellinor Gustavsson,Emmy Dahlquist,Rasmine Bak,Rikke Bloch
+Group Stage,Women's Contender,Group B,4,Single game,Wagamamas,Nord-Ostsee-Kanal,Wagamamas,15,12,,,,,Una Ognjenovic,Sophie Cooke,Sarah Steinbrecht,Carolin Oberländer
+Group Stage,Women's Contender,Group B,4,Single game,Lunch Ladies,Sunflower Seeds,Sunflower Seeds,6,15,,,,,Rikke Fredberg Jørgensen,Nadia Vibenholm,Nguyen Thi Thu Hien,Jule Grill
+Group Stage,Women's Contender,Group C,4,Single game,DINO,SkyHigh Smashers,SkyHigh Smashers,8,15,,,,,Jeanette Malene Vittrup,Mie Korsholt,Thea Højgaard,Sandra Sejersen
+Group Stage,Women's Contender,Group C,4,Single game,D'damer,Klönschnack,Klönschnack,5,15,,,,,Josefine Kramer,Sofie Kruse,Finja Rentsch,Dominika Genter
+Group Stage,Women's Contender,Group C,4,Single game,02iteam,Tæverne,02iteam,15,9,,,,,Pernille Sander,Signe Erritzøe,Maja Liengaard,Johanne Frederiksen
+Group Stage,Women's Contender,Group A,5,Single game,Roundabout Rallies,just two small town girls,Roundabout Rallies,17,15,,,,,Hanna Westerland,Rebecca Mollberg,Constanze Lehner,Sophia Walter
+Group Stage,Women's Contender,Group A,5,Single game,The Incrediballs,Allyance,The Incrediballs,15,5,,,,,Ida Finsen Flensted,Maja Nielsen,Lynn Knapp,Annabel Malle
+Group Stage,Women's Contender,Group A,5,Single game,Extra Hot Choccies,Team Sour Cream,Team Sour Cream,11,15,,,,,Abbey Capp,Bec Dumesny,Astrid Andreassen,Christina Lund Nielsen
+Group Stage,Women's Contender,Group B,5,Single game,Long Short,Wagamamas,Wagamamas,12,15,,,,,Ellinor Gustavsson,Emmy Dahlquist,Una Ognjenovic,Sophie Cooke
+Group Stage,Women's Contender,Group B,5,Single game,T-rex serve,Sunflower Seeds,Sunflower Seeds,9,15,,,,,Rasmine Bak,Rikke Bloch,Nguyen Thi Thu Hien,Jule Grill
+Group Stage,Women's Contender,Group B,5,Single game,Nord-Ostsee-Kanal,Lunch Ladies,Nord-Ostsee-Kanal,15,4,,,,,Sarah Steinbrecht,Carolin Oberländer,Rikke Fredberg Jørgensen,Nadia Vibenholm
+Group Stage,Women's Contender,Group C,5,Single game,DINO,D'damer,D'damer,8,15,,,,,Jeanette Malene Vittrup,Mie Korsholt,Josefine Kramer,Sofie Kruse
+Group Stage,Women's Contender,Group C,5,Single game,SkyHigh Smashers,Tæverne,Tæverne,10,15,,,,,Thea Højgaard,Sandra Sejersen,Maja Liengaard,Johanne Frederiksen
+Group Stage,Women's Contender,Group C,5,Single game,Klönschnack,02iteam,Klönschnack,15,11,,,,,Finja Rentsch,Dominika Genter,Pernille Sander,Signe Erritzøe
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Sunflower Seeds,02iteam,Sunflower Seeds,15,8,15,7,,,Nguyen Thi Thu Hien,Jule Grill,Pernille Sander,Signe Erritzøe
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,The Incrediballs,Klönschnack,The Incrediballs,15,9,15,5,,,Ida Finsen Flensted,Maja Nielsen,Finja Rentsch,Dominika Genter
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Nord-Ostsee-Kanal,Lunch Ladies,Nord-Ostsee-Kanal,15,4,15,11,,,Sarah Steinbrecht,Carolin Oberländer,Rikke Fredberg Jørgensen,Nadia Vibenholm
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Wagamamas,Extra Hot Choccies,Wagamamas,15,7,15,9,,,Una Ognjenovic,Sophie Cooke,Abbey Capp,Bec Dumesny
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,T-rex serve,Team Sour Cream,T-rex serve,15,10,15,11,,,Rasmine Bak,Rikke Bloch,Astrid Andreassen,Christina Lund Nielsen
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Long Short,Allyance,Long Short,15,11,11,15,15,11,Ellinor Gustavsson,Emmy Dahlquist,Lynn Knapp,Annabel Malle
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Roundabout Rallies,Long Short,Roundabout Rallies,15,7,15,8,,,Hanna Westerland,Rebecca Mollberg,Ellinor Gustavsson,Emmy Dahlquist
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,just two small town girls,T-rex serve,just two small town girls,17,15,15,8,,,Constanze Lehner,Sophia Walter,Rasmine Bak,Rikke Bloch
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Sunflower Seeds,Wagamamas,Sunflower Seeds,15,13,15,10,,,Nguyen Thi Thu Hien,Jule Grill,Una Ognjenovic,Sophie Cooke
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,The Incrediballs,Nord-Ostsee-Kanal,Nord-Ostsee-Kanal,15,12,8,15,11,15,Ida Finsen Flensted,Maja Nielsen,Sarah Steinbrecht,Carolin Oberländer
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Extra Hot Choccies,02iteam,02iteam,12,15,15,10,13,15,Abbey Capp,Bec Dumesny,Pernille Sander,Signe Erritzøe
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Lunch Ladies,Klönschnack,Klönschnack,15,8,10,15,14,16,Rikke Fredberg Jørgensen,Nadia Vibenholm,Finja Rentsch,Dominika Genter
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,Roundabout Rallies,Nord-Ostsee-Kanal,Nord-Ostsee-Kanal,19,21,16,21,,,Hanna Westerland,Rebecca Mollberg,Sarah Steinbrecht,Carolin Oberländer
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,just two small town girls,Sunflower Seeds,Sunflower Seeds,15,10,10,15,13,15,Constanze Lehner,Sophia Walter,Nguyen Thi Thu Hien,Jule Grill
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,The Incrediballs,Long Short,The Incrediballs,15,9,15,11,,,Ida Finsen Flensted,Maja Nielsen,Ellinor Gustavsson,Emmy Dahlquist
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Wagamamas,T-rex serve,Wagamamas,1,0,1,0,,,Una Ognjenovic,Sophie Cooke,Rasmine Bak,Rikke Bloch
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,Allyance,Klönschnack,Allyance,15,8,15,10,,,Lynn Knapp,Annabel Malle,Finja Rentsch,Dominika Genter
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,Team Sour Cream,02iteam,Team Sour Cream,15,7,15,5,,,Astrid Andreassen,Christina Lund Nielsen,Pernille Sander,Signe Erritzøe
+Bracket Stage,Women's Contender,Bracket A,Final,Best of 3,Nord-Ostsee-Kanal,Sunflower Seeds,Nord-Ostsee-Kanal,21,19,21,17,,,Sarah Steinbrecht,Carolin Oberländer,Nguyen Thi Thu Hien,Jule Grill
+Bracket Stage,Women's Contender,Bracket A,P3: Final,Best of 3,just two small town girls,Roundabout Rallies,Roundabout Rallies,15,11,11,15,11,15,Constanze Lehner,Sophia Walter,Hanna Westerland,Rebecca Mollberg
+Bracket Stage,Women's Contender,Bracket A,P5: Final,Best of 3,The Incrediballs,Wagamamas,The Incrediballs,15,10,10,15,15,10,Ida Finsen Flensted,Maja Nielsen,Una Ognjenovic,Sophie Cooke
+Bracket Stage,Women's Contender,Bracket A,P7: Final,Best of 3,T-rex serve,Long Short,T-rex serve,15,11,15,10,,,Rasmine Bak,Rikke Bloch,Ellinor Gustavsson,Emmy Dahlquist
+Bracket Stage,Women's Contender,Bracket A,P9: Final,Best of 3,Allyance,Team Sour Cream,Team Sour Cream,14,16,11,15,,,Lynn Knapp,Annabel Malle,Astrid Andreassen,Christina Lund Nielsen
+Bracket Stage,Women's Contender,Bracket A,P11: Final,Best of 3,02iteam,Klönschnack,Klönschnack,15,11,13,15,16,18,Pernille Sander,Signe Erritzøe,Finja Rentsch,Dominika Genter
+Bracket Stage,Women's Contender,Bracket A,P13: Final,Best of 3,Lunch Ladies,Extra Hot Choccies,Lunch Ladies,15,10,13,15,15,11,Rikke Fredberg Jørgensen,Nadia Vibenholm,Abbey Capp,Bec Dumesny
+Women's B-pool,Women's Contender,Group A,1,Best of 3,SkyHigh Smashers,D'damer,SkyHigh Smashers,15,8,15,11,,,Thea Højgaard,Sandra Sejersen,Josefine Kramer,Sofie Kruse
+Women's B-pool,Women's Contender,Group A,2,Best of 3,SkyHigh Smashers,Tæverne,Tæverne,12,15,10,15,,,Thea Højgaard,Sandra Sejersen,Maja Liengaard,Johanne Frederiksen
+Women's B-pool,Women's Contender,Group A,3,Best of 3,Tæverne,D'damer,Tæverne,15,6,15,7,,,Maja Liengaard,Johanne Frederiksen,Josefine Kramer,Sofie Kruse
+Group Stage,Mixed ADVANCED,Group A,1,Single game,Petersen/Walter,Tim und timmate,Tim und timmate,14,16,,,,,Sophia Walter,Jan Petersen,Carolin Oberländer,Tim Klement
+Group Stage,Mixed ADVANCED,Group A,1,Single game,Flensted/Hammar,Danish Spikamite,Danish Spikamite,12,15,,,,,Ida Finsen Flensted,Aske Hammar,Rikke Bloch,Malte Klinkby
+Group Stage,Mixed ADVANCED,Group B,1,Single game,Georg/Laura,Hot chicks,Georg/Laura,15,10,,,,,Georg Seiffarth,Laura Kunzelmann,Julian Krehle,Nguyen Thi Thu Hien
+Group Stage,Mixed ADVANCED,Group B,1,Single game,Oxe allt mild,Vi giver dig Buksevand,Vi giver dig Buksevand,12,15,,,,,Edvin Baggman,Rebecca Mollberg,Bo Carstensen,Jule Grill
+Group Stage,Mixed ADVANCED,Group C,1,Single game,Gross & Groß,Haiterkite,Gross & Groß,15,13,,,,,Jeppe Norlyk Hansen,Nora Haas,Sarah Steinbrecht,Haye Hoffmann
+Group Stage,Mixed ADVANCED,Group C,1,Single game,Wazungu,Janssons temptation,Wazungu,15,13,,,,,Hjalte Knudsen,Rasmine Bak,Samuel Mjönes,Emmy Dahlquist
+Group Stage,Mixed ADVANCED,Group D,1,Single game,Leftovers,FlensKiel,Leftovers,15,8,,,,,Yvo Heinen,Lou Washburn,Jim Buhler,Jana Zimmer
+Group Stage,Mixed ADVANCED,Group D,1,Single game,Dive Hype,Black Gibbon,Dive Hype,15,12,,,,,Mathias Linnet,Ellinor Gustavsson,Hanna Westerland,Herman Henström
+Group Stage,Mixed ADVANCED,Group A,2,Single game,Petersen/Walter,Danish Spikamite,Petersen/Walter,16,14,,,,,Sophia Walter,Jan Petersen,Rikke Bloch,Malte Klinkby
+Group Stage,Mixed ADVANCED,Group A,2,Single game,Flensted/Hammar,Tim und timmate,Tim und timmate,4,15,,,,,Ida Finsen Flensted,Aske Hammar,Carolin Oberländer,Tim Klement
+Group Stage,Mixed ADVANCED,Group B,2,Single game,Georg/Laura,Vi giver dig Buksevand,Georg/Laura,15,8,,,,,Georg Seiffarth,Laura Kunzelmann,Bo Carstensen,Jule Grill
+Group Stage,Mixed ADVANCED,Group B,2,Single game,Oxe allt mild,Hot chicks,Hot chicks,10,15,,,,,Edvin Baggman,Rebecca Mollberg,Julian Krehle,Nguyen Thi Thu Hien
+Group Stage,Mixed ADVANCED,Group C,2,Single game,Gross & Groß,Janssons temptation,Janssons temptation,12,15,,,,,Jeppe Norlyk Hansen,Nora Haas,Samuel Mjönes,Emmy Dahlquist
+Group Stage,Mixed ADVANCED,Group C,2,Single game,Wazungu,Haiterkite,Wazungu,15,12,,,,,Hjalte Knudsen,Rasmine Bak,Sarah Steinbrecht,Haye Hoffmann
+Group Stage,Mixed ADVANCED,Group D,2,Single game,Leftovers,Black Gibbon,Leftovers,15,11,,,,,Yvo Heinen,Lou Washburn,Hanna Westerland,Herman Henström
+Group Stage,Mixed ADVANCED,Group D,2,Single game,Dive Hype,FlensKiel,FlensKiel,12,15,,,,,Mathias Linnet,Ellinor Gustavsson,Jim Buhler,Jana Zimmer
+Group Stage,Mixed ADVANCED,Group A,3,Single game,Petersen/Walter,Flensted/Hammar,Flensted/Hammar,11,15,,,,,Sophia Walter,Jan Petersen,Ida Finsen Flensted,Aske Hammar
+Group Stage,Mixed ADVANCED,Group A,3,Single game,Danish Spikamite,Tim und timmate,Danish Spikamite,15,10,,,,,Rikke Bloch,Malte Klinkby,Carolin Oberländer,Tim Klement
+Group Stage,Mixed ADVANCED,Group B,3,Single game,Georg/Laura,Oxe allt mild,Georg/Laura,15,6,,,,,Georg Seiffarth,Laura Kunzelmann,Edvin Baggman,Rebecca Mollberg
+Group Stage,Mixed ADVANCED,Group B,3,Single game,Vi giver dig Buksevand,Hot chicks,Vi giver dig Buksevand,15,10,,,,,Bo Carstensen,Jule Grill,Julian Krehle,Nguyen Thi Thu Hien
+Group Stage,Mixed ADVANCED,Group C,3,Single game,Gross & Groß,Wazungu,Gross & Groß,18,16,,,,,Jeppe Norlyk Hansen,Nora Haas,Hjalte Knudsen,Rasmine Bak
+Group Stage,Mixed ADVANCED,Group C,3,Single game,Janssons temptation,Haiterkite,Janssons temptation,15,8,,,,,Samuel Mjönes,Emmy Dahlquist,Sarah Steinbrecht,Haye Hoffmann
+Group Stage,Mixed ADVANCED,Group D,3,Single game,Leftovers,Dive Hype,Leftovers,15,9,,,,,Yvo Heinen,Lou Washburn,Mathias Linnet,Ellinor Gustavsson
+Group Stage,Mixed ADVANCED,Group D,3,Single game,Black Gibbon,FlensKiel,Black Gibbon,15,12,,,,,Hanna Westerland,Herman Henström,Jim Buhler,Jana Zimmer
+Group Stage,Mixed ADVANCED,Group A,4,Single game,Petersen/Walter,Tim und timmate,Petersen/Walter,16,14,,,,,Sophia Walter,Jan Petersen,Carolin Oberländer,Tim Klement
+Group Stage,Mixed ADVANCED,Group A,4,Single game,Flensted/Hammar,Danish Spikamite,Flensted/Hammar,15,10,,,,,Ida Finsen Flensted,Aske Hammar,Rikke Bloch,Malte Klinkby
+Group Stage,Mixed ADVANCED,Group B,4,Single game,Georg/Laura,Hot chicks,Georg/Laura,15,7,,,,,Georg Seiffarth,Laura Kunzelmann,Julian Krehle,Nguyen Thi Thu Hien
+Group Stage,Mixed ADVANCED,Group B,4,Single game,Oxe allt mild,Vi giver dig Buksevand,Vi giver dig Buksevand,10,15,,,,,Edvin Baggman,Rebecca Mollberg,Bo Carstensen,Jule Grill
+Group Stage,Mixed ADVANCED,Group C,4,Single game,Gross & Groß,Haiterkite,Gross & Groß,15,12,,,,,Jeppe Norlyk Hansen,Nora Haas,Sarah Steinbrecht,Haye Hoffmann
+Group Stage,Mixed ADVANCED,Group C,4,Single game,Wazungu,Janssons temptation,Wazungu,15,9,,,,,Hjalte Knudsen,Rasmine Bak,Samuel Mjönes,Emmy Dahlquist
+Group Stage,Mixed ADVANCED,Group D,4,Single game,Leftovers,FlensKiel,Leftovers,15,12,,,,,Yvo Heinen,Lou Washburn,Jim Buhler,Jana Zimmer
+Group Stage,Mixed ADVANCED,Group D,4,Single game,Dive Hype,Black Gibbon,Dive Hype,17,15,,,,,Mathias Linnet,Ellinor Gustavsson,Hanna Westerland,Herman Henström
+Group Stage,Mixed ADVANCED,Group A,5,Single game,Petersen/Walter,Danish Spikamite,Danish Spikamite,16,18,,,,,Sophia Walter,Jan Petersen,Rikke Bloch,Malte Klinkby
+Group Stage,Mixed ADVANCED,Group A,5,Single game,Flensted/Hammar,Tim und timmate,Tim und timmate,11,15,,,,,Ida Finsen Flensted,Aske Hammar,Carolin Oberländer,Tim Klement
+Group Stage,Mixed ADVANCED,Group B,5,Single game,Georg/Laura,Vi giver dig Buksevand,Georg/Laura,15,9,,,,,Georg Seiffarth,Laura Kunzelmann,Bo Carstensen,Jule Grill
+Group Stage,Mixed ADVANCED,Group B,5,Single game,Oxe allt mild,Hot chicks,Oxe allt mild,15,13,,,,,Edvin Baggman,Rebecca Mollberg,Julian Krehle,Nguyen Thi Thu Hien
+Group Stage,Mixed ADVANCED,Group C,5,Single game,Gross & Groß,Janssons temptation,Gross & Groß,15,12,,,,,Jeppe Norlyk Hansen,Nora Haas,Samuel Mjönes,Emmy Dahlquist
+Group Stage,Mixed ADVANCED,Group C,5,Single game,Wazungu,Haiterkite,Haiterkite,12,15,,,,,Hjalte Knudsen,Rasmine Bak,Sarah Steinbrecht,Haye Hoffmann
+Group Stage,Mixed ADVANCED,Group D,5,Single game,Leftovers,Black Gibbon,Leftovers,15,8,,,,,Yvo Heinen,Lou Washburn,Hanna Westerland,Herman Henström
+Group Stage,Mixed ADVANCED,Group D,5,Single game,Dive Hype,FlensKiel,Dive Hype,15,11,,,,,Mathias Linnet,Ellinor Gustavsson,Jim Buhler,Jana Zimmer
+Group Stage,Mixed ADVANCED,Group A,6,Single game,Petersen/Walter,Flensted/Hammar,Petersen/Walter,15,10,,,,,Sophia Walter,Jan Petersen,Ida Finsen Flensted,Aske Hammar
+Group Stage,Mixed ADVANCED,Group A,6,Single game,Danish Spikamite,Tim und timmate,Tim und timmate,17,19,,,,,Rikke Bloch,Malte Klinkby,Carolin Oberländer,Tim Klement
+Group Stage,Mixed ADVANCED,Group B,6,Single game,Georg/Laura,Oxe allt mild,Georg/Laura,15,7,,,,,Georg Seiffarth,Laura Kunzelmann,Edvin Baggman,Rebecca Mollberg
+Group Stage,Mixed ADVANCED,Group B,6,Single game,Vi giver dig Buksevand,Hot chicks,Vi giver dig Buksevand,15,9,,,,,Bo Carstensen,Jule Grill,Julian Krehle,Nguyen Thi Thu Hien
+Group Stage,Mixed ADVANCED,Group C,6,Single game,Gross & Groß,Wazungu,Wazungu,12,15,,,,,Jeppe Norlyk Hansen,Nora Haas,Hjalte Knudsen,Rasmine Bak
+Group Stage,Mixed ADVANCED,Group C,6,Single game,Janssons temptation,Haiterkite,Haiterkite,13,15,,,,,Samuel Mjönes,Emmy Dahlquist,Sarah Steinbrecht,Haye Hoffmann
+Group Stage,Mixed ADVANCED,Group D,6,Single game,Leftovers,Dive Hype,Leftovers,15,11,,,,,Yvo Heinen,Lou Washburn,Mathias Linnet,Ellinor Gustavsson
+Group Stage,Mixed ADVANCED,Group D,6,Single game,Black Gibbon,FlensKiel,Black Gibbon,15,11,,,,,Hanna Westerland,Herman Henström,Jim Buhler,Jana Zimmer
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Georg/Laura,Oxe allt mild,Georg/Laura,15,8,15,9,,,Georg Seiffarth,Laura Kunzelmann,Edvin Baggman,Rebecca Mollberg
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Leftovers,Hot chicks,Leftovers,17,15,15,12,,,Yvo Heinen,Lou Washburn,Julian Krehle,Nguyen Thi Thu Hien
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Tim und timmate,FlensKiel,Tim und timmate,15,10,15,10,,,Carolin Oberländer,Tim Klement,Jim Buhler,Jana Zimmer
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Wazungu,Flensted/Hammar,Flensted/Hammar,13,15,9,15,,,Hjalte Knudsen,Rasmine Bak,Ida Finsen Flensted,Aske Hammar
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Vi giver dig Buksevand,Haiterkite,Vi giver dig Buksevand,15,13,10,15,15,9,Bo Carstensen,Jule Grill,Sarah Steinbrecht,Haye Hoffmann
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Gross & Groß,Black Gibbon,Gross & Groß,15,13,11,15,15,10,Jeppe Norlyk Hansen,Nora Haas,Hanna Westerland,Herman Henström
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Petersen/Walter,Janssons temptation,Petersen/Walter,15,12,15,11,,,Sophia Walter,Jan Petersen,Samuel Mjönes,Emmy Dahlquist
+Bracket Stage,Mixed ADVANCED,Bracket A,Round of 16,Best of 3,Danish Spikamite,Dive Hype,Danish Spikamite,15,6,15,12,,,Rikke Bloch,Malte Klinkby,Mathias Linnet,Ellinor Gustavsson
+Bracket Stage,Mixed ADVANCED,Bracket A,Quarter-final,Best of 3,Georg/Laura,Danish Spikamite,Georg/Laura,15,11,15,8,,,Georg Seiffarth,Laura Kunzelmann,Rikke Bloch,Malte Klinkby
+Bracket Stage,Mixed ADVANCED,Bracket A,Quarter-final,Best of 3,Leftovers,Petersen/Walter,Leftovers,15,9,15,11,,,Yvo Heinen,Lou Washburn,Sophia Walter,Jan Petersen
+Bracket Stage,Mixed ADVANCED,Bracket A,Quarter-final,Best of 3,Tim und timmate,Gross & Groß,Tim und timmate,15,12,16,14,,,Carolin Oberländer,Tim Klement,Jeppe Norlyk Hansen,Nora Haas
+Bracket Stage,Mixed ADVANCED,Bracket A,Quarter-final,Best of 3,Flensted/Hammar,Vi giver dig Buksevand,Vi giver dig Buksevand,12,15,8,15,,,Ida Finsen Flensted,Aske Hammar,Bo Carstensen,Jule Grill
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Quarter-final,Best of 3,Dive Hype,Oxe allt mild,Oxe allt mild,10,15,8,15,,,Mathias Linnet,Ellinor Gustavsson,Edvin Baggman,Rebecca Mollberg
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Quarter-final,Best of 3,Janssons temptation,Hot chicks,Hot chicks,15,13,13,15,15,17,Samuel Mjönes,Emmy Dahlquist,Julian Krehle,Nguyen Thi Thu Hien
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Quarter-final,Best of 3,Black Gibbon,FlensKiel,FlensKiel,15,7,10,15,14,16,Hanna Westerland,Herman Henström,Jim Buhler,Jana Zimmer
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Quarter-final,Best of 3,Haiterkite,Wazungu,Wazungu,19,21,0,1,,,Sarah Steinbrecht,Haye Hoffmann,Hjalte Knudsen,Rasmine Bak
+Bracket Stage,Mixed ADVANCED,Bracket A,Semi-final,Best of 3,Georg/Laura,Vi giver dig Buksevand,Georg/Laura,21,11,21,13,,,Georg Seiffarth,Laura Kunzelmann,Bo Carstensen,Jule Grill
+Bracket Stage,Mixed ADVANCED,Bracket A,Semi-final,Best of 3,Leftovers,Tim und timmate,Tim und timmate,19,21,15,21,,,Yvo Heinen,Lou Washburn,Carolin Oberländer,Tim Klement
+Bracket Stage,Mixed ADVANCED,Bracket A,P5: Semi-final,Best of 3,Flensted/Hammar,Danish Spikamite,Flensted/Hammar,14,16,15,13,15,11,Ida Finsen Flensted,Aske Hammar,Rikke Bloch,Malte Klinkby
+Bracket Stage,Mixed ADVANCED,Bracket A,P5: Semi-final,Best of 3,Gross & Groß,Petersen/Walter,Petersen/Walter,13,15,13,15,,,Jeppe Norlyk Hansen,Nora Haas,Sophia Walter,Jan Petersen
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Semi-final,Best of 3,Oxe allt mild,Wazungu,Wazungu,13,21,0,1,,,Edvin Baggman,Rebecca Mollberg,Hjalte Knudsen,Rasmine Bak
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Semi-final,Best of 3,Hot chicks,FlensKiel,Hot chicks,21,9,1,0,,,Julian Krehle,Nguyen Thi Thu Hien,Jim Buhler,Jana Zimmer
+Bracket Stage,Mixed ADVANCED,Bracket A,P13: Semi-final,Best of 3,Haiterkite,Dive Hype,Haiterkite,15,10,15,11,,,Sarah Steinbrecht,Haye Hoffmann,Mathias Linnet,Ellinor Gustavsson
+Bracket Stage,Mixed ADVANCED,Bracket A,P13: Semi-final,Best of 3,Black Gibbon,Janssons temptation,Janssons temptation,13,15,11,15,,,Hanna Westerland,Herman Henström,Samuel Mjönes,Emmy Dahlquist
+Bracket Stage,Mixed ADVANCED,Bracket A,Final,Best of 3,Georg/Laura,Tim und timmate,Georg/Laura,21,13,21,14,,,Georg Seiffarth,Laura Kunzelmann,Carolin Oberländer,Tim Klement
+Bracket Stage,Mixed ADVANCED,Bracket A,P3: Final,Best of 3,Leftovers,Vi giver dig Buksevand,Leftovers,1,0,1,0,,,Yvo Heinen,Lou Washburn,Bo Carstensen,Jule Grill
+Bracket Stage,Mixed ADVANCED,Bracket A,P5: Final,Best of 3,Flensted/Hammar,Petersen/Walter,Petersen/Walter,19,21,0,1,,,Ida Finsen Flensted,Aske Hammar,Sophia Walter,Jan Petersen
+Bracket Stage,Mixed ADVANCED,Bracket A,P7: Final,Best of 3,Gross & Groß,Danish Spikamite,Gross & Groß,11,15,15,10,15,8,Jeppe Norlyk Hansen,Nora Haas,Rikke Bloch,Malte Klinkby
+Bracket Stage,Mixed ADVANCED,Bracket A,P9: Final,Best of 3,Wazungu,Hot chicks,Hot chicks,17,21,0,1,,,Hjalte Knudsen,Rasmine Bak,Julian Krehle,Nguyen Thi Thu Hien
+Bracket Stage,Mixed ADVANCED,Bracket A,P11: Final,Best of 3,FlensKiel,Oxe allt mild,Oxe allt mild,12,15,10,15,,,Jim Buhler,Jana Zimmer,Edvin Baggman,Rebecca Mollberg
+Bracket Stage,Mixed ADVANCED,Bracket A,P13: Final,Best of 3,Haiterkite,Janssons temptation,Janssons temptation,17,21,0,1,,,Sarah Steinbrecht,Haye Hoffmann,Samuel Mjönes,Emmy Dahlquist
+Bracket Stage,Mixed ADVANCED,Bracket A,P15: Final,Best of 3,Black Gibbon,Dive Hype,Dive Hype,17,19,15,8,8,15,Hanna Westerland,Herman Henström,Mathias Linnet,Ellinor Gustavsson
+Group Stage,Mixed INTERMEDIATE,Group A,1,Single game,Last Call,Super Douper,Super Douper,10,15,,,,,Finja Rentsch,Fabian Hofacker,Lea Kiesel,Max Syndikus
+Group Stage,Mixed INTERMEDIATE,Group A,1,Single game,Rikke & Umut,Lab Lobsters,Rikke & Umut,16,14,,,,,Rikke Fredberg,Umut Renkligül,Jonas Hoffmeister,Pernille Sander
+Group Stage,Mixed INTERMEDIATE,Group B,1,Single game,Lynbro,Signas,Lynbro,15,7,,,,,Maja Hillebro,David Lyngbye,Jonas Jensen,Maja Liengaard
+Group Stage,Mixed INTERMEDIATE,Group C,1,Single game,Switched mixed,KaLuca,KaLuca,7,15,,,,,Dominika Genter,Max Rodamer,Kathi Esterl,Luca Sprick
+Group Stage,Mixed INTERMEDIATE,Group D,1,Single game,Team Rosi,Ball of Cthulhu,Team Rosi,15,3,,,,,Lynn Knapp,Sebastian Christophe,Julie Jensen,Asbjørn Ditlev
+Group Stage,Mixed INTERMEDIATE,Group D,1,Single game,Aarhustle,Johnnie Madsen,Aarhustle,15,11,,,,,Konstantin Breuer,Annabel Malle,Jeanette Malene Vittrup,Peter Madsen
+Group Stage,Mixed INTERMEDIATE,Group E,1,Single game,Ninja Turtles,jæn å æ dækkel,Ninja Turtles,15,11,,,,,Astrid Andreassen,Magnus Karmark Larsen,Nano Goosmann,Alexandra (Anda) Schröder
+Group Stage,Mixed INTERMEDIATE,Group E,1,Single game,Lucky Luna,Hit Happens,Hit Happens,11,15,,,,,Johanne Frederiksen,Franco Munoz,Christoffer Sega,Lena Brandt
+Group Stage,Mixed INTERMEDIATE,Group A,2,Single game,Last Call,Lab Lobsters,Lab Lobsters,8,15,,,,,Finja Rentsch,Fabian Hofacker,Jonas Hoffmeister,Pernille Sander
+Group Stage,Mixed INTERMEDIATE,Group A,2,Single game,Rikke & Umut,Super Douper,Super Douper,17,19,,,,,Rikke Fredberg,Umut Renkligül,Lea Kiesel,Max Syndikus
+Group Stage,Mixed INTERMEDIATE,Group B,2,Single game,Lynbro,Bio is trash for me,Lynbro,15,6,,,,,Maja Hillebro,David Lyngbye,Jeremias-Caspar Podstawa,Kristina Rosenzweig
+Group Stage,Mixed INTERMEDIATE,Group C,2,Single game,Switched mixed,lidt lille,lidt lille,8,15,,,,,Dominika Genter,Max Rodamer,Jessica Simonides,Chau Doan
+Group Stage,Mixed INTERMEDIATE,Group D,2,Single game,Team Rosi,Johnnie Madsen,Team Rosi,15,9,,,,,Lynn Knapp,Sebastian Christophe,Jeanette Malene Vittrup,Peter Madsen
+Group Stage,Mixed INTERMEDIATE,Group D,2,Single game,Aarhustle,Ball of Cthulhu,Aarhustle,15,8,,,,,Konstantin Breuer,Annabel Malle,Julie Jensen,Asbjørn Ditlev
+Group Stage,Mixed INTERMEDIATE,Group E,2,Single game,Ninja Turtles,Hit Happens,Ninja Turtles,15,12,,,,,Astrid Andreassen,Magnus Karmark Larsen,Christoffer Sega,Lena Brandt
+Group Stage,Mixed INTERMEDIATE,Group E,2,Single game,Lucky Luna,jæn å æ dækkel,Lucky Luna,15,13,,,,,Johanne Frederiksen,Franco Munoz,Nano Goosmann,Alexandra (Anda) Schröder
+Group Stage,Mixed INTERMEDIATE,Group A,3,Single game,Last Call,Rikke & Umut,Rikke & Umut,8,15,,,,,Finja Rentsch,Fabian Hofacker,Rikke Fredberg,Umut Renkligül
+Group Stage,Mixed INTERMEDIATE,Group A,3,Single game,Lab Lobsters,Super Douper,Super Douper,8,15,,,,,Jonas Hoffmeister,Pernille Sander,Lea Kiesel,Max Syndikus
+Group Stage,Mixed INTERMEDIATE,Group B,3,Single game,Bio is trash for me,Signas,Bio is trash for me,15,7,,,,,Jeremias-Caspar Podstawa,Kristina Rosenzweig,Jonas Jensen,Maja Liengaard
+Group Stage,Mixed INTERMEDIATE,Group C,3,Single game,lidt lille,KaLuca,lidt lille,15,10,,,,,Jessica Simonides,Chau Doan,Kathi Esterl,Luca Sprick
+Group Stage,Mixed INTERMEDIATE,Group D,3,Single game,Team Rosi,Aarhustle,Aarhustle,17,19,,,,,Lynn Knapp,Sebastian Christophe,Konstantin Breuer,Annabel Malle
+Group Stage,Mixed INTERMEDIATE,Group D,3,Single game,Johnnie Madsen,Ball of Cthulhu,Johnnie Madsen,15,11,,,,,Jeanette Malene Vittrup,Peter Madsen,Julie Jensen,Asbjørn Ditlev
+Group Stage,Mixed INTERMEDIATE,Group E,3,Single game,Ninja Turtles,Lucky Luna,Lucky Luna,6,15,,,,,Astrid Andreassen,Magnus Karmark Larsen,Johanne Frederiksen,Franco Munoz
+Group Stage,Mixed INTERMEDIATE,Group E,3,Single game,Hit Happens,jæn å æ dækkel,jæn å æ dækkel,10,15,,,,,Christoffer Sega,Lena Brandt,Nano Goosmann,Alexandra (Anda) Schröder
+Group Stage,Mixed INTERMEDIATE,Group A,4,Single game,Last Call,Super Douper,Super Douper,6,15,,,,,Finja Rentsch,Fabian Hofacker,Lea Kiesel,Max Syndikus
+Group Stage,Mixed INTERMEDIATE,Group A,4,Single game,Rikke & Umut,Lab Lobsters,Lab Lobsters,8,15,,,,,Rikke Fredberg,Umut Renkligül,Jonas Hoffmeister,Pernille Sander
+Group Stage,Mixed INTERMEDIATE,Group B,4,Single game,Lynbro,Signas,Lynbro,15,4,,,,,Maja Hillebro,David Lyngbye,Jonas Jensen,Maja Liengaard
+Group Stage,Mixed INTERMEDIATE,Group C,4,Single game,Switched mixed,KaLuca,Switched mixed,15,13,,,,,Dominika Genter,Max Rodamer,Kathi Esterl,Luca Sprick
+Group Stage,Mixed INTERMEDIATE,Group D,4,Single game,Team Rosi,Ball of Cthulhu,Team Rosi,15,8,,,,,Lynn Knapp,Sebastian Christophe,Julie Jensen,Asbjørn Ditlev
+Group Stage,Mixed INTERMEDIATE,Group D,4,Single game,Aarhustle,Johnnie Madsen,Aarhustle,15,12,,,,,Konstantin Breuer,Annabel Malle,Jeanette Malene Vittrup,Peter Madsen
+Group Stage,Mixed INTERMEDIATE,Group E,4,Single game,Ninja Turtles,jæn å æ dækkel,jæn å æ dækkel,8,15,,,,,Astrid Andreassen,Magnus Karmark Larsen,Nano Goosmann,Alexandra (Anda) Schröder
+Group Stage,Mixed INTERMEDIATE,Group E,4,Single game,Lucky Luna,Hit Happens,Hit Happens,13,15,,,,,Johanne Frederiksen,Franco Munoz,Christoffer Sega,Lena Brandt
+Group Stage,Mixed INTERMEDIATE,Group A,5,Single game,Last Call,Lab Lobsters,Last Call,15,13,,,,,Finja Rentsch,Fabian Hofacker,Jonas Hoffmeister,Pernille Sander
+Group Stage,Mixed INTERMEDIATE,Group A,5,Single game,Rikke & Umut,Super Douper,Super Douper,11,15,,,,,Rikke Fredberg,Umut Renkligül,Lea Kiesel,Max Syndikus
+Group Stage,Mixed INTERMEDIATE,Group B,5,Single game,Lynbro,Bio is trash for me,Lynbro,18,16,,,,,Maja Hillebro,David Lyngbye,Jeremias-Caspar Podstawa,Kristina Rosenzweig
+Group Stage,Mixed INTERMEDIATE,Group C,5,Single game,Switched mixed,lidt lille,lidt lille,13,15,,,,,Dominika Genter,Max Rodamer,Jessica Simonides,Chau Doan
+Group Stage,Mixed INTERMEDIATE,Group D,5,Single game,Team Rosi,Johnnie Madsen,Team Rosi,15,7,,,,,Lynn Knapp,Sebastian Christophe,Jeanette Malene Vittrup,Peter Madsen
+Group Stage,Mixed INTERMEDIATE,Group D,5,Single game,Aarhustle,Ball of Cthulhu,Aarhustle,15,9,,,,,Konstantin Breuer,Annabel Malle,Julie Jensen,Asbjørn Ditlev
+Group Stage,Mixed INTERMEDIATE,Group E,5,Single game,Ninja Turtles,Hit Happens,Ninja Turtles,15,12,,,,,Astrid Andreassen,Magnus Karmark Larsen,Christoffer Sega,Lena Brandt
+Group Stage,Mixed INTERMEDIATE,Group E,5,Single game,Lucky Luna,jæn å æ dækkel,jæn å æ dækkel,11,15,,,,,Johanne Frederiksen,Franco Munoz,Nano Goosmann,Alexandra (Anda) Schröder
+Group Stage,Mixed INTERMEDIATE,Group A,6,Single game,Last Call,Rikke & Umut,Rikke & Umut,8,15,,,,,Finja Rentsch,Fabian Hofacker,Rikke Fredberg,Umut Renkligül
+Group Stage,Mixed INTERMEDIATE,Group A,6,Single game,Lab Lobsters,Super Douper,Super Douper,11,15,,,,,Jonas Hoffmeister,Pernille Sander,Lea Kiesel,Max Syndikus
+Group Stage,Mixed INTERMEDIATE,Group B,6,Single game,Bio is trash for me,Signas,Bio is trash for me,15,7,,,,,Jeremias-Caspar Podstawa,Kristina Rosenzweig,Jonas Jensen,Maja Liengaard
+Group Stage,Mixed INTERMEDIATE,Group C,6,Single game,lidt lille,KaLuca,lidt lille,15,12,,,,,Jessica Simonides,Chau Doan,Kathi Esterl,Luca Sprick
+Group Stage,Mixed INTERMEDIATE,Group D,6,Single game,Team Rosi,Aarhustle,Team Rosi,15,13,,,,,Lynn Knapp,Sebastian Christophe,Konstantin Breuer,Annabel Malle
+Group Stage,Mixed INTERMEDIATE,Group D,6,Single game,Johnnie Madsen,Ball of Cthulhu,Johnnie Madsen,16,14,,,,,Jeanette Malene Vittrup,Peter Madsen,Julie Jensen,Asbjørn Ditlev
+Group Stage,Mixed INTERMEDIATE,Group E,6,Single game,Ninja Turtles,Lucky Luna,Ninja Turtles,18,16,,,,,Astrid Andreassen,Magnus Karmark Larsen,Johanne Frederiksen,Franco Munoz
+Group Stage,Mixed INTERMEDIATE,Group E,6,Single game,Hit Happens,jæn å æ dækkel,Hit Happens,15,10,,,,,Christoffer Sega,Lena Brandt,Nano Goosmann,Alexandra (Anda) Schröder
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Round of 16,Best of 3,lidt lille,Lab Lobsters,lidt lille,15,9,13,15,15,10,Jessica Simonides,Chau Doan,Jonas Hoffmeister,Pernille Sander
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Round of 16,Best of 3,Team Rosi,Lucky Luna,Team Rosi,15,12,12,15,15,11,Lynn Knapp,Sebastian Christophe,Johanne Frederiksen,Franco Munoz
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Round of 16,Best of 3,Aarhustle,Switched mixed,Aarhustle,15,9,9,15,15,13,Konstantin Breuer,Annabel Malle,Dominika Genter,Max Rodamer
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Round of 16,Best of 3,Bio is trash for me,KaLuca,KaLuca,15,11,13,15,10,15,Jeremias-Caspar Podstawa,Kristina Rosenzweig,Kathi Esterl,Luca Sprick
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Round of 16,Best of 3,Ninja Turtles,Hit Happens,Hit Happens,10,15,11,15,,,Astrid Andreassen,Magnus Karmark Larsen,Christoffer Sega,Lena Brandt
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Round of 16,Best of 3,jæn å æ dækkel,Rikke & Umut,Rikke & Umut,12,15,17,19,,,Nano Goosmann,Alexandra (Anda) Schröder,Rikke Fredberg,Umut Renkligül
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Quarter-final,Best of 3,Lynbro,Rikke & Umut,Lynbro,15,11,10,15,15,12,Maja Hillebro,David Lyngbye,Rikke Fredberg,Umut Renkligül
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Quarter-final,Best of 3,Super Douper,Hit Happens,Hit Happens,14,16,15,11,8,15,Lea Kiesel,Max Syndikus,Christoffer Sega,Lena Brandt
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Quarter-final,Best of 3,lidt lille,KaLuca,lidt lille,12,15,15,10,15,11,Jessica Simonides,Chau Doan,Kathi Esterl,Luca Sprick
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Quarter-final,Best of 3,Team Rosi,Aarhustle,Aarhustle,10,15,12,15,,,Lynn Knapp,Sebastian Christophe,Konstantin Breuer,Annabel Malle
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P9: Quarter-final,Best of 3,Bio is trash for me,Lab Lobsters,Bio is trash for me,15,11,18,16,15,8,Jeremias-Caspar Podstawa,Kristina Rosenzweig,Jonas Hoffmeister,Pernille Sander
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P9: Quarter-final,Best of 3,Switched mixed,Lucky Luna,Switched mixed,15,9,15,10,,,Dominika Genter,Max Rodamer,Johanne Frederiksen,Franco Munoz
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Semi-final,Best of 3,Lynbro,Aarhustle,Aarhustle,15,13,7,15,11,15,Maja Hillebro,David Lyngbye,Konstantin Breuer,Annabel Malle
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Semi-final,Best of 3,Hit Happens,lidt lille,lidt lille,13,15,12,15,,,Christoffer Sega,Lena Brandt,Jessica Simonides,Chau Doan
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P5: Semi-final,Best of 3,Team Rosi,Rikke & Umut,Team Rosi,21,9,1,0,,,Lynn Knapp,Sebastian Christophe,Rikke Fredberg,Umut Renkligül
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P5: Semi-final,Best of 3,KaLuca,Super Douper,KaLuca,15,10,15,10,,,Kathi Esterl,Luca Sprick,Lea Kiesel,Max Syndikus
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P9: Semi-final,Best of 3,jæn å æ dækkel,Switched mixed,Switched mixed,15,13,8,15,11,15,Nano Goosmann,Alexandra (Anda) Schröder,Dominika Genter,Max Rodamer
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P9: Semi-final,Best of 3,Ninja Turtles,Bio is trash for me,Bio is trash for me,18,20,15,13,13,15,Astrid Andreassen,Magnus Karmark Larsen,Jeremias-Caspar Podstawa,Kristina Rosenzweig
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,Final,Best of 3,Aarhustle,lidt lille,lidt lille,11,15,10,15,,,Konstantin Breuer,Annabel Malle,Jessica Simonides,Chau Doan
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P3: Final,Best of 3,Hit Happens,Lynbro,Lynbro,12,15,14,16,,,Christoffer Sega,Lena Brandt,Maja Hillebro,David Lyngbye
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P5: Final,Best of 3,Team Rosi,KaLuca,KaLuca,11,15,15,13,13,15,Lynn Knapp,Sebastian Christophe,Kathi Esterl,Luca Sprick
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P7: Final,Best of 3,Super Douper,Rikke & Umut,Super Douper,21,16,1,0,,,Lea Kiesel,Max Syndikus,Rikke Fredberg,Umut Renkligül
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P9: Final,Best of 3,Switched mixed,Bio is trash for me,Switched mixed,15,11,15,11,,,Dominika Genter,Max Rodamer,Jeremias-Caspar Podstawa,Kristina Rosenzweig
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P11: Final,Best of 3,Ninja Turtles,jæn å æ dækkel,,21,12,,,,,Astrid Andreassen,Magnus Karmark Larsen,Nano Goosmann,Alexandra (Anda) Schröder
+Bracket Stage,Mixed INTERMEDIATE,Bracket A,P13: Final,Best of 3,Lucky Luna,Lab Lobsters,Lab Lobsters,11,15,7,15,,,Johanne Frederiksen,Franco Munoz,Jonas Hoffmeister,Pernille Sander
+Mixed Intermediate B-pool,Mixed INTERMEDIATE,Group A,1,Best of 3,Last Call,Ball of Cthulhu,Last Call,15,10,15,7,,,Finja Rentsch,Fabian Hofacker,Julie Jensen,Asbjørn Ditlev
+Mixed Intermediate B-pool,Mixed INTERMEDIATE,Group A,1,Best of 3,Signas,Johnnie Madsen,Johnnie Madsen,12,15,21,20,8,15,Jonas Jensen,Maja Liengaard,Jeanette Malene Vittrup,Peter Madsen
+Mixed Intermediate B-pool,Mixed INTERMEDIATE,Group A,2,Best of 3,Last Call,Johnnie Madsen,Johnnie Madsen,13,15,11,15,,,Finja Rentsch,Fabian Hofacker,Jeanette Malene Vittrup,Peter Madsen
+Mixed Intermediate B-pool,Mixed INTERMEDIATE,Group A,2,Best of 3,Signas,Ball of Cthulhu,Signas,15,8,15,12,,,Jonas Jensen,Maja Liengaard,Julie Jensen,Asbjørn Ditlev
+Mixed Intermediate B-pool,Mixed INTERMEDIATE,Group A,3,Best of 3,Last Call,Signas,Last Call,15,13,15,10,,,Finja Rentsch,Fabian Hofacker,Jonas Jensen,Maja Liengaard
+Mixed Intermediate B-pool,Mixed INTERMEDIATE,Group A,3,Best of 3,Johnnie Madsen,Ball of Cthulhu,Johnnie Madsen,15,7,15,6,,,Jeanette Malene Vittrup,Peter Madsen,Julie Jensen,Asbjørn Ditlev

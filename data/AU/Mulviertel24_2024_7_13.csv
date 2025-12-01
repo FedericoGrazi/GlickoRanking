@@ -1,0 +1,148 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Power Pool A,1,Best of 3,Spikebros,Bounce Back Crew,Spikebros,15,10,15,13,,,Martin Lindorfer,Raphael Eisschiel,Lukas Nösslböck,Michael Stern
+Group Stage,Open,Power Pool A,1,Best of 3,Sonate in Ass-Moll,cocktail enjoyers,Sonate in Ass-Moll,15,9,15,10,,,Mio Martens,Johannes Vogl,Alexander Winkler,Lukas Stöbich
+Group Stage,Open,Power Pool A,1,Best of 3,Heldi in Not,Abschiedstour,,15,13,7,15,,,Stefan Geyer,Maximilian Knoll,Thomas Pschaid,Andreas Reisenhofer
+Group Stage,Open,Power Pool B,1,Best of 3,Fajitas,gg wp,Fajitas,15,7,15,8,,,Fabian Hagen,James Faustmann,Lukas Reiter,Maximilian Mitterlehner
+Group Stage,Open,Power Pool B,1,Best of 3,Double Tap,FA,FA,7,15,9,15,,,Albin Janko,Maher Saadeddin,Mathias Gangkofner,Gabriel Stoisser
+Group Stage,Open,Power Pool B,1,Best of 3,Ost-West-Achse,Net Ninjas,,13,15,15,9,,,Timo Clees,Simon Bösch,Andi Gjergji,Christoph Lorenzoni
+Group Stage,Open,Power Pool A,2,Best of 3,Spikebros,cocktail enjoyers,Spikebros,15,9,15,9,,,Martin Lindorfer,Raphael Eisschiel,Alexander Winkler,Lukas Stöbich
+Group Stage,Open,Power Pool A,2,Best of 3,Sonate in Ass-Moll,Heldi in Not,Heldi in Not,9,15,9,15,,,Mio Martens,Johannes Vogl,Stefan Geyer,Maximilian Knoll
+Group Stage,Open,Power Pool A,2,Best of 3,Abschiedstour,Bounce Back Crew,Abschiedstour,15,6,15,14,,,Thomas Pschaid,Andreas Reisenhofer,Lukas Nösslböck,Michael Stern
+Group Stage,Open,Power Pool B,2,Best of 3,Fajitas,FA,FA,7,15,7,15,,,Fabian Hagen,James Faustmann,Mathias Gangkofner,Gabriel Stoisser
+Group Stage,Open,Power Pool B,2,Best of 3,Double Tap,Ost-West-Achse,,13,15,15,13,,,Albin Janko,Maher Saadeddin,Timo Clees,Simon Bösch
+Group Stage,Open,Power Pool B,2,Best of 3,Net Ninjas,gg wp,Net Ninjas,15,0,15,2,,,Andi Gjergji,Christoph Lorenzoni,Lukas Reiter,Maximilian Mitterlehner
+Group Stage,Open,Power Pool A,3,Best of 3,Spikebros,Abschiedstour,Spikebros,15,13,15,11,,,Martin Lindorfer,Raphael Eisschiel,Thomas Pschaid,Andreas Reisenhofer
+Group Stage,Open,Power Pool A,3,Best of 3,Sonate in Ass-Moll,Bounce Back Crew,Sonate in Ass-Moll,15,5,15,10,,,Mio Martens,Johannes Vogl,Lukas Nösslböck,Michael Stern
+Group Stage,Open,Power Pool A,3,Best of 3,Heldi in Not,cocktail enjoyers,Heldi in Not,15,7,15,9,,,Stefan Geyer,Maximilian Knoll,Alexander Winkler,Lukas Stöbich
+Group Stage,Open,Power Pool B,3,Best of 3,Fajitas,Net Ninjas,Net Ninjas,8,15,14,15,,,Fabian Hagen,James Faustmann,Andi Gjergji,Christoph Lorenzoni
+Group Stage,Open,Power Pool B,3,Best of 3,Double Tap,gg wp,Double Tap,15,8,15,2,,,Albin Janko,Maher Saadeddin,Lukas Reiter,Maximilian Mitterlehner
+Group Stage,Open,Power Pool B,3,Best of 3,Ost-West-Achse,FA,FA,7,15,6,15,,,Timo Clees,Simon Bösch,Mathias Gangkofner,Gabriel Stoisser
+Group Stage,Open,Power Pool A,4,Best of 3,Spikebros,Heldi in Not,Heldi in Not,10,15,9,15,,,Martin Lindorfer,Raphael Eisschiel,Stefan Geyer,Maximilian Knoll
+Group Stage,Open,Power Pool A,4,Best of 3,Sonate in Ass-Moll,Abschiedstour,,15,13,14,15,,,Mio Martens,Johannes Vogl,Thomas Pschaid,Andreas Reisenhofer
+Group Stage,Open,Power Pool A,4,Best of 3,cocktail enjoyers,Bounce Back Crew,Bounce Back Crew,14,15,14,15,,,Alexander Winkler,Lukas Stöbich,Lukas Nösslböck,Michael Stern
+Group Stage,Open,Power Pool B,4,Best of 3,Fajitas,Ost-West-Achse,,15,14,13,15,,,Fabian Hagen,James Faustmann,Timo Clees,Simon Bösch
+Group Stage,Open,Power Pool B,4,Best of 3,Double Tap,Net Ninjas,Double Tap,15,13,15,10,,,Albin Janko,Maher Saadeddin,Andi Gjergji,Christoph Lorenzoni
+Group Stage,Open,Power Pool B,4,Best of 3,FA,gg wp,FA,15,2,15,3,,,Mathias Gangkofner,Gabriel Stoisser,Lukas Reiter,Maximilian Mitterlehner
+Group Stage,Open,Power Pool A,5,Best of 3,Spikebros,Sonate in Ass-Moll,Sonate in Ass-Moll,5,15,11,15,,,Martin Lindorfer,Raphael Eisschiel,Mio Martens,Johannes Vogl
+Group Stage,Open,Power Pool A,5,Best of 3,Heldi in Not,Bounce Back Crew,Heldi in Not,15,2,15,7,,,Stefan Geyer,Maximilian Knoll,Lukas Nösslböck,Michael Stern
+Group Stage,Open,Power Pool A,5,Best of 3,Abschiedstour,cocktail enjoyers,Abschiedstour,15,7,15,6,,,Thomas Pschaid,Andreas Reisenhofer,Alexander Winkler,Lukas Stöbich
+Group Stage,Open,Power Pool B,5,Best of 3,Fajitas,Double Tap,Double Tap,10,15,13,15,,,Fabian Hagen,James Faustmann,Albin Janko,Maher Saadeddin
+Group Stage,Open,Power Pool B,5,Best of 3,Ost-West-Achse,gg wp,Ost-West-Achse,15,3,15,4,,,Timo Clees,Simon Bösch,Lukas Reiter,Maximilian Mitterlehner
+Group Stage,Open,Power Pool B,5,Best of 3,Net Ninjas,FA,FA,4,15,4,15,,,Andi Gjergji,Christoph Lorenzoni,Mathias Gangkofner,Gabriel Stoisser
+K.O. Stage,Open,Bracket A,Round of 16,Best of 3,Abschiedstour,gg wp,Abschiedstour,15,4,15,6,,,Thomas Pschaid,Andreas Reisenhofer,Lukas Reiter,Maximilian Mitterlehner
+K.O. Stage,Open,Bracket A,Round of 16,Best of 3,Spikebros,cocktail enjoyers,Spikebros,15,9,23,21,,,Martin Lindorfer,Raphael Eisschiel,Alexander Winkler,Lukas Stöbich
+K.O. Stage,Open,Bracket A,Round of 16,Best of 3,Ost-West-Achse,Bounce Back Crew,Ost-West-Achse,15,7,20,18,,,Timo Clees,Simon Bösch,Lukas Nösslböck,Michael Stern
+K.O. Stage,Open,Bracket A,Round of 16,Best of 3,Net Ninjas,Fajitas,Fajitas,7,15,12,15,,,Andi Gjergji,Christoph Lorenzoni,Fabian Hagen,James Faustmann
+K.O. Stage,Open,Bracket A,Quarter-final,Best of 3,FA,Fajitas,FA,15,7,15,9,,,Mathias Gangkofner,Gabriel Stoisser,Fabian Hagen,James Faustmann
+K.O. Stage,Open,Bracket A,Quarter-final,Best of 3,Heldi in Not,Ost-West-Achse,Heldi in Not,15,12,15,12,,,Stefan Geyer,Maximilian Knoll,Timo Clees,Simon Bösch
+K.O. Stage,Open,Bracket A,Quarter-final,Best of 3,Sonate in Ass-Moll,Spikebros,Spikebros,15,11,13,15,20,22,Mio Martens,Johannes Vogl,Martin Lindorfer,Raphael Eisschiel
+K.O. Stage,Open,Bracket A,Quarter-final,Best of 3,Double Tap,Abschiedstour,Double Tap,15,10,8,15,20,18,Albin Janko,Maher Saadeddin,Thomas Pschaid,Andreas Reisenhofer
+K.O. Stage,Open,Bracket A,Semi-final,Best of 3,FA,Double Tap,FA,15,10,15,12,,,Mathias Gangkofner,Gabriel Stoisser,Albin Janko,Maher Saadeddin
+K.O. Stage,Open,Bracket A,Semi-final,Best of 3,Heldi in Not,Spikebros,Heldi in Not,15,12,18,20,15,9,Stefan Geyer,Maximilian Knoll,Martin Lindorfer,Raphael Eisschiel
+K.O. Stage,Open,Bracket A,P5: Semi-final,Single game,Abschiedstour,Fajitas,Fajitas,0,1,,,,,Thomas Pschaid,Andreas Reisenhofer,Fabian Hagen,James Faustmann
+K.O. Stage,Open,Bracket A,P5: Semi-final,Single game,Sonate in Ass-Moll,Ost-West-Achse,Ost-West-Achse,0,1,,,,,Mio Martens,Johannes Vogl,Timo Clees,Simon Bösch
+K.O. Stage,Open,Bracket A,P9: Semi-final,Best of 3,Net Ninjas,gg wp,Net Ninjas,15,0,15,0,,,Andi Gjergji,Christoph Lorenzoni,Lukas Reiter,Maximilian Mitterlehner
+K.O. Stage,Open,Bracket A,P9: Semi-final,Best of 3,Bounce Back Crew,cocktail enjoyers,cocktail enjoyers,13,15,17,19,,,Lukas Nösslböck,Michael Stern,Alexander Winkler,Lukas Stöbich
+K.O. Stage,Open,Bracket A,Final,Best of 3,FA,Heldi in Not,FA,21,9,21,9,,,Mathias Gangkofner,Gabriel Stoisser,Stefan Geyer,Maximilian Knoll
+K.O. Stage,Open,Bracket A,P3: Final,Best of 3,Spikebros,Double Tap,Double Tap,17,21,20,22,,,Martin Lindorfer,Raphael Eisschiel,Albin Janko,Maher Saadeddin
+K.O. Stage,Open,Bracket A,P5: Final,Best of 3,Fajitas,Ost-West-Achse,Ost-West-Achse,13,15,20,22,,,Fabian Hagen,James Faustmann,Timo Clees,Simon Bösch
+K.O. Stage,Open,Bracket A,P7: Final,Single game,Sonate in Ass-Moll,Abschiedstour,Abschiedstour,1,2,,,,,Mio Martens,Johannes Vogl,Thomas Pschaid,Andreas Reisenhofer
+Group Stage,Open Intermediate,Power Pool A,1,Best of 3,FrontSkin,BnB,FrontSkin,15,12,15,10,,,Tobias Altendorfer,Florian Mayr,Rene Berner,Daniel Brunsteiner
+Group Stage,Open Intermediate,Power Pool A,1,Best of 3,NoMa'am 3,Leberkasultras,NoMa'am 3,15,9,15,11,,,Florian Forsthuber,Jonas Gschnell,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool A,1,Best of 3,54321,BITTE,,9,15,15,10,0,0,Martin Wakolbinger,Paul Bernecker,Ralph Strasser,Thomas Hollin
+Group Stage,Open Intermediate,Power Pool B,1,Best of 3,Bärlauch,Huevos auf Deutsch,Bärlauch,15,4,15,13,,,Dominik Schmidt,Markus Thalhammer,Franz Beyer,Florian Wall
+Group Stage,Open Intermediate,Power Pool B,1,Best of 3,Eier auf Spanisch,Shagalabagala,,15,12,14,15,0,0,Thomas Stadler,Tobias Moser,Samuel Greuling,Kilian Hagmüller
+Group Stage,Open Intermediate,Power Pool B,1,Best of 3,OPmobility,Dark Side,OPmobility,15,8,15,5,,,Emile Bertrand,Abhishek Kumar,Lukas Lackinger,Markus Leitenbauer
+Group Stage,Open Intermediate,Power Pool C,1,Best of 3,NoMa'am 2,Die Gauchos,NoMa'am 2,15,3,15,10,,,Christoph Hinterbichler,Fabian Wagner,Felix Krenn,Tobias Sprrl
+Group Stage,Open Intermediate,Power Pool C,1,Best of 3,Bsteck Zspod Bstöt,Lockenkopf,Lockenkopf,8,15,6,15,,,Peter Oberngruber,Tobias Lauss,Felix Mrak,Tobias Stadler
+Group Stage,Open Intermediate,Power Pool C,1,Best of 3,Hairy Harry,2 Guys 2 Führerscheine,Hairy Harry,15,5,15,7,,,Peter Gabriel,Philip Meßthaller,Marco Füreder,Andreas Ehrenecker
+Group Stage,Open Intermediate,Power Pool A,2,Best of 3,FrontSkin,Leberkasultras,FrontSkin,15,5,15,7,,,Tobias Altendorfer,Florian Mayr,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool A,2,Best of 3,NoMa'am 3,54321,,8,15,15,8,0,0,Florian Forsthuber,Jonas Gschnell,Martin Wakolbinger,Paul Bernecker
+Group Stage,Open Intermediate,Power Pool A,2,Best of 3,BITTE,BnB,BnB,5,15,12,15,,,Ralph Strasser,Thomas Hollin,Rene Berner,Daniel Brunsteiner
+Group Stage,Open Intermediate,Power Pool B,2,Best of 3,Bärlauch,Shagalabagala,,13,15,15,12,0,0,Dominik Schmidt,Markus Thalhammer,Samuel Greuling,Kilian Hagmüller
+Group Stage,Open Intermediate,Power Pool B,2,Best of 3,Eier auf Spanisch,OPmobility,Eier auf Spanisch,15,14,15,11,,,Thomas Stadler,Tobias Moser,Emile Bertrand,Abhishek Kumar
+Group Stage,Open Intermediate,Power Pool B,2,Best of 3,Dark Side,Huevos auf Deutsch,Dark Side,15,6,15,14,,,Lukas Lackinger,Markus Leitenbauer,Franz Beyer,Florian Wall
+Group Stage,Open Intermediate,Power Pool C,2,Best of 3,NoMa'am 2,Lockenkopf,,15,13,14,15,0,0,Christoph Hinterbichler,Fabian Wagner,Felix Mrak,Tobias Stadler
+Group Stage,Open Intermediate,Power Pool C,2,Best of 3,Bsteck Zspod Bstöt,Hairy Harry,,9,15,15,14,0,0,Peter Oberngruber,Tobias Lauss,Peter Gabriel,Philip Meßthaller
+Group Stage,Open Intermediate,Power Pool C,2,Best of 3,2 Guys 2 Führerscheine,Die Gauchos,Die Gauchos,5,15,8,15,,,Marco Füreder,Andreas Ehrenecker,Felix Krenn,Tobias Sprrl
+Group Stage,Open Intermediate,Power Pool A,3,Best of 3,FrontSkin,BITTE,FrontSkin,15,10,15,13,,,Tobias Altendorfer,Florian Mayr,Ralph Strasser,Thomas Hollin
+Group Stage,Open Intermediate,Power Pool A,3,Best of 3,NoMa'am 3,BnB,,8,15,15,10,0,0,Florian Forsthuber,Jonas Gschnell,Rene Berner,Daniel Brunsteiner
+Group Stage,Open Intermediate,Power Pool A,3,Best of 3,54321,Leberkasultras,,12,15,15,12,0,0,Martin Wakolbinger,Paul Bernecker,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool B,3,Best of 3,Bärlauch,Dark Side,,15,8,12,15,0,0,Dominik Schmidt,Markus Thalhammer,Lukas Lackinger,Markus Leitenbauer
+Group Stage,Open Intermediate,Power Pool B,3,Best of 3,Eier auf Spanisch,Huevos auf Deutsch,Eier auf Spanisch,15,6,15,6,0,0,Thomas Stadler,Tobias Moser,Franz Beyer,Florian Wall
+Group Stage,Open Intermediate,Power Pool B,3,Best of 3,OPmobility,Shagalabagala,Shagalabagala,5,15,8,15,,,Emile Bertrand,Abhishek Kumar,Samuel Greuling,Kilian Hagmüller
+Group Stage,Open Intermediate,Power Pool C,3,Best of 3,NoMa'am 2,2 Guys 2 Führerscheine,NoMa'am 2,15,5,15,1,,,Christoph Hinterbichler,Fabian Wagner,Marco Füreder,Andreas Ehrenecker
+Group Stage,Open Intermediate,Power Pool C,3,Best of 3,Bsteck Zspod Bstöt,Die Gauchos,,15,13,13,15,0,0,Peter Oberngruber,Tobias Lauss,Felix Krenn,Tobias Sprrl
+Group Stage,Open Intermediate,Power Pool C,3,Best of 3,Hairy Harry,Lockenkopf,,12,15,15,9,0,0,Peter Gabriel,Philip Meßthaller,Felix Mrak,Tobias Stadler
+Group Stage,Open Intermediate,Power Pool A,4,Best of 3,FrontSkin,54321,FrontSkin,15,13,15,12,,,Tobias Altendorfer,Florian Mayr,Martin Wakolbinger,Paul Bernecker
+Group Stage,Open Intermediate,Power Pool A,4,Best of 3,NoMa'am 3,BITTE,NoMa'am 3,15,14,15,14,,,Florian Forsthuber,Jonas Gschnell,Ralph Strasser,Thomas Hollin
+Group Stage,Open Intermediate,Power Pool A,4,Best of 3,Leberkasultras,BnB,BnB,4,15,0,15,,,Sebastian Winkler,Gregor Höllinger,Rene Berner,Daniel Brunsteiner
+Group Stage,Open Intermediate,Power Pool B,4,Best of 3,Bärlauch,OPmobility,,15,9,14,15,,,Dominik Schmidt,Markus Thalhammer,Emile Bertrand,Abhishek Kumar
+Group Stage,Open Intermediate,Power Pool B,4,Best of 3,Eier auf Spanisch,Dark Side,Eier auf Spanisch,15,4,15,5,,,Thomas Stadler,Tobias Moser,Lukas Lackinger,Markus Leitenbauer
+Group Stage,Open Intermediate,Power Pool B,4,Best of 3,Shagalabagala,Huevos auf Deutsch,Shagalabagala,15,14,15,6,,,Samuel Greuling,Kilian Hagmüller,Franz Beyer,Florian Wall
+Group Stage,Open Intermediate,Power Pool C,4,Best of 3,NoMa'am 2,Hairy Harry,NoMa'am 2,15,6,15,7,,,Christoph Hinterbichler,Fabian Wagner,Peter Gabriel,Philip Meßthaller
+Group Stage,Open Intermediate,Power Pool C,4,Best of 3,Bsteck Zspod Bstöt,2 Guys 2 Führerscheine,Bsteck Zspod Bstöt,15,10,15,7,,,Peter Oberngruber,Tobias Lauss,Marco Füreder,Andreas Ehrenecker
+Group Stage,Open Intermediate,Power Pool C,4,Best of 3,Lockenkopf,Die Gauchos,Lockenkopf,15,11,15,9,,,Felix Mrak,Tobias Stadler,Felix Krenn,Tobias Sprrl
+Group Stage,Open Intermediate,Power Pool A,5,Best of 3,FrontSkin,NoMa'am 3,FrontSkin,15,13,15,14,,,Tobias Altendorfer,Florian Mayr,Florian Forsthuber,Jonas Gschnell
+Group Stage,Open Intermediate,Power Pool A,5,Best of 3,54321,BnB,BnB,12,15,8,15,,,Martin Wakolbinger,Paul Bernecker,Rene Berner,Daniel Brunsteiner
+Group Stage,Open Intermediate,Power Pool A,5,Best of 3,BITTE,Leberkasultras,BITTE,15,8,15,7,,,Ralph Strasser,Thomas Hollin,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool B,5,Best of 3,Bärlauch,Eier auf Spanisch,Eier auf Spanisch,12,15,13,15,,,Dominik Schmidt,Markus Thalhammer,Thomas Stadler,Tobias Moser
+Group Stage,Open Intermediate,Power Pool B,5,Best of 3,OPmobility,Huevos auf Deutsch,,15,14,12,15,,,Emile Bertrand,Abhishek Kumar,Franz Beyer,Florian Wall
+Group Stage,Open Intermediate,Power Pool B,5,Best of 3,Dark Side,Shagalabagala,Shagalabagala,6,15,11,15,,,Lukas Lackinger,Markus Leitenbauer,Samuel Greuling,Kilian Hagmüller
+Group Stage,Open Intermediate,Power Pool C,5,Best of 3,NoMa'am 2,Bsteck Zspod Bstöt,NoMa'am 2,15,12,15,4,,,Christoph Hinterbichler,Fabian Wagner,Peter Oberngruber,Tobias Lauss
+Group Stage,Open Intermediate,Power Pool C,5,Best of 3,Hairy Harry,Die Gauchos,,15,11,13,15,,,Peter Gabriel,Philip Meßthaller,Felix Krenn,Tobias Sprrl
+Group Stage,Open Intermediate,Power Pool C,5,Best of 3,2 Guys 2 Führerscheine,Lockenkopf,Lockenkopf,6,15,4,15,,,Marco Füreder,Andreas Ehrenecker,Felix Mrak,Tobias Stadler
+K.O. Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Dark Side,2 Guys 2 Führerscheine,Dark Side,15,13,15,4,,,Lukas Lackinger,Markus Leitenbauer,Marco Füreder,Andreas Ehrenecker
+K.O. Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Huevos auf Deutsch,Leberkasultras,Huevos auf Deutsch,12,15,15,7,11,9,Franz Beyer,Florian Wall,Sebastian Winkler,Gregor Höllinger
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,FrontSkin,Huevos auf Deutsch,FrontSkin,15,10,15,8,,,Tobias Altendorfer,Florian Mayr,Franz Beyer,Florian Wall
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,NoMa'am 2,Dark Side,NoMa'am 2,15,4,15,5,,,Christoph Hinterbichler,Fabian Wagner,Lukas Lackinger,Markus Leitenbauer
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Eier auf Spanisch,54321,Eier auf Spanisch,15,5,15,3,,,Thomas Stadler,Tobias Moser,Martin Wakolbinger,Paul Bernecker
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Lockenkopf,BITTE,Lockenkopf,15,6,15,7,,,Felix Mrak,Tobias Stadler,Ralph Strasser,Thomas Hollin
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Shagalabagala,Bsteck Zspod Bstöt,Shagalabagala,15,12,8,15,15,4,Samuel Greuling,Kilian Hagmüller,Peter Oberngruber,Tobias Lauss
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,BnB,Die Gauchos,BnB,15,11,15,13,,,Rene Berner,Daniel Brunsteiner,Felix Krenn,Tobias Sprrl
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,NoMa'am 3,OPmobility,OPmobility,14,15,15,10,8,15,Florian Forsthuber,Jonas Gschnell,Emile Bertrand,Abhishek Kumar
+K.O. Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Bärlauch,Hairy Harry,Bärlauch,15,11,15,11,,,Dominik Schmidt,Markus Thalhammer,Peter Gabriel,Philip Meßthaller
+K.O. Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,FrontSkin,Bärlauch,Bärlauch,15,13,10,15,10,12,Tobias Altendorfer,Florian Mayr,Dominik Schmidt,Markus Thalhammer
+K.O. Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,NoMa'am 2,OPmobility,NoMa'am 2,15,11,15,7,,,Christoph Hinterbichler,Fabian Wagner,Emile Bertrand,Abhishek Kumar
+K.O. Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Eier auf Spanisch,BnB,Eier auf Spanisch,15,9,15,13,,,Thomas Stadler,Tobias Moser,Rene Berner,Daniel Brunsteiner
+K.O. Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Lockenkopf,Shagalabagala,Lockenkopf,15,11,13,15,15,7,Felix Mrak,Tobias Stadler,Samuel Greuling,Kilian Hagmüller
+K.O. Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,Hairy Harry,Huevos auf Deutsch,Hairy Harry,15,11,15,10,,,Peter Gabriel,Philip Meßthaller,Franz Beyer,Florian Wall
+K.O. Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,NoMa'am 3,Dark Side,Dark Side,13,15,15,12,13,15,Florian Forsthuber,Jonas Gschnell,Lukas Lackinger,Markus Leitenbauer
+K.O. Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,Die Gauchos,54321,Die Gauchos,15,0,15,0,,,Felix Krenn,Tobias Sprrl,Martin Wakolbinger,Paul Bernecker
+K.O. Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,Bsteck Zspod Bstöt,BITTE,Bsteck Zspod Bstöt,15,7,11,15,15,5,Peter Oberngruber,Tobias Lauss,Ralph Strasser,Thomas Hollin
+K.O. Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,Bärlauch,Lockenkopf,Lockenkopf,6,15,12,15,,,Dominik Schmidt,Markus Thalhammer,Felix Mrak,Tobias Stadler
+K.O. Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,NoMa'am 2,Eier auf Spanisch,NoMa'am 2,15,11,15,13,,,Christoph Hinterbichler,Fabian Wagner,Thomas Stadler,Tobias Moser
+K.O. Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,Shagalabagala,FrontSkin,FrontSkin,0,15,0,15,,,Samuel Greuling,Kilian Hagmüller,Tobias Altendorfer,Florian Mayr
+K.O. Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,BnB,OPmobility,BnB,15,11,15,12,,,Rene Berner,Daniel Brunsteiner,Emile Bertrand,Abhishek Kumar
+K.O. Stage,Open Intermediate,Bracket A,P9: Semi-final,Best of 3,Hairy Harry,Bsteck Zspod Bstöt,Hairy Harry,15,0,15,0,,,Peter Gabriel,Philip Meßthaller,Peter Oberngruber,Tobias Lauss
+K.O. Stage,Open Intermediate,Bracket A,P13: Semi-final,Best of 3,BITTE,Huevos auf Deutsch,Huevos auf Deutsch,0,15,0,15,,,Ralph Strasser,Thomas Hollin,Franz Beyer,Florian Wall
+K.O. Stage,Open Intermediate,Bracket A,P13: Semi-final,Best of 3,54321,NoMa'am 3,NoMa'am 3,0,15,0,15,,,Martin Wakolbinger,Paul Bernecker,Florian Forsthuber,Jonas Gschnell
+K.O. Stage,Open Intermediate,Bracket A,Final,Best of 3,Lockenkopf,NoMa'am 2,Lockenkopf,19,21,21,11,15,11,Felix Mrak,Tobias Stadler,Christoph Hinterbichler,Fabian Wagner
+K.O. Stage,Open Intermediate,Bracket A,P3: Final,Best of 3,Eier auf Spanisch,Bärlauch,Eier auf Spanisch,15,12,18,20,11,8,Thomas Stadler,Tobias Moser,Dominik Schmidt,Markus Thalhammer
+K.O. Stage,Open Intermediate,Bracket A,P5: Final,Best of 3,FrontSkin,BnB,BnB,8,15,15,11,9,11,Tobias Altendorfer,Florian Mayr,Rene Berner,Daniel Brunsteiner
+K.O. Stage,Open Intermediate,Bracket A,P7: Final,Best of 3,OPmobility,Shagalabagala,OPmobility,15,0,15,0,,,Emile Bertrand,Abhishek Kumar,Samuel Greuling,Kilian Hagmüller
+K.O. Stage,Open Intermediate,Bracket A,P17: Final,Best of 3,Leberkasultras,2 Guys 2 Führerscheine,Leberkasultras,15,9,12,15,15,13,Sebastian Winkler,Gregor Höllinger,Marco Füreder,Andreas Ehrenecker
+Group Stage,Women's Intermediate,Power Pool A,1,Best of 3,Jo Eh!,Sunnyside,,14,21,21,20,,,Johanna Kagerer,Elisa Pilgram,Helena Langitz,Bettina Meinhart
+Group Stage,Women's Intermediate,Power Pool A,1,Best of 3,Raspberry Connection,Spike Tyson,Spike Tyson,3,21,11,21,,,Anna Pühringer,Eva Schauberger,Julia Bernecker,Elisabeth Lindorfer
+Group Stage,Women's Intermediate,Power Pool B,1,Best of 3,Chicken Twins,HaPu Blitzers,HaPu Blitzers,9,21,3,21,,,Verena Luger,Sonja Dorner,Hanna Mrak,Sara Pungor
+Group Stage,Women's Intermediate,Power Pool B,1,Best of 3,Block'n Roll,Malle made us,,11,21,21,15,,,Marlene Zwilgmeyer,Hannah Seferovic,Theresa Schaufler,Yasmin Graeter
+Group Stage,Women's Intermediate,Power Pool A,2,Best of 3,Jo Eh!,Spike Tyson,Jo Eh!,21,9,21,4,,,Johanna Kagerer,Elisa Pilgram,Julia Bernecker,Elisabeth Lindorfer
+Group Stage,Women's Intermediate,Power Pool A,2,Best of 3,Raspberry Connection,Sunnyside,Sunnyside,7,21,3,21,,,Anna Pühringer,Eva Schauberger,Helena Langitz,Bettina Meinhart
+Group Stage,Women's Intermediate,Power Pool B,2,Best of 3,Chicken Twins,Malle made us,Malle made us,3,21,1,21,,,Verena Luger,Sonja Dorner,Theresa Schaufler,Yasmin Graeter
+Group Stage,Women's Intermediate,Power Pool B,2,Best of 3,Block'n Roll,HaPu Blitzers,,21,16,12,21,,,Marlene Zwilgmeyer,Hannah Seferovic,Hanna Mrak,Sara Pungor
+Group Stage,Women's Intermediate,Power Pool A,3,Best of 3,Jo Eh!,Raspberry Connection,Jo Eh!,21,5,21,6,,,Johanna Kagerer,Elisa Pilgram,Anna Pühringer,Eva Schauberger
+Group Stage,Women's Intermediate,Power Pool A,3,Best of 3,Spike Tyson,Sunnyside,Sunnyside,4,21,9,21,,,Julia Bernecker,Elisabeth Lindorfer,Helena Langitz,Bettina Meinhart
+Group Stage,Women's Intermediate,Power Pool B,3,Best of 3,Chicken Twins,Block'n Roll,Block'n Roll,4,21,9,21,,,Verena Luger,Sonja Dorner,Marlene Zwilgmeyer,Hannah Seferovic
+Group Stage,Women's Intermediate,Power Pool B,3,Best of 3,Malle made us,HaPu Blitzers,,19,21,21,16,,,Theresa Schaufler,Yasmin Graeter,Hanna Mrak,Sara Pungor
+K.O. Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Sunnyside,Chicken Twins,Sunnyside,21,6,21,5,,,Helena Langitz,Bettina Meinhart,Verena Luger,Sonja Dorner
+K.O. Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Jo Eh!,Raspberry Connection,Jo Eh!,21,4,21,3,,,Johanna Kagerer,Elisa Pilgram,Anna Pühringer,Eva Schauberger
+K.O. Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Malle made us,Spike Tyson,Malle made us,21,13,21,10,,,Theresa Schaufler,Yasmin Graeter,Julia Bernecker,Elisabeth Lindorfer
+K.O. Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Block'n Roll,HaPu Blitzers,HaPu Blitzers,15,21,21,17,9,15,Marlene Zwilgmeyer,Hannah Seferovic,Hanna Mrak,Sara Pungor
+K.O. Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Sunnyside,HaPu Blitzers,HaPu Blitzers,14,21,15,21,,,Helena Langitz,Bettina Meinhart,Hanna Mrak,Sara Pungor
+K.O. Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Jo Eh!,Malle made us,Malle made us,12,21,17,21,,,Johanna Kagerer,Elisa Pilgram,Theresa Schaufler,Yasmin Graeter
+K.O. Stage,Women's Intermediate,Bracket A,P5: Semi-final,Best of 3,Block'n Roll,Chicken Twins,Block'n Roll,15,2,15,3,,,Marlene Zwilgmeyer,Hannah Seferovic,Verena Luger,Sonja Dorner
+K.O. Stage,Women's Intermediate,Bracket A,P5: Semi-final,Best of 3,Spike Tyson,Raspberry Connection,Spike Tyson,15,5,15,10,,,Julia Bernecker,Elisabeth Lindorfer,Anna Pühringer,Eva Schauberger
+K.O. Stage,Women's Intermediate,Bracket A,Final,Best of 3,HaPu Blitzers,Malle made us,Malle made us,26,28,21,15,16,21,Hanna Mrak,Sara Pungor,Theresa Schaufler,Yasmin Graeter
+K.O. Stage,Women's Intermediate,Bracket A,P3: Final,Best of 3,Jo Eh!,Sunnyside,Sunnyside,17,21,15,21,,,Johanna Kagerer,Elisa Pilgram,Helena Langitz,Bettina Meinhart
+K.O. Stage,Women's Intermediate,Bracket A,P5: Final,Best of 3,Block'n Roll,Spike Tyson,Block'n Roll,15,5,15,9,,,Marlene Zwilgmeyer,Hannah Seferovic,Julia Bernecker,Elisabeth Lindorfer
+K.O. Stage,Women's Intermediate,Bracket A,P7: Final,Best of 3,Raspberry Connection,Chicken Twins,Chicken Twins,11,15,8,15,,,Anna Pühringer,Eva Schauberger,Verena Luger,Sonja Dorner

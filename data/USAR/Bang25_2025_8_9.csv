@@ -1,0 +1,33 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Contender,Group A,1,Single game,Rogue,Past and President,Rogue,21,5,,,,,Thomas Hamilton,Ryan Marino,Micah Bouman,Weston Motloch
+Group Stage,Open Contender,Group A,1,Single game,ORTHODOX,Margwa Munchers,ORTHODOX,21,7,,,,,Jack Bushart,Clifford Amadeo LeVeque,Izayah Gibson,Skyler Sebring
+Group Stage,Open Contender,Group B,1,Single game,Cwazy,Halliday/Banziger,Cwazy,21,8,,,,,Emerson Dean,Kyle Fowler,AJ Halliday,Drew Banziger
+Group Stage,Open Contender,Group B,1,Single game,Mystery Box,Lahar Drift,Mystery Box,21,6,,,,,Kieran Rose,Aleks Essen,Jack Drouare,Korbin Thompson
+Group Stage,Open Contender,Group A,2,Single game,Rogue,Margwa Munchers,Rogue,21,8,,,,,Thomas Hamilton,Ryan Marino,Izayah Gibson,Skyler Sebring
+Group Stage,Open Contender,Group A,2,Single game,Transfer portal,Past and President,Transfer portal,21,17,,,,,Nick Evanko,Jackson Wood,Micah Bouman,Weston Motloch
+Group Stage,Open Contender,Group B,2,Single game,Cwazy,Lahar Drift,Cwazy,21,8,,,,,Emerson Dean,Kyle Fowler,Jack Drouare,Korbin Thompson
+Group Stage,Open Contender,Group B,2,Single game,RNG,Halliday/Banziger,RNG,21,11,,,,,Reed Drouare,Garrett Duncan,AJ Halliday,Drew Banziger
+Group Stage,Open Contender,Group A,3,Single game,Rogue,Transfer portal,Rogue,21,11,,,,,Thomas Hamilton,Ryan Marino,Nick Evanko,Jackson Wood
+Group Stage,Open Contender,Group A,3,Single game,ORTHODOX,Past and President,ORTHODOX,21,8,,,,,Jack Bushart,Clifford Amadeo LeVeque,Micah Bouman,Weston Motloch
+Group Stage,Open Contender,Group B,3,Single game,Cwazy,RNG,Cwazy,21,12,,,,,Emerson Dean,Kyle Fowler,Reed Drouare,Garrett Duncan
+Group Stage,Open Contender,Group B,3,Single game,Mystery Box,Halliday/Banziger,Mystery Box,21,13,,,,,Kieran Rose,Aleks Essen,AJ Halliday,Drew Banziger
+Group Stage,Open Contender,Group A,4,Single game,ORTHODOX,Transfer portal,ORTHODOX,21,19,,,,,Jack Bushart,Clifford Amadeo LeVeque,Nick Evanko,Jackson Wood
+Group Stage,Open Contender,Group A,4,Single game,Margwa Munchers,Past and President,Past and President,9,21,,,,,Izayah Gibson,Skyler Sebring,Micah Bouman,Weston Motloch
+Group Stage,Open Contender,Group B,4,Single game,Mystery Box,RNG,Mystery Box,21,9,,,,,Kieran Rose,Aleks Essen,Reed Drouare,Garrett Duncan
+Group Stage,Open Contender,Group B,4,Single game,Lahar Drift,Halliday/Banziger,Lahar Drift,21,16,,,,,Jack Drouare,Korbin Thompson,AJ Halliday,Drew Banziger
+Group Stage,Open Contender,Group A,5,Single game,Rogue,ORTHODOX,Rogue,21,15,,,,,Thomas Hamilton,Ryan Marino,Jack Bushart,Clifford Amadeo LeVeque
+Group Stage,Open Contender,Group A,5,Single game,Transfer portal,Margwa Munchers,Transfer portal,21,14,,,,,Nick Evanko,Jackson Wood,Izayah Gibson,Skyler Sebring
+Group Stage,Open Contender,Group B,5,Single game,Cwazy,Mystery Box,Mystery Box,14,21,,,,,Emerson Dean,Kyle Fowler,Kieran Rose,Aleks Essen
+Group Stage,Open Contender,Group B,5,Single game,RNG,Lahar Drift,RNG,21,9,,,,,Reed Drouare,Garrett Duncan,Jack Drouare,Korbin Thompson
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Past and President,Halliday/Banziger,Past and President,21,14,16,21,21,9,Micah Bouman,Weston Motloch,AJ Halliday,Drew Banziger
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Lahar Drift,Margwa Munchers,Lahar Drift,21,10,21,19,,,Jack Drouare,Korbin Thompson,Izayah Gibson,Skyler Sebring
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Rogue,Lahar Drift,Rogue,21,4,21,8,,,Thomas Hamilton,Ryan Marino,Jack Drouare,Korbin Thompson
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Mystery Box,Past and President,Mystery Box,21,11,21,9,,,Kieran Rose,Aleks Essen,Micah Bouman,Weston Motloch
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Cwazy,Transfer portal,Cwazy,21,15,19,21,21,14,Emerson Dean,Kyle Fowler,Nick Evanko,Jackson Wood
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,ORTHODOX,RNG,ORTHODOX,21,16,21,19,,,Jack Bushart,Clifford Amadeo LeVeque,Reed Drouare,Garrett Duncan
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Rogue,ORTHODOX,Rogue,21,14,21,17,,,Thomas Hamilton,Ryan Marino,Jack Bushart,Clifford Amadeo LeVeque
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Mystery Box,Cwazy,Cwazy,17,21,16,21,,,Kieran Rose,Aleks Essen,Emerson Dean,Kyle Fowler
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Single game,RNG,Lahar Drift,RNG,22,20,,,,,Reed Drouare,Garrett Duncan,Jack Drouare,Korbin Thompson
+Bracket Stage,Open Contender,Bracket A,Final,Best of 3,Rogue,Cwazy,Cwazy,21,16,19,21,17,21,Thomas Hamilton,Ryan Marino,Emerson Dean,Kyle Fowler
+Bracket Stage,Open Contender,Bracket A,P3: Final,Best of 3,Mystery Box,ORTHODOX,Mystery Box,18,21,21,14,23,21,Kieran Rose,Aleks Essen,Jack Bushart,Clifford Amadeo LeVeque
+Bracket Stage,Open Contender,Bracket A,P9: Final,Single game,Margwa Munchers,Halliday/Banziger,Margwa Munchers,21,18,,,,,Izayah Gibson,Skyler Sebring,AJ Halliday,Drew Banziger

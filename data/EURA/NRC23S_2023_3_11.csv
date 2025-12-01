@@ -1,0 +1,393 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Pro German,Group 1,1,Single game,Cobra Spike,Small and Extra Small,Cobra Spike,15,7,,,,,Herman Henström,Samuel Mjönes,Charlie Wilson,Michael Pang
+Group Stage,Pro German,Group 1,1,Single game,Los Kuikelos,AALBORG LIFEGUARDS,Los Kuikelos,15,4,,,,,Johannes Peltonen,Jussi Kelavuori,Atos Andersen,Phillip Lundquist
+Group Stage,Pro German,Group 1,1,Single game,Off radar,Mallton & Biggman,Off radar,15,11,,,,,David Schultebraucks,Cedric Strehlow,Felix Millton,Edvin Baggman
+Group Stage,Pro German,Group 2,1,Single game,Squid Smokers,THOHT | training hard or hardly training,THOHT | training hard or hardly training,7,15,,,,,Joseph Kerridge,Apurba Subedi,Janis Beikmanis,Aleksandrs Juška
+Group Stage,Pro German,Group 2,1,Single game,Aussie & Pom,The Small Scare,The Small Scare,10,15,,,,,Barnaby Wheeler,Mark Elbourne,Jannik Riedler,Alexander Müller
+Group Stage,Pro German,Group 2,1,Single game,Maskinmestrerne,Mau og Maagge,Maskinmestrerne,15,9,,,,,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen,Lasse Maagaard,Markus Andersen
+Group Stage,Pro German,Group 3,1,Single game,R-UNIT,Stort og Småt brændbart,Stort og Småt brændbart,11,15,,,,,Rihards Repels,Reinis Pavlovskis,Niklas Daugbjerg,Søren Høy
+Group Stage,Pro German,Group 3,1,Single game,REflex,Super Saiya Rim,Super Saiya Rim,4,15,,,,,Andreas Korsholm Knudsen,Magnus Lyskjær,Mario Kurz,Sebastian Christophe
+Group Stage,Pro German,Group 3,1,Single game,Adunk og Co.,RDO Flix und Fertig,RDO Flix und Fertig,4,15,,,,,Martin Jakobsen,Asbjørn Malmgaard,Lucas Christiani,Max Schartmann
+Group Stage,Pro German,Group 4,1,Single game,Always Tricky,Lynskind,Always Tricky,15,6,,,,,Daniel Henriksen,Emil Nielsen,Markus Skindhøj,David Lyngbye
+Group Stage,Pro German,Group 4,1,Single game,PJ Headwalter,Double Jonny,PJ Headwalter,15,5,,,,,Peer Kanis,Johannes Kopfmann,Jonas Kolbe,Ingvi Örnolfsson
+Group Stage,Pro German,Group 5,1,Single game,Nordens Disciple,Denhamwa,Denhamwa,8,15,,,,,Anders Aaen Springborg,Jonas Lund Madsen,Adrian Gellissen,Lilli Stötzler
+Group Stage,Pro German,Group 5,1,Single game,Green team,Le Spiko de Familia,Le Spiko de Familia,1,15,,,,,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen,Kasper Søvndal,Andreas Christensen
+Group Stage,Pro German,Group 5,1,Single game,The Trickers,Inès&Krissi,Inès&Krissi,8,15,,,,,Ruben Møberg,Daniel Henriksen Again,Inès Paysan,Kristina Dettmann
+Group Stage,Pro German,Group 6,1,Single game,PCP,Squids On Tour,PCP,15,8,,,,,Jakob Blaaholm Nielsen,Felipe Bahamondes,Daniel Blackledge,James Jewitt
+Group Stage,Pro German,Group 6,1,Single game,Varmen,Mighto's Crew,Mighto's Crew,9,15,,,,,Christian Mejlvang,Jeppe Kristensen,Marco Bortoloso,Paolo Fusco
+Group Stage,Pro German,Group 6,1,Single game,To køer på isen,Team vindernoglegange,To køer på isen,15,3,,,,,Alec Gautier,Yanis Bouchemoua,Thor Petersen,Sebastian Searty
+Group Stage,Pro German,Group 7,1,Single game,SpikeHype,Do the fwangdango,SpikeHype,15,7,,,,,Viktor Dupont,Christian Hurley,Charles Bryan Orodio,Hugo Callaway
+Group Stage,Pro German,Group 7,1,Single game,TWO SWEDES,Deloitte Adventure Team,TWO SWEDES,15,8,,,,,Esaja Ekman,Simon Stenquist,Tadeusz Pętlak,Janek Dudzik
+Group Stage,Pro German,Group 8,1,Single game,KRC Blaze,The Blocksmiths,The Blocksmiths,10,15,,,,,Andrew Kuehl,Jared Boyle,Aske Hammar,Jeppe Norlyk Hansen
+Group Stage,Pro German,Group 8,1,Single game,Sol og palmer,Curly Kölsch,Curly Kölsch,3,15,,,,,Sebastian Laursen,Jakob Fris Hansen,Samuel Unterhansberg,Lukas Donovan
+Group Stage,Pro German,Group 8,1,Single game,Boom Boom Sharks,BoomBoomOtters,Boom Boom Sharks,15,12,,,,,Haye Hoffmann,Lukas Meyer,Peter Sesler,Jonathan Wulf
+Group Stage,Pro German,Group 9,1,Single game,IronBoys,RDO Generous Action,RDO Generous Action,10,15,,,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Andreas Lynen,Gerrit Lang
+Group Stage,Pro German,Group 9,1,Single game,Little Sharks,Pas Dégueu,Pas Dégueu,10,15,,,,,Umut Renkligül,Fessal SH,Louis Durand,Théo Vanh Hemelryck
+Group Stage,Pro German,Group 9,1,Single game,KRC North,Bjørn & Fred,KRC North,15,10,,,,,Benjamin Aasen,Jørgen Steinsholt,Simon Poulsen,Frederik Staunstrup
+Group Stage,Pro German,Group 10,1,Single game,Lethal Hämpton,Flick flick boom,Flick flick boom,14,16,,,,,Kosti Kyläinpää,Kari Kyläinpää,Alex Rokotas,Philip Roy
+Group Stage,Pro German,Group 10,1,Single game,Burning Fatt,Magnus og Myggen,Burning Fatt,15,5,,,,,Lou Washburn,Nicole Fatt,Magnus Bredvig,Jonas Conradsen
+Group Stage,Pro German,Group 10,1,Single game,Redekassen,Linnet Brothers,Linnet Brothers,7,15,,,,,Jakob Ravn,Jacob Lerche Nygaard,Andreas Linnet,Mathias Linnet
+Group Stage,Pro German,Group 11,1,Single game,The Blocksmiths Ultras,Honduras an der Oder,The Blocksmiths Ultras,18,16,,,,,Joshua Dülz,Simon Wimmer,Maximilian Portee,Franco Munoz
+Group Stage,Pro German,Group 11,1,Single game,Kick Flickers,JX,Kick Flickers,15,3,,,,,Sigurd Ellefsen,Malte Klinkby,Xavier van Gorp,James Greenlaw
+Group Stage,Pro German,Group 11,1,Single game,AB Spikeball,PAINDROS,PAINDROS,1,15,,,,,Andreas Rabjerg Andersen,Benjamin Hansen,Markus Anderle,Yvo Heinen
+Group Stage,Pro German,Group 12,1,Single game,Yes,Pierre Feuille Victor,Pierre Feuille Victor,5,15,,,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Pierre Lecrosnier,Victor Cambois
+Group Stage,Pro German,Group 12,1,Single game,VT,Spikeghetti,VT,15,10,,,,,Benoit Durand,Ryan DANEKAS,Jakob G. Damgaard,Hjalte Knudsen
+Group Stage,Pro German,Group 12,1,Single game,Bamsefar & Slikkepinden,Ralle og magn,Ralle og magn,10,15,,,,,Jesper Bødewadt Møller,William Gamborg,Rasmus Lauridsen,Magnus Selmer
+Group Stage,Pro German,Group 1,2,Single game,Cobra Spike,AALBORG LIFEGUARDS,Cobra Spike,15,2,,,,,Herman Henström,Samuel Mjönes,Atos Andersen,Phillip Lundquist
+Group Stage,Pro German,Group 1,2,Single game,Los Kuikelos,Off radar,Los Kuikelos,15,11,,,,,Johannes Peltonen,Jussi Kelavuori,David Schultebraucks,Cedric Strehlow
+Group Stage,Pro German,Group 1,2,Single game,Mallton & Biggman,Small and Extra Small,Mallton & Biggman,15,9,,,,,Felix Millton,Edvin Baggman,Charlie Wilson,Michael Pang
+Group Stage,Pro German,Group 2,2,Single game,Squid Smokers,The Small Scare,The Small Scare,12,15,,,,,Joseph Kerridge,Apurba Subedi,Jannik Riedler,Alexander Müller
+Group Stage,Pro German,Group 2,2,Single game,Aussie & Pom,Maskinmestrerne,Aussie & Pom,15,5,,,,,Barnaby Wheeler,Mark Elbourne,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen
+Group Stage,Pro German,Group 2,2,Single game,Mau og Maagge,THOHT | training hard or hardly training,THOHT | training hard or hardly training,4,15,,,,,Lasse Maagaard,Markus Andersen,Janis Beikmanis,Aleksandrs Juška
+Group Stage,Pro German,Group 3,2,Single game,R-UNIT,Super Saiya Rim,Super Saiya Rim,12,15,,,,,Rihards Repels,Reinis Pavlovskis,Mario Kurz,Sebastian Christophe
+Group Stage,Pro German,Group 3,2,Single game,REflex,Adunk og Co.,Adunk og Co.,12,15,,,,,Andreas Korsholm Knudsen,Magnus Lyskjær,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Pro German,Group 3,2,Single game,RDO Flix und Fertig,Stort og Småt brændbart,RDO Flix und Fertig,15,11,,,,,Lucas Christiani,Max Schartmann,Niklas Daugbjerg,Søren Høy
+Group Stage,Pro German,Group 4,2,Single game,Always Tricky,Double Jonny,Always Tricky,15,13,,,,,Daniel Henriksen,Emil Nielsen,Jonas Kolbe,Ingvi Örnolfsson
+Group Stage,Pro German,Group 4,2,Single game,MCTTT,Lynskind,MCTTT,15,7,,,,,Paul Halphen,Sebastien Lawrence,Markus Skindhøj,David Lyngbye
+Group Stage,Pro German,Group 5,2,Single game,Nordens Disciple,Le Spiko de Familia,Le Spiko de Familia,9,15,,,,,Anders Aaen Springborg,Jonas Lund Madsen,Kasper Søvndal,Andreas Christensen
+Group Stage,Pro German,Group 5,2,Single game,Green team,The Trickers,The Trickers,8,15,,,,,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen,Ruben Møberg,Daniel Henriksen Again
+Group Stage,Pro German,Group 5,2,Single game,Inès&Krissi,Denhamwa,Inès&Krissi,15,11,,,,,Inès Paysan,Kristina Dettmann,Adrian Gellissen,Lilli Stötzler
+Group Stage,Pro German,Group 6,2,Single game,PCP,Mighto's Crew,PCP,15,7,,,,,Jakob Blaaholm Nielsen,Felipe Bahamondes,Marco Bortoloso,Paolo Fusco
+Group Stage,Pro German,Group 6,2,Single game,Varmen,To køer på isen,To køer på isen,5,15,,,,,Christian Mejlvang,Jeppe Kristensen,Alec Gautier,Yanis Bouchemoua
+Group Stage,Pro German,Group 6,2,Single game,Team vindernoglegange,Squids On Tour,Squids On Tour,6,15,,,,,Thor Petersen,Sebastian Searty,Daniel Blackledge,James Jewitt
+Group Stage,Pro German,Group 7,2,Single game,SpikeHype,Deloitte Adventure Team,Deloitte Adventure Team,12,15,,,,,Viktor Dupont,Christian Hurley,Tadeusz Pętlak,Janek Dudzik
+Group Stage,Pro German,Group 7,2,Single game,Bergstedt 94ers,Do the fwangdango,Do the fwangdango,12,15,,,,,Luca Sprick,Leon Hünecke,Charles Bryan Orodio,Hugo Callaway
+Group Stage,Pro German,Group 8,2,Single game,KRC Blaze,Curly Kölsch,Curly Kölsch,13,15,,,,,Andrew Kuehl,Jared Boyle,Samuel Unterhansberg,Lukas Donovan
+Group Stage,Pro German,Group 8,2,Single game,Sol og palmer,Boom Boom Sharks,Boom Boom Sharks,4,15,,,,,Sebastian Laursen,Jakob Fris Hansen,Haye Hoffmann,Lukas Meyer
+Group Stage,Pro German,Group 8,2,Single game,BoomBoomOtters,The Blocksmiths,The Blocksmiths,9,15,,,,,Peter Sesler,Jonathan Wulf,Aske Hammar,Jeppe Norlyk Hansen
+Group Stage,Pro German,Group 9,2,Single game,IronBoys,Pas Dégueu,Pas Dégueu,8,15,,,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Louis Durand,Théo Vanh Hemelryck
+Group Stage,Pro German,Group 9,2,Single game,Little Sharks,KRC North,KRC North,10,15,,,,,Umut Renkligül,Fessal SH,Benjamin Aasen,Jørgen Steinsholt
+Group Stage,Pro German,Group 9,2,Single game,Bjørn & Fred,RDO Generous Action,RDO Generous Action,7,15,,,,,Simon Poulsen,Frederik Staunstrup,Andreas Lynen,Gerrit Lang
+Group Stage,Pro German,Group 10,2,Single game,Lethal Hämpton,Magnus og Myggen,Lethal Hämpton,15,3,,,,,Kosti Kyläinpää,Kari Kyläinpää,Magnus Bredvig,Jonas Conradsen
+Group Stage,Pro German,Group 10,2,Single game,Burning Fatt,Redekassen,Burning Fatt,15,4,,,,,Lou Washburn,Nicole Fatt,Jakob Ravn,Jacob Lerche Nygaard
+Group Stage,Pro German,Group 10,2,Single game,Linnet Brothers,Flick flick boom,Linnet Brothers,15,11,,,,,Andreas Linnet,Mathias Linnet,Alex Rokotas,Philip Roy
+Group Stage,Pro German,Group 11,2,Single game,The Blocksmiths Ultras,JX,The Blocksmiths Ultras,15,3,,,,,Joshua Dülz,Simon Wimmer,Xavier van Gorp,James Greenlaw
+Group Stage,Pro German,Group 11,2,Single game,Kick Flickers,AB Spikeball,Kick Flickers,15,2,,,,,Sigurd Ellefsen,Malte Klinkby,Andreas Rabjerg Andersen,Benjamin Hansen
+Group Stage,Pro German,Group 11,2,Single game,PAINDROS,Honduras an der Oder,PAINDROS,15,9,,,,,Markus Anderle,Yvo Heinen,Maximilian Portee,Franco Munoz
+Group Stage,Pro German,Group 12,2,Single game,Yes,Spikeghetti,Spikeghetti,5,15,,,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Jakob G. Damgaard,Hjalte Knudsen
+Group Stage,Pro German,Group 12,2,Single game,VT,Bamsefar & Slikkepinden,VT,15,3,,,,,Benoit Durand,Ryan DANEKAS,Jesper Bødewadt Møller,William Gamborg
+Group Stage,Pro German,Group 12,2,Single game,Ralle og magn,Pierre Feuille Victor,Pierre Feuille Victor,5,15,,,,,Rasmus Lauridsen,Magnus Selmer,Pierre Lecrosnier,Victor Cambois
+Group Stage,Pro German,Group 1,3,Single game,Cobra Spike,Mallton & Biggman,Mallton & Biggman,12,15,,,,,Herman Henström,Samuel Mjönes,Felix Millton,Edvin Baggman
+Group Stage,Pro German,Group 1,3,Single game,Los Kuikelos,Small and Extra Small,Small and Extra Small,10,15,,,,,Johannes Peltonen,Jussi Kelavuori,Charlie Wilson,Michael Pang
+Group Stage,Pro German,Group 1,3,Single game,Off radar,AALBORG LIFEGUARDS,Off radar,15,4,,,,,David Schultebraucks,Cedric Strehlow,Atos Andersen,Phillip Lundquist
+Group Stage,Pro German,Group 2,3,Single game,Squid Smokers,Mau og Maagge,Squid Smokers,15,12,,,,,Joseph Kerridge,Apurba Subedi,Lasse Maagaard,Markus Andersen
+Group Stage,Pro German,Group 2,3,Single game,Aussie & Pom,THOHT | training hard or hardly training,THOHT | training hard or hardly training,13,15,,,,,Barnaby Wheeler,Mark Elbourne,Janis Beikmanis,Aleksandrs Juška
+Group Stage,Pro German,Group 2,3,Single game,Maskinmestrerne,The Small Scare,The Small Scare,7,15,,,,,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen,Jannik Riedler,Alexander Müller
+Group Stage,Pro German,Group 3,3,Single game,R-UNIT,RDO Flix und Fertig,RDO Flix und Fertig,7,15,,,,,Rihards Repels,Reinis Pavlovskis,Lucas Christiani,Max Schartmann
+Group Stage,Pro German,Group 3,3,Single game,REflex,Stort og Småt brændbart,Stort og Småt brændbart,6,15,,,,,Andreas Korsholm Knudsen,Magnus Lyskjær,Niklas Daugbjerg,Søren Høy
+Group Stage,Pro German,Group 3,3,Single game,Adunk og Co.,Super Saiya Rim,Super Saiya Rim,9,15,,,,,Martin Jakobsen,Asbjørn Malmgaard,Mario Kurz,Sebastian Christophe
+Group Stage,Pro German,Group 4,3,Single game,Always Tricky,MCTTT,MCTTT,13,15,,,,,Daniel Henriksen,Emil Nielsen,Paul Halphen,Sebastien Lawrence
+Group Stage,Pro German,Group 4,3,Single game,PJ Headwalter,Lynskind,PJ Headwalter,15,5,,,,,Peer Kanis,Johannes Kopfmann,Markus Skindhøj,David Lyngbye
+Group Stage,Pro German,Group 5,3,Single game,Nordens Disciple,Inès&Krissi,Inès&Krissi,7,15,,,,,Anders Aaen Springborg,Jonas Lund Madsen,Inès Paysan,Kristina Dettmann
+Group Stage,Pro German,Group 5,3,Single game,Green team,Denhamwa,Denhamwa,10,15,,,,,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen,Adrian Gellissen,Lilli Stötzler
+Group Stage,Pro German,Group 5,3,Single game,The Trickers,Le Spiko de Familia,Le Spiko de Familia,9,15,,,,,Ruben Møberg,Daniel Henriksen Again,Kasper Søvndal,Andreas Christensen
+Group Stage,Pro German,Group 6,3,Single game,PCP,Team vindernoglegange,PCP,15,4,,,,,Jakob Blaaholm Nielsen,Felipe Bahamondes,Thor Petersen,Sebastian Searty
+Group Stage,Pro German,Group 6,3,Single game,Varmen,Squids On Tour,Squids On Tour,2,15,,,,,Christian Mejlvang,Jeppe Kristensen,Daniel Blackledge,James Jewitt
+Group Stage,Pro German,Group 6,3,Single game,To køer på isen,Mighto's Crew,To køer på isen,15,13,,,,,Alec Gautier,Yanis Bouchemoua,Marco Bortoloso,Paolo Fusco
+Group Stage,Pro German,Group 7,3,Single game,SpikeHype,Bergstedt 94ers,SpikeHype,15,13,,,,,Viktor Dupont,Christian Hurley,Luca Sprick,Leon Hünecke
+Group Stage,Pro German,Group 7,3,Single game,TWO SWEDES,Do the fwangdango,TWO SWEDES,15,6,,,,,Esaja Ekman,Simon Stenquist,Charles Bryan Orodio,Hugo Callaway
+Group Stage,Pro German,Group 8,3,Single game,KRC Blaze,BoomBoomOtters,KRC Blaze,15,8,,,,,Andrew Kuehl,Jared Boyle,Peter Sesler,Jonathan Wulf
+Group Stage,Pro German,Group 8,3,Single game,Sol og palmer,The Blocksmiths,The Blocksmiths,1,15,,,,,Sebastian Laursen,Jakob Fris Hansen,Aske Hammar,Jeppe Norlyk Hansen
+Group Stage,Pro German,Group 8,3,Single game,Boom Boom Sharks,Curly Kölsch,Curly Kölsch,12,15,,,,,Haye Hoffmann,Lukas Meyer,Samuel Unterhansberg,Lukas Donovan
+Group Stage,Pro German,Group 9,3,Single game,IronBoys,Bjørn & Fred,IronBoys,15,11,,,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Simon Poulsen,Frederik Staunstrup
+Group Stage,Pro German,Group 9,3,Single game,Little Sharks,RDO Generous Action,RDO Generous Action,12,15,,,,,Umut Renkligül,Fessal SH,Andreas Lynen,Gerrit Lang
+Group Stage,Pro German,Group 9,3,Single game,KRC North,Pas Dégueu,Pas Dégueu,20,21,,,,,Benjamin Aasen,Jørgen Steinsholt,Louis Durand,Théo Vanh Hemelryck
+Group Stage,Pro German,Group 10,3,Single game,Lethal Hämpton,Linnet Brothers,Linnet Brothers,10,15,,,,,Kosti Kyläinpää,Kari Kyläinpää,Andreas Linnet,Mathias Linnet
+Group Stage,Pro German,Group 10,3,Single game,Burning Fatt,Flick flick boom,Flick flick boom,7,15,,,,,Lou Washburn,Nicole Fatt,Alex Rokotas,Philip Roy
+Group Stage,Pro German,Group 10,3,Single game,Redekassen,Magnus og Myggen,Redekassen,15,1,,,,,Jakob Ravn,Jacob Lerche Nygaard,Magnus Bredvig,Jonas Conradsen
+Group Stage,Pro German,Group 11,3,Single game,The Blocksmiths Ultras,PAINDROS,PAINDROS,11,15,,,,,Joshua Dülz,Simon Wimmer,Markus Anderle,Yvo Heinen
+Group Stage,Pro German,Group 11,3,Single game,Kick Flickers,Honduras an der Oder,Honduras an der Oder,11,15,,,,,Sigurd Ellefsen,Malte Klinkby,Maximilian Portee,Franco Munoz
+Group Stage,Pro German,Group 11,3,Single game,AB Spikeball,JX,AB Spikeball,15,13,,,,,Andreas Rabjerg Andersen,Benjamin Hansen,Xavier van Gorp,James Greenlaw
+Group Stage,Pro German,Group 12,3,Single game,Yes,Ralle og magn,Ralle og magn,9,15,,,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Rasmus Lauridsen,Magnus Selmer
+Group Stage,Pro German,Group 12,3,Single game,VT,Pierre Feuille Victor,Pierre Feuille Victor,12,15,,,,,Benoit Durand,Ryan DANEKAS,Pierre Lecrosnier,Victor Cambois
+Group Stage,Pro German,Group 12,3,Single game,Bamsefar & Slikkepinden,Spikeghetti,Spikeghetti,4,15,,,,,Jesper Bødewadt Møller,William Gamborg,Jakob G. Damgaard,Hjalte Knudsen
+Group Stage,Pro German,Group 1,4,Single game,Cobra Spike,Off radar,Off radar,12,15,,,,,Herman Henström,Samuel Mjönes,David Schultebraucks,Cedric Strehlow
+Group Stage,Pro German,Group 1,4,Single game,Los Kuikelos,Mallton & Biggman,Mallton & Biggman,12,15,,,,,Johannes Peltonen,Jussi Kelavuori,Felix Millton,Edvin Baggman
+Group Stage,Pro German,Group 1,4,Single game,AALBORG LIFEGUARDS,Small and Extra Small,Small and Extra Small,9,15,,,,,Atos Andersen,Phillip Lundquist,Charlie Wilson,Michael Pang
+Group Stage,Pro German,Group 2,4,Single game,Squid Smokers,Maskinmestrerne,Squid Smokers,15,9,,,,,Joseph Kerridge,Apurba Subedi,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen
+Group Stage,Pro German,Group 2,4,Single game,Aussie & Pom,Mau og Maagge,Aussie & Pom,15,5,,,,,Barnaby Wheeler,Mark Elbourne,Lasse Maagaard,Markus Andersen
+Group Stage,Pro German,Group 2,4,Single game,The Small Scare,THOHT | training hard or hardly training,THOHT | training hard or hardly training,11,15,,,,,Jannik Riedler,Alexander Müller,Janis Beikmanis,Aleksandrs Juška
+Group Stage,Pro German,Group 3,4,Single game,R-UNIT,Adunk og Co.,R-UNIT,15,6,,,,,Rihards Repels,Reinis Pavlovskis,Martin Jakobsen,Asbjørn Malmgaard
+Group Stage,Pro German,Group 3,4,Single game,REflex,RDO Flix und Fertig,RDO Flix und Fertig,5,15,,,,,Andreas Korsholm Knudsen,Magnus Lyskjær,Lucas Christiani,Max Schartmann
+Group Stage,Pro German,Group 3,4,Single game,Super Saiya Rim,Stort og Småt brændbart,Super Saiya Rim,18,16,,,,,Mario Kurz,Sebastian Christophe,Niklas Daugbjerg,Søren Høy
+Group Stage,Pro German,Group 4,4,Single game,PJ Headwalter,MCTTT,PJ Headwalter,15,12,,,,,Peer Kanis,Johannes Kopfmann,Paul Halphen,Sebastien Lawrence
+Group Stage,Pro German,Group 4,4,Single game,Double Jonny,Lynskind,Double Jonny,15,3,,,,,Jonas Kolbe,Ingvi Örnolfsson,Markus Skindhøj,David Lyngbye
+Group Stage,Pro German,Group 5,4,Single game,Nordens Disciple,The Trickers,The Trickers,13,15,,,,,Anders Aaen Springborg,Jonas Lund Madsen,Ruben Møberg,Daniel Henriksen Again
+Group Stage,Pro German,Group 5,4,Single game,Green team,Inès&Krissi,Inès&Krissi,6,15,,,,,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen,Inès Paysan,Kristina Dettmann
+Group Stage,Pro German,Group 5,4,Single game,Le Spiko de Familia,Denhamwa,Denhamwa,13,15,,,,,Kasper Søvndal,Andreas Christensen,Adrian Gellissen,Lilli Stötzler
+Group Stage,Pro German,Group 6,4,Single game,PCP,To køer på isen,PCP,15,10,,,,,Jakob Blaaholm Nielsen,Felipe Bahamondes,Alec Gautier,Yanis Bouchemoua
+Group Stage,Pro German,Group 6,4,Single game,Varmen,Team vindernoglegange,Varmen,15,6,,,,,Christian Mejlvang,Jeppe Kristensen,Thor Petersen,Sebastian Searty
+Group Stage,Pro German,Group 6,4,Single game,Mighto's Crew,Squids On Tour,Mighto's Crew,15,10,,,,,Marco Bortoloso,Paolo Fusco,Daniel Blackledge,James Jewitt
+Group Stage,Pro German,Group 7,4,Single game,TWO SWEDES,Bergstedt 94ers,TWO SWEDES,15,7,,,,,Esaja Ekman,Simon Stenquist,Luca Sprick,Leon Hünecke
+Group Stage,Pro German,Group 7,4,Single game,Deloitte Adventure Team,Do the fwangdango,Deloitte Adventure Team,15,9,,,,,Tadeusz Pętlak,Janek Dudzik,Charles Bryan Orodio,Hugo Callaway
+Group Stage,Pro German,Group 8,4,Single game,KRC Blaze,Boom Boom Sharks,Boom Boom Sharks,13,15,,,,,Andrew Kuehl,Jared Boyle,Haye Hoffmann,Lukas Meyer
+Group Stage,Pro German,Group 8,4,Single game,Sol og palmer,BoomBoomOtters,BoomBoomOtters,7,15,,,,,Sebastian Laursen,Jakob Fris Hansen,Peter Sesler,Jonathan Wulf
+Group Stage,Pro German,Group 8,4,Single game,Curly Kölsch,The Blocksmiths,The Blocksmiths,13,15,,,,,Samuel Unterhansberg,Lukas Donovan,Aske Hammar,Jeppe Norlyk Hansen
+Group Stage,Pro German,Group 9,4,Single game,IronBoys,KRC North,KRC North,11,15,,,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Benjamin Aasen,Jørgen Steinsholt
+Group Stage,Pro German,Group 9,4,Single game,Little Sharks,Bjørn & Fred,Little Sharks,15,11,,,,,Umut Renkligül,Fessal SH,Simon Poulsen,Frederik Staunstrup
+Group Stage,Pro German,Group 9,4,Single game,Pas Dégueu,RDO Generous Action,Pas Dégueu,15,12,,,,,Louis Durand,Théo Vanh Hemelryck,Andreas Lynen,Gerrit Lang
+Group Stage,Pro German,Group 10,4,Single game,Lethal Hämpton,Redekassen,Lethal Hämpton,15,9,,,,,Kosti Kyläinpää,Kari Kyläinpää,Jakob Ravn,Jacob Lerche Nygaard
+Group Stage,Pro German,Group 10,4,Single game,Burning Fatt,Linnet Brothers,Linnet Brothers,8,15,,,,,Lou Washburn,Nicole Fatt,Andreas Linnet,Mathias Linnet
+Group Stage,Pro German,Group 10,4,Single game,Magnus og Myggen,Flick flick boom,Flick flick boom,3,15,,,,,Magnus Bredvig,Jonas Conradsen,Alex Rokotas,Philip Roy
+Group Stage,Pro German,Group 11,4,Single game,The Blocksmiths Ultras,AB Spikeball,The Blocksmiths Ultras,15,4,,,,,Joshua Dülz,Simon Wimmer,Andreas Rabjerg Andersen,Benjamin Hansen
+Group Stage,Pro German,Group 11,4,Single game,Kick Flickers,PAINDROS,PAINDROS,11,15,,,,,Sigurd Ellefsen,Malte Klinkby,Markus Anderle,Yvo Heinen
+Group Stage,Pro German,Group 11,4,Single game,JX,Honduras an der Oder,Honduras an der Oder,5,15,,,,,Xavier van Gorp,James Greenlaw,Maximilian Portee,Franco Munoz
+Group Stage,Pro German,Group 12,4,Single game,Yes,Bamsefar & Slikkepinden,Bamsefar & Slikkepinden,13,15,,,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Jesper Bødewadt Møller,William Gamborg
+Group Stage,Pro German,Group 12,4,Single game,VT,Ralle og magn,VT,15,5,,,,,Benoit Durand,Ryan DANEKAS,Rasmus Lauridsen,Magnus Selmer
+Group Stage,Pro German,Group 12,4,Single game,Spikeghetti,Pierre Feuille Victor,Spikeghetti,15,11,,,,,Jakob G. Damgaard,Hjalte Knudsen,Pierre Lecrosnier,Victor Cambois
+Group Stage,Pro German,Group 1,5,Single game,Cobra Spike,Los Kuikelos,Los Kuikelos,14,16,,,,,Herman Henström,Samuel Mjönes,Johannes Peltonen,Jussi Kelavuori
+Group Stage,Pro German,Group 1,5,Single game,Off radar,Small and Extra Small,Off radar,15,5,,,,,David Schultebraucks,Cedric Strehlow,Charlie Wilson,Michael Pang
+Group Stage,Pro German,Group 1,5,Single game,Mallton & Biggman,AALBORG LIFEGUARDS,Mallton & Biggman,15,3,,,,,Felix Millton,Edvin Baggman,Atos Andersen,Phillip Lundquist
+Group Stage,Pro German,Group 2,5,Single game,Squid Smokers,Aussie & Pom,Aussie & Pom,6,15,,,,,Joseph Kerridge,Apurba Subedi,Barnaby Wheeler,Mark Elbourne
+Group Stage,Pro German,Group 2,5,Single game,Maskinmestrerne,THOHT | training hard or hardly training,THOHT | training hard or hardly training,8,15,,,,,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen,Janis Beikmanis,Aleksandrs Juška
+Group Stage,Pro German,Group 2,5,Single game,Mau og Maagge,The Small Scare,The Small Scare,5,15,,,,,Lasse Maagaard,Markus Andersen,Jannik Riedler,Alexander Müller
+Group Stage,Pro German,Group 3,5,Single game,R-UNIT,REflex,R-UNIT,15,5,,,,,Rihards Repels,Reinis Pavlovskis,Andreas Korsholm Knudsen,Magnus Lyskjær
+Group Stage,Pro German,Group 3,5,Single game,Adunk og Co.,Stort og Småt brændbart,Stort og Småt brændbart,9,15,,,,,Martin Jakobsen,Asbjørn Malmgaard,Niklas Daugbjerg,Søren Høy
+Group Stage,Pro German,Group 3,5,Single game,RDO Flix und Fertig,Super Saiya Rim,RDO Flix und Fertig,15,9,,,,,Lucas Christiani,Max Schartmann,Mario Kurz,Sebastian Christophe
+Group Stage,Pro German,Group 4,5,Single game,Always Tricky,PJ Headwalter,PJ Headwalter,5,15,,,,,Daniel Henriksen,Emil Nielsen,Peer Kanis,Johannes Kopfmann
+Group Stage,Pro German,Group 4,5,Single game,MCTTT,Double Jonny,MCTTT,15,10,,,,,Paul Halphen,Sebastien Lawrence,Jonas Kolbe,Ingvi Örnolfsson
+Group Stage,Pro German,Group 5,5,Single game,Nordens Disciple,Green team,Nordens Disciple,15,8,,,,,Anders Aaen Springborg,Jonas Lund Madsen,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen
+Group Stage,Pro German,Group 5,5,Single game,The Trickers,Denhamwa,Denhamwa,10,15,,,,,Ruben Møberg,Daniel Henriksen Again,Adrian Gellissen,Lilli Stötzler
+Group Stage,Pro German,Group 5,5,Single game,Inès&Krissi,Le Spiko de Familia,Le Spiko de Familia,9,15,,,,,Inès Paysan,Kristina Dettmann,Kasper Søvndal,Andreas Christensen
+Group Stage,Pro German,Group 6,5,Single game,PCP,Varmen,PCP,15,5,,,,,Jakob Blaaholm Nielsen,Felipe Bahamondes,Christian Mejlvang,Jeppe Kristensen
+Group Stage,Pro German,Group 6,5,Single game,To køer på isen,Squids On Tour,Squids On Tour,13,15,,,,,Alec Gautier,Yanis Bouchemoua,Daniel Blackledge,James Jewitt
+Group Stage,Pro German,Group 6,5,Single game,Team vindernoglegange,Mighto's Crew,Mighto's Crew,8,15,,,,,Thor Petersen,Sebastian Searty,Marco Bortoloso,Paolo Fusco
+Group Stage,Pro German,Group 7,5,Single game,SpikeHype,TWO SWEDES,TWO SWEDES,8,15,,,,,Viktor Dupont,Christian Hurley,Esaja Ekman,Simon Stenquist
+Group Stage,Pro German,Group 7,5,Single game,Bergstedt 94ers,Deloitte Adventure Team,Bergstedt 94ers,18,16,,,,,Luca Sprick,Leon Hünecke,Tadeusz Pętlak,Janek Dudzik
+Group Stage,Pro German,Group 8,5,Single game,KRC Blaze,Sol og palmer,KRC Blaze,15,2,,,,,Andrew Kuehl,Jared Boyle,Sebastian Laursen,Jakob Fris Hansen
+Group Stage,Pro German,Group 8,5,Single game,Boom Boom Sharks,The Blocksmiths,The Blocksmiths,8,15,,,,,Haye Hoffmann,Lukas Meyer,Aske Hammar,Jeppe Norlyk Hansen
+Group Stage,Pro German,Group 8,5,Single game,BoomBoomOtters,Curly Kölsch,Curly Kölsch,10,15,,,,,Peter Sesler,Jonathan Wulf,Samuel Unterhansberg,Lukas Donovan
+Group Stage,Pro German,Group 9,5,Single game,IronBoys,Little Sharks,Little Sharks,13,15,,,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Umut Renkligül,Fessal SH
+Group Stage,Pro German,Group 9,5,Single game,KRC North,RDO Generous Action,RDO Generous Action,11,15,,,,,Benjamin Aasen,Jørgen Steinsholt,Andreas Lynen,Gerrit Lang
+Group Stage,Pro German,Group 9,5,Single game,Bjørn & Fred,Pas Dégueu,Pas Dégueu,5,15,,,,,Simon Poulsen,Frederik Staunstrup,Louis Durand,Théo Vanh Hemelryck
+Group Stage,Pro German,Group 10,5,Single game,Lethal Hämpton,Burning Fatt,Lethal Hämpton,17,15,,,,,Kosti Kyläinpää,Kari Kyläinpää,Lou Washburn,Nicole Fatt
+Group Stage,Pro German,Group 10,5,Single game,Redekassen,Flick flick boom,Flick flick boom,2,15,,,,,Jakob Ravn,Jacob Lerche Nygaard,Alex Rokotas,Philip Roy
+Group Stage,Pro German,Group 10,5,Single game,Linnet Brothers,Magnus og Myggen,Linnet Brothers,15,0,,,,,Andreas Linnet,Mathias Linnet,Magnus Bredvig,Jonas Conradsen
+Group Stage,Pro German,Group 11,5,Single game,The Blocksmiths Ultras,Kick Flickers,The Blocksmiths Ultras,15,9,,,,,Joshua Dülz,Simon Wimmer,Sigurd Ellefsen,Malte Klinkby
+Group Stage,Pro German,Group 11,5,Single game,AB Spikeball,Honduras an der Oder,Honduras an der Oder,5,15,,,,,Andreas Rabjerg Andersen,Benjamin Hansen,Maximilian Portee,Franco Munoz
+Group Stage,Pro German,Group 11,5,Single game,PAINDROS,JX,PAINDROS,15,3,,,,,Markus Anderle,Yvo Heinen,Xavier van Gorp,James Greenlaw
+Group Stage,Pro German,Group 12,5,Single game,Yes,VT,VT,1,15,,,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Benoit Durand,Ryan DANEKAS
+Group Stage,Pro German,Group 12,5,Single game,Bamsefar & Slikkepinden,Pierre Feuille Victor,Pierre Feuille Victor,4,15,,,,,Jesper Bødewadt Møller,William Gamborg,Pierre Lecrosnier,Victor Cambois
+Group Stage,Pro German,Group 12,5,Single game,Ralle og magn,Spikeghetti,Spikeghetti,8,15,,,,,Rasmus Lauridsen,Magnus Selmer,Jakob G. Damgaard,Hjalte Knudsen
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Inès&Krissi,Double Jonny,Inès&Krissi,13,15,15,11,15,13,Inès Paysan,Kristina Dettmann,Jonas Kolbe,Ingvi Örnolfsson
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,The Small Scare,Ralle og magn,The Small Scare,15,10,21,19,,,Jannik Riedler,Alexander Müller,Rasmus Lauridsen,Magnus Selmer
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Mallton & Biggman,Small and Extra Small,Mallton & Biggman,15,8,15,9,,,Felix Millton,Edvin Baggman,Charlie Wilson,Michael Pang
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Curly Kölsch,Squid Smokers,Curly Kölsch,15,11,15,7,,,Samuel Unterhansberg,Lukas Donovan,Joseph Kerridge,Apurba Subedi
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,RDO Generous Action,The Trickers,RDO Generous Action,15,6,15,5,,,Andreas Lynen,Gerrit Lang,Ruben Møberg,Daniel Henriksen Again
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Super Saiya Rim,Little Sharks,Super Saiya Rim,15,9,15,13,,,Mario Kurz,Sebastian Christophe,Umut Renkligül,Fessal SH
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Denhamwa,Burning Fatt,Denhamwa,15,7,15,10,,,Adrian Gellissen,Lilli Stötzler,Lou Washburn,Nicole Fatt
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,MCTTT,R-UNIT,MCTTT,15,10,15,13,,,Paul Halphen,Sebastien Lawrence,Rihards Repels,Reinis Pavlovskis
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Aussie & Pom,Kick Flickers,Aussie & Pom,15,13,15,12,,,Barnaby Wheeler,Mark Elbourne,Sigurd Ellefsen,Malte Klinkby
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,To køer på isen,KRC Blaze,KRC Blaze,10,15,13,15,,,Alec Gautier,Yanis Bouchemoua,Andrew Kuehl,Jared Boyle
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Honduras an der Oder,Cobra Spike,Cobra Spike,10,15,12,15,,,Maximilian Portee,Franco Munoz,Herman Henström,Samuel Mjönes
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Lethal Hämpton,Always Tricky,Lethal Hämpton,15,13,13,15,15,12,Kosti Kyläinpää,Kari Kyläinpää,Daniel Henriksen,Emil Nielsen
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Stort og Småt brændbart,Deloitte Adventure Team,Deloitte Adventure Team,10,15,10,15,,,Niklas Daugbjerg,Søren Høy,Tadeusz Pętlak,Janek Dudzik
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Squids On Tour,SpikeHype,SpikeHype,15,9,9,15,11,15,Daniel Blackledge,James Jewitt,Viktor Dupont,Christian Hurley
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,Los Kuikelos,Boom Boom Sharks,Boom Boom Sharks,11,15,12,15,,,Johannes Peltonen,Jussi Kelavuori,Haye Hoffmann,Lukas Meyer
+Bracket Stage,Pro German,Bracket A,Round of 64,Best of 3,KRC North,Mighto's Crew,KRC North,15,10,15,10,,,Benjamin Aasen,Jørgen Steinsholt,Marco Bortoloso,Paolo Fusco
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,PJ Headwalter,KRC North,PJ Headwalter,15,7,15,11,,,Peer Kanis,Johannes Kopfmann,Benjamin Aasen,Jørgen Steinsholt
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,PCP,Boom Boom Sharks,PCP,15,12,21,20,,,Jakob Blaaholm Nielsen,Felipe Bahamondes,Haye Hoffmann,Lukas Meyer
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,PAINDROS,SpikeHype,PAINDROS,15,13,15,11,,,Markus Anderle,Yvo Heinen,Viktor Dupont,Christian Hurley
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Linnet Brothers,Deloitte Adventure Team,Linnet Brothers,15,11,15,13,,,Andreas Linnet,Mathias Linnet,Tadeusz Pętlak,Janek Dudzik
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,RDO Flix und Fertig,Lethal Hämpton,RDO Flix und Fertig,15,7,15,11,,,Lucas Christiani,Max Schartmann,Kosti Kyläinpää,Kari Kyläinpää
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,TWO SWEDES,Cobra Spike,TWO SWEDES,15,10,15,13,,,Esaja Ekman,Simon Stenquist,Herman Henström,Samuel Mjönes
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,The Blocksmiths,KRC Blaze,The Blocksmiths,15,10,15,11,,,Aske Hammar,Jeppe Norlyk Hansen,Andrew Kuehl,Jared Boyle
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,THOHT | training hard or hardly training,Aussie & Pom,Aussie & Pom,13,15,15,11,13,15,Janis Beikmanis,Aleksandrs Juška,Barnaby Wheeler,Mark Elbourne
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Pas Dégueu,MCTTT,MCTTT,15,11,19,21,13,15,Louis Durand,Théo Vanh Hemelryck,Paul Halphen,Sebastien Lawrence
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,VT,Denhamwa,VT,15,9,15,10,,,Benoit Durand,Ryan DANEKAS,Adrian Gellissen,Lilli Stötzler
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Flick flick boom,Super Saiya Rim,Flick flick boom,10,15,15,10,15,13,Alex Rokotas,Philip Roy,Mario Kurz,Sebastian Christophe
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Le Spiko de Familia,RDO Generous Action,RDO Generous Action,8,15,16,14,16,18,Kasper Søvndal,Andreas Christensen,Andreas Lynen,Gerrit Lang
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Pierre Feuille Victor,Curly Kölsch,Pierre Feuille Victor,15,13,16,14,,,Pierre Lecrosnier,Victor Cambois,Samuel Unterhansberg,Lukas Donovan
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,The Blocksmiths Ultras,Mallton & Biggman,The Blocksmiths Ultras,16,14,19,17,,,Joshua Dülz,Simon Wimmer,Felix Millton,Edvin Baggman
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Spikeghetti,The Small Scare,Spikeghetti,15,8,15,11,,,Jakob G. Damgaard,Hjalte Knudsen,Jannik Riedler,Alexander Müller
+Bracket Stage,Pro German,Bracket A,Round of 32,Best of 3,Off radar,Inès&Krissi,Off radar,15,10,15,11,,,David Schultebraucks,Cedric Strehlow,Inès Paysan,Kristina Dettmann
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,PJ Headwalter,Off radar,PJ Headwalter,15,8,15,9,,,Peer Kanis,Johannes Kopfmann,David Schultebraucks,Cedric Strehlow
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,PCP,Spikeghetti,Spikeghetti,9,15,15,7,17,19,Jakob Blaaholm Nielsen,Felipe Bahamondes,Jakob G. Damgaard,Hjalte Knudsen
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,PAINDROS,The Blocksmiths Ultras,PAINDROS,15,9,15,10,,,Markus Anderle,Yvo Heinen,Joshua Dülz,Simon Wimmer
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,Linnet Brothers,Pierre Feuille Victor,Pierre Feuille Victor,8,15,15,11,13,15,Andreas Linnet,Mathias Linnet,Pierre Lecrosnier,Victor Cambois
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,RDO Flix und Fertig,RDO Generous Action,RDO Flix und Fertig,15,10,15,13,,,Lucas Christiani,Max Schartmann,Andreas Lynen,Gerrit Lang
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,TWO SWEDES,Flick flick boom,TWO SWEDES,15,8,15,12,,,Esaja Ekman,Simon Stenquist,Alex Rokotas,Philip Roy
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,The Blocksmiths,VT,VT,12,15,11,15,,,Aske Hammar,Jeppe Norlyk Hansen,Benoit Durand,Ryan DANEKAS
+Bracket Stage,Pro German,Bracket A,Round of 16,Best of 3,Aussie & Pom,MCTTT,MCTTT,20,21,13,15,,,Barnaby Wheeler,Mark Elbourne,Paul Halphen,Sebastien Lawrence
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Inès&Krissi,KRC North,KRC North,10,15,11,15,,,Inès Paysan,Kristina Dettmann,Benjamin Aasen,Jørgen Steinsholt
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,The Small Scare,Boom Boom Sharks,Boom Boom Sharks,10,15,14,16,,,Jannik Riedler,Alexander Müller,Haye Hoffmann,Lukas Meyer
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Mallton & Biggman,SpikeHype,Mallton & Biggman,15,6,15,10,,,Felix Millton,Edvin Baggman,Viktor Dupont,Christian Hurley
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Curly Kölsch,Deloitte Adventure Team,Deloitte Adventure Team,11,15,19,21,,,Samuel Unterhansberg,Lukas Donovan,Tadeusz Pętlak,Janek Dudzik
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Le Spiko de Familia,Lethal Hämpton,Le Spiko de Familia,15,7,14,16,15,10,Kasper Søvndal,Andreas Christensen,Kosti Kyläinpää,Kari Kyläinpää
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Super Saiya Rim,Cobra Spike,Cobra Spike,7,15,7,15,,,Mario Kurz,Sebastian Christophe,Herman Henström,Samuel Mjönes
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Denhamwa,KRC Blaze,KRC Blaze,13,15,9,15,,,Adrian Gellissen,Lilli Stötzler,Andrew Kuehl,Jared Boyle
+Bracket Stage,Pro German,Bracket A,P17: Round of 16,Best of 3,Pas Dégueu,THOHT | training hard or hardly training,THOHT | training hard or hardly training,15,10,11,15,13,15,Louis Durand,Théo Vanh Hemelryck,Janis Beikmanis,Aleksandrs Juška
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Mighto's Crew,Double Jonny,Double Jonny,13,15,14,16,,,Marco Bortoloso,Paolo Fusco,Jonas Kolbe,Ingvi Örnolfsson
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Los Kuikelos,Ralle og magn,Los Kuikelos,15,12,15,11,,,Johannes Peltonen,Jussi Kelavuori,Rasmus Lauridsen,Magnus Selmer
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Squids On Tour,Small and Extra Small,Small and Extra Small,14,16,15,9,15,17,Daniel Blackledge,James Jewitt,Charlie Wilson,Michael Pang
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Stort og Småt brændbart,Squid Smokers,Stort og Småt brændbart,15,12,15,11,,,Niklas Daugbjerg,Søren Høy,Joseph Kerridge,Apurba Subedi
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Always Tricky,The Trickers,Always Tricky,15,9,15,12,,,Daniel Henriksen,Emil Nielsen,Ruben Møberg,Daniel Henriksen Again
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Honduras an der Oder,Little Sharks,Little Sharks,15,12,13,15,10,15,Maximilian Portee,Franco Munoz,Umut Renkligül,Fessal SH
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,To køer på isen,Burning Fatt,To køer på isen,10,15,15,10,15,12,Alec Gautier,Yanis Bouchemoua,Lou Washburn,Nicole Fatt
+Bracket Stage,Pro German,Bracket A,P33: Round of 16,Best of 3,Kick Flickers,R-UNIT,Kick Flickers,15,13,16,14,,,Sigurd Ellefsen,Malte Klinkby,Rihards Repels,Reinis Pavlovskis
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,PJ Headwalter,MCTTT,PJ Headwalter,15,8,15,6,,,Peer Kanis,Johannes Kopfmann,Paul Halphen,Sebastien Lawrence
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Spikeghetti,VT,VT,19,17,12,15,13,15,Jakob G. Damgaard,Hjalte Knudsen,Benoit Durand,Ryan DANEKAS
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,PAINDROS,TWO SWEDES,PAINDROS,17,15,13,15,15,8,Markus Anderle,Yvo Heinen,Esaja Ekman,Simon Stenquist
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Pierre Feuille Victor,RDO Flix und Fertig,RDO Flix und Fertig,10,15,16,18,,,Pierre Lecrosnier,Victor Cambois,Lucas Christiani,Max Schartmann
+Bracket Stage,Pro German,Bracket A,P9: Quarter-final,Best of 3,Aussie & Pom,Off radar,Off radar,11,15,13,15,,,Barnaby Wheeler,Mark Elbourne,David Schultebraucks,Cedric Strehlow
+Bracket Stage,Pro German,Bracket A,P9: Quarter-final,Best of 3,The Blocksmiths,PCP,The Blocksmiths,10,15,15,10,19,17,Aske Hammar,Jeppe Norlyk Hansen,Jakob Blaaholm Nielsen,Felipe Bahamondes
+Bracket Stage,Pro German,Bracket A,P9: Quarter-final,Best of 3,Flick flick boom,The Blocksmiths Ultras,The Blocksmiths Ultras,8,15,13,15,,,Alex Rokotas,Philip Roy,Joshua Dülz,Simon Wimmer
+Bracket Stage,Pro German,Bracket A,P9: Quarter-final,Best of 3,RDO Generous Action,Linnet Brothers,RDO Generous Action,10,15,15,10,15,12,Andreas Lynen,Gerrit Lang,Andreas Linnet,Mathias Linnet
+Bracket Stage,Pro German,Bracket A,P17: Quarter-final,Best of 3,KRC North,THOHT | training hard or hardly training,THOHT | training hard or hardly training,13,15,9,15,,,Benjamin Aasen,Jørgen Steinsholt,Janis Beikmanis,Aleksandrs Juška
+Bracket Stage,Pro German,Bracket A,P17: Quarter-final,Best of 3,Boom Boom Sharks,KRC Blaze,Boom Boom Sharks,13,15,15,12,15,13,Haye Hoffmann,Lukas Meyer,Andrew Kuehl,Jared Boyle
+Bracket Stage,Pro German,Bracket A,P17: Quarter-final,Best of 3,Mallton & Biggman,Cobra Spike,Mallton & Biggman,21,19,15,12,,,Felix Millton,Edvin Baggman,Herman Henström,Samuel Mjönes
+Bracket Stage,Pro German,Bracket A,P17: Quarter-final,Best of 3,Deloitte Adventure Team,Le Spiko de Familia,Deloitte Adventure Team,0,1,1,0,1,0,Tadeusz Pętlak,Janek Dudzik,Kasper Søvndal,Andreas Christensen
+Bracket Stage,Pro German,Bracket A,P25: Quarter-final,Best of 3,Pas Dégueu,Inès&Krissi,Pas Dégueu,15,9,15,9,,,Louis Durand,Théo Vanh Hemelryck,Inès Paysan,Kristina Dettmann
+Bracket Stage,Pro German,Bracket A,P25: Quarter-final,Best of 3,Denhamwa,The Small Scare,Denhamwa,15,12,16,14,,,Adrian Gellissen,Lilli Stötzler,Jannik Riedler,Alexander Müller
+Bracket Stage,Pro German,Bracket A,P25: Quarter-final,Best of 3,Super Saiya Rim,SpikeHype,SpikeHype,9,15,11,15,,,Mario Kurz,Sebastian Christophe,Viktor Dupont,Christian Hurley
+Bracket Stage,Pro German,Bracket A,P25: Quarter-final,Best of 3,Lethal Hämpton,Curly Kölsch,Lethal Hämpton,15,13,15,13,,,Kosti Kyläinpää,Kari Kyläinpää,Samuel Unterhansberg,Lukas Donovan
+Bracket Stage,Pro German,Bracket A,P33: Quarter-final,Best of 3,Double Jonny,Kick Flickers,Kick Flickers,11,15,10,15,,,Jonas Kolbe,Ingvi Örnolfsson,Sigurd Ellefsen,Malte Klinkby
+Bracket Stage,Pro German,Bracket A,P33: Quarter-final,Best of 3,Los Kuikelos,To køer på isen,Los Kuikelos,,,20,18,15,12,Johannes Peltonen,Jussi Kelavuori,Alec Gautier,Yanis Bouchemoua
+Bracket Stage,Pro German,Bracket A,P33: Quarter-final,Best of 3,Small and Extra Small,Little Sharks,Small and Extra Small,17,15,18,20,15,12,Charlie Wilson,Michael Pang,Umut Renkligül,Fessal SH
+Bracket Stage,Pro German,Bracket A,P33: Quarter-final,Best of 3,Stort og Småt brændbart,Always Tricky,Stort og Småt brændbart,12,15,15,8,17,15,Niklas Daugbjerg,Søren Høy,Daniel Henriksen,Emil Nielsen
+Bracket Stage,Pro German,Bracket A,P41: Quarter-final,Best of 3,R-UNIT,Mighto's Crew,R-UNIT,15,9,15,12,,,Rihards Repels,Reinis Pavlovskis,Marco Bortoloso,Paolo Fusco
+Bracket Stage,Pro German,Bracket A,P41: Quarter-final,Best of 3,Burning Fatt,Ralle og magn,Burning Fatt,15,13,18,16,,,Lou Washburn,Nicole Fatt,Rasmus Lauridsen,Magnus Selmer
+Bracket Stage,Pro German,Bracket A,P41: Quarter-final,Best of 3,Honduras an der Oder,Squids On Tour,Honduras an der Oder,15,11,15,11,,,Maximilian Portee,Franco Munoz,Daniel Blackledge,James Jewitt
+Bracket Stage,Pro German,Bracket A,P41: Quarter-final,Best of 3,The Trickers,Squid Smokers,Squid Smokers,10,15,10,15,,,Ruben Møberg,Daniel Henriksen Again,Joseph Kerridge,Apurba Subedi
+Bracket Stage,Pro German,Bracket A,Semi-final,Best of 3,PJ Headwalter,RDO Flix und Fertig,PJ Headwalter,15,12,15,13,,,Peer Kanis,Johannes Kopfmann,Lucas Christiani,Max Schartmann
+Bracket Stage,Pro German,Bracket A,Semi-final,Best of 3,VT,PAINDROS,PAINDROS,11,15,11,15,,,Benoit Durand,Ryan DANEKAS,Markus Anderle,Yvo Heinen
+Bracket Stage,Pro German,Bracket A,P5: Semi-final,Best of 3,Pierre Feuille Victor,MCTTT,Pierre Feuille Victor,15,8,15,11,,,Pierre Lecrosnier,Victor Cambois,Paul Halphen,Sebastien Lawrence
+Bracket Stage,Pro German,Bracket A,P5: Semi-final,Best of 3,TWO SWEDES,Spikeghetti,TWO SWEDES,15,8,15,13,,,Esaja Ekman,Simon Stenquist,Jakob G. Damgaard,Hjalte Knudsen
+Bracket Stage,Pro German,Bracket A,P9: Semi-final,Best of 3,Off radar,RDO Generous Action,Off radar,15,10,15,13,,,David Schultebraucks,Cedric Strehlow,Andreas Lynen,Gerrit Lang
+Bracket Stage,Pro German,Bracket A,P9: Semi-final,Best of 3,The Blocksmiths,The Blocksmiths Ultras,The Blocksmiths,16,14,15,11,,,Aske Hammar,Jeppe Norlyk Hansen,Joshua Dülz,Simon Wimmer
+Bracket Stage,Pro German,Bracket A,P17: Semi-final,Best of 3,THOHT | training hard or hardly training,Deloitte Adventure Team,Deloitte Adventure Team,20,22,0,1,,,Janis Beikmanis,Aleksandrs Juška,Tadeusz Pętlak,Janek Dudzik
+Bracket Stage,Pro German,Bracket A,P17: Semi-final,Best of 3,Boom Boom Sharks,Mallton & Biggman,Mallton & Biggman,17,21,0,1,,,Haye Hoffmann,Lukas Meyer,Felix Millton,Edvin Baggman
+Bracket Stage,Pro German,Bracket A,P21: Semi-final,Best of 3,Le Spiko de Familia,KRC North,KRC North,15,7,14,16,16,18,Kasper Søvndal,Andreas Christensen,Benjamin Aasen,Jørgen Steinsholt
+Bracket Stage,Pro German,Bracket A,P21: Semi-final,Best of 3,Cobra Spike,KRC Blaze,Cobra Spike,1,0,1,0,,,Herman Henström,Samuel Mjönes,Andrew Kuehl,Jared Boyle
+Bracket Stage,Pro German,Bracket A,P25: Semi-final,Best of 3,Pas Dégueu,Lethal Hämpton,Lethal Hämpton,20,22,20,22,,,Louis Durand,Théo Vanh Hemelryck,Kosti Kyläinpää,Kari Kyläinpää
+Bracket Stage,Pro German,Bracket A,P25: Semi-final,Best of 3,Denhamwa,SpikeHype,Denhamwa,15,13,15,12,,,Adrian Gellissen,Lilli Stötzler,Viktor Dupont,Christian Hurley
+Bracket Stage,Pro German,Bracket A,P29: Semi-final,Best of 3,Curly Kölsch,Inès&Krissi,Curly Kölsch,15,12,14,16,15,11,Samuel Unterhansberg,Lukas Donovan,Inès Paysan,Kristina Dettmann
+Bracket Stage,Pro German,Bracket A,P29: Semi-final,Best of 3,Super Saiya Rim,The Small Scare,The Small Scare,13,15,11,15,,,Mario Kurz,Sebastian Christophe,Jannik Riedler,Alexander Müller
+Bracket Stage,Pro German,Bracket A,P33: Semi-final,Best of 3,Kick Flickers,Stort og Småt brændbart,Kick Flickers,15,10,15,13,,,Sigurd Ellefsen,Malte Klinkby,Niklas Daugbjerg,Søren Høy
+Bracket Stage,Pro German,Bracket A,P33: Semi-final,Best of 3,Los Kuikelos,Small and Extra Small,Los Kuikelos,,,15,8,15,13,Johannes Peltonen,Jussi Kelavuori,Charlie Wilson,Michael Pang
+Bracket Stage,Pro German,Bracket A,P37: Semi-final,Best of 3,Always Tricky,Double Jonny,Double Jonny,13,15,9,15,,,Daniel Henriksen,Emil Nielsen,Jonas Kolbe,Ingvi Örnolfsson
+Bracket Stage,Pro German,Bracket A,P37: Semi-final,Best of 3,Little Sharks,To køer på isen,To køer på isen,19,21,21,19,19,21,Umut Renkligül,Fessal SH,Alec Gautier,Yanis Bouchemoua
+Bracket Stage,Pro German,Bracket A,P41: Semi-final,Best of 3,R-UNIT,Squid Smokers,R-UNIT,15,10,15,12,,,Rihards Repels,Reinis Pavlovskis,Joseph Kerridge,Apurba Subedi
+Bracket Stage,Pro German,Bracket A,P41: Semi-final,Best of 3,Burning Fatt,Honduras an der Oder,Honduras an der Oder,13,15,15,13,13,15,Lou Washburn,Nicole Fatt,Maximilian Portee,Franco Munoz
+Bracket Stage,Pro German,Bracket A,P45: Semi-final,Best of 3,The Trickers,Mighto's Crew,Mighto's Crew,10,15,12,15,,,Ruben Møberg,Daniel Henriksen Again,Marco Bortoloso,Paolo Fusco
+Bracket Stage,Pro German,Bracket A,P45: Semi-final,Best of 3,Squids On Tour,Ralle og magn,Squids On Tour,15,11,21,19,,,Daniel Blackledge,James Jewitt,Rasmus Lauridsen,Magnus Selmer
+Bracket Stage,Pro German,Bracket A,Final,Best of 3,PJ Headwalter,PAINDROS,PJ Headwalter,16,14,15,8,,,Peer Kanis,Johannes Kopfmann,Markus Anderle,Yvo Heinen
+Bracket Stage,Pro German,Bracket A,P3: Final,Best of 3,VT,RDO Flix und Fertig,RDO Flix und Fertig,11,15,8,15,,,Benoit Durand,Ryan DANEKAS,Lucas Christiani,Max Schartmann
+Bracket Stage,Pro German,Bracket A,P5: Final,Best of 3,Pierre Feuille Victor,TWO SWEDES,TWO SWEDES,8,15,9,15,,,Pierre Lecrosnier,Victor Cambois,Esaja Ekman,Simon Stenquist
+Bracket Stage,Pro German,Bracket A,P9: Final,Best of 3,Off radar,The Blocksmiths,Off radar,15,12,15,13,,,David Schultebraucks,Cedric Strehlow,Aske Hammar,Jeppe Norlyk Hansen
+Bracket Stage,Pro German,Bracket A,P11: Final,Best of 3,The Blocksmiths Ultras,RDO Generous Action,RDO Generous Action,12,15,11,15,,,Joshua Dülz,Simon Wimmer,Andreas Lynen,Gerrit Lang
+Bracket Stage,Pro German,Bracket A,P17: Final,Best of 3,Deloitte Adventure Team,Mallton & Biggman,Mallton & Biggman,15,21,0,1,,,Tadeusz Pętlak,Janek Dudzik,Felix Millton,Edvin Baggman
+Bracket Stage,Pro German,Bracket A,P25: Final,Best of 3,Lethal Hämpton,Denhamwa,,21,15,,,,,Kosti Kyläinpää,Kari Kyläinpää,Adrian Gellissen,Lilli Stötzler
+Bracket Stage,Pro German,Bracket A,P29: Final,Best of 3,Curly Kölsch,The Small Scare,Curly Kölsch,15,11,21,19,,,Samuel Unterhansberg,Lukas Donovan,Jannik Riedler,Alexander Müller
+Bracket Stage,Pro German,Bracket A,P33: Final,Best of 3,Kick Flickers,Los Kuikelos,Kick Flickers,1,0,1,0,,,Sigurd Ellefsen,Malte Klinkby,Johannes Peltonen,Jussi Kelavuori
+Bracket Stage,Pro German,Bracket A,P35: Final,Best of 3,Small and Extra Small,Stort og Småt brændbart,Stort og Småt brændbart,12,15,17,15,10,15,Charlie Wilson,Michael Pang,Niklas Daugbjerg,Søren Høy
+Bracket Stage,Pro German,Bracket A,P37: Final,Best of 3,Double Jonny,To køer på isen,To køer på isen,0,1,0,1,,,Jonas Kolbe,Ingvi Örnolfsson,Alec Gautier,Yanis Bouchemoua
+Bracket Stage,Pro German,Bracket A,P39: Final,Best of 3,Little Sharks,Always Tricky,Little Sharks,16,14,16,14,,,Umut Renkligül,Fessal SH,Daniel Henriksen,Emil Nielsen
+Bracket Stage,Pro German,Bracket A,P41: Final,Best of 3,R-UNIT,Honduras an der Oder,R-UNIT,15,9,9,15,15,13,Rihards Repels,Reinis Pavlovskis,Maximilian Portee,Franco Munoz
+Bracket Stage,Pro German,Bracket A,P43: Final,Best of 3,Burning Fatt,Squid Smokers,Squid Smokers,15,21,0,1,,,Lou Washburn,Nicole Fatt,Joseph Kerridge,Apurba Subedi
+Bracket Stage,Pro German,Bracket A,P45: Final,Best of 3,Mighto's Crew,Squids On Tour,Squids On Tour,14,16,18,16,12,15,Marco Bortoloso,Paolo Fusco,Daniel Blackledge,James Jewitt
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,Bamsefar & Slikkepinden,Magnus og Myggen,Bamsefar & Slikkepinden,15,9,15,5,,,Jesper Bødewadt Møller,William Gamborg,Magnus Bredvig,Jonas Conradsen
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,AB Spikeball,Lular,AB Spikeball,13,15,15,10,15,6,Andreas Rabjerg Andersen,Benjamin Hansen,Lars Rasmussen,Louise Thystrup
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,Bjørn & Fred,Sol og palmer,Bjørn & Fred,15,9,15,5,,,Simon Poulsen,Frederik Staunstrup,Sebastian Laursen,Jakob Fris Hansen
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,Mau og Maagge,AALBORG LIFEGUARDS,Mau og Maagge,15,7,15,9,0,0,Lasse Maagaard,Markus Andersen,Atos Andersen,Phillip Lundquist
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,REflex,Lynskind,REflex,18,16,15,6,,,Andreas Korsholm Knudsen,Magnus Lyskjær,Markus Skindhøj,David Lyngbye
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,Yes,JX,JX,10,15,14,16,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Xavier van Gorp,James Greenlaw
+Bracket Stage,Pro German,Bracket B,Round of 32,Best of 3,Green team,Team vindernoglegange,Green team,15,9,15,10,,,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen,Thor Petersen,Sebastian Searty
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,Bergstedt 94ers,Green team,Bergstedt 94ers,15,9,15,11,,,Luca Sprick,Leon Hünecke,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,Do the fwangdango,JX,Do the fwangdango,15,8,15,8,,,Charles Bryan Orodio,Hugo Callaway,Xavier van Gorp,James Greenlaw
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,BoomBoomOtters,REflex,BoomBoomOtters,13,15,15,8,15,6,Peter Sesler,Jonathan Wulf,Andreas Korsholm Knudsen,Magnus Lyskjær
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,IronBoys,Mau og Maagge,IronBoys,15,10,17,15,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Lasse Maagaard,Markus Andersen
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,Nordens Disciple,Bjørn & Fred,Bjørn & Fred,15,12,14,16,8,15,Anders Aaen Springborg,Jonas Lund Madsen,Simon Poulsen,Frederik Staunstrup
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,Redekassen,AB Spikeball,Redekassen,15,6,15,11,,,Jakob Ravn,Jacob Lerche Nygaard,Andreas Rabjerg Andersen,Benjamin Hansen
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,Maskinmestrerne,Bamsefar & Slikkepinden,Maskinmestrerne,15,11,15,12,,,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen,Jesper Bødewadt Møller,William Gamborg
+Bracket Stage,Pro German,Bracket B,Round of 16,Best of 3,Adunk og Co.,Varmen,Adunk og Co.,16,14,15,10,,,Martin Jakobsen,Asbjørn Malmgaard,Christian Mejlvang,Jeppe Kristensen
+Bracket Stage,Pro German,Bracket B,Quarter-final,Best of 3,Bergstedt 94ers,Adunk og Co.,Bergstedt 94ers,15,13,15,6,,,Luca Sprick,Leon Hünecke,Martin Jakobsen,Asbjørn Malmgaard
+Bracket Stage,Pro German,Bracket B,Quarter-final,Best of 3,Do the fwangdango,Maskinmestrerne,Do the fwangdango,15,13,15,11,,,Charles Bryan Orodio,Hugo Callaway,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen
+Bracket Stage,Pro German,Bracket B,Quarter-final,Best of 3,BoomBoomOtters,Redekassen,BoomBoomOtters,15,10,15,11,,,Peter Sesler,Jonathan Wulf,Jakob Ravn,Jacob Lerche Nygaard
+Bracket Stage,Pro German,Bracket B,Quarter-final,Best of 3,IronBoys,Bjørn & Fred,IronBoys,15,9,15,10,,,Jonas Mathiesen,Thorbjørn Hørlück Stølen,Simon Poulsen,Frederik Staunstrup
+Bracket Stage,Pro German,Bracket B,P9: Quarter-final,Best of 3,Varmen,Green team,Varmen,10,15,15,13,15,10,Christian Mejlvang,Jeppe Kristensen,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen
+Bracket Stage,Pro German,Bracket B,P9: Quarter-final,Best of 3,Bamsefar & Slikkepinden,JX,Bamsefar & Slikkepinden,15,11,15,13,,,Jesper Bødewadt Møller,William Gamborg,Xavier van Gorp,James Greenlaw
+Bracket Stage,Pro German,Bracket B,P9: Quarter-final,Best of 3,AB Spikeball,REflex,REflex,7,15,21,20,8,15,Andreas Rabjerg Andersen,Benjamin Hansen,Andreas Korsholm Knudsen,Magnus Lyskjær
+Bracket Stage,Pro German,Bracket B,P9: Quarter-final,Best of 3,Nordens Disciple,Mau og Maagge,Nordens Disciple,15,13,15,10,,,Anders Aaen Springborg,Jonas Lund Madsen,Lasse Maagaard,Markus Andersen
+Bracket Stage,Pro German,Bracket B,P17: Quarter-final,Best of 3,Yes,Magnus og Myggen,Yes,15,5,13,15,15,5,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Magnus Bredvig,Jonas Conradsen
+Bracket Stage,Pro German,Bracket B,P17: Quarter-final,Best of 3,Lynskind,Lular,Lynskind,15,12,12,15,21,20,Markus Skindhøj,David Lyngbye,Lars Rasmussen,Louise Thystrup
+Bracket Stage,Pro German,Bracket B,P17: Quarter-final,Best of 3,AALBORG LIFEGUARDS,Sol og palmer,AALBORG LIFEGUARDS,15,13,12,15,15,12,Atos Andersen,Phillip Lundquist,Sebastian Laursen,Jakob Fris Hansen
+Bracket Stage,Pro German,Bracket B,Semi-final,Best of 3,Bergstedt 94ers,IronBoys,Bergstedt 94ers,15,12,17,15,,,Luca Sprick,Leon Hünecke,Jonas Mathiesen,Thorbjørn Hørlück Stølen
+Bracket Stage,Pro German,Bracket B,Semi-final,Best of 3,Do the fwangdango,BoomBoomOtters,BoomBoomOtters,11,15,16,14,15,17,Charles Bryan Orodio,Hugo Callaway,Peter Sesler,Jonathan Wulf
+Bracket Stage,Pro German,Bracket B,P5: Semi-final,Best of 3,Bjørn & Fred,Adunk og Co.,Adunk og Co.,15,11,20,21,11,15,Simon Poulsen,Frederik Staunstrup,Martin Jakobsen,Asbjørn Malmgaard
+Bracket Stage,Pro German,Bracket B,P5: Semi-final,Best of 3,Redekassen,Maskinmestrerne,Redekassen,11,15,21,20,16,14,Jakob Ravn,Jacob Lerche Nygaard,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen
+Bracket Stage,Pro German,Bracket B,P9: Semi-final,Best of 3,Varmen,Nordens Disciple,Varmen,10,15,15,11,15,13,Christian Mejlvang,Jeppe Kristensen,Anders Aaen Springborg,Jonas Lund Madsen
+Bracket Stage,Pro German,Bracket B,P9: Semi-final,Best of 3,Bamsefar & Slikkepinden,REflex,Bamsefar & Slikkepinden,15,13,21,19,,,Jesper Bødewadt Møller,William Gamborg,Andreas Korsholm Knudsen,Magnus Lyskjær
+Bracket Stage,Pro German,Bracket B,P13: Semi-final,Best of 3,Mau og Maagge,Green team,Mau og Maagge,15,12,15,13,,,Lasse Maagaard,Markus Andersen,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen
+Bracket Stage,Pro German,Bracket B,P13: Semi-final,Best of 3,AB Spikeball,JX,AB Spikeball,15,6,15,7,,,Andreas Rabjerg Andersen,Benjamin Hansen,Xavier van Gorp,James Greenlaw
+Bracket Stage,Pro German,Bracket B,P17: Semi-final,Best of 3,Team vindernoglegange,AALBORG LIFEGUARDS,AALBORG LIFEGUARDS,0,15,0,15,0,0,Thor Petersen,Sebastian Searty,Atos Andersen,Phillip Lundquist
+Bracket Stage,Pro German,Bracket B,P17: Semi-final,Best of 3,Yes,Lynskind,Lynskind,13,15,15,10,13,15,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Markus Skindhøj,David Lyngbye
+Bracket Stage,Pro German,Bracket B,P21: Semi-final,Best of 3,Lular,Magnus og Myggen,Lular,15,5,15,11,,,Lars Rasmussen,Louise Thystrup,Magnus Bredvig,Jonas Conradsen
+Bracket Stage,Pro German,Bracket B,Final,Best of 3,Bergstedt 94ers,BoomBoomOtters,BoomBoomOtters,15,7,13,15,17,19,Luca Sprick,Leon Hünecke,Peter Sesler,Jonathan Wulf
+Bracket Stage,Pro German,Bracket B,P3: Final,Best of 3,Do the fwangdango,IronBoys,IronBoys,10,15,14,16,,,Charles Bryan Orodio,Hugo Callaway,Jonas Mathiesen,Thorbjørn Hørlück Stølen
+Bracket Stage,Pro German,Bracket B,P5: Final,Best of 3,Adunk og Co.,Redekassen,Redekassen,12,15,18,16,13,15,Martin Jakobsen,Asbjørn Malmgaard,Jakob Ravn,Jacob Lerche Nygaard
+Bracket Stage,Pro German,Bracket B,P7: Final,Best of 3,Maskinmestrerne,Bjørn & Fred,Maskinmestrerne,15,11,12,15,15,11,Benjamin Schultz Laursen,Jakob Skovgaard-Jensen,Simon Poulsen,Frederik Staunstrup
+Bracket Stage,Pro German,Bracket B,P9: Final,Best of 3,Varmen,Bamsefar & Slikkepinden,Bamsefar & Slikkepinden,13,15,14,16,,,Christian Mejlvang,Jeppe Kristensen,Jesper Bødewadt Møller,William Gamborg
+Bracket Stage,Pro German,Bracket B,P11: Final,Best of 3,REflex,Nordens Disciple,Nordens Disciple,11,15,15,12,11,15,Andreas Korsholm Knudsen,Magnus Lyskjær,Anders Aaen Springborg,Jonas Lund Madsen
+Bracket Stage,Pro German,Bracket B,P13: Final,Best of 3,Mau og Maagge,AB Spikeball,Mau og Maagge,15,12,15,13,,,Lasse Maagaard,Markus Andersen,Andreas Rabjerg Andersen,Benjamin Hansen
+Bracket Stage,Pro German,Bracket B,P15: Final,Best of 3,JX,Green team,JX,15,11,15,12,,,Xavier van Gorp,James Greenlaw,Valdemar Stausbøl-Grøn,Oliver Gamborg Isaksen
+Bracket Stage,Pro German,Bracket B,P17: Final,Best of 3,AALBORG LIFEGUARDS,Lynskind,Lynskind,11,15,13,15,0,0,Atos Andersen,Phillip Lundquist,Markus Skindhøj,David Lyngbye
+Bracket Stage,Pro German,Bracket B,P19: Final,Best of 3,Yes,Team vindernoglegange,Yes,15,0,15,0,,,Themi Tsiotas von Pfaler,Alberto Benito Pontes,Thor Petersen,Sebastian Searty
+Bracket Stage,Pro German,Bracket B,P21: Final,Best of 3,Sol og palmer,Lular,Sol og palmer,13,15,16,14,15,10,Sebastian Laursen,Jakob Fris Hansen,Lars Rasmussen,Louise Thystrup
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,IWMN,The Incrediballs,IWMN,21,14,21,10,,,Anna Hillemann,Anaïs Duport,Ida Finsen Flensted,Maja Nielsen
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,Tba,Team Blind Date,Tba,15,10,15,11,,,Benita Gottschalk,Fabienne Lang,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,Klausholt og Hansen,KRC sweet and sweat,KRC sweet and sweat,8,15,2,15,,,Julie Klausholt,Kristine Hansen,Sol Due-tønnessen,Anita Espevik
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,Roundabout Rallies,Binès Maja,Roundabout Rallies,15,12,15,12,,,Hanna Westerland,Rebecca Mollberg,Maja Fürste,Inès Valéry
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,M&M,Hailight,Hailight,6,15,9,15,,,Ditte Møller Gregersen,Sigrid Moesgaard Larsen,Sarah Steinbrecht,Lisa Borgas
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,Part time Eagles,The Incrediballs,Part time Eagles,15,4,15,8,,,Noëlle Steffens,Silvia Zanella,Ida Finsen Flensted,Maja Nielsen
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,IWMN,Seconds left,,15,13,12,15,,,Anna Hillemann,Anaïs Duport,Eline Meijer,Lauma Ernestsone
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,Kicking Kangaroos,Team Sour Cream,Kicking Kangaroos,15,13,15,8,,,Rikke Bloch,Rasmine Bak,Christina Lund Nielsen,Astrid Andreassen
+Women's Advanced pool,Women's Advanced,Power Pool,1,Best of 3,Power Couple,Spike at First Sight,Power Couple,15,7,15,6,,,Elin Fihn,Emmy Dahlquist,Maisie Ferris,Ellinor Gustavsson
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Tba,KRC sweet and sweat,KRC sweet and sweat,6,15,11,15,,,Benita Gottschalk,Fabienne Lang,Sol Due-tønnessen,Anita Espevik
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Klausholt og Hansen,Team Blind Date,,15,13,11,15,,,Julie Klausholt,Kristine Hansen,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Roundabout Rallies,Hailight,Hailight,12,15,13,15,,,Hanna Westerland,Rebecca Mollberg,Sarah Steinbrecht,Lisa Borgas
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,M&M,Binès Maja,Binès Maja,7,15,5,15,,,Ditte Møller Gregersen,Sigrid Moesgaard Larsen,Maja Fürste,Inès Valéry
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Part time Eagles,Seconds left,Seconds left,12,15,13,15,,,Noëlle Steffens,Silvia Zanella,Eline Meijer,Lauma Ernestsone
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Hotdawgs,The Incrediballs,The Incrediballs,8,15,5,15,,,Eva Seerup,Kira Broe Kristiansen,Ida Finsen Flensted,Maja Nielsen
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Kicking Kangaroos,Spike at First Sight,Kicking Kangaroos,15,7,15,9,,,Rikke Bloch,Rasmine Bak,Maisie Ferris,Ellinor Gustavsson
+Women's Advanced pool,Women's Advanced,Power Pool,2,Best of 3,Power Couple,Team Sour Cream,Power Couple,15,11,15,9,,,Elin Fihn,Emmy Dahlquist,Christina Lund Nielsen,Astrid Andreassen
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,Tba,Klausholt og Hansen,Tba,15,7,15,10,,,Benita Gottschalk,Fabienne Lang,Julie Klausholt,Kristine Hansen
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,KRC sweet and sweat,Team Blind Date,KRC sweet and sweat,15,4,15,8,,,Sol Due-tønnessen,Anita Espevik,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,Roundabout Rallies,M&M,Roundabout Rallies,15,8,15,4,,,Hanna Westerland,Rebecca Mollberg,Ditte Møller Gregersen,Sigrid Moesgaard Larsen
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,Hailight,Binès Maja,Hailight,15,12,15,9,,,Sarah Steinbrecht,Lisa Borgas,Maja Fürste,Inès Valéry
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,Part time Eagles,Hotdawgs,Part time Eagles,15,4,15,8,,,Noëlle Steffens,Silvia Zanella,Eva Seerup,Kira Broe Kristiansen
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,IWMN,The Incrediballs,IWMN,15,10,15,4,,,Anna Hillemann,Anaïs Duport,Ida Finsen Flensted,Maja Nielsen
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,Kicking Kangaroos,Power Couple,Kicking Kangaroos,15,13,15,13,,,Rikke Bloch,Rasmine Bak,Elin Fihn,Emmy Dahlquist
+Women's Advanced pool,Women's Advanced,Power Pool,3,Best of 3,Spike at First Sight,Team Sour Cream,Team Sour Cream,8,15,5,15,,,Maisie Ferris,Ellinor Gustavsson,Christina Lund Nielsen,Astrid Andreassen
+Women's Advanced pool,Women's Advanced,Power Pool,4,Best of 3,IWMN,Hotdawgs,IWMN,15,4,15,5,,,Anna Hillemann,Anaïs Duport,Eva Seerup,Kira Broe Kristiansen
+Women's Advanced pool,Women's Advanced,Power Pool,4,Best of 3,Seconds left,The Incrediballs,Seconds left,15,10,15,7,,,Eline Meijer,Lauma Ernestsone,Ida Finsen Flensted,Maja Nielsen
+Women's Advanced pool,Women's Advanced,Power Pool,5,Best of 3,Part time Eagles,IWMN,,15,10,9,15,,,Noëlle Steffens,Silvia Zanella,Anna Hillemann,Anaïs Duport
+Women's Advanced pool,Women's Advanced,Power Pool,5,Best of 3,Hotdawgs,Seconds left,Seconds left,3,15,3,15,,,Eva Seerup,Kira Broe Kristiansen,Eline Meijer,Lauma Ernestsone
+Women's Advanced B-pool,Women's Advanced,Bracket B,1,Best of 3,M&M,Team Blind Date,Team Blind Date,21,23,14,21,,,Ditte Møller Gregersen,Sigrid Moesgaard Larsen,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced B-pool,Women's Advanced,Bracket B,1,Best of 3,Klausholt og Hansen,Spike at First Sight,Klausholt og Hansen,17,21,21,18,21,18,Julie Klausholt,Kristine Hansen,Maisie Ferris,Ellinor Gustavsson
+Women's Advanced B-pool,Women's Advanced,Bracket B,2,Best of 3,M&M,Spike at First Sight,Spike at First Sight,15,21,22,20,17,21,Ditte Møller Gregersen,Sigrid Moesgaard Larsen,Maisie Ferris,Ellinor Gustavsson
+Women's Advanced B-pool,Women's Advanced,Bracket B,2,Best of 3,Hotdawgs,Team Blind Date,Team Blind Date,11,21,21,13,23,25,Eva Seerup,Kira Broe Kristiansen,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced B-pool,Women's Advanced,Bracket B,3,Best of 3,M&M,Hotdawgs,Hotdawgs,21,14,20,22,16,21,Ditte Møller Gregersen,Sigrid Moesgaard Larsen,Eva Seerup,Kira Broe Kristiansen
+Women's Advanced B-pool,Women's Advanced,Bracket B,3,Best of 3,Klausholt og Hansen,Team Blind Date,Team Blind Date,9,21,20,22,,,Julie Klausholt,Kristine Hansen,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced B-pool,Women's Advanced,Bracket B,4,Best of 3,Klausholt og Hansen,Hotdawgs,Klausholt og Hansen,15,13,14,15,15,13,Julie Klausholt,Kristine Hansen,Eva Seerup,Kira Broe Kristiansen
+Women's Advanced B-pool,Women's Advanced,Bracket B,4,Best of 3,Spike at First Sight,Team Blind Date,Team Blind Date,14,21,18,21,,,Maisie Ferris,Ellinor Gustavsson,Nadia Vibenholm,Anna Sofie Fornitz Vording
+Women's Advanced B-pool,Women's Advanced,Bracket B,5,Best of 3,M&M,Klausholt og Hansen,M&M,21,13,21,23,22,20,Ditte Møller Gregersen,Sigrid Moesgaard Larsen,Julie Klausholt,Kristine Hansen
+Women's Advanced B-pool,Women's Advanced,Bracket B,5,Best of 3,Hotdawgs,Spike at First Sight,Spike at First Sight,24,25,18,21,,,Eva Seerup,Kira Broe Kristiansen,Maisie Ferris,Ellinor Gustavsson
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Power Couple,Team Sour Cream,Power Couple,21,16,21,17,,,Elin Fihn,Emmy Dahlquist,Christina Lund Nielsen,Astrid Andreassen
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Roundabout Rallies,Binès Maja,Binès Maja,16,21,21,17,18,21,Hanna Westerland,Rebecca Mollberg,Maja Fürste,Inès Valéry
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Tba,Part time Eagles,Part time Eagles,18,21,16,21,,,Benita Gottschalk,Fabienne Lang,Noëlle Steffens,Silvia Zanella
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,KRC sweet and sweat,Part time Eagles,Part time Eagles,14,21,15,21,,,Sol Due-tønnessen,Anita Espevik,Noëlle Steffens,Silvia Zanella
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Hailight,Binès Maja,Hailight,21,19,18,21,21,13,Sarah Steinbrecht,Lisa Borgas,Maja Fürste,Inès Valéry
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Kicking Kangaroos,Power Couple,Kicking Kangaroos,21,17,21,17,,,Rikke Bloch,Rasmine Bak,Elin Fihn,Emmy Dahlquist
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Seconds left,IWMN,Seconds left,21,18,19,21,21,18,Eline Meijer,Lauma Ernestsone,Anna Hillemann,Anaïs Duport
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Part time Eagles,Seconds left,Seconds left,18,21,18,21,,,Noëlle Steffens,Silvia Zanella,Eline Meijer,Lauma Ernestsone
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Hailight,Kicking Kangaroos,Hailight,21,19,19,21,22,17,Sarah Steinbrecht,Lisa Borgas,Rikke Bloch,Rasmine Bak
+Bracket Stage,Women's Advanced,Bracket A,P5: Semi-final,Best of 3,IWMN,KRC sweet and sweat,IWMN,21,10,21,15,,,Anna Hillemann,Anaïs Duport,Sol Due-tønnessen,Anita Espevik
+Bracket Stage,Women's Advanced,Bracket A,P5: Semi-final,Best of 3,Power Couple,Binès Maja,Binès Maja,21,12,20,22,15,21,Elin Fihn,Emmy Dahlquist,Maja Fürste,Inès Valéry
+Bracket Stage,Women's Advanced,Bracket A,P9: Semi-final,Best of 3,Tba,The Incrediballs,The Incrediballs,0,21,0,21,,,Benita Gottschalk,Fabienne Lang,Ida Finsen Flensted,Maja Nielsen
+Bracket Stage,Women's Advanced,Bracket A,P9: Semi-final,Best of 3,Roundabout Rallies,Team Sour Cream,Roundabout Rallies,21,11,21,16,,,Hanna Westerland,Rebecca Mollberg,Christina Lund Nielsen,Astrid Andreassen
+Bracket Stage,Women's Advanced,Bracket A,Final,Best of 3,Seconds left,Hailight,Hailight,19,21,21,23,,,Eline Meijer,Lauma Ernestsone,Sarah Steinbrecht,Lisa Borgas
+Bracket Stage,Women's Advanced,Bracket A,P3: Final,Best of 3,Kicking Kangaroos,Part time Eagles,Part time Eagles,14,21,18,21,,,Rikke Bloch,Rasmine Bak,Noëlle Steffens,Silvia Zanella
+Bracket Stage,Women's Advanced,Bracket A,P5: Final,Best of 3,IWMN,Binès Maja,IWMN,15,13,16,14,,,Anna Hillemann,Anaïs Duport,Maja Fürste,Inès Valéry
+Bracket Stage,Women's Advanced,Bracket A,P7: Final,Best of 3,Power Couple,KRC sweet and sweat,KRC sweet and sweat,25,24,18,21,12,15,Elin Fihn,Emmy Dahlquist,Sol Due-tønnessen,Anita Espevik
+Bracket Stage,Women's Advanced,Bracket A,P9: Final,Best of 3,The Incrediballs,Roundabout Rallies,Roundabout Rallies,19,21,17,21,,,Ida Finsen Flensted,Maja Nielsen,Hanna Westerland,Rebecca Mollberg

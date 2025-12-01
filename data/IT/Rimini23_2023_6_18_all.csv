@@ -1,0 +1,97 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Group C,1,Single game,Double Bang,RCB Only Cut,Double Bang,1,0,,,,,Nicola Bazzani,Michele Berlanda,Tobia Sermenghi,Giovanni Calvi
+Group Stage,Open,Group C,1,Single game,RBZ THEKINGS AREBACK,TBA,TBA,0,1,,,,,Riccardo Mercadini,Federico Librera,Chiara Pernigo,Andrea Borsotti
+Group Stage,Open,Group E,1,Single game,M&M's,Connected Souls,Connected Souls,0,1,,,,,Matteo Molli,Marco Bortoloso,Jacopo Dudine,Davide Fusaro
+Group Stage,Open,Group E,1,Single game,Pesto al Porno,ISTINTO ITALIANO,ISTINTO ITALIANO,0,1,,,,,Dario Filippi,Fabio Bassi,Daniel Di Fazio,Giacomo Merlin
+Group Stage,Open,Group A,1,Single game,Rendila memorabile,Angi,Rendila memorabile,1,0,,,,,Federico Donatini,Mirko Biondini,Angela Augello,Samuele Piermanni
+Group Stage,Open,Group A,1,Single game,RBZ Back on Track,RCB NON SCHERZARE!,RCB NON SCHERZARE!,0,1,,,,,Irene Stranieri,Elena Berlanda,Yuri,Mattia Pareschi
+Group Stage,Open,Group B,1,Single game,Falce e Martello,Cosa Rischia?,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group B,1,Single game,RBZ Teambusta,Granchi Aviatori,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Federico Roncarati,Christian Carotenuto
+Group Stage,Open,Group D,1,Single game,RCB Le Caraus,Short Kings,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Marco Checchi,Tommaso Marzocchi
+Group Stage,Open,Group D,1,Single game,Marianda,Fielepunte,Marianda,1,0,,,,,Amanda Y. Pesenti,Marianne Ferragina,Francesco Corrado,Leonardo Rosino
+Group Stage,Open,Group C,2,Single game,Double Bang,TBA,Double Bang,1,0,,,,,Nicola Bazzani,Michele Berlanda,Chiara Pernigo,Andrea Borsotti
+Group Stage,Open,Group C,2,Single game,RBZ THEKINGS AREBACK,RCB Only Cut,RBZ THEKINGS AREBACK,1,0,,,,,Riccardo Mercadini,Federico Librera,Tobia Sermenghi,Giovanni Calvi
+Group Stage,Open,Group E,2,Single game,M&M's,ISTINTO ITALIANO,M&M's,1,0,,,,,Matteo Molli,Marco Bortoloso,Daniel Di Fazio,Giacomo Merlin
+Group Stage,Open,Group E,2,Single game,Pesto al Porno,Connected Souls,Connected Souls,0,1,,,,,Dario Filippi,Fabio Bassi,Jacopo Dudine,Davide Fusaro
+Group Stage,Open,Group A,2,Single game,Rendila memorabile,RCB NON SCHERZARE!,RCB NON SCHERZARE!,0,1,,,,,Federico Donatini,Mirko Biondini,Yuri,Mattia Pareschi
+Group Stage,Open,Group A,2,Single game,RBZ Back on Track,Angi,RBZ Back on Track,1,0,,,,,Irene Stranieri,Elena Berlanda,Angela Augello,Samuele Piermanni
+Group Stage,Open,Group B,2,Single game,Falce e Martello,Granchi Aviatori,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Federico Roncarati,Christian Carotenuto
+Group Stage,Open,Group B,2,Single game,SPECCIALE,Cosa Rischia?,SPECCIALE,1,0,,,,,Alessia Del Pioluogo,Veronica Specchia,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group D,2,Single game,RCB Le Caraus,Fielepunte,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Francesco Corrado,Leonardo Rosino
+Group Stage,Open,Group D,2,Single game,Marianda,Short Kings,Short Kings,0,1,,,,,Amanda Y. Pesenti,Marianne Ferragina,Marco Checchi,Tommaso Marzocchi
+Group Stage,Open,Group C,3,Single game,Double Bang,RBZ THEKINGS AREBACK,RBZ THEKINGS AREBACK,0,1,,,,,Nicola Bazzani,Michele Berlanda,Riccardo Mercadini,Federico Librera
+Group Stage,Open,Group C,3,Single game,TBA,RCB Only Cut,TBA,1,0,,,,,Chiara Pernigo,Andrea Borsotti,Tobia Sermenghi,Giovanni Calvi
+Group Stage,Open,Group E,3,Single game,M&M's,Pesto al Porno,M&M's,1,0,,,,,Matteo Molli,Marco Bortoloso,Dario Filippi,Fabio Bassi
+Group Stage,Open,Group E,3,Single game,ISTINTO ITALIANO,Connected Souls,ISTINTO ITALIANO,1,0,,,,,Daniel Di Fazio,Giacomo Merlin,Jacopo Dudine,Davide Fusaro
+Group Stage,Open,Group A,3,Single game,Rendila memorabile,RBZ Back on Track,Rendila memorabile,1,0,,,,,Federico Donatini,Mirko Biondini,Irene Stranieri,Elena Berlanda
+Group Stage,Open,Group A,3,Single game,RCB NON SCHERZARE!,Angi,RCB NON SCHERZARE!,1,0,,,,,Yuri,Mattia Pareschi,Angela Augello,Samuele Piermanni
+Group Stage,Open,Group B,3,Single game,Falce e Martello,SPECCIALE,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Alessia Del Pioluogo,Veronica Specchia
+Group Stage,Open,Group B,3,Single game,RBZ Teambusta,Cosa Rischia?,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group D,3,Single game,RCB Le Caraus,Marianda,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Amanda Y. Pesenti,Marianne Ferragina
+Group Stage,Open,Group D,3,Single game,Fielepunte,Short Kings,Short Kings,0,1,,,,,Francesco Corrado,Leonardo Rosino,Marco Checchi,Tommaso Marzocchi
+Group Stage,Open,Group B,4,Single game,RBZ Teambusta,SPECCIALE,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Alessia Del Pioluogo,Veronica Specchia
+Group Stage,Open,Group B,4,Single game,Granchi Aviatori,Cosa Rischia?,Granchi Aviatori,1,0,,,,,Federico Roncarati,Christian Carotenuto,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group B,5,Single game,Falce e Martello,RBZ Teambusta,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Omar Zeni,Andrea Piccirillo
+Group Stage,Open,Group B,5,Single game,SPECCIALE,Granchi Aviatori,Granchi Aviatori,0,1,,,,,Alessia Del Pioluogo,Veronica Specchia,Federico Roncarati,Christian Carotenuto
+Group Stage,Open,Group C,4,Single game,Double Bang,RCB Only Cut,Double Bang,1,0,,,,,Nicola Bazzani,Michele Berlanda,Tobia Sermenghi,Giovanni Calvi
+Group Stage,Open,Group C,4,Single game,RBZ THEKINGS AREBACK,TBA,RBZ THEKINGS AREBACK,1,0,,,,,Riccardo Mercadini,Federico Librera,Chiara Pernigo,Andrea Borsotti
+Group Stage,Open,Group E,4,Single game,M&M's,Connected Souls,Connected Souls,0,1,,,,,Matteo Molli,Marco Bortoloso,Jacopo Dudine,Davide Fusaro
+Group Stage,Open,Group E,4,Single game,Pesto al Porno,ISTINTO ITALIANO,Pesto al Porno,1,0,,,,,Dario Filippi,Fabio Bassi,Daniel Di Fazio,Giacomo Merlin
+Group Stage,Open,Group A,4,Single game,Rendila memorabile,Angi,Rendila memorabile,1,0,,,,,Federico Donatini,Mirko Biondini,Angela Augello,Samuele Piermanni
+Group Stage,Open,Group A,4,Single game,RBZ Back on Track,RCB NON SCHERZARE!,RCB NON SCHERZARE!,0,1,,,,,Irene Stranieri,Elena Berlanda,Yuri,Mattia Pareschi
+Group Stage,Open,Group B,6,Single game,Falce e Martello,Cosa Rischia?,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group B,6,Single game,RBZ Teambusta,Granchi Aviatori,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Federico Roncarati,Christian Carotenuto
+Group Stage,Open,Group D,4,Single game,RCB Le Caraus,Short Kings,Short Kings,0,1,,,,,Nicole Biondini,Alessandro Zanellato,Marco Checchi,Tommaso Marzocchi
+Group Stage,Open,Group D,4,Single game,Marianda,Fielepunte,Marianda,1,0,,,,,Amanda Y. Pesenti,Marianne Ferragina,Francesco Corrado,Leonardo Rosino
+Group Stage,Open,Group C,5,Single game,Double Bang,TBA,Double Bang,1,0,,,,,Nicola Bazzani,Michele Berlanda,Chiara Pernigo,Andrea Borsotti
+Group Stage,Open,Group C,5,Single game,RBZ THEKINGS AREBACK,RCB Only Cut,RBZ THEKINGS AREBACK,1,0,,,,,Riccardo Mercadini,Federico Librera,Tobia Sermenghi,Giovanni Calvi
+Group Stage,Open,Group E,5,Single game,M&M's,ISTINTO ITALIANO,ISTINTO ITALIANO,0,1,,,,,Matteo Molli,Marco Bortoloso,Daniel Di Fazio,Giacomo Merlin
+Group Stage,Open,Group E,5,Single game,Pesto al Porno,Connected Souls,Connected Souls,0,1,,,,,Dario Filippi,Fabio Bassi,Jacopo Dudine,Davide Fusaro
+Group Stage,Open,Group A,5,Single game,Rendila memorabile,RCB NON SCHERZARE!,RCB NON SCHERZARE!,0,1,,,,,Federico Donatini,Mirko Biondini,Yuri,Mattia Pareschi
+Group Stage,Open,Group A,5,Single game,RBZ Back on Track,Angi,RBZ Back on Track,1,0,,,,,Irene Stranieri,Elena Berlanda,Angela Augello,Samuele Piermanni
+Group Stage,Open,Group B,7,Single game,Falce e Martello,Granchi Aviatori,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Federico Roncarati,Christian Carotenuto
+Group Stage,Open,Group B,7,Single game,SPECCIALE,Cosa Rischia?,SPECCIALE,1,0,,,,,Alessia Del Pioluogo,Veronica Specchia,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group D,5,Single game,RCB Le Caraus,Fielepunte,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Francesco Corrado,Leonardo Rosino
+Group Stage,Open,Group D,5,Single game,Marianda,Short Kings,Short Kings,0,1,,,,,Amanda Y. Pesenti,Marianne Ferragina,Marco Checchi,Tommaso Marzocchi
+Group Stage,Open,Group C,6,Single game,Double Bang,RBZ THEKINGS AREBACK,RBZ THEKINGS AREBACK,0,1,,,,,Nicola Bazzani,Michele Berlanda,Riccardo Mercadini,Federico Librera
+Group Stage,Open,Group C,6,Single game,TBA,RCB Only Cut,TBA,1,0,,,,,Chiara Pernigo,Andrea Borsotti,Tobia Sermenghi,Giovanni Calvi
+Group Stage,Open,Group E,6,Single game,M&M's,Pesto al Porno,M&M's,1,0,,,,,Matteo Molli,Marco Bortoloso,Dario Filippi,Fabio Bassi
+Group Stage,Open,Group E,6,Single game,ISTINTO ITALIANO,Connected Souls,Connected Souls,0,1,,,,,Daniel Di Fazio,Giacomo Merlin,Jacopo Dudine,Davide Fusaro
+Group Stage,Open,Group A,6,Single game,Rendila memorabile,RBZ Back on Track,Rendila memorabile,1,0,,,,,Federico Donatini,Mirko Biondini,Irene Stranieri,Elena Berlanda
+Group Stage,Open,Group A,6,Single game,RCB NON SCHERZARE!,Angi,RCB NON SCHERZARE!,1,0,,,,,Yuri,Mattia Pareschi,Angela Augello,Samuele Piermanni
+Group Stage,Open,Group B,8,Single game,Falce e Martello,SPECCIALE,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Alessia Del Pioluogo,Veronica Specchia
+Group Stage,Open,Group B,8,Single game,RBZ Teambusta,Cosa Rischia?,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group D,6,Single game,RCB Le Caraus,Marianda,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Amanda Y. Pesenti,Marianne Ferragina
+Group Stage,Open,Group D,6,Single game,Fielepunte,Short Kings,Short Kings,0,1,,,,,Francesco Corrado,Leonardo Rosino,Marco Checchi,Tommaso Marzocchi
+Group Stage,Open,Group B,9,Single game,RBZ Teambusta,SPECCIALE,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Alessia Del Pioluogo,Veronica Specchia
+Group Stage,Open,Group B,9,Single game,Granchi Aviatori,Cosa Rischia?,Granchi Aviatori,1,0,,,,,Federico Roncarati,Christian Carotenuto,Christian Morrese,Maurilio Annese
+Group Stage,Open,Group B,10,Single game,Falce e Martello,RBZ Teambusta,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Omar Zeni,Andrea Piccirillo
+Group Stage,Open,Group B,10,Single game,SPECCIALE,Granchi Aviatori,Granchi Aviatori,0,1,,,,,Alessia Del Pioluogo,Veronica Specchia,Federico Roncarati,Christian Carotenuto
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,TBA,RCB Le Caraus,TBA,1,0,1,0,,,Chiara Pernigo,Andrea Borsotti,Nicole Biondini,Alessandro Zanellato
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Connected Souls,Marianda,Connected Souls,1,0,1,0,,,Jacopo Dudine,Davide Fusaro,Amanda Y. Pesenti,Marianne Ferragina
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Double Bang,Granchi Aviatori,Double Bang,1,0,1,0,,,Nicola Bazzani,Michele Berlanda,Federico Roncarati,Christian Carotenuto
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,M&M's,Short Kings,M&M's,1,0,1,0,,,Matteo Molli,Marco Bortoloso,Marco Checchi,Tommaso Marzocchi
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,RBZ THEKINGS AREBACK,RBZ Teambusta,RBZ THEKINGS AREBACK,1,0,1,0,,,Riccardo Mercadini,Federico Librera,Omar Zeni,Andrea Piccirillo
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Pesto al Porno,Falce e Martello,Pesto al Porno,1,0,1,0,,,Dario Filippi,Fabio Bassi,Davide Greco,Luca Tosatti
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,RCB Only Cut,RCB NON SCHERZARE!,RCB NON SCHERZARE!,0,1,1,0,0,1,Tobia Sermenghi,Giovanni Calvi,Yuri,Mattia Pareschi
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,ISTINTO ITALIANO,Rendila memorabile,ISTINTO ITALIANO,1,0,1,0,,,Daniel Di Fazio,Giacomo Merlin,Federico Donatini,Mirko Biondini
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,TBA,ISTINTO ITALIANO,TBA,1,0,1,0,,,Chiara Pernigo,Andrea Borsotti,Daniel Di Fazio,Giacomo Merlin
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Connected Souls,RCB NON SCHERZARE!,Connected Souls,1,0,1,0,,,Jacopo Dudine,Davide Fusaro,Yuri,Mattia Pareschi
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Double Bang,Pesto al Porno,Double Bang,1,0,1,0,,,Nicola Bazzani,Michele Berlanda,Dario Filippi,Fabio Bassi
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,M&M's,RBZ THEKINGS AREBACK,M&M's,1,0,1,0,,,Matteo Molli,Marco Bortoloso,Riccardo Mercadini,Federico Librera
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Rendila memorabile,RCB Le Caraus,RCB Le Caraus,0,1,,,,,Federico Donatini,Mirko Biondini,Nicole Biondini,Alessandro Zanellato
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,RCB Only Cut,Marianda,RCB Only Cut,1,0,,,,,Tobia Sermenghi,Giovanni Calvi,Amanda Y. Pesenti,Marianne Ferragina
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Falce e Martello,Granchi Aviatori,Falce e Martello,1,0,,,,,Davide Greco,Luca Tosatti,Federico Roncarati,Christian Carotenuto
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,RBZ Teambusta,Short Kings,Short Kings,0,1,,,,,Omar Zeni,Andrea Piccirillo,Marco Checchi,Tommaso Marzocchi
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,TBA,M&M's,TBA,0,1,1,0,1,0,Chiara Pernigo,Andrea Borsotti,Matteo Molli,Marco Bortoloso
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Connected Souls,Double Bang,Double Bang,0,1,0,1,,,Jacopo Dudine,Davide Fusaro,Nicola Bazzani,Michele Berlanda
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,Pesto al Porno,RCB NON SCHERZARE!,Pesto al Porno,1,0,,,,,Dario Filippi,Fabio Bassi,Yuri,Mattia Pareschi
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,RCB Le Caraus,Short Kings,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Marco Checchi,Tommaso Marzocchi
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,RCB Only Cut,Falce e Martello,RCB Only Cut,1,0,,,,,Tobia Sermenghi,Giovanni Calvi,Davide Greco,Luca Tosatti
+Bracket Stage,Open,Bracket A,P13: Semi-final,Single game,RBZ Teambusta,Rendila memorabile,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Federico Donatini,Mirko Biondini
+Bracket Stage,Open,Bracket A,P13: Semi-final,Single game,Granchi Aviatori,Marianda,Marianda,0,1,,,,,Federico Roncarati,Christian Carotenuto,Amanda Y. Pesenti,Marianne Ferragina
+Bracket Stage,Open,Bracket A,Final,Best of 3,TBA,Double Bang,TBA,1,0,0,1,1,2,Chiara Pernigo,Andrea Borsotti,Nicola Bazzani,Michele Berlanda
+Bracket Stage,Open,Bracket A,P3: Final,Single game,Connected Souls,M&M's,Connected Souls,1,0,,,,,Jacopo Dudine,Davide Fusaro,Matteo Molli,Marco Bortoloso
+Bracket Stage,Open,Bracket A,P9: Final,Single game,RCB Le Caraus,RCB Only Cut,RCB Le Caraus,1,0,,,,,Nicole Biondini,Alessandro Zanellato,Tobia Sermenghi,Giovanni Calvi
+Bracket Stage,Open,Bracket A,P11: Final,Single game,Falce e Martello,Short Kings,Short Kings,0,1,,,,,Davide Greco,Luca Tosatti,Marco Checchi,Tommaso Marzocchi
+Bracket Stage,Open,Bracket A,P13: Final,Single game,RBZ Teambusta,Marianda,RBZ Teambusta,1,0,,,,,Omar Zeni,Andrea Piccirillo,Amanda Y. Pesenti,Marianne Ferragina

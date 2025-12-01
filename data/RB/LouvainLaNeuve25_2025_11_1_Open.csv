@@ -1,0 +1,105 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Group A,1,Single game,Bip Bap Boup,Autochtones du BW,Bip Bap Boup,15,9,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Maxime Despontin,Martin Clotman
+Group Stage,Open,Group A,1,Single game,Dragonfoxes are pretty dope 🐉🦊,Passports are a Luxury,Dragonfoxes are pretty dope 🐉🦊,15,13,,,,,wout thysens,Igor Jottrand,Nicolas Manneback,Joe Kerridge
+Group Stage,Open,Group B,1,Single game,TV Time,At least we're pretty 🐥,TV Time,15,8,,,,,Frederik Theunis,Gauthier Vandamme,Minna Chang Hansen,Irian Baert
+Group Stage,Open,Group B,1,Single game,Uno Reverse,Impertinent,Impertinent,13,15,,,,,Martijn Paes,Daan Paes,Oussama Tchita,Paul Gheeraert
+Group Stage,Open,Group C,1,Single game,Ni Hao,Belgitannos,Ni Hao,15,6,,,,,Mats Breyne,Toan Pauwels,Antoine Remacle,Valentin Decat
+Group Stage,Open,Group D,1,Single game,Spike Jam,Panda-Mante,Spike Jam,15,4,,,,,Pieter-Jan Zwaan,Beau Dysserinck,Liam Veenstra,Matthieu Fabel
+Group Stage,Open,Group D,1,Single game,We need to talk,Roundnet Paris - Filiale Bruxelloise,Roundnet Paris - Filiale Bruxelloise,6,15,,,,,Arne Vertessen,Pieterjan Uytterhoeven,Nathan Colle,Basile Vitrai
+Group Stage,Open,Group E,1,Single game,The Wide Range,DJ Redo,The Wide Range,15,12,,,,,Romain Hardat,Manuel Van Rensbergen,Jeremy Minet,Raphaël Solari
+Group Stage,Open,Group E,1,Single game,The opposites,Erika Banger,The opposites,16,14,,,,,arno Hegge,Kim Waltens,Rayane Al Zein,Brieuc Delloye
+Group Stage,Open,Group A,2,Single game,Bip Bap Boup,Passports are a Luxury,Bip Bap Boup,16,14,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Nicolas Manneback,Joe Kerridge
+Group Stage,Open,Group A,2,Single game,Dragonfoxes are pretty dope 🐉🦊,Autochtones du BW,Dragonfoxes are pretty dope 🐉🦊,15,6,,,,,wout thysens,Igor Jottrand,Maxime Despontin,Martin Clotman
+Group Stage,Open,Group B,2,Single game,TV Time,Impertinent,Impertinent,8,15,,,,,Frederik Theunis,Gauthier Vandamme,Oussama Tchita,Paul Gheeraert
+Group Stage,Open,Group B,2,Single game,Uno Reverse,At least we're pretty 🐥,Uno Reverse,15,8,,,,,Martijn Paes,Daan Paes,Minna Chang Hansen,Irian Baert
+Group Stage,Open,Group C,2,Single game,Ni Hao,Pour Valouche,Ni Hao,15,13,,,,,Mats Breyne,Toan Pauwels,Alexandre Thiry,Lauriane Zwolinski
+Group Stage,Open,Group D,2,Single game,Spike Jam,Roundnet Paris - Filiale Bruxelloise,Spike Jam,15,13,,,,,Pieter-Jan Zwaan,Beau Dysserinck,Nathan Colle,Basile Vitrai
+Group Stage,Open,Group D,2,Single game,We need to talk,Panda-Mante,We need to talk,15,4,,,,,Arne Vertessen,Pieterjan Uytterhoeven,Liam Veenstra,Matthieu Fabel
+Group Stage,Open,Group E,2,Single game,The Wide Range,Erika Banger,The Wide Range,15,3,,,,,Romain Hardat,Manuel Van Rensbergen,Rayane Al Zein,Brieuc Delloye
+Group Stage,Open,Group E,2,Single game,The opposites,DJ Redo,DJ Redo,12,15,,,,,arno Hegge,Kim Waltens,Jeremy Minet,Raphaël Solari
+Group Stage,Open,Group A,3,Single game,Bip Bap Boup,Dragonfoxes are pretty dope 🐉🦊,Bip Bap Boup,15,4,,,,,Gilles Hublet,Guillaume Van Eeckhaute,wout thysens,Igor Jottrand
+Group Stage,Open,Group A,3,Single game,Passports are a Luxury,Autochtones du BW,Passports are a Luxury,15,9,,,,,Nicolas Manneback,Joe Kerridge,Maxime Despontin,Martin Clotman
+Group Stage,Open,Group B,3,Single game,TV Time,Uno Reverse,Uno Reverse,11,15,,,,,Frederik Theunis,Gauthier Vandamme,Martijn Paes,Daan Paes
+Group Stage,Open,Group B,3,Single game,Impertinent,At least we're pretty 🐥,Impertinent,15,7,,,,,Oussama Tchita,Paul Gheeraert,Minna Chang Hansen,Irian Baert
+Group Stage,Open,Group C,3,Single game,Pour Valouche,Belgitannos,Pour Valouche,15,3,,,,,Alexandre Thiry,Lauriane Zwolinski,Antoine Remacle,Valentin Decat
+Group Stage,Open,Group D,3,Single game,Spike Jam,We need to talk,Spike Jam,15,9,,,,,Pieter-Jan Zwaan,Beau Dysserinck,Arne Vertessen,Pieterjan Uytterhoeven
+Group Stage,Open,Group D,3,Single game,Roundnet Paris - Filiale Bruxelloise,Panda-Mante,Roundnet Paris - Filiale Bruxelloise,15,5,,,,,Nathan Colle,Basile Vitrai,Liam Veenstra,Matthieu Fabel
+Group Stage,Open,Group E,3,Single game,The Wide Range,The opposites,The Wide Range,15,8,,,,,Romain Hardat,Manuel Van Rensbergen,arno Hegge,Kim Waltens
+Group Stage,Open,Group E,3,Single game,Erika Banger,DJ Redo,DJ Redo,9,15,,,,,Rayane Al Zein,Brieuc Delloye,Jeremy Minet,Raphaël Solari
+Group Stage,Open,Group A,4,Single game,Bip Bap Boup,Autochtones du BW,Bip Bap Boup,15,9,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Maxime Despontin,Martin Clotman
+Group Stage,Open,Group A,4,Single game,Dragonfoxes are pretty dope 🐉🦊,Passports are a Luxury,Dragonfoxes are pretty dope 🐉🦊,15,6,,,,,wout thysens,Igor Jottrand,Nicolas Manneback,Joe Kerridge
+Group Stage,Open,Group B,4,Single game,TV Time,At least we're pretty 🐥,TV Time,15,3,,,,,Frederik Theunis,Gauthier Vandamme,Minna Chang Hansen,Irian Baert
+Group Stage,Open,Group B,4,Single game,Uno Reverse,Impertinent,Uno Reverse,15,6,,,,,Martijn Paes,Daan Paes,Oussama Tchita,Paul Gheeraert
+Group Stage,Open,Group C,4,Single game,Ni Hao,Belgitannos,Ni Hao,15,12,,,,,Mats Breyne,Toan Pauwels,Antoine Remacle,Valentin Decat
+Group Stage,Open,Group D,4,Single game,Spike Jam,Panda-Mante,Spike Jam,15,7,,,,,Pieter-Jan Zwaan,Beau Dysserinck,Liam Veenstra,Matthieu Fabel
+Group Stage,Open,Group D,4,Single game,We need to talk,Roundnet Paris - Filiale Bruxelloise,Roundnet Paris - Filiale Bruxelloise,9,15,,,,,Arne Vertessen,Pieterjan Uytterhoeven,Nathan Colle,Basile Vitrai
+Group Stage,Open,Group E,4,Single game,The Wide Range,DJ Redo,DJ Redo,8,15,,,,,Romain Hardat,Manuel Van Rensbergen,Jeremy Minet,Raphaël Solari
+Group Stage,Open,Group E,4,Single game,The opposites,Erika Banger,The opposites,15,8,,,,,arno Hegge,Kim Waltens,Rayane Al Zein,Brieuc Delloye
+Group Stage,Open,Group A,5,Single game,Bip Bap Boup,Passports are a Luxury,Bip Bap Boup,15,9,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Nicolas Manneback,Joe Kerridge
+Group Stage,Open,Group A,5,Single game,Dragonfoxes are pretty dope 🐉🦊,Autochtones du BW,Dragonfoxes are pretty dope 🐉🦊,15,7,,,,,wout thysens,Igor Jottrand,Maxime Despontin,Martin Clotman
+Group Stage,Open,Group B,5,Single game,TV Time,Impertinent,Impertinent,7,15,,,,,Frederik Theunis,Gauthier Vandamme,Oussama Tchita,Paul Gheeraert
+Group Stage,Open,Group B,5,Single game,Uno Reverse,At least we're pretty 🐥,Uno Reverse,15,9,,,,,Martijn Paes,Daan Paes,Minna Chang Hansen,Irian Baert
+Group Stage,Open,Group C,5,Single game,Ni Hao,Pour Valouche,Pour Valouche,6,15,,,,,Mats Breyne,Toan Pauwels,Alexandre Thiry,Lauriane Zwolinski
+Group Stage,Open,Group D,5,Single game,Spike Jam,Roundnet Paris - Filiale Bruxelloise,Spike Jam,15,11,,,,,Pieter-Jan Zwaan,Beau Dysserinck,Nathan Colle,Basile Vitrai
+Group Stage,Open,Group D,5,Single game,We need to talk,Panda-Mante,We need to talk,15,2,,,,,Arne Vertessen,Pieterjan Uytterhoeven,Liam Veenstra,Matthieu Fabel
+Group Stage,Open,Group E,5,Single game,The Wide Range,Erika Banger,The Wide Range,15,7,,,,,Romain Hardat,Manuel Van Rensbergen,Rayane Al Zein,Brieuc Delloye
+Group Stage,Open,Group E,5,Single game,The opposites,DJ Redo,DJ Redo,17,19,,,,,arno Hegge,Kim Waltens,Jeremy Minet,Raphaël Solari
+Group Stage,Open,Group A,6,Single game,Bip Bap Boup,Dragonfoxes are pretty dope 🐉🦊,Bip Bap Boup,15,9,,,,,Gilles Hublet,Guillaume Van Eeckhaute,wout thysens,Igor Jottrand
+Group Stage,Open,Group A,6,Single game,Passports are a Luxury,Autochtones du BW,Autochtones du BW,12,15,,,,,Nicolas Manneback,Joe Kerridge,Maxime Despontin,Martin Clotman
+Group Stage,Open,Group B,6,Single game,TV Time,Uno Reverse,Uno Reverse,15,17,,,,,Frederik Theunis,Gauthier Vandamme,Martijn Paes,Daan Paes
+Group Stage,Open,Group B,6,Single game,Impertinent,At least we're pretty 🐥,Impertinent,15,12,,,,,Oussama Tchita,Paul Gheeraert,Minna Chang Hansen,Irian Baert
+Group Stage,Open,Group C,6,Single game,Pour Valouche,Belgitannos,Pour Valouche,15,0,,,,,Alexandre Thiry,Lauriane Zwolinski,Antoine Remacle,Valentin Decat
+Group Stage,Open,Group D,6,Single game,Spike Jam,We need to talk,Spike Jam,15,11,,,,,Pieter-Jan Zwaan,Beau Dysserinck,Arne Vertessen,Pieterjan Uytterhoeven
+Group Stage,Open,Group D,6,Single game,Roundnet Paris - Filiale Bruxelloise,Panda-Mante,Roundnet Paris - Filiale Bruxelloise,15,5,,,,,Nathan Colle,Basile Vitrai,Liam Veenstra,Matthieu Fabel
+Group Stage,Open,Group E,6,Single game,The Wide Range,The opposites,The opposites,12,15,,,,,Romain Hardat,Manuel Van Rensbergen,arno Hegge,Kim Waltens
+Group Stage,Open,Group E,6,Single game,Erika Banger,DJ Redo,DJ Redo,8,15,,,,,Rayane Al Zein,Brieuc Delloye,Jeremy Minet,Raphaël Solari
+Positionig Game,Open,Bracket A,Quarter-final,Single game,Bip Bap Boup,Uno Reverse,Uno Reverse,11,15,,,,,Gilles Hublet,Guillaume Van Eeckhaute,Martijn Paes,Daan Paes
+Positionig Game,Open,Bracket A,Quarter-final,Single game,Dragonfoxes are pretty dope 🐉🦊,Impertinent,Impertinent,9,15,,,,,wout thysens,Igor Jottrand,Oussama Tchita,Paul Gheeraert
+Positionig Game,Open,Bracket A,Quarter-final,Single game,Passports are a Luxury,TV Time,TV Time,7,15,,,,,Nicolas Manneback,Joe Kerridge,Frederik Theunis,Gauthier Vandamme
+Positionig Game,Open,Bracket A,Quarter-final,Single game,Autochtones du BW,At least we're pretty 🐥,At least we're pretty 🐥,13,15,,,,,Maxime Despontin,Martin Clotman,Minna Chang Hansen,Irian Baert
+Bracket stage,Open,Bracket A,Round of 32,Best of 3,The Wide Range,Panda-Mante,The Wide Range,15,5,15,8,,,Romain Hardat,Manuel Van Rensbergen,Liam Veenstra,Matthieu Fabel
+Bracket stage,Open,Bracket A,Round of 32,Best of 3,The opposites,Belgitannos,The opposites,15,12,16,14,,,arno Hegge,Kim Waltens,Antoine Remacle,Valentin Decat
+Bracket stage,Open,Bracket A,Round of 32,Best of 3,We need to talk,Erika Banger,We need to talk,15,7,15,10,,,Arne Vertessen,Pieterjan Uytterhoeven,Rayane Al Zein,Brieuc Delloye
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,Uno Reverse,We need to talk,Uno Reverse,15,5,15,7,,,Martijn Paes,Daan Paes,Arne Vertessen,Pieterjan Uytterhoeven
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,Bip Bap Boup,The opposites,Bip Bap Boup,15,5,15,4,,,Gilles Hublet,Guillaume Van Eeckhaute,arno Hegge,Kim Waltens
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,Impertinent,The Wide Range,Impertinent,15,6,15,7,,,Oussama Tchita,Paul Gheeraert,Romain Hardat,Manuel Van Rensbergen
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,Dragonfoxes are pretty dope 🐉🦊,Roundnet Paris - Filiale Bruxelloise,Dragonfoxes are pretty dope 🐉🦊,15,13,15,10,,,wout thysens,Igor Jottrand,Nathan Colle,Basile Vitrai
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,TV Time,Ni Hao,TV Time,15,9,15,7,,,Frederik Theunis,Gauthier Vandamme,Mats Breyne,Toan Pauwels
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,Passports are a Luxury,Pour Valouche,Pour Valouche,11,15,9,15,,,Nicolas Manneback,Joe Kerridge,Alexandre Thiry,Lauriane Zwolinski
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,At least we're pretty 🐥,DJ Redo,At least we're pretty 🐥,15,10,15,8,,,Minna Chang Hansen,Irian Baert,Jeremy Minet,Raphaël Solari
+Bracket stage,Open,Bracket A,Round of 16,Best of 3,Autochtones du BW,Spike Jam,Spike Jam,16,14,14,16,7,15,Maxime Despontin,Martin Clotman,Pieter-Jan Zwaan,Beau Dysserinck
+Bracket stage,Open,Bracket A,Quarter-final,Best of 3,Uno Reverse,Spike Jam,Uno Reverse,15,4,15,1,,,Martijn Paes,Daan Paes,Pieter-Jan Zwaan,Beau Dysserinck
+Bracket stage,Open,Bracket A,Quarter-final,Best of 3,Bip Bap Boup,At least we're pretty 🐥,Bip Bap Boup,15,9,15,10,,,Gilles Hublet,Guillaume Van Eeckhaute,Minna Chang Hansen,Irian Baert
+Bracket stage,Open,Bracket A,Quarter-final,Best of 3,Impertinent,Pour Valouche,Impertinent,15,12,15,3,,,Oussama Tchita,Paul Gheeraert,Alexandre Thiry,Lauriane Zwolinski
+Bracket stage,Open,Bracket A,Quarter-final,Best of 3,Dragonfoxes are pretty dope 🐉🦊,TV Time,TV Time,10,15,10,15,,,wout thysens,Igor Jottrand,Frederik Theunis,Gauthier Vandamme
+Bracket stage,Open,Bracket A,P9: Quarter-final,Best of 3,Autochtones du BW,We need to talk,Autochtones du BW,15,3,15,9,,,Maxime Despontin,Martin Clotman,Arne Vertessen,Pieterjan Uytterhoeven
+Bracket stage,Open,Bracket A,P9: Quarter-final,Best of 3,DJ Redo,The opposites,DJ Redo,15,10,15,11,,,Jeremy Minet,Raphaël Solari,arno Hegge,Kim Waltens
+Bracket stage,Open,Bracket A,P9: Quarter-final,Best of 3,Passports are a Luxury,The Wide Range,Passports are a Luxury,15,12,15,11,,,Nicolas Manneback,Joe Kerridge,Romain Hardat,Manuel Van Rensbergen
+Bracket stage,Open,Bracket A,P9: Quarter-final,Best of 3,Ni Hao,Roundnet Paris - Filiale Bruxelloise,Roundnet Paris - Filiale Bruxelloise,11,21,0,1,,,Mats Breyne,Toan Pauwels,Nathan Colle,Basile Vitrai
+Bracket stage,Open,Bracket A,Semi-final,Best of 3,Uno Reverse,TV Time,Uno Reverse,21,16,21,8,,,Martijn Paes,Daan Paes,Frederik Theunis,Gauthier Vandamme
+Bracket stage,Open,Bracket A,Semi-final,Best of 3,Bip Bap Boup,Impertinent,Bip Bap Boup,19,21,24,22,16,14,Gilles Hublet,Guillaume Van Eeckhaute,Oussama Tchita,Paul Gheeraert
+Bracket stage,Open,Bracket A,P5: Semi-final,Best of 3,Dragonfoxes are pretty dope 🐉🦊,Spike Jam,Dragonfoxes are pretty dope 🐉🦊,21,15,0,1,1,0,wout thysens,Igor Jottrand,Pieter-Jan Zwaan,Beau Dysserinck
+Bracket stage,Open,Bracket A,P5: Semi-final,Best of 3,Pour Valouche,At least we're pretty 🐥,At least we're pretty 🐥,14,21,14,21,,,Alexandre Thiry,Lauriane Zwolinski,Minna Chang Hansen,Irian Baert
+Bracket stage,Open,Bracket A,P9: Semi-final,Best of 3,Autochtones du BW,Roundnet Paris - Filiale Bruxelloise,Autochtones du BW,15,4,15,11,,,Maxime Despontin,Martin Clotman,Nathan Colle,Basile Vitrai
+Bracket stage,Open,Bracket A,P9: Semi-final,Best of 3,DJ Redo,Passports are a Luxury,Passports are a Luxury,0,1,0,1,,,Jeremy Minet,Raphaël Solari,Nicolas Manneback,Joe Kerridge
+Bracket stage,Open,Bracket A,P13: Semi-final,Best of 3,Ni Hao,We need to talk,Ni Hao,15,11,15,11,,,Mats Breyne,Toan Pauwels,Arne Vertessen,Pieterjan Uytterhoeven
+Bracket stage,Open,Bracket A,P13: Semi-final,Best of 3,The Wide Range,The opposites,The Wide Range,15,12,15,9,,,Romain Hardat,Manuel Van Rensbergen,arno Hegge,Kim Waltens
+Bracket stage,Open,Bracket A,P17: Semi-final,Best of 3,Belgitannos,Panda-Mante,Belgitannos,15,12,15,8,,,Antoine Remacle,Valentin Decat,Liam Veenstra,Matthieu Fabel
+Bracket stage,Open,Bracket A,Final,Best of 3,Uno Reverse,Bip Bap Boup,Uno Reverse,21,18,18,21,21,17,Martijn Paes,Daan Paes,Gilles Hublet,Guillaume Van Eeckhaute
+Bracket stage,Open,Bracket A,P3: Final,Single game,Impertinent,TV Time,TV Time,21,23,,,,,Oussama Tchita,Paul Gheeraert,Frederik Theunis,Gauthier Vandamme
+Bracket stage,Open,Bracket A,P5: Final,Best of 3,Dragonfoxes are pretty dope 🐉🦊,At least we're pretty 🐥,Dragonfoxes are pretty dope 🐉🦊,21,18,21,18,,,wout thysens,Igor Jottrand,Minna Chang Hansen,Irian Baert
+Bracket stage,Open,Bracket A,P7: Final,Best of 3,Pour Valouche,Spike Jam,Pour Valouche,21,17,21,17,,,Alexandre Thiry,Lauriane Zwolinski,Pieter-Jan Zwaan,Beau Dysserinck
+Bracket stage,Open,Bracket A,P9: Final,Best of 3,Autochtones du BW,Passports are a Luxury,Autochtones du BW,21,13,1,0,,,Maxime Despontin,Martin Clotman,Nicolas Manneback,Joe Kerridge
+Bracket stage,Open,Bracket A,P13: Final,Best of 3,Ni Hao,The Wide Range,Ni Hao,21,15,1,0,,,Mats Breyne,Toan Pauwels,Romain Hardat,Manuel Van Rensbergen
+Bracket stage,Open,Bracket A,P15: Final,Best of 3,The opposites,We need to talk,We need to talk,8,15,5,15,,,arno Hegge,Kim Waltens,Arne Vertessen,Pieterjan Uytterhoeven
+Bracket stage,Open,Bracket A,P17: Final,Best of 3,Erika Banger,Belgitannos,Belgitannos,12,15,11,15,,,Rayane Al Zein,Brieuc Delloye,Antoine Remacle,Valentin Decat
+Group Stage,Women's Intermediate,Group A,1,Best of 3,Linde & Marie,Team Rescue,Linde & Marie,15,8,15,9,,,Linde Van Wambeke,Marie Jubault,Anne-Catherine Groven,Kaat De Coster
+Group Stage,Women's Intermediate,Group A,1,Best of 3,No one’s registered yet?,LieLu,No one’s registered yet?,15,13,15,7,,,Rozi Ouali,Lien Keersse,Lieze Dockx,Luna Clarysse
+Group Stage,Women's Intermediate,Group A,2,Best of 3,Linde & Marie,LieLu,Linde & Marie,15,9,15,9,,,Linde Van Wambeke,Marie Jubault,Lieze Dockx,Luna Clarysse
+Group Stage,Women's Intermediate,Group A,2,Best of 3,No one’s registered yet?,Team Rescue,No one’s registered yet?,9,15,15,12,15,13,Rozi Ouali,Lien Keersse,Anne-Catherine Groven,Kaat De Coster
+Group Stage,Women's Intermediate,Group A,3,Best of 3,Linde & Marie,No one’s registered yet?,Linde & Marie,10,15,15,13,15,9,Linde Van Wambeke,Marie Jubault,Rozi Ouali,Lien Keersse
+Group Stage,Women's Intermediate,Group A,3,Best of 3,LieLu,Team Rescue,Team Rescue,14,16,15,13,9,15,Lieze Dockx,Luna Clarysse,Anne-Catherine Groven,Kaat De Coster
+Bracket stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Linde & Marie,LieLu,Linde & Marie,15,5,15,6,,,Linde Van Wambeke,Marie Jubault,Lieze Dockx,Luna Clarysse
+Bracket stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,No one’s registered yet?,Team Rescue,No one’s registered yet?,15,8,15,10,,,Rozi Ouali,Lien Keersse,Anne-Catherine Groven,Kaat De Coster
+Bracket stage,Women's Intermediate,Bracket A,Final,Best of 3,Linde & Marie,No one’s registered yet?,Linde & Marie,21,9,21,10,,,Linde Van Wambeke,Marie Jubault,Rozi Ouali,Lien Keersse
+Bracket stage,Women's Intermediate,Bracket A,P3: Final,Best of 3,Team Rescue,LieLu,LieLu,12,15,15,17,,,Anne-Catherine Groven,Kaat De Coster,Lieze Dockx,Luna Clarysse

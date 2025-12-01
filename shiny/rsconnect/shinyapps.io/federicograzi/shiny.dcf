@@ -1,0 +1,10 @@
+name: shiny
+title:
+username: federicograzi
+account: federicograzi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15409237
+bundleId: 10888394
+url: https://federicograzi.shinyapps.io/shiny/
+version: 1

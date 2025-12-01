@@ -1,0 +1,70 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Group A,1,Single game,Political Pressure,Spiketaculars,Political Pressure,21,2,,,,,Aske Hammar,Mathias Linnet,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Group Stage,Open,Group A,1,Single game,Cillit Bang,Lucky Charms,Cillit Bang,21,10,,,,,Malte Klinkby,Jeppe Norlyk Hansen,Lasse Einspannier,Jonas Kjældgaard Pedersen
+Group Stage,Open,Group A,1,Single game,The Trickers,Lyngbye Brothers,The Trickers,21,14,,,,,Daniel Henriksen,Ruben Møberg,Erik Lyngbye,David Lyngbye
+Group Stage,Open,Group B,1,Single game,Ping Pong,Practise safe sets,Ping Pong,21,11,,,,,Christian Brødsgaard,Hjalte Knudsen,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen
+Group Stage,Open,Group B,1,Single game,WILL,Spiklæg,WILL,21,16,,,,,Søren Høy,Jakob Blaaholm Nielsen,Jonas Jensen,Magnus Bredvig
+Group Stage,Open,Group A,2,Single game,Political Pressure,Lucky Charms,Political Pressure,21,2,,,,,Aske Hammar,Mathias Linnet,Lasse Einspannier,Jonas Kjældgaard Pedersen
+Group Stage,Open,Group A,2,Single game,Cillit Bang,The Trickers,Cillit Bang,21,7,,,,,Malte Klinkby,Jeppe Norlyk Hansen,Daniel Henriksen,Ruben Møberg
+Group Stage,Open,Group A,2,Single game,Lyngbye Brothers,Spiketaculars,Lyngbye Brothers,21,11,,,,,Erik Lyngbye,David Lyngbye,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Group Stage,Open,Group B,2,Single game,Ping Pong,Spiklæg,Ping Pong,21,7,,,,,Christian Brødsgaard,Hjalte Knudsen,Jonas Jensen,Magnus Bredvig
+Group Stage,Open,Group B,2,Single game,Fandango,Practise safe sets,Fandango,21,15,,,,,Asbjørn Ditlev,Magnus Selmer,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen
+Group Stage,Open,Group A,3,Single game,Political Pressure,Lyngbye Brothers,Political Pressure,21,8,,,,,Aske Hammar,Mathias Linnet,Erik Lyngbye,David Lyngbye
+Group Stage,Open,Group A,3,Single game,Cillit Bang,Spiketaculars,Cillit Bang,21,7,,,,,Malte Klinkby,Jeppe Norlyk Hansen,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Group Stage,Open,Group A,3,Single game,The Trickers,Lucky Charms,The Trickers,21,16,,,,,Daniel Henriksen,Ruben Møberg,Lasse Einspannier,Jonas Kjældgaard Pedersen
+Group Stage,Open,Group B,3,Single game,Ping Pong,Fandango,Ping Pong,21,9,,,,,Christian Brødsgaard,Hjalte Knudsen,Asbjørn Ditlev,Magnus Selmer
+Group Stage,Open,Group B,3,Single game,WILL,Practise safe sets,WILL,21,10,,,,,Søren Høy,Jakob Blaaholm Nielsen,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen
+Group Stage,Open,Group A,4,Single game,Political Pressure,The Trickers,Political Pressure,21,10,,,,,Aske Hammar,Mathias Linnet,Daniel Henriksen,Ruben Møberg
+Group Stage,Open,Group A,4,Single game,Cillit Bang,Lyngbye Brothers,Cillit Bang,21,8,,,,,Malte Klinkby,Jeppe Norlyk Hansen,Erik Lyngbye,David Lyngbye
+Group Stage,Open,Group A,4,Single game,Lucky Charms,Spiketaculars,Lucky Charms,21,13,,,,,Lasse Einspannier,Jonas Kjældgaard Pedersen,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Group Stage,Open,Group B,4,Single game,WILL,Fandango,WILL,21,14,,,,,Søren Høy,Jakob Blaaholm Nielsen,Asbjørn Ditlev,Magnus Selmer
+Group Stage,Open,Group B,4,Single game,Spiklæg,Practise safe sets,Practise safe sets,19,21,,,,,Jonas Jensen,Magnus Bredvig,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen
+Group Stage,Open,Group A,5,Single game,Political Pressure,Cillit Bang,Political Pressure,21,15,,,,,Aske Hammar,Mathias Linnet,Malte Klinkby,Jeppe Norlyk Hansen
+Group Stage,Open,Group A,5,Single game,The Trickers,Spiketaculars,The Trickers,21,12,,,,,Daniel Henriksen,Ruben Møberg,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Group Stage,Open,Group A,5,Single game,Lyngbye Brothers,Lucky Charms,Lyngbye Brothers,21,17,,,,,Erik Lyngbye,David Lyngbye,Lasse Einspannier,Jonas Kjældgaard Pedersen
+Group Stage,Open,Group B,5,Single game,Ping Pong,WILL,Ping Pong,21,13,,,,,Christian Brødsgaard,Hjalte Knudsen,Søren Høy,Jakob Blaaholm Nielsen
+Group Stage,Open,Group B,5,Single game,Fandango,Spiklæg,Fandango,25,23,,,,,Asbjørn Ditlev,Magnus Selmer,Jonas Jensen,Magnus Bredvig
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Cillit Bang,Fandango,Cillit Bang,21,12,21,13,,,Malte Klinkby,Jeppe Norlyk Hansen,Asbjørn Ditlev,Magnus Selmer
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,WILL,The Trickers,WILL,21,16,20,22,21,16,Søren Høy,Jakob Blaaholm Nielsen,Daniel Henriksen,Ruben Møberg
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Political Pressure,WILL,WILL,20,22,21,13,11,15,Aske Hammar,Mathias Linnet,Søren Høy,Jakob Blaaholm Nielsen
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Ping Pong,Cillit Bang,Ping Pong,21,18,21,13,,,Christian Brødsgaard,Hjalte Knudsen,Malte Klinkby,Jeppe Norlyk Hansen
+Bracket Stage,Open,Bracket A,Winners final,Best of 3,WILL,Ping Pong,Ping Pong,13,21,16,21,,,Søren Høy,Jakob Blaaholm Nielsen,Christian Brødsgaard,Hjalte Knudsen
+Bracket Stage,Open,Bracket A,Final,Best of 3,Ping Pong,Cillit Bang,Ping Pong,21,14,22,20,,,Christian Brødsgaard,Hjalte Knudsen,Malte Klinkby,Jeppe Norlyk Hansen
+Bracket Stage,Open,Bracket A,Losers SF,Best of 3,Cillit Bang,The Trickers,Cillit Bang,15,12,15,13,,,Malte Klinkby,Jeppe Norlyk Hansen,Daniel Henriksen,Ruben Møberg
+Bracket Stage,Open,Bracket A,Losers SF,Best of 3,Political Pressure,Fandango,Political Pressure,15,12,15,5,,,Aske Hammar,Mathias Linnet,Asbjørn Ditlev,Magnus Selmer
+Bracket Stage,Open,Bracket A,Losers Minor Final,Best of 3,Cillit Bang,Political Pressure,Cillit Bang,21,13,1,0,,,Malte Klinkby,Jeppe Norlyk Hansen,Aske Hammar,Mathias Linnet
+Bracket Stage,Open,Bracket A,Losers Final,Best of 3,WILL,Cillit Bang,Cillit Bang,15,21,0,1,,,Søren Høy,Jakob Blaaholm Nielsen,Malte Klinkby,Jeppe Norlyk Hansen
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,The Trickers,Fandango,The Trickers,12,15,15,10,15,13,Daniel Henriksen,Ruben Møberg,Asbjørn Ditlev,Magnus Selmer
+Bracket Stage,Open,Bracket B,Quarter-final,Best of 3,Spiklæg,Spiketaculars,Spiklæg,21,15,21,10,,,Jonas Jensen,Magnus Bredvig,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Bracket Stage,Open,Bracket B,Semi-final,Best of 3,Lyngbye Brothers,Spiklæg,Lyngbye Brothers,21,18,21,15,,,Erik Lyngbye,David Lyngbye,Jonas Jensen,Magnus Bredvig
+Bracket Stage,Open,Bracket B,Semi-final,Best of 3,Lucky Charms,Practise safe sets,Lucky Charms,24,25,25,18,21,12,Lasse Einspannier,Jonas Kjældgaard Pedersen,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen
+Bracket Stage,Open,Bracket B,Winners final,Best of 3,Lyngbye Brothers,Lucky Charms,Lyngbye Brothers,21,10,21,13,,,Erik Lyngbye,David Lyngbye,Lasse Einspannier,Jonas Kjældgaard Pedersen
+Bracket Stage,Open,Bracket B,Final,Best of 3,Lyngbye Brothers,Spiklæg,Spiklæg,23,21,19,21,0,1,Erik Lyngbye,David Lyngbye,Jonas Jensen,Magnus Bredvig
+Bracket Stage,Open,Bracket B,Losers SF,Best of 3,Practise safe sets,Spiketaculars,Practise safe sets,21,6,21,14,,,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen,Mikael Kjems Byskov Andersen,Christoffer Heide Farre
+Bracket Stage,Open,Bracket B,Losers Minor Final,Best of 3,Practise safe sets,Spiklæg,Spiklæg,18,21,16,21,,,Esben Cenholt Østergaard,Ebbe Maru Storm Sørensen,Jonas Jensen,Magnus Bredvig
+Bracket Stage,Open,Bracket B,Losers Final,Best of 3,Lucky Charms,Spiklæg,Spiklæg,16,21,17,21,,,Lasse Einspannier,Jonas Kjældgaard Pedersen,Jonas Jensen,Magnus Bredvig
+Group Stage,Women's Intermediate,Group A,1,Single game,Aarhagen Aces,Spikeunite,Spikeunite,23,25,,,,,Rikke Bloch,Minna Chang Hansen,Nadia Vibenholm,Ditte Møller Gregersen
+Group Stage,Women's Intermediate,Group A,1,Single game,Chartreuse,Lund og Fjordhave,Chartreuse,21,8,,,,,Rikke Fredberg Jørgensen,Anne Kristensen,Christina Lund Nielsen,Julie Fjordhave Frederiksen
+Group Stage,Women's Intermediate,Group A,1,Single game,Slap that ass,Lay up mamalade,Slap that ass,21,8,,,,,Mie Korsholt,Filippa Linde,Josefine Kramer,Maja Liengaard
+Group Stage,Women's Intermediate,Group A,2,Single game,Aarhagen Aces,Lund og Fjordhave,Aarhagen Aces,21,8,,,,,Rikke Bloch,Minna Chang Hansen,Christina Lund Nielsen,Julie Fjordhave Frederiksen
+Group Stage,Women's Intermediate,Group A,2,Single game,Chartreuse,Slap that ass,Chartreuse,21,9,,,,,Rikke Fredberg Jørgensen,Anne Kristensen,Mie Korsholt,Filippa Linde
+Group Stage,Women's Intermediate,Group A,2,Single game,Lay up mamalade,Spikeunite,Spikeunite,4,21,,,,,Josefine Kramer,Maja Liengaard,Nadia Vibenholm,Ditte Møller Gregersen
+Group Stage,Women's Intermediate,Group A,3,Single game,Aarhagen Aces,Lay up mamalade,Aarhagen Aces,21,2,,,,,Rikke Bloch,Minna Chang Hansen,Josefine Kramer,Maja Liengaard
+Group Stage,Women's Intermediate,Group A,3,Single game,Chartreuse,Spikeunite,Spikeunite,15,21,,,,,Rikke Fredberg Jørgensen,Anne Kristensen,Nadia Vibenholm,Ditte Møller Gregersen
+Group Stage,Women's Intermediate,Group A,3,Single game,Slap that ass,Lund og Fjordhave,Lund og Fjordhave,9,21,,,,,Mie Korsholt,Filippa Linde,Christina Lund Nielsen,Julie Fjordhave Frederiksen
+Group Stage,Women's Intermediate,Group A,4,Single game,Aarhagen Aces,Slap that ass,Aarhagen Aces,21,6,,,,,Rikke Bloch,Minna Chang Hansen,Mie Korsholt,Filippa Linde
+Group Stage,Women's Intermediate,Group A,4,Single game,Chartreuse,Lay up mamalade,Chartreuse,21,4,,,,,Rikke Fredberg Jørgensen,Anne Kristensen,Josefine Kramer,Maja Liengaard
+Group Stage,Women's Intermediate,Group A,4,Single game,Lund og Fjordhave,Spikeunite,Lund og Fjordhave,21,17,,,,,Christina Lund Nielsen,Julie Fjordhave Frederiksen,Nadia Vibenholm,Ditte Møller Gregersen
+Group Stage,Women's Intermediate,Group A,5,Single game,Aarhagen Aces,Chartreuse,Aarhagen Aces,21,6,,,,,Rikke Bloch,Minna Chang Hansen,Rikke Fredberg Jørgensen,Anne Kristensen
+Group Stage,Women's Intermediate,Group A,5,Single game,Slap that ass,Spikeunite,Spikeunite,19,21,,,,,Mie Korsholt,Filippa Linde,Nadia Vibenholm,Ditte Møller Gregersen
+Group Stage,Women's Intermediate,Group A,5,Single game,Lay up mamalade,Lund og Fjordhave,Lund og Fjordhave,6,21,,,,,Josefine Kramer,Maja Liengaard,Christina Lund Nielsen,Julie Fjordhave Frederiksen
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Chartreuse,Lay up mamalade,Chartreuse,21,8,21,4,,,Rikke Fredberg Jørgensen,Anne Kristensen,Josefine Kramer,Maja Liengaard
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Lund og Fjordhave,Slap that ass,Lund og Fjordhave,21,17,21,19,,,Christina Lund Nielsen,Julie Fjordhave Frederiksen,Mie Korsholt,Filippa Linde
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Aarhagen Aces,Lund og Fjordhave,Aarhagen Aces,21,15,21,12,,,Rikke Bloch,Minna Chang Hansen,Christina Lund Nielsen,Julie Fjordhave Frederiksen
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Spikeunite,Chartreuse,Spikeunite,21,15,21,10,,,Nadia Vibenholm,Ditte Møller Gregersen,Rikke Fredberg Jørgensen,Anne Kristensen
+Bracket Stage,Women's Intermediate,Bracket A,Winners final,Best of 3,Aarhagen Aces,Spikeunite,Aarhagen Aces,22,20,21,19,,,Rikke Bloch,Minna Chang Hansen,Nadia Vibenholm,Ditte Møller Gregersen
+Bracket Stage,Women's Intermediate,Bracket A,Final,Best of 3,Aarhagen Aces,Spikeunite,Aarhagen Aces,21,16,21,15,,,Rikke Bloch,Minna Chang Hansen,Nadia Vibenholm,Ditte Møller Gregersen
+Bracket Stage,Women's Intermediate,Bracket A,Losers SF,Best of 3,Chartreuse,Slap that ass,Chartreuse,21,17,21,14,,,Rikke Fredberg Jørgensen,Anne Kristensen,Mie Korsholt,Filippa Linde
+Bracket Stage,Women's Intermediate,Bracket A,Losers SF,Best of 3,Lund og Fjordhave,Lay up mamalade,Lund og Fjordhave,21,6,21,14,,,Christina Lund Nielsen,Julie Fjordhave Frederiksen,Josefine Kramer,Maja Liengaard
+Bracket Stage,Women's Intermediate,Bracket A,Losers Minor Final,Best of 3,Chartreuse,Lund og Fjordhave,Chartreuse,21,9,1,0,,,Rikke Fredberg Jørgensen,Anne Kristensen,Christina Lund Nielsen,Julie Fjordhave Frederiksen
+Bracket Stage,Women's Intermediate,Bracket A,Losers Final,Best of 3,Spikeunite,Chartreuse,Spikeunite,21,14,1,0,,,Nadia Vibenholm,Ditte Møller Gregersen,Rikke Fredberg Jørgensen,Anne Kristensen

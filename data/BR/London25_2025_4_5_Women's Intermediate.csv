@@ -1,0 +1,83 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Open,Group A,1,Single game,Devon & Harshil,The Accafellas,Devon & Harshil,15,8,,,,,Harshil Shah,Devon Lee,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,1,Single game,How I set your mother,Roundnet 3:16,How I set your mother,15,10,,,,,Jamie Douglas,Tyler Hansen,Lewis Lennon,Alex Capp
+Pool Play,Open,Group A,1,Single game,Laurel and Hardy,Project Blackledge,Project Blackledge,13,15,,,,,Faisal Sayyed,Harvey Jackson,Joe Kerridge,Joshua Mercer
+Pool Play,Open,Group A,2,Single game,Be Gentle,The Accafellas,The Accafellas,12,15,,,,,Jamie Wildgen,Ben Andrews,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,2,Single game,Devon & Harshil,Project Blackledge,Devon & Harshil,15,9,,,,,Harshil Shah,Devon Lee,Joe Kerridge,Joshua Mercer
+Pool Play,Open,Group A,2,Single game,How I set your mother,Pawel/trevor,Pawel/trevor,9,15,,,,,Jamie Douglas,Tyler Hansen,Trevor Cook,Pawel Ambrozej
+Pool Play,Open,Group A,3,Single game,Be Gentle,Roundnet 3:16,Roundnet 3:16,9,15,,,,,Jamie Wildgen,Ben Andrews,Lewis Lennon,Alex Capp
+Pool Play,Open,Group A,3,Single game,How I set your mother,Laurel and Hardy,Laurel and Hardy,10,15,,,,,Jamie Douglas,Tyler Hansen,Faisal Sayyed,Harvey Jackson
+Pool Play,Open,Group A,3,Single game,Project Blackledge,The Accafellas,Project Blackledge,15,13,,,,,Joe Kerridge,Joshua Mercer,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,4,Single game,Be Gentle,Project Blackledge,Project Blackledge,8,15,,,,,Jamie Wildgen,Ben Andrews,Joe Kerridge,Joshua Mercer
+Pool Play,Open,Group A,4,Single game,Devon & Harshil,How I set your mother,Devon & Harshil,15,13,,,,,Harshil Shah,Devon Lee,Jamie Douglas,Tyler Hansen
+Pool Play,Open,Group A,4,Single game,Pawel/trevor,Roundnet 3:16,Pawel/trevor,15,12,,,,,Trevor Cook,Pawel Ambrozej,Lewis Lennon,Alex Capp
+Pool Play,Open,Group A,5,Single game,Be Gentle,Pawel/trevor,Pawel/trevor,5,15,,,,,Jamie Wildgen,Ben Andrews,Trevor Cook,Pawel Ambrozej
+Pool Play,Open,Group A,5,Single game,Devon & Harshil,The Maple Stars,Devon & Harshil,15,10,,,,,Harshil Shah,Devon Lee,Siddhartha Datta,David Rowlands
+Pool Play,Open,Group A,5,Single game,How I set your mother,The Accafellas,How I set your mother,15,10,,,,,Jamie Douglas,Tyler Hansen,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,5,Single game,Laurel and Hardy,Roundnet 3:16,Laurel and Hardy,15,13,,,,,Faisal Sayyed,Harvey Jackson,Lewis Lennon,Alex Capp
+Pool Play,Open,Group A,6,Single game,Devon & Harshil,Roundnet 3:16,Roundnet 3:16,13,15,,,,,Harshil Shah,Devon Lee,Lewis Lennon,Alex Capp
+Pool Play,Open,Group A,6,Single game,How I set your mother,Project Blackledge,Project Blackledge,11,15,,,,,Jamie Douglas,Tyler Hansen,Joe Kerridge,Joshua Mercer
+Pool Play,Open,Group A,6,Single game,Laurel and Hardy,Pawel/trevor,Laurel and Hardy,15,12,,,,,Faisal Sayyed,Harvey Jackson,Trevor Cook,Pawel Ambrozej
+Pool Play,Open,Group A,6,Single game,The Accafellas,The Maple Stars,The Maple Stars,5,15,,,,,George Simpson,Conor Schmidt,Siddhartha Datta,David Rowlands
+Pool Play,Open,Group A,7,Single game,Be Gentle,Laurel and Hardy,Laurel and Hardy,1,15,,,,,Jamie Wildgen,Ben Andrews,Faisal Sayyed,Harvey Jackson
+Pool Play,Open,Group A,7,Single game,Devon & Harshil,Pawel/trevor,Pawel/trevor,14,16,,,,,Harshil Shah,Devon Lee,Trevor Cook,Pawel Ambrozej
+Pool Play,Open,Group A,7,Single game,Project Blackledge,The Maple Stars,Project Blackledge,15,13,,,,,Joe Kerridge,Joshua Mercer,Siddhartha Datta,David Rowlands
+Pool Play,Open,Group A,7,Single game,Roundnet 3:16,The Accafellas,The Accafellas,13,15,,,,,Lewis Lennon,Alex Capp,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,8,Single game,Be Gentle,How I set your mother,How I set your mother,13,15,,,,,Jamie Wildgen,Ben Andrews,Jamie Douglas,Tyler Hansen
+Pool Play,Open,Group A,8,Single game,Devon & Harshil,Laurel and Hardy,Laurel and Hardy,6,15,,,,,Harshil Shah,Devon Lee,Faisal Sayyed,Harvey Jackson
+Pool Play,Open,Group A,8,Single game,Pawel/trevor,The Accafellas,Pawel/trevor,15,9,,,,,Trevor Cook,Pawel Ambrozej,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,8,Single game,Project Blackledge,Roundnet 3:16,Project Blackledge,15,6,,,,,Joe Kerridge,Joshua Mercer,Lewis Lennon,Alex Capp
+Pool Play,Open,Group A,9,Single game,Be Gentle,Devon & Harshil,Devon & Harshil,7,15,,,,,Jamie Wildgen,Ben Andrews,Harshil Shah,Devon Lee
+Pool Play,Open,Group A,9,Single game,How I set your mother,The Maple Stars,The Maple Stars,12,15,,,,,Jamie Douglas,Tyler Hansen,Siddhartha Datta,David Rowlands
+Pool Play,Open,Group A,9,Single game,Laurel and Hardy,The Accafellas,Laurel and Hardy,15,8,,,,,Faisal Sayyed,Harvey Jackson,George Simpson,Conor Schmidt
+Pool Play,Open,Group A,9,Single game,Pawel/trevor,Project Blackledge,Project Blackledge,12,15,,,,,Trevor Cook,Pawel Ambrozej,Joe Kerridge,Joshua Mercer
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,The Accafellas,Be Gentle,Be Gentle,18,20,10,15,,,George Simpson,Conor Schmidt,Jamie Wildgen,Ben Andrews
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Laurel and Hardy,Be Gentle,Laurel and Hardy,1,0,1,0,,,Faisal Sayyed,Harvey Jackson,Jamie Wildgen,Ben Andrews
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Project Blackledge,The Maple Stars,Project Blackledge,15,10,15,13,,,Joe Kerridge,Joshua Mercer,Siddhartha Datta,David Rowlands
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Pawel/trevor,Roundnet 3:16,Pawel/trevor,15,12,15,9,,,Trevor Cook,Pawel Ambrozej,Lewis Lennon,Alex Capp
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Devon & Harshil,How I set your mother,Devon & Harshil,15,8,15,11,,,Harshil Shah,Devon Lee,Jamie Douglas,Tyler Hansen
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Laurel and Hardy,Devon & Harshil,Devon & Harshil,1,0,0,1,0,1,Faisal Sayyed,Harvey Jackson,Harshil Shah,Devon Lee
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Project Blackledge,Pawel/trevor,Pawel/trevor,12,21,21,18,19,21,Joe Kerridge,Joshua Mercer,Trevor Cook,Pawel Ambrozej
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,How I set your mother,Be Gentle,How I set your mother,2,1,1,2,2,1,Jamie Douglas,Tyler Hansen,Jamie Wildgen,Ben Andrews
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,Roundnet 3:16,The Maple Stars,The Maple Stars,16,21,,,,,Lewis Lennon,Alex Capp,Siddhartha Datta,David Rowlands
+Bracket Stage,Open,Bracket A,Final,Best of 3,Devon & Harshil,Pawel/trevor,Pawel/trevor,23,21,19,21,19,21,Harshil Shah,Devon Lee,Trevor Cook,Pawel Ambrozej
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,Project Blackledge,Laurel and Hardy,,15,21,0,0,0,0,Joe Kerridge,Joshua Mercer,Faisal Sayyed,Harvey Jackson
+Bracket Stage,Open,Bracket A,P5: Final,Single game,How I set your mother,The Maple Stars,The Maple Stars,1,2,2,1,1,2,Jamie Douglas,Tyler Hansen,Siddhartha Datta,David Rowlands
+Pool Play,Gardens,Group A,1,Single game,Claire & Priya,Sets on the beach,Sets on the beach,1,21,,,,,Claire Lominick,Priya Bagga,Santiago Granda Rico,Samuel Mundi
+Pool Play,Gardens,Group A,1,Single game,Here for the Empenadas,The sigmas,Here for the Empenadas,21,10,,,,,Benjamin  Tyte,Cameron Anderson,Alessandro Antonini,Tommy Engana
+Pool Play,Gardens,Group A,1,Single game,Polly Pockets,Gunners,Gunners,10,21,,,,,Natalia Arendarczyk,Madhu Gaikwad,Santiago Paz,Gonza Sabaino
+Pool Play,Gardens,Group A,2,Single game,Claire & Priya,The sigmas,The sigmas,16,21,,,,,Claire Lominick,Priya Bagga,Alessandro Antonini,Tommy Engana
+Pool Play,Gardens,Group A,2,Single game,Here for the Empenadas,Polly Pockets,Here for the Empenadas,21,7,,,,,Benjamin  Tyte,Cameron Anderson,Natalia Arendarczyk,Madhu Gaikwad
+Pool Play,Gardens,Group A,2,Single game,Gunners,Sets on the beach,Sets on the beach,9,21,,,,,Santiago Paz,Gonza Sabaino,Santiago Granda Rico,Samuel Mundi
+Pool Play,Gardens,Group A,3,Single game,Claire & Priya,Gunners,Gunners,7,21,,,,,Claire Lominick,Priya Bagga,Santiago Paz,Gonza Sabaino
+Pool Play,Gardens,Group A,3,Single game,Here for the Empenadas,Sets on the beach,Sets on the beach,10,21,,,,,Benjamin  Tyte,Cameron Anderson,Santiago Granda Rico,Samuel Mundi
+Pool Play,Gardens,Group A,3,Single game,Polly Pockets,The sigmas,Polly Pockets,21,14,,,,,Natalia Arendarczyk,Madhu Gaikwad,Alessandro Antonini,Tommy Engana
+Pool Play,Gardens,Group A,4,Single game,Claire & Priya,Polly Pockets,Polly Pockets,16,21,,,,,Claire Lominick,Priya Bagga,Natalia Arendarczyk,Madhu Gaikwad
+Pool Play,Gardens,Group A,4,Single game,Here for the Empenadas,Gunners,Here for the Empenadas,21,14,,,,,Benjamin  Tyte,Cameron Anderson,Santiago Paz,Gonza Sabaino
+Pool Play,Gardens,Group A,4,Single game,The sigmas,Sets on the beach,Sets on the beach,12,21,,,,,Alessandro Antonini,Tommy Engana,Santiago Granda Rico,Samuel Mundi
+Pool Play,Gardens,Group A,5,Single game,Claire & Priya,Here for the Empenadas,Here for the Empenadas,11,21,,,,,Claire Lominick,Priya Bagga,Benjamin  Tyte,Cameron Anderson
+Pool Play,Gardens,Group A,5,Single game,Polly Pockets,Sets on the beach,Sets on the beach,12,21,,,,,Natalia Arendarczyk,Madhu Gaikwad,Santiago Granda Rico,Samuel Mundi
+Pool Play,Gardens,Group A,5,Single game,Gunners,The sigmas,Gunners,21,10,,,,,Santiago Paz,Gonza Sabaino,Alessandro Antonini,Tommy Engana
+Bracket Stage,Gardens,Bracket A,Quarter-final,Best of 3,Gunners,Claire & Priya,Gunners,15,10,16,14,,,Santiago Paz,Gonza Sabaino,Claire Lominick,Priya Bagga
+Bracket Stage,Gardens,Bracket A,Quarter-final,Best of 3,Polly Pockets,The sigmas,The sigmas,14,16,12,15,,,Natalia Arendarczyk,Madhu Gaikwad,Alessandro Antonini,Tommy Engana
+Bracket Stage,Gardens,Bracket A,Semi-final,Best of 3,Sets on the beach,The sigmas,Sets on the beach,15,6,15,7,,,Santiago Granda Rico,Samuel Mundi,Alessandro Antonini,Tommy Engana
+Bracket Stage,Gardens,Bracket A,Semi-final,Best of 3,Here for the Empenadas,Gunners,Here for the Empenadas,15,13,15,9,,,Benjamin  Tyte,Cameron Anderson,Santiago Paz,Gonza Sabaino
+Bracket Stage,Gardens,Bracket A,Final,Best of 3,Sets on the beach,Here for the Empenadas,Sets on the beach,21,11,24,22,,,Santiago Granda Rico,Samuel Mundi,Benjamin  Tyte,Cameron Anderson
+Bracket Stage,Gardens,Bracket A,P3: Final,Best of 3,Gunners,The sigmas,Gunners,15,2,15,10,,,Santiago Paz,Gonza Sabaino,Alessandro Antonini,Tommy Engana
+Bracket Stage,Gardens,Bracket A,P5: Final,Best of 3,Polly Pockets,Claire & Priya,Polly Pockets,16,14,5,15,15,5,Natalia Arendarczyk,Madhu Gaikwad,Claire Lominick,Priya Bagga
+Pool Play,Women's Intermediate,Group A,1,Single game,Soz not soz,Spikeopaths,Soz not soz,21,14,,,,,Priyal Haria,Nicole Fatt,Anita Sivakumar,Fleur Owen
+Pool Play,Women's Intermediate,Group A,1,Single game,Sofphisticated 👩‍✈️,Smiling Assassins,Smiling Assassins,13,21,,,,,Sophie Cooke,Sofina Suhaimi,Abbey Capp,Tereza Caltová
+Pool Play,Women's Intermediate,Group A,2,Single game,Soz not soz,Smiling Assassins,Soz not soz,21,13,,,,,Priyal Haria,Nicole Fatt,Abbey Capp,Tereza Caltová
+Pool Play,Women's Intermediate,Group A,2,Single game,Sofphisticated 👩‍✈️,Spikeopaths,Sofphisticated 👩‍✈️,21,14,,,,,Sophie Cooke,Sofina Suhaimi,Anita Sivakumar,Fleur Owen
+Pool Play,Women's Intermediate,Group A,3,Single game,Soz not soz,Sofphisticated 👩‍✈️,Soz not soz,21,16,,,,,Priyal Haria,Nicole Fatt,Sophie Cooke,Sofina Suhaimi
+Pool Play,Women's Intermediate,Group A,3,Single game,Smiling Assassins,Spikeopaths,Smiling Assassins,21,13,,,,,Abbey Capp,Tereza Caltová,Anita Sivakumar,Fleur Owen
+Pool Play,Women's Intermediate,Group A,4,Single game,Soz not soz,Spikeopaths,Soz not soz,21,17,,,,,Priyal Haria,Nicole Fatt,Anita Sivakumar,Fleur Owen
+Pool Play,Women's Intermediate,Group A,4,Single game,Sofphisticated 👩‍✈️,Smiling Assassins,Smiling Assassins,19,21,,,,,Sophie Cooke,Sofina Suhaimi,Abbey Capp,Tereza Caltová
+Pool Play,Women's Intermediate,Group A,5,Single game,Soz not soz,Smiling Assassins,Soz not soz,21,18,,,,,Priyal Haria,Nicole Fatt,Abbey Capp,Tereza Caltová
+Pool Play,Women's Intermediate,Group A,5,Single game,Sofphisticated 👩‍✈️,Spikeopaths,Sofphisticated 👩‍✈️,21,9,,,,,Sophie Cooke,Sofina Suhaimi,Anita Sivakumar,Fleur Owen
+Pool Play,Women's Intermediate,Group A,6,Single game,Soz not soz,Sofphisticated 👩‍✈️,Soz not soz,21,19,,,,,Priyal Haria,Nicole Fatt,Sophie Cooke,Sofina Suhaimi
+Pool Play,Women's Intermediate,Group A,6,Single game,Smiling Assassins,Spikeopaths,Smiling Assassins,21,9,,,,,Abbey Capp,Tereza Caltová,Anita Sivakumar,Fleur Owen
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Single game,Soz not soz,Spikeopaths,Soz not soz,2,0,2,0,,,Priyal Haria,Nicole Fatt,Anita Sivakumar,Fleur Owen
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Single game,Smiling Assassins,Sofphisticated 👩‍✈️,Sofphisticated 👩‍✈️,0,2,0,2,,,Abbey Capp,Tereza Caltová,Sophie Cooke,Sofina Suhaimi
+Bracket Stage,Women's Intermediate,Bracket A,Final,Single game,Soz not soz,Sofphisticated 👩‍✈️,Sofphisticated 👩‍✈️,0,2,0,2,,,Priyal Haria,Nicole Fatt,Sophie Cooke,Sofina Suhaimi
+Bracket Stage,Women's Intermediate,Bracket A,P3: Final,Single game,Smiling Assassins,Spikeopaths,Smiling Assassins,2,0,2,0,,,Abbey Capp,Tereza Caltová,Anita Sivakumar,Fleur Owen

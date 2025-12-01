@@ -1,0 +1,281 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Pro,Group A,1,Single game,SHK Silky Mitts,SENSEI,SHK Silky Mitts,21,18,,,,,Jaroslav Čabala,Dominik Hataš,Ugnius Lekecinskas,Mindaugas Butkus
+Group Stage,Open Pro,Group A,1,Single game,Underdogs,Cobra Spike,Cobra Spike,10,21,,,,,Faisal Sayyed,Sebi Mezzey,Samuel Mjönes,Herman Henström
+Group Stage,Open Pro,Group B,1,Single game,CZEch mATe !?,Mallton & Biggman,CZEch mATe !?,22,20,,,,,Jakub Víšek,David Jindra,Edvin Baggman,Felix Millton
+Group Stage,Open Pro,Group B,1,Single game,RCG Allrounder,HALO,RCG Allrounder,21,18,,,,,Tom Eynard,Gabriel Stoisser,Mikus Jaunpetrovičs,Aleksandrs Juška
+Group Stage,Open Pro,Group A,2,Single game,SHK Silky Mitts,Cobra Spike,Cobra Spike,18,21,,,,,Jaroslav Čabala,Dominik Hataš,Samuel Mjönes,Herman Henström
+Group Stage,Open Pro,Group A,2,Single game,Underdogs,SENSEI,SENSEI,18,21,,,,,Faisal Sayyed,Sebi Mezzey,Ugnius Lekecinskas,Mindaugas Butkus
+Group Stage,Open Pro,Group B,2,Single game,CZEch mATe !?,HALO,HALO,19,21,,,,,Jakub Víšek,David Jindra,Mikus Jaunpetrovičs,Aleksandrs Juška
+Group Stage,Open Pro,Group B,2,Single game,RCG Allrounder,Mallton & Biggman,RCG Allrounder,21,13,,,,,Tom Eynard,Gabriel Stoisser,Edvin Baggman,Felix Millton
+Group Stage,Open Pro,Group A,3,Single game,SHK Silky Mitts,Underdogs,SHK Silky Mitts,21,16,,,,,Jaroslav Čabala,Dominik Hataš,Faisal Sayyed,Sebi Mezzey
+Group Stage,Open Pro,Group A,3,Single game,Cobra Spike,SENSEI,Cobra Spike,21,17,,,,,Samuel Mjönes,Herman Henström,Ugnius Lekecinskas,Mindaugas Butkus
+Group Stage,Open Pro,Group B,3,Single game,CZEch mATe !?,RCG Allrounder,RCG Allrounder,11,21,,,,,Jakub Víšek,David Jindra,Tom Eynard,Gabriel Stoisser
+Group Stage,Open Pro,Group B,3,Single game,HALO,Mallton & Biggman,HALO,21,15,,,,,Mikus Jaunpetrovičs,Aleksandrs Juška,Edvin Baggman,Felix Millton
+Group Stage,Open Pro,Group A,4,Single game,SHK Silky Mitts,SENSEI,SHK Silky Mitts,21,10,,,,,Jaroslav Čabala,Dominik Hataš,Ugnius Lekecinskas,Mindaugas Butkus
+Group Stage,Open Pro,Group A,4,Single game,Underdogs,Cobra Spike,Cobra Spike,18,21,,,,,Faisal Sayyed,Sebi Mezzey,Samuel Mjönes,Herman Henström
+Group Stage,Open Pro,Group B,4,Single game,CZEch mATe !?,Mallton & Biggman,CZEch mATe !?,21,17,,,,,Jakub Víšek,David Jindra,Edvin Baggman,Felix Millton
+Group Stage,Open Pro,Group B,4,Single game,RCG Allrounder,HALO,RCG Allrounder,21,19,,,,,Tom Eynard,Gabriel Stoisser,Mikus Jaunpetrovičs,Aleksandrs Juška
+Group Stage,Open Pro,Group A,5,Single game,SHK Silky Mitts,Cobra Spike,SHK Silky Mitts,21,16,,,,,Jaroslav Čabala,Dominik Hataš,Samuel Mjönes,Herman Henström
+Group Stage,Open Pro,Group A,5,Single game,Underdogs,SENSEI,Underdogs,24,22,,,,,Faisal Sayyed,Sebi Mezzey,Ugnius Lekecinskas,Mindaugas Butkus
+Group Stage,Open Pro,Group B,5,Single game,CZEch mATe !?,HALO,CZEch mATe !?,21,16,,,,,Jakub Víšek,David Jindra,Mikus Jaunpetrovičs,Aleksandrs Juška
+Group Stage,Open Pro,Group B,5,Single game,RCG Allrounder,Mallton & Biggman,Mallton & Biggman,19,21,,,,,Tom Eynard,Gabriel Stoisser,Edvin Baggman,Felix Millton
+Group Stage,Open Pro,Group A,6,Single game,SHK Silky Mitts,Underdogs,SHK Silky Mitts,21,16,,,,,Jaroslav Čabala,Dominik Hataš,Faisal Sayyed,Sebi Mezzey
+Group Stage,Open Pro,Group A,6,Single game,Cobra Spike,SENSEI,Cobra Spike,21,14,,,,,Samuel Mjönes,Herman Henström,Ugnius Lekecinskas,Mindaugas Butkus
+Group Stage,Open Pro,Group B,6,Single game,CZEch mATe !?,RCG Allrounder,RCG Allrounder,16,21,,,,,Jakub Víšek,David Jindra,Tom Eynard,Gabriel Stoisser
+Group Stage,Open Pro,Group B,6,Single game,HALO,Mallton & Biggman,HALO,21,19,,,,,Mikus Jaunpetrovičs,Aleksandrs Juška,Edvin Baggman,Felix Millton
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,SHK Silky Mitts,Mallton & Biggman,SHK Silky Mitts,21,16,23,21,,,Jaroslav Čabala,Dominik Hataš,Edvin Baggman,Felix Millton
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,RCG Allrounder,Underdogs,RCG Allrounder,25,23,21,13,,,Tom Eynard,Gabriel Stoisser,Faisal Sayyed,Sebi Mezzey
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Cobra Spike,CZEch mATe !?,CZEch mATe !?,19,21,20,22,,,Samuel Mjönes,Herman Henström,Jakub Víšek,David Jindra
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,HALO,SENSEI,HALO,25,24,21,23,21,15,Mikus Jaunpetrovičs,Aleksandrs Juška,Ugnius Lekecinskas,Mindaugas Butkus
+Bracket Stage,Open Pro,Bracket A,Semi-final,Best of 3,SHK Silky Mitts,HALO,HALO,19,21,21,11,19,21,Jaroslav Čabala,Dominik Hataš,Mikus Jaunpetrovičs,Aleksandrs Juška
+Bracket Stage,Open Pro,Bracket A,Semi-final,Best of 3,RCG Allrounder,CZEch mATe !?,RCG Allrounder,18,21,21,18,27,25,Tom Eynard,Gabriel Stoisser,Jakub Víšek,David Jindra
+Bracket Stage,Open Pro,Bracket A,P5: Semi-final,Best of 3,SENSEI,Mallton & Biggman,Mallton & Biggman,14,16,12,15,,,Ugnius Lekecinskas,Mindaugas Butkus,Edvin Baggman,Felix Millton
+Bracket Stage,Open Pro,Bracket A,P5: Semi-final,Best of 3,Cobra Spike,Underdogs,Cobra Spike,21,17,21,17,,,Samuel Mjönes,Herman Henström,Faisal Sayyed,Sebi Mezzey
+Bracket Stage,Open Pro,Bracket A,Final,Best of 3,HALO,RCG Allrounder,RCG Allrounder,16,21,16,21,,,Mikus Jaunpetrovičs,Aleksandrs Juška,Tom Eynard,Gabriel Stoisser
+Bracket Stage,Open Pro,Bracket A,P3: Final,Best of 3,CZEch mATe !?,SHK Silky Mitts,CZEch mATe !?,19,21,21,18,21,18,Jakub Víšek,David Jindra,Jaroslav Čabala,Dominik Hataš
+Bracket Stage,Open Pro,Bracket A,P5: Final,Best of 3,Mallton & Biggman,Cobra Spike,Cobra Spike,13,15,13,15,,,Edvin Baggman,Felix Millton,Samuel Mjönes,Herman Henström
+Group Stage,Women's Contender,Group A,1,Single game,Schlagbaum,WS OJAKATA,Schlagbaum,21,1,,,,,Lauma Ernestsone,Anna Hillemann,Agata Kuta,Julia Zając
+Group Stage,Women's Contender,Group A,1,Single game,Golden Spikers,Net Ninjas,Golden Spikers,21,10,,,,,Karoliina Kallion,Kristi Männamets,Helen Kossas,Elis-helen Starkopf
+Group Stage,Women's Contender,Group B,1,Single game,Roundabout Rallies,WS Kąski,Roundabout Rallies,21,7,,,,,Rebecca Mollberg,Hanna Westerland,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group B,1,Single game,Brownie Busters,FAKE,Brownie Busters,21,5,,,,,Jessica Borgers,Tereza Caltová,Viktorija Bendikaitė,Dovilė Poškutė
+Group Stage,Women's Contender,Group C,1,Single game,Block'n'roll,Vamos,Block'n'roll,21,10,,,,,Emmy Dahlquist,Linnea Hedman,Raminta Augustėnaitė,Laura Trečiokaitė
+Group Stage,Women's Contender,Group C,1,Single game,Once per year,SESTA,Once per year,21,13,,,,,Clara Kiesselbach,Elina Auzane,Migle Serelyte,Kamilė Šerelytė
+Group Stage,Women's Contender,Group D,1,Single game,lil drop,Spike Tyson,lil drop,21,12,,,,,Lelde Rogoļeva,Arta Naumane,Liisbeth Laasik,Getter Põru
+Group Stage,Women's Contender,Group D,1,Single game,Elli/Karro,SPQUE,Elli/Karro,21,6,,,,,Ellinor Gustavsson,Karolina Hugosson,Barbora Čeponytė,Kamilė Tizinauskaitė
+Group Stage,Women's Contender,Group A,2,Single game,Schlagbaum,Net Ninjas,Schlagbaum,21,6,,,,,Lauma Ernestsone,Anna Hillemann,Helen Kossas,Elis-helen Starkopf
+Group Stage,Women's Contender,Group A,2,Single game,Golden Spikers,WS OJAKATA,Golden Spikers,21,7,,,,,Karoliina Kallion,Kristi Männamets,Agata Kuta,Julia Zając
+Group Stage,Women's Contender,Group B,2,Single game,Roundabout Rallies,FAKE,Roundabout Rallies,21,7,,,,,Rebecca Mollberg,Hanna Westerland,Viktorija Bendikaitė,Dovilė Poškutė
+Group Stage,Women's Contender,Group B,2,Single game,Brownie Busters,WS Kąski,Brownie Busters,21,9,,,,,Jessica Borgers,Tereza Caltová,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group C,2,Single game,Block'n'roll,SESTA,Block'n'roll,21,4,,,,,Emmy Dahlquist,Linnea Hedman,Migle Serelyte,Kamilė Šerelytė
+Group Stage,Women's Contender,Group C,2,Single game,Once per year,Vamos,Once per year,21,14,,,,,Clara Kiesselbach,Elina Auzane,Raminta Augustėnaitė,Laura Trečiokaitė
+Group Stage,Women's Contender,Group D,2,Single game,lil drop,SPQUE,lil drop,21,6,,,,,Lelde Rogoļeva,Arta Naumane,Barbora Čeponytė,Kamilė Tizinauskaitė
+Group Stage,Women's Contender,Group D,2,Single game,Elli/Karro,Spike Tyson,Elli/Karro,21,8,,,,,Ellinor Gustavsson,Karolina Hugosson,Liisbeth Laasik,Getter Põru
+Group Stage,Women's Contender,Group A,3,Single game,Schlagbaum,Golden Spikers,Schlagbaum,21,9,,,,,Lauma Ernestsone,Anna Hillemann,Karoliina Kallion,Kristi Männamets
+Group Stage,Women's Contender,Group A,3,Single game,Net Ninjas,WS OJAKATA,Net Ninjas,21,14,,,,,Helen Kossas,Elis-helen Starkopf,Agata Kuta,Julia Zając
+Group Stage,Women's Contender,Group B,3,Single game,Roundabout Rallies,Brownie Busters,Roundabout Rallies,21,16,,,,,Rebecca Mollberg,Hanna Westerland,Jessica Borgers,Tereza Caltová
+Group Stage,Women's Contender,Group B,3,Single game,FAKE,WS Kąski,WS Kąski,11,21,,,,,Viktorija Bendikaitė,Dovilė Poškutė,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group C,3,Single game,Block'n'roll,Once per year,Block'n'roll,21,12,,,,,Emmy Dahlquist,Linnea Hedman,Clara Kiesselbach,Elina Auzane
+Group Stage,Women's Contender,Group C,3,Single game,SESTA,Vamos,Vamos,24,25,,,,,Migle Serelyte,Kamilė Šerelytė,Raminta Augustėnaitė,Laura Trečiokaitė
+Group Stage,Women's Contender,Group D,3,Single game,lil drop,Elli/Karro,Elli/Karro,18,21,,,,,Lelde Rogoļeva,Arta Naumane,Ellinor Gustavsson,Karolina Hugosson
+Group Stage,Women's Contender,Group D,3,Single game,SPQUE,Spike Tyson,Spike Tyson,16,21,,,,,Barbora Čeponytė,Kamilė Tizinauskaitė,Liisbeth Laasik,Getter Põru
+Group Stage,Women's Contender,Group A,4,Single game,Schlagbaum,WS OJAKATA,Schlagbaum,21,4,,,,,Lauma Ernestsone,Anna Hillemann,Agata Kuta,Julia Zając
+Group Stage,Women's Contender,Group A,4,Single game,Golden Spikers,Net Ninjas,Golden Spikers,21,7,,,,,Karoliina Kallion,Kristi Männamets,Helen Kossas,Elis-helen Starkopf
+Group Stage,Women's Contender,Group B,4,Single game,Roundabout Rallies,WS Kąski,Roundabout Rallies,21,8,,,,,Rebecca Mollberg,Hanna Westerland,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group B,4,Single game,Brownie Busters,FAKE,Brownie Busters,21,4,,,,,Jessica Borgers,Tereza Caltová,Viktorija Bendikaitė,Dovilė Poškutė
+Group Stage,Women's Contender,Group C,4,Single game,Block'n'roll,Vamos,Block'n'roll,21,5,,,,,Emmy Dahlquist,Linnea Hedman,Raminta Augustėnaitė,Laura Trečiokaitė
+Group Stage,Women's Contender,Group C,4,Single game,Once per year,SESTA,Once per year,21,10,,,,,Clara Kiesselbach,Elina Auzane,Migle Serelyte,Kamilė Šerelytė
+Group Stage,Women's Contender,Group D,4,Single game,lil drop,Spike Tyson,lil drop,21,15,,,,,Lelde Rogoļeva,Arta Naumane,Liisbeth Laasik,Getter Põru
+Group Stage,Women's Contender,Group D,4,Single game,Elli/Karro,SPQUE,Elli/Karro,21,5,,,,,Ellinor Gustavsson,Karolina Hugosson,Barbora Čeponytė,Kamilė Tizinauskaitė
+Group Stage,Women's Contender,Group A,5,Single game,Schlagbaum,Net Ninjas,Schlagbaum,21,7,,,,,Lauma Ernestsone,Anna Hillemann,Helen Kossas,Elis-helen Starkopf
+Group Stage,Women's Contender,Group A,5,Single game,Golden Spikers,WS OJAKATA,Golden Spikers,21,7,,,,,Karoliina Kallion,Kristi Männamets,Agata Kuta,Julia Zając
+Group Stage,Women's Contender,Group B,5,Single game,Roundabout Rallies,FAKE,Roundabout Rallies,21,1,,,,,Rebecca Mollberg,Hanna Westerland,Viktorija Bendikaitė,Dovilė Poškutė
+Group Stage,Women's Contender,Group B,5,Single game,Brownie Busters,WS Kąski,Brownie Busters,21,13,,,,,Jessica Borgers,Tereza Caltová,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group C,5,Single game,Block'n'roll,SESTA,Block'n'roll,21,12,,,,,Emmy Dahlquist,Linnea Hedman,Migle Serelyte,Kamilė Šerelytė
+Group Stage,Women's Contender,Group C,5,Single game,Once per year,Vamos,Once per year,21,12,,,,,Clara Kiesselbach,Elina Auzane,Raminta Augustėnaitė,Laura Trečiokaitė
+Group Stage,Women's Contender,Group D,5,Single game,lil drop,SPQUE,lil drop,21,11,,,,,Lelde Rogoļeva,Arta Naumane,Barbora Čeponytė,Kamilė Tizinauskaitė
+Group Stage,Women's Contender,Group D,5,Single game,Elli/Karro,Spike Tyson,Elli/Karro,21,10,,,,,Ellinor Gustavsson,Karolina Hugosson,Liisbeth Laasik,Getter Põru
+Group Stage,Women's Contender,Group A,6,Single game,Schlagbaum,Golden Spikers,Schlagbaum,21,6,,,,,Lauma Ernestsone,Anna Hillemann,Karoliina Kallion,Kristi Männamets
+Group Stage,Women's Contender,Group A,6,Single game,Net Ninjas,WS OJAKATA,Net Ninjas,21,10,,,,,Helen Kossas,Elis-helen Starkopf,Agata Kuta,Julia Zając
+Group Stage,Women's Contender,Group B,6,Single game,Roundabout Rallies,Brownie Busters,Roundabout Rallies,21,12,,,,,Rebecca Mollberg,Hanna Westerland,Jessica Borgers,Tereza Caltová
+Group Stage,Women's Contender,Group B,6,Single game,FAKE,WS Kąski,WS Kąski,13,21,,,,,Viktorija Bendikaitė,Dovilė Poškutė,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group C,6,Single game,Block'n'roll,Once per year,Block'n'roll,21,12,,,,,Emmy Dahlquist,Linnea Hedman,Clara Kiesselbach,Elina Auzane
+Group Stage,Women's Contender,Group C,6,Single game,SESTA,Vamos,SESTA,21,19,,,,,Migle Serelyte,Kamilė Šerelytė,Raminta Augustėnaitė,Laura Trečiokaitė
+Group Stage,Women's Contender,Group D,6,Single game,lil drop,Elli/Karro,lil drop,21,17,,,,,Lelde Rogoļeva,Arta Naumane,Ellinor Gustavsson,Karolina Hugosson
+Group Stage,Women's Contender,Group D,6,Single game,SPQUE,Spike Tyson,Spike Tyson,13,21,,,,,Barbora Čeponytė,Kamilė Tizinauskaitė,Liisbeth Laasik,Getter Põru
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Schlagbaum,FAKE,Schlagbaum,15,6,15,3,,,Lauma Ernestsone,Anna Hillemann,Viktorija Bendikaitė,Dovilė Poškutė
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Roundabout Rallies,WS OJAKATA,Roundabout Rallies,15,1,15,2,,,Rebecca Mollberg,Hanna Westerland,Agata Kuta,Julia Zając
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Block'n'roll,SPQUE,Block'n'roll,15,3,15,5,,,Emmy Dahlquist,Linnea Hedman,Barbora Čeponytė,Kamilė Tizinauskaitė
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Elli/Karro,Vamos,Elli/Karro,15,5,15,8,,,Ellinor Gustavsson,Karolina Hugosson,Raminta Augustėnaitė,Laura Trečiokaitė
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,lil drop,SESTA,lil drop,15,5,15,6,,,Lelde Rogoļeva,Arta Naumane,Migle Serelyte,Kamilė Šerelytė
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Brownie Busters,Net Ninjas,Brownie Busters,15,3,15,2,,,Jessica Borgers,Tereza Caltová,Helen Kossas,Elis-helen Starkopf
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Golden Spikers,WS Kąski,Golden Spikers,15,7,13,15,15,7,Karoliina Kallion,Kristi Männamets,Julia Stawarek,Pola Wolff
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Once per year,Spike Tyson,Spike Tyson,15,9,11,15,15,17,Clara Kiesselbach,Elina Auzane,Liisbeth Laasik,Getter Põru
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Schlagbaum,Spike Tyson,Schlagbaum,15,6,15,6,,,Lauma Ernestsone,Anna Hillemann,Liisbeth Laasik,Getter Põru
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Roundabout Rallies,Golden Spikers,Roundabout Rallies,15,9,15,7,,,Rebecca Mollberg,Hanna Westerland,Karoliina Kallion,Kristi Männamets
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Block'n'roll,Brownie Busters,Block'n'roll,15,10,15,9,,,Emmy Dahlquist,Linnea Hedman,Jessica Borgers,Tereza Caltová
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Elli/Karro,lil drop,lil drop,19,17,11,15,12,15,Ellinor Gustavsson,Karolina Hugosson,Lelde Rogoļeva,Arta Naumane
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Once per year,FAKE,Once per year,15,5,15,6,,,Clara Kiesselbach,Elina Auzane,Viktorija Bendikaitė,Dovilė Poškutė
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,WS Kąski,WS OJAKATA,WS Kąski,15,7,15,4,,,Julia Stawarek,Pola Wolff,Agata Kuta,Julia Zając
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Net Ninjas,SPQUE,Net Ninjas,16,14,16,14,,,Helen Kossas,Elis-helen Starkopf,Barbora Čeponytė,Kamilė Tizinauskaitė
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,SESTA,Vamos,SESTA,15,6,15,13,,,Migle Serelyte,Kamilė Šerelytė,Raminta Augustėnaitė,Laura Trečiokaitė
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,Schlagbaum,lil drop,Schlagbaum,21,9,21,16,,,Lauma Ernestsone,Anna Hillemann,Lelde Rogoļeva,Arta Naumane
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,Roundabout Rallies,Block'n'roll,Roundabout Rallies,21,15,21,18,,,Rebecca Mollberg,Hanna Westerland,Emmy Dahlquist,Linnea Hedman
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Elli/Karro,Spike Tyson,Elli/Karro,21,20,14,16,15,8,Ellinor Gustavsson,Karolina Hugosson,Liisbeth Laasik,Getter Põru
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Brownie Busters,Golden Spikers,Golden Spikers,11,15,13,15,,,Jessica Borgers,Tereza Caltová,Karoliina Kallion,Kristi Männamets
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,Once per year,SESTA,Once per year,15,6,15,7,,,Clara Kiesselbach,Elina Auzane,Migle Serelyte,Kamilė Šerelytė
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,WS Kąski,Net Ninjas,WS Kąski,15,7,15,3,,,Julia Stawarek,Pola Wolff,Helen Kossas,Elis-helen Starkopf
+Bracket Stage,Women's Contender,Bracket A,P13: Semi-final,Best of 3,Vamos,FAKE,Vamos,15,17,15,10,15,11,Raminta Augustėnaitė,Laura Trečiokaitė,Viktorija Bendikaitė,Dovilė Poškutė
+Bracket Stage,Women's Contender,Bracket A,P13: Semi-final,Best of 3,SPQUE,WS OJAKATA,SPQUE,10,15,15,6,15,11,Barbora Čeponytė,Kamilė Tizinauskaitė,Agata Kuta,Julia Zając
+Bracket Stage,Women's Contender,Bracket A,Final,Best of 3,Schlagbaum,Roundabout Rallies,Schlagbaum,21,15,21,15,,,Lauma Ernestsone,Anna Hillemann,Rebecca Mollberg,Hanna Westerland
+Bracket Stage,Women's Contender,Bracket A,P3: Final,Best of 3,Block'n'roll,lil drop,Block'n'roll,21,12,21,15,,,Emmy Dahlquist,Linnea Hedman,Lelde Rogoļeva,Arta Naumane
+Bracket Stage,Women's Contender,Bracket A,P5: Final,Best of 3,Elli/Karro,Golden Spikers,Elli/Karro,15,3,15,7,,,Ellinor Gustavsson,Karolina Hugosson,Karoliina Kallion,Kristi Männamets
+Bracket Stage,Women's Contender,Bracket A,P7: Final,Best of 3,Brownie Busters,Spike Tyson,Brownie Busters,15,13,14,16,15,8,Jessica Borgers,Tereza Caltová,Liisbeth Laasik,Getter Põru
+Bracket Stage,Women's Contender,Bracket A,P9: Final,Best of 3,Once per year,WS Kąski,Once per year,15,9,15,12,,,Clara Kiesselbach,Elina Auzane,Julia Stawarek,Pola Wolff
+Bracket Stage,Women's Contender,Bracket A,P11: Final,Best of 3,Net Ninjas,SESTA,SESTA,16,14,9,15,12,15,Helen Kossas,Elis-helen Starkopf,Migle Serelyte,Kamilė Šerelytė
+Bracket Stage,Women's Contender,Bracket A,P15: Final,Best of 3,WS OJAKATA,FAKE,FAKE,8,15,7,15,,,Agata Kuta,Julia Zając,Viktorija Bendikaitė,Dovilė Poškutė
+Group Stage,Open Contender,Group A,1,Single game,R-UNIT,WS HUBERTUS ZG,WS HUBERTUS ZG,12,15,,,,,Rihards Repels,Reinis Pavlovskis,Franek Ebert,Piotr Jordan
+Group Stage,Open Contender,Group A,1,Single game,MRC Letten,Pocketsace,MRC Letten,15,6,,,,,Simon Wimmer,Matthias Hainz,Almantas Paulauskas,Vaidas Masys
+Group Stage,Open Contender,Group A,1,Single game,ROCK,Lightning Spikes Twice,Lightning Spikes Twice,11,15,,,,,Legy Horak,Florin Limbovici,Gerrerth Kaur,Richard-Erik Järvi
+Group Stage,Open Contender,Group B,1,Single game,Double Tap,ball,Double Tap,15,4,,,,,Maher Saadeddin,Albin Janko,Andris Belajevs,Miks Eglitis
+Group Stage,Open Contender,Group B,1,Single game,Apinis/Jaunpetrovičs,Tartu Tornado,Tartu Tornado,10,15,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Aleks Mõttus,Kurmo Külm
+Group Stage,Open Contender,Group B,1,Single game,WS Jam Dobry,Cold start,Cold start,14,16,,,,,Mikołaj Cichocki,Max Łochowski,Gytis Buckiūnas,Rokas Ignatavičius
+Group Stage,Open Contender,Group C,1,Single game,WS Dudzik/Kusztal,OUTS,OUTS,13,15,,,,,Jakub Kusztal,Janek Dudzik,Valentas Balsys,Povilas Maldūnas
+Group Stage,Open Contender,Group C,1,Single game,Same Haircut,French Kiss,Same Haircut,15,13,,,,,Sören Baumann,Jonathan Schüßler,Etienne Lafond,Olivier Hui Bon Hoa
+Group Stage,Open Contender,Group D,1,Single game,Screams,Volleypops,Screams,15,13,,,,,Jim Buhler,Charlie Wilson,Paul Volle,Tabriz Popatia
+Group Stage,Open Contender,Group D,1,Single game,Bicycle Buddies,Banger Boys,Bicycle Buddies,15,12,,,,,Jakob Blaaholm Nielsen,Jarec Schouten,Benjamin Sjöstrand,Max Jansson
+Group Stage,Open Contender,Group E,1,Single game,Good swings,BEST,BEST,14,16,,,,,Benoit Ngn,Paul Halphen,Virgilijus Peseckas,Rapolas Diržinauskas
+Group Stage,Open Contender,Group E,1,Single game,Wiener Mischung,Me and You,Wiener Mischung,15,11,,,,,Dominik Sykora,Maximilian Knoll,Valters Salzirnis,Nauris N
+Group Stage,Open Contender,Group A,2,Single game,R-UNIT,Pocketsace,R-UNIT,15,9,,,,,Rihards Repels,Reinis Pavlovskis,Almantas Paulauskas,Vaidas Masys
+Group Stage,Open Contender,Group A,2,Single game,MRC Letten,ROCK,MRC Letten,15,4,,,,,Simon Wimmer,Matthias Hainz,Legy Horak,Florin Limbovici
+Group Stage,Open Contender,Group A,2,Single game,Lightning Spikes Twice,WS HUBERTUS ZG,WS HUBERTUS ZG,12,15,,,,,Gerrerth Kaur,Richard-Erik Järvi,Franek Ebert,Piotr Jordan
+Group Stage,Open Contender,Group B,2,Single game,Double Tap,Tartu Tornado,Double Tap,15,12,,,,,Maher Saadeddin,Albin Janko,Aleks Mõttus,Kurmo Külm
+Group Stage,Open Contender,Group B,2,Single game,Apinis/Jaunpetrovičs,WS Jam Dobry,Apinis/Jaunpetrovičs,15,13,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Mikołaj Cichocki,Max Łochowski
+Group Stage,Open Contender,Group B,2,Single game,Cold start,ball,Cold start,15,8,,,,,Gytis Buckiūnas,Rokas Ignatavičius,Andris Belajevs,Miks Eglitis
+Group Stage,Open Contender,Group C,2,Single game,WS Dudzik/Kusztal,French Kiss,French Kiss,7,15,,,,,Jakub Kusztal,Janek Dudzik,Etienne Lafond,Olivier Hui Bon Hoa
+Group Stage,Open Contender,Group C,2,Single game,Double Bosh,OUTS,Double Bosh,15,7,,,,,Daniel Ashton,Joe Kerridge,Valentas Balsys,Povilas Maldūnas
+Group Stage,Open Contender,Group D,2,Single game,Screams,Banger Boys,Banger Boys,12,15,,,,,Jim Buhler,Charlie Wilson,Benjamin Sjöstrand,Max Jansson
+Group Stage,Open Contender,Group D,2,Single game,Rokas,Volleypops,Volleypops,6,15,,,,,Renārs E,Kārlis Kazakupčs,Paul Volle,Tabriz Popatia
+Group Stage,Open Contender,Group E,2,Single game,Good swings,Me and You,Good swings,15,8,,,,,Benoit Ngn,Paul Halphen,Valters Salzirnis,Nauris N
+Group Stage,Open Contender,Group E,2,Single game,Alley-Whoops,BEST,BEST,13,15,,,,,William Mehler,Fred Isaksson,Virgilijus Peseckas,Rapolas Diržinauskas
+Group Stage,Open Contender,Group A,3,Single game,R-UNIT,Lightning Spikes Twice,R-UNIT,16,14,,,,,Rihards Repels,Reinis Pavlovskis,Gerrerth Kaur,Richard-Erik Järvi
+Group Stage,Open Contender,Group A,3,Single game,MRC Letten,WS HUBERTUS ZG,MRC Letten,15,12,,,,,Simon Wimmer,Matthias Hainz,Franek Ebert,Piotr Jordan
+Group Stage,Open Contender,Group A,3,Single game,ROCK,Pocketsace,Pocketsace,10,15,,,,,Legy Horak,Florin Limbovici,Almantas Paulauskas,Vaidas Masys
+Group Stage,Open Contender,Group B,3,Single game,Double Tap,Cold start,Double Tap,15,12,,,,,Maher Saadeddin,Albin Janko,Gytis Buckiūnas,Rokas Ignatavičius
+Group Stage,Open Contender,Group B,3,Single game,Apinis/Jaunpetrovičs,ball,Apinis/Jaunpetrovičs,15,10,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Andris Belajevs,Miks Eglitis
+Group Stage,Open Contender,Group B,3,Single game,WS Jam Dobry,Tartu Tornado,Tartu Tornado,13,15,,,,,Mikołaj Cichocki,Max Łochowski,Aleks Mõttus,Kurmo Külm
+Group Stage,Open Contender,Group C,3,Single game,WS Dudzik/Kusztal,Double Bosh,Double Bosh,10,15,,,,,Jakub Kusztal,Janek Dudzik,Daniel Ashton,Joe Kerridge
+Group Stage,Open Contender,Group C,3,Single game,Same Haircut,OUTS,Same Haircut,15,10,,,,,Sören Baumann,Jonathan Schüßler,Valentas Balsys,Povilas Maldūnas
+Group Stage,Open Contender,Group D,3,Single game,Screams,Rokas,Screams,15,6,,,,,Jim Buhler,Charlie Wilson,Renārs E,Kārlis Kazakupčs
+Group Stage,Open Contender,Group D,3,Single game,Bicycle Buddies,Volleypops,Bicycle Buddies,16,14,,,,,Jakob Blaaholm Nielsen,Jarec Schouten,Paul Volle,Tabriz Popatia
+Group Stage,Open Contender,Group E,3,Single game,Good swings,Alley-Whoops,Good swings,15,11,,,,,Benoit Ngn,Paul Halphen,William Mehler,Fred Isaksson
+Group Stage,Open Contender,Group E,3,Single game,Wiener Mischung,BEST,Wiener Mischung,15,12,,,,,Dominik Sykora,Maximilian Knoll,Virgilijus Peseckas,Rapolas Diržinauskas
+Group Stage,Open Contender,Group A,4,Single game,R-UNIT,ROCK,R-UNIT,15,11,,,,,Rihards Repels,Reinis Pavlovskis,Legy Horak,Florin Limbovici
+Group Stage,Open Contender,Group A,4,Single game,MRC Letten,Lightning Spikes Twice,MRC Letten,15,10,,,,,Simon Wimmer,Matthias Hainz,Gerrerth Kaur,Richard-Erik Järvi
+Group Stage,Open Contender,Group A,4,Single game,Pocketsace,WS HUBERTUS ZG,WS HUBERTUS ZG,6,15,,,,,Almantas Paulauskas,Vaidas Masys,Franek Ebert,Piotr Jordan
+Group Stage,Open Contender,Group B,4,Single game,Double Tap,WS Jam Dobry,Double Tap,15,12,,,,,Maher Saadeddin,Albin Janko,Mikołaj Cichocki,Max Łochowski
+Group Stage,Open Contender,Group B,4,Single game,Apinis/Jaunpetrovičs,Cold start,Cold start,12,15,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Gytis Buckiūnas,Rokas Ignatavičius
+Group Stage,Open Contender,Group B,4,Single game,Tartu Tornado,ball,Tartu Tornado,15,8,,,,,Aleks Mõttus,Kurmo Külm,Andris Belajevs,Miks Eglitis
+Group Stage,Open Contender,Group C,4,Single game,Same Haircut,Double Bosh,Same Haircut,15,12,,,,,Sören Baumann,Jonathan Schüßler,Daniel Ashton,Joe Kerridge
+Group Stage,Open Contender,Group C,4,Single game,French Kiss,OUTS,French Kiss,15,6,,,,,Etienne Lafond,Olivier Hui Bon Hoa,Valentas Balsys,Povilas Maldūnas
+Group Stage,Open Contender,Group D,4,Single game,Bicycle Buddies,Rokas,Bicycle Buddies,15,8,,,,,Jakob Blaaholm Nielsen,Jarec Schouten,Renārs E,Kārlis Kazakupčs
+Group Stage,Open Contender,Group D,4,Single game,Banger Boys,Volleypops,Volleypops,12,15,,,,,Benjamin Sjöstrand,Max Jansson,Paul Volle,Tabriz Popatia
+Group Stage,Open Contender,Group E,4,Single game,Wiener Mischung,Alley-Whoops,Alley-Whoops,13,15,,,,,Dominik Sykora,Maximilian Knoll,William Mehler,Fred Isaksson
+Group Stage,Open Contender,Group E,4,Single game,Me and You,BEST,BEST,10,15,,,,,Valters Salzirnis,Nauris N,Virgilijus Peseckas,Rapolas Diržinauskas
+Group Stage,Open Contender,Group A,5,Single game,R-UNIT,MRC Letten,MRC Letten,14,16,,,,,Rihards Repels,Reinis Pavlovskis,Simon Wimmer,Matthias Hainz
+Group Stage,Open Contender,Group A,5,Single game,ROCK,WS HUBERTUS ZG,WS HUBERTUS ZG,10,15,,,,,Legy Horak,Florin Limbovici,Franek Ebert,Piotr Jordan
+Group Stage,Open Contender,Group A,5,Single game,Lightning Spikes Twice,Pocketsace,Lightning Spikes Twice,15,13,,,,,Gerrerth Kaur,Richard-Erik Järvi,Almantas Paulauskas,Vaidas Masys
+Group Stage,Open Contender,Group B,5,Single game,Double Tap,Apinis/Jaunpetrovičs,Double Tap,15,11,,,,,Maher Saadeddin,Albin Janko,Mārtiņš Jaunpetrovičs,Matīss Apinis
+Group Stage,Open Contender,Group B,5,Single game,WS Jam Dobry,ball,WS Jam Dobry,15,7,,,,,Mikołaj Cichocki,Max Łochowski,Andris Belajevs,Miks Eglitis
+Group Stage,Open Contender,Group B,5,Single game,Cold start,Tartu Tornado,Tartu Tornado,13,15,,,,,Gytis Buckiūnas,Rokas Ignatavičius,Aleks Mõttus,Kurmo Külm
+Group Stage,Open Contender,Group C,5,Single game,WS Dudzik/Kusztal,Same Haircut,Same Haircut,7,15,,,,,Jakub Kusztal,Janek Dudzik,Sören Baumann,Jonathan Schüßler
+Group Stage,Open Contender,Group C,5,Single game,Double Bosh,French Kiss,French Kiss,8,15,,,,,Daniel Ashton,Joe Kerridge,Etienne Lafond,Olivier Hui Bon Hoa
+Group Stage,Open Contender,Group D,5,Single game,Screams,Bicycle Buddies,Screams,15,9,,,,,Jim Buhler,Charlie Wilson,Jakob Blaaholm Nielsen,Jarec Schouten
+Group Stage,Open Contender,Group D,5,Single game,Rokas,Banger Boys,Banger Boys,5,15,,,,,Renārs E,Kārlis Kazakupčs,Benjamin Sjöstrand,Max Jansson
+Group Stage,Open Contender,Group E,5,Single game,Good swings,Wiener Mischung,Good swings,15,12,,,,,Benoit Ngn,Paul Halphen,Dominik Sykora,Maximilian Knoll
+Group Stage,Open Contender,Group E,5,Single game,Alley-Whoops,Me and You,Alley-Whoops,15,7,,,,,William Mehler,Fred Isaksson,Valters Salzirnis,Nauris N
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,MRC Letten,Double Bosh,MRC Letten,15,10,15,10,,,Simon Wimmer,Matthias Hainz,Daniel Ashton,Joe Kerridge
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Double Tap,Alley-Whoops,Double Tap,15,11,16,14,,,Maher Saadeddin,Albin Janko,William Mehler,Fred Isaksson
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Same Haircut,Cold start,Same Haircut,15,7,15,6,,,Sören Baumann,Jonathan Schüßler,Gytis Buckiūnas,Rokas Ignatavičius
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,French Kiss,R-UNIT,French Kiss,15,13,15,12,,,Etienne Lafond,Olivier Hui Bon Hoa,Rihards Repels,Reinis Pavlovskis
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Screams,Banger Boys,Screams,15,9,20,21,16,14,Jim Buhler,Charlie Wilson,Benjamin Sjöstrand,Max Jansson
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,WS HUBERTUS ZG,Volleypops,WS HUBERTUS ZG,15,7,13,15,19,17,Franek Ebert,Piotr Jordan,Paul Volle,Tabriz Popatia
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Good swings,BEST,Good swings,15,10,15,10,,,Benoit Ngn,Paul Halphen,Virgilijus Peseckas,Rapolas Diržinauskas
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Tartu Tornado,Bicycle Buddies,Bicycle Buddies,0,2,12,15,14,16,Aleks Mõttus,Kurmo Külm,Jakob Blaaholm Nielsen,Jarec Schouten
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,MRC Letten,Bicycle Buddies,MRC Letten,15,12,15,11,,,Simon Wimmer,Matthias Hainz,Jakob Blaaholm Nielsen,Jarec Schouten
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Double Tap,Good swings,Double Tap,19,17,15,11,,,Maher Saadeddin,Albin Janko,Benoit Ngn,Paul Halphen
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Same Haircut,WS HUBERTUS ZG,Same Haircut,15,11,15,12,,,Sören Baumann,Jonathan Schüßler,Franek Ebert,Piotr Jordan
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,French Kiss,Screams,French Kiss,15,6,15,6,,,Etienne Lafond,Olivier Hui Bon Hoa,Jim Buhler,Charlie Wilson
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Tartu Tornado,Double Bosh,Tartu Tornado,19,17,12,15,15,12,Aleks Mõttus,Kurmo Külm,Daniel Ashton,Joe Kerridge
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,BEST,Alley-Whoops,Alley-Whoops,10,15,11,15,,,Virgilijus Peseckas,Rapolas Diržinauskas,William Mehler,Fred Isaksson
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Volleypops,Cold start,Volleypops,16,14,15,7,,,Paul Volle,Tabriz Popatia,Gytis Buckiūnas,Rokas Ignatavičius
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Banger Boys,R-UNIT,R-UNIT,14,16,13,15,,,Benjamin Sjöstrand,Max Jansson,Rihards Repels,Reinis Pavlovskis
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,MRC Letten,French Kiss,French Kiss,14,21,18,21,,,Simon Wimmer,Matthias Hainz,Etienne Lafond,Olivier Hui Bon Hoa
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Double Tap,Same Haircut,Same Haircut,13,21,21,16,11,21,Maher Saadeddin,Albin Janko,Sören Baumann,Jonathan Schüßler
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Screams,Bicycle Buddies,Bicycle Buddies,9,15,11,15,,,Jim Buhler,Charlie Wilson,Jakob Blaaholm Nielsen,Jarec Schouten
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,WS HUBERTUS ZG,Good swings,WS HUBERTUS ZG,15,0,15,0,,,Franek Ebert,Piotr Jordan,Benoit Ngn,Paul Halphen
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Tartu Tornado,R-UNIT,R-UNIT,12,15,15,11,11,15,Aleks Mõttus,Kurmo Külm,Rihards Repels,Reinis Pavlovskis
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Alley-Whoops,Volleypops,Alley-Whoops,15,10,15,10,,,William Mehler,Fred Isaksson,Paul Volle,Tabriz Popatia
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Single game,Banger Boys,Double Bosh,Double Bosh,0,1,,,,,Benjamin Sjöstrand,Max Jansson,Daniel Ashton,Joe Kerridge
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Single game,Cold start,BEST,BEST,1,2,,,,,Gytis Buckiūnas,Rokas Ignatavičius,Virgilijus Peseckas,Rapolas Diržinauskas
+Bracket Stage,Open Contender,Bracket A,Final,Best of 3,French Kiss,Same Haircut,Same Haircut,21,19,21,23,16,21,Etienne Lafond,Olivier Hui Bon Hoa,Sören Baumann,Jonathan Schüßler
+Bracket Stage,Open Contender,Bracket A,P3: Final,Single game,Double Tap,MRC Letten,MRC Letten,20,21,,,,,Maher Saadeddin,Albin Janko,Simon Wimmer,Matthias Hainz
+Bracket Stage,Open Contender,Bracket A,P5: Final,Best of 3,Bicycle Buddies,WS HUBERTUS ZG,WS HUBERTUS ZG,12,15,16,14,11,15,Jakob Blaaholm Nielsen,Jarec Schouten,Franek Ebert,Piotr Jordan
+Bracket Stage,Open Contender,Bracket A,P7: Final,Best of 3,Good swings,Screams,Screams,0,15,0,15,,,Benoit Ngn,Paul Halphen,Jim Buhler,Charlie Wilson
+Bracket Stage,Open Contender,Bracket A,P9: Final,Best of 3,R-UNIT,Alley-Whoops,Alley-Whoops,13,15,15,13,12,15,Rihards Repels,Reinis Pavlovskis,William Mehler,Fred Isaksson
+Bracket Stage,Open Contender,Bracket A,P11: Final,Best of 3,Volleypops,Tartu Tornado,Tartu Tornado,0,15,0,15,,,Paul Volle,Tabriz Popatia,Aleks Mõttus,Kurmo Külm
+Bracket Stage,Open Contender,Bracket A,P13: Final,Single game,Double Bosh,BEST,BEST,0,2,,,,,Daniel Ashton,Joe Kerridge,Virgilijus Peseckas,Rapolas Diržinauskas
+Bracket Stage,Open Contender,Bracket A,P15: Final,Single game,Cold start,Banger Boys,Banger Boys,16,21,,,,,Gytis Buckiūnas,Rokas Ignatavičius,Benjamin Sjöstrand,Max Jansson
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,Pocketsace,ball,Pocketsace,,,15,11,15,8,Almantas Paulauskas,Vaidas Masys,Andris Belajevs,Miks Eglitis
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,WS Dudzik/Kusztal,ROCK,WS Dudzik/Kusztal,1,0,1,0,,,Jakub Kusztal,Janek Dudzik,Legy Horak,Florin Limbovici
+Bracket Stage,Open Contender,Bracket B,Round of 16,Best of 3,Me and You,Rokas,Rokas,15,12,13,15,6,15,Valters Salzirnis,Nauris N,Renārs E,Kārlis Kazakupčs
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Single game,Wiener Mischung,Rokas,Wiener Mischung,2,1,,,,,Dominik Sykora,Maximilian Knoll,Renārs E,Kārlis Kazakupčs
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Single game,Lightning Spikes Twice,WS Dudzik/Kusztal,Lightning Spikes Twice,2,1,,,,,Gerrerth Kaur,Richard-Erik Järvi,Jakub Kusztal,Janek Dudzik
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Single game,Apinis/Jaunpetrovičs,Pocketsace,Pocketsace,1,2,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Almantas Paulauskas,Vaidas Masys
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Single game,OUTS,WS Jam Dobry,WS Jam Dobry,0,2,,,,,Valentas Balsys,Povilas Maldūnas,Mikołaj Cichocki,Max Łochowski
+Bracket Stage,Open Contender,Bracket B,Semi-final,Single game,Wiener Mischung,WS Jam Dobry,Wiener Mischung,2,1,,,,,Dominik Sykora,Maximilian Knoll,Mikołaj Cichocki,Max Łochowski
+Bracket Stage,Open Contender,Bracket B,Semi-final,Single game,Lightning Spikes Twice,Pocketsace,Lightning Spikes Twice,2,0,,,,,Gerrerth Kaur,Richard-Erik Järvi,Almantas Paulauskas,Vaidas Masys
+Bracket Stage,Open Contender,Bracket B,P5: Semi-final,Single game,OUTS,Rokas,Rokas,0,2,,,,,Valentas Balsys,Povilas Maldūnas,Renārs E,Kārlis Kazakupčs
+Bracket Stage,Open Contender,Bracket B,P5: Semi-final,Single game,Apinis/Jaunpetrovičs,WS Dudzik/Kusztal,WS Dudzik/Kusztal,0,2,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Jakub Kusztal,Janek Dudzik
+Bracket Stage,Open Contender,Bracket B,P9: Semi-final,Single game,ROCK,ball,ROCK,2,0,,,,,Legy Horak,Florin Limbovici,Andris Belajevs,Miks Eglitis
+Bracket Stage,Open Contender,Bracket B,Final,Single game,Wiener Mischung,Lightning Spikes Twice,Wiener Mischung,2,1,,,,,Dominik Sykora,Maximilian Knoll,Gerrerth Kaur,Richard-Erik Järvi
+Bracket Stage,Open Contender,Bracket B,P5: Final,Single game,Rokas,WS Dudzik/Kusztal,WS Dudzik/Kusztal,1,2,,,,,Renārs E,Kārlis Kazakupčs,Jakub Kusztal,Janek Dudzik
+Bracket Stage,Open Contender,Bracket B,P7: Final,Single game,Apinis/Jaunpetrovičs,OUTS,Apinis/Jaunpetrovičs,2,0,,,,,Mārtiņš Jaunpetrovičs,Matīss Apinis,Valentas Balsys,Povilas Maldūnas
+Bracket Stage,Open Contender,Bracket B,P9: Final,Single game,Me and You,ROCK,ROCK,0,2,,,,,Valters Salzirnis,Nauris N,Legy Horak,Florin Limbovici
+Group Stage,Open Advanced,Group A,1,Single game,Double D,Vėjas sėja,Double D,21,10,,,,,Dāvis Brizga,Dārta Elizabete Emuliņa,Aidas Mačionis,Ignas Saladinskas
+Group Stage,Open Advanced,Group A,1,Single game,B-Ballers,WS Old Boys,WS Old Boys,18,21,,,,,Siim Brazier,Tom Gregori Brazier,Jan Dalke,Andrzej Gołaszewski
+Group Stage,Open Advanced,Group B,1,Single game,Blind date,CTRL+ALT=COMPETE,CTRL+ALT=COMPETE,14,21,,,,,Roberts Dobelis,Mareks Kolāts,Kevin Kaivoja,Marek Kesküll
+Group Stage,Open Advanced,Group B,1,Single game,WS Habibi,Spike Sigmas,Spike Sigmas,12,21,,,,,Mateusz Foks,Iryna Dmytruk,Raivo Repels,Kristiāns Ķikuts
+Group Stage,Open Advanced,Group C,1,Single game,Bananasplit,PPP,Bananasplit,21,16,,,,,Micha Daling,Adéla Janků,Markus Dvinjaninov,Aleksander Einpalu
+Group Stage,Open Advanced,Group C,1,Single game,P2,Doom Break,P2,21,19,,,,,Audrius Degutis,Arturas Tkacius,Rolands Briedis,Edijs Matulis
+Group Stage,Open Advanced,Group A,2,Single game,Double D,WS Old Boys,Double D,21,6,,,,,Dāvis Brizga,Dārta Elizabete Emuliņa,Jan Dalke,Andrzej Gołaszewski
+Group Stage,Open Advanced,Group A,2,Single game,Georg / Seb,Vėjas sėja,Georg / Seb,21,10,,,,,Georg Demidov,Sebastien Toupy,Aidas Mačionis,Ignas Saladinskas
+Group Stage,Open Advanced,Group B,2,Single game,Blind date,Spike Sigmas,Blind date,21,5,,,,,Roberts Dobelis,Mareks Kolāts,Raivo Repels,Kristiāns Ķikuts
+Group Stage,Open Advanced,Group B,2,Single game,ROKER4,CTRL+ALT=COMPETE,CTRL+ALT=COMPETE,12,21,,,,,Domantas Laskis,Ignas Galicinas,Kevin Kaivoja,Marek Kesküll
+Group Stage,Open Advanced,Group C,2,Single game,Bananasplit,Doom Break,Bananasplit,21,17,,,,,Micha Daling,Adéla Janků,Rolands Briedis,Edijs Matulis
+Group Stage,Open Advanced,Group C,2,Single game,Winged,PPP,PPP,20,22,,,,,Kennet Starkopf,Mihkel Annilo,Markus Dvinjaninov,Aleksander Einpalu
+Group Stage,Open Advanced,Group A,3,Single game,Double D,Georg / Seb,Georg / Seb,15,21,,,,,Dāvis Brizga,Dārta Elizabete Emuliņa,Georg Demidov,Sebastien Toupy
+Group Stage,Open Advanced,Group A,3,Single game,B-Ballers,Vėjas sėja,Vėjas sėja,13,21,,,,,Siim Brazier,Tom Gregori Brazier,Aidas Mačionis,Ignas Saladinskas
+Group Stage,Open Advanced,Group B,3,Single game,Blind date,ROKER4,Blind date,22,20,,,,,Roberts Dobelis,Mareks Kolāts,Domantas Laskis,Ignas Galicinas
+Group Stage,Open Advanced,Group B,3,Single game,WS Habibi,CTRL+ALT=COMPETE,CTRL+ALT=COMPETE,9,21,,,,,Mateusz Foks,Iryna Dmytruk,Kevin Kaivoja,Marek Kesküll
+Group Stage,Open Advanced,Group C,3,Single game,Bananasplit,Winged,Winged,18,21,,,,,Micha Daling,Adéla Janků,Kennet Starkopf,Mihkel Annilo
+Group Stage,Open Advanced,Group C,3,Single game,P2,PPP,PPP,11,21,,,,,Audrius Degutis,Arturas Tkacius,Markus Dvinjaninov,Aleksander Einpalu
+Group Stage,Open Advanced,Group A,4,Single game,B-Ballers,Georg / Seb,Georg / Seb,3,21,,,,,Siim Brazier,Tom Gregori Brazier,Georg Demidov,Sebastien Toupy
+Group Stage,Open Advanced,Group A,4,Single game,WS Old Boys,Vėjas sėja,WS Old Boys,21,12,,,,,Jan Dalke,Andrzej Gołaszewski,Aidas Mačionis,Ignas Saladinskas
+Group Stage,Open Advanced,Group B,4,Single game,WS Habibi,ROKER4,ROKER4,9,21,,,,,Mateusz Foks,Iryna Dmytruk,Domantas Laskis,Ignas Galicinas
+Group Stage,Open Advanced,Group B,4,Single game,Spike Sigmas,CTRL+ALT=COMPETE,CTRL+ALT=COMPETE,6,21,,,,,Raivo Repels,Kristiāns Ķikuts,Kevin Kaivoja,Marek Kesküll
+Group Stage,Open Advanced,Group C,4,Single game,P2,Winged,Winged,13,21,,,,,Audrius Degutis,Arturas Tkacius,Kennet Starkopf,Mihkel Annilo
+Group Stage,Open Advanced,Group C,4,Single game,Doom Break,PPP,PPP,15,21,,,,,Rolands Briedis,Edijs Matulis,Markus Dvinjaninov,Aleksander Einpalu
+Group Stage,Open Advanced,Group A,5,Single game,Double D,B-Ballers,Double D,21,16,,,,,Dāvis Brizga,Dārta Elizabete Emuliņa,Siim Brazier,Tom Gregori Brazier
+Group Stage,Open Advanced,Group A,5,Single game,Georg / Seb,WS Old Boys,Georg / Seb,21,15,,,,,Georg Demidov,Sebastien Toupy,Jan Dalke,Andrzej Gołaszewski
+Group Stage,Open Advanced,Group B,5,Single game,Blind date,WS Habibi,Blind date,21,10,,,,,Roberts Dobelis,Mareks Kolāts,Mateusz Foks,Iryna Dmytruk
+Group Stage,Open Advanced,Group B,5,Single game,ROKER4,Spike Sigmas,ROKER4,21,13,,,,,Domantas Laskis,Ignas Galicinas,Raivo Repels,Kristiāns Ķikuts
+Group Stage,Open Advanced,Group C,5,Single game,Bananasplit,P2,Bananasplit,21,13,,,,,Micha Daling,Adéla Janků,Audrius Degutis,Arturas Tkacius
+Group Stage,Open Advanced,Group C,5,Single game,Winged,Doom Break,Winged,21,13,,,,,Kennet Starkopf,Mihkel Annilo,Rolands Briedis,Edijs Matulis
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Georg / Seb,WS Habibi,Georg / Seb,15,5,15,7,,,Georg Demidov,Sebastien Toupy,Mateusz Foks,Iryna Dmytruk
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Double D,B-Ballers,Double D,15,8,10,15,15,8,Dāvis Brizga,Dārta Elizabete Emuliņa,Siim Brazier,Tom Gregori Brazier
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Blind date,Doom Break,Blind date,15,10,15,12,,,Roberts Dobelis,Mareks Kolāts,Rolands Briedis,Edijs Matulis
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Winged,Spike Sigmas,Winged,15,11,15,4,,,Kennet Starkopf,Mihkel Annilo,Raivo Repels,Kristiāns Ķikuts
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Bananasplit,P2,Bananasplit,12,15,15,10,15,11,Micha Daling,Adéla Janků,Audrius Degutis,Arturas Tkacius
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,PPP,Vėjas sėja,PPP,15,12,15,8,,,Markus Dvinjaninov,Aleksander Einpalu,Aidas Mačionis,Ignas Saladinskas
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,ROKER4,WS Old Boys,ROKER4,15,13,15,13,,,Domantas Laskis,Ignas Galicinas,Jan Dalke,Andrzej Gołaszewski
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,CTRL+ALT=COMPETE,ROKER4,CTRL+ALT=COMPETE,15,12,15,7,,,Kevin Kaivoja,Marek Kesküll,Domantas Laskis,Ignas Galicinas
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,Georg / Seb,PPP,Georg / Seb,15,7,15,8,,,Georg Demidov,Sebastien Toupy,Markus Dvinjaninov,Aleksander Einpalu
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,Double D,Bananasplit,Bananasplit,12,15,10,15,,,Dāvis Brizga,Dārta Elizabete Emuliņa,Micha Daling,Adéla Janků
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,Blind date,Winged,Winged,12,15,10,15,,,Roberts Dobelis,Mareks Kolāts,Kennet Starkopf,Mihkel Annilo
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,Vėjas sėja,WS Habibi,Vėjas sėja,15,11,15,10,,,Aidas Mačionis,Ignas Saladinskas,Mateusz Foks,Iryna Dmytruk
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,P2,B-Ballers,P2,15,9,15,8,,,Audrius Degutis,Arturas Tkacius,Siim Brazier,Tom Gregori Brazier
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,Spike Sigmas,Doom Break,Doom Break,11,15,3,15,,,Raivo Repels,Kristiāns Ķikuts,Rolands Briedis,Edijs Matulis
+Bracket Stage,Open Advanced,Bracket A,Semi-final,Best of 3,CTRL+ALT=COMPETE,Winged,CTRL+ALT=COMPETE,15,12,15,13,,,Kevin Kaivoja,Marek Kesküll,Kennet Starkopf,Mihkel Annilo
+Bracket Stage,Open Advanced,Bracket A,Semi-final,Best of 3,Georg / Seb,Bananasplit,Bananasplit,15,21,20,22,,,Georg Demidov,Sebastien Toupy,Micha Daling,Adéla Janků
+Bracket Stage,Open Advanced,Bracket A,P5: Semi-final,Best of 3,Blind date,ROKER4,ROKER4,11,15,10,15,,,Roberts Dobelis,Mareks Kolāts,Domantas Laskis,Ignas Galicinas
+Bracket Stage,Open Advanced,Bracket A,P5: Semi-final,Best of 3,Double D,PPP,Double D,15,13,15,10,,,Dāvis Brizga,Dārta Elizabete Emuliņa,Markus Dvinjaninov,Aleksander Einpalu
+Bracket Stage,Open Advanced,Bracket A,P9: Semi-final,Best of 3,WS Old Boys,Doom Break,Doom Break,15,17,7,15,,,Jan Dalke,Andrzej Gołaszewski,Rolands Briedis,Edijs Matulis
+Bracket Stage,Open Advanced,Bracket A,P9: Semi-final,Best of 3,Vėjas sėja,P2,P2,11,15,15,12,11,15,Aidas Mačionis,Ignas Saladinskas,Audrius Degutis,Arturas Tkacius
+Bracket Stage,Open Advanced,Bracket A,P13: Semi-final,Best of 3,B-Ballers,WS Habibi,B-Ballers,15,11,15,7,,,Siim Brazier,Tom Gregori Brazier,Mateusz Foks,Iryna Dmytruk
+Bracket Stage,Open Advanced,Bracket A,Final,Best of 3,CTRL+ALT=COMPETE,Bananasplit,Bananasplit,21,9,19,21,15,21,Kevin Kaivoja,Marek Kesküll,Micha Daling,Adéla Janků
+Bracket Stage,Open Advanced,Bracket A,P3: Final,Best of 3,Georg / Seb,Winged,Georg / Seb,21,17,21,12,,,Georg Demidov,Sebastien Toupy,Kennet Starkopf,Mihkel Annilo
+Bracket Stage,Open Advanced,Bracket A,P5: Final,Best of 3,ROKER4,Double D,Double D,5,15,11,15,,,Domantas Laskis,Ignas Galicinas,Dāvis Brizga,Dārta Elizabete Emuliņa
+Bracket Stage,Open Advanced,Bracket A,P7: Final,Best of 3,PPP,Blind date,PPP,13,15,15,12,15,13,Markus Dvinjaninov,Aleksander Einpalu,Roberts Dobelis,Mareks Kolāts
+Bracket Stage,Open Advanced,Bracket A,P9: Final,Best of 3,Doom Break,P2,P2,13,15,15,17,,,Rolands Briedis,Edijs Matulis,Audrius Degutis,Arturas Tkacius
+Bracket Stage,Open Advanced,Bracket A,P11: Final,Best of 3,Vėjas sėja,WS Old Boys,WS Old Boys,11,15,13,15,,,Aidas Mačionis,Ignas Saladinskas,Jan Dalke,Andrzej Gołaszewski
+Bracket Stage,Open Advanced,Bracket A,P13: Final,Best of 3,Spike Sigmas,B-Ballers,B-Ballers,10,15,8,15,,,Raivo Repels,Kristiāns Ķikuts,Siim Brazier,Tom Gregori Brazier

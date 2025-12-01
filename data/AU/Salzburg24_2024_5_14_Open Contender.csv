@@ -1,0 +1,63 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Intermediate,Power Pool A,1,Single game,CUTastrophe,Die Salzis,CUTastrophe,21,3,,,,,Andi Gjergji,Hanna Mrak,Johannes Gneist,Astrid Wimmer
+Group Stage,Open Intermediate,Power Pool A,1,Single game,Jo Bee Net,FC Mathesport,Jo Bee Net,21,12,,,,,Johannes Strigl,Bettina Meinhart,Lorena Montellano,johannes schierl
+Group Stage,Open Intermediate,Power Pool B,1,Single game,die schnellen Brillen,Ace Queens ElSa,die schnellen Brillen,21,14,,,,,Alexandra Quehenberger,Lukas Thaurer,Elisa Pilgram,Sara Pungor
+Group Stage,Open Intermediate,Power Pool B,1,Single game,Eier auf Spanisch,Oops!... We Hit It Again,Eier auf Spanisch,21,18,,,,,Tobias Moser,Thomas Stadler,Johanna Kagerer,Lukas Stöbich
+Group Stage,Open Intermediate,Power Pool A,2,Single game,CUTastrophe,FC Mathesport,CUTastrophe,21,15,,,,,Andi Gjergji,Hanna Mrak,Lorena Montellano,johannes schierl
+Group Stage,Open Intermediate,Power Pool A,2,Single game,MBT,Die Salzis,MBT,21,13,,,,,Benedikt Lemler,Martin Schatzl,Johannes Gneist,Astrid Wimmer
+Group Stage,Open Intermediate,Power Pool B,2,Single game,die schnellen Brillen,Oops!... We Hit It Again,die schnellen Brillen,21,11,,,,,Alexandra Quehenberger,Lukas Thaurer,Johanna Kagerer,Lukas Stöbich
+Group Stage,Open Intermediate,Power Pool B,2,Single game,Trolli Trollbert,Ace Queens ElSa,Trolli Trollbert,23,21,,,,,Leon Limmer,Mascha Ruppel,Elisa Pilgram,Sara Pungor
+Group Stage,Open Intermediate,Power Pool A,3,Single game,CUTastrophe,MBT,CUTastrophe,21,10,,,,,Andi Gjergji,Hanna Mrak,Benedikt Lemler,Martin Schatzl
+Group Stage,Open Intermediate,Power Pool A,3,Single game,Jo Bee Net,Die Salzis,Jo Bee Net,21,8,,,,,Johannes Strigl,Bettina Meinhart,Johannes Gneist,Astrid Wimmer
+Group Stage,Open Intermediate,Power Pool B,3,Single game,die schnellen Brillen,Trolli Trollbert,die schnellen Brillen,21,13,,,,,Alexandra Quehenberger,Lukas Thaurer,Leon Limmer,Mascha Ruppel
+Group Stage,Open Intermediate,Power Pool B,3,Single game,Eier auf Spanisch,Ace Queens ElSa,Eier auf Spanisch,21,16,,,,,Tobias Moser,Thomas Stadler,Elisa Pilgram,Sara Pungor
+Group Stage,Open Intermediate,Power Pool A,4,Single game,Jo Bee Net,MBT,Jo Bee Net,21,9,,,,,Johannes Strigl,Bettina Meinhart,Benedikt Lemler,Martin Schatzl
+Group Stage,Open Intermediate,Power Pool A,4,Single game,FC Mathesport,Die Salzis,FC Mathesport,21,14,,,,,Lorena Montellano,johannes schierl,Johannes Gneist,Astrid Wimmer
+Group Stage,Open Intermediate,Power Pool B,4,Single game,Eier auf Spanisch,Trolli Trollbert,Eier auf Spanisch,21,14,,,,,Tobias Moser,Thomas Stadler,Leon Limmer,Mascha Ruppel
+Group Stage,Open Intermediate,Power Pool B,4,Single game,Oops!... We Hit It Again,Ace Queens ElSa,Oops!... We Hit It Again,21,18,,,,,Johanna Kagerer,Lukas Stöbich,Elisa Pilgram,Sara Pungor
+Group Stage,Open Intermediate,Power Pool A,5,Single game,CUTastrophe,Jo Bee Net,CUTastrophe,21,10,,,,,Andi Gjergji,Hanna Mrak,Johannes Strigl,Bettina Meinhart
+Group Stage,Open Intermediate,Power Pool A,5,Single game,MBT,FC Mathesport,FC Mathesport,22,24,,,,,Benedikt Lemler,Martin Schatzl,Lorena Montellano,johannes schierl
+Group Stage,Open Intermediate,Power Pool B,5,Single game,die schnellen Brillen,Eier auf Spanisch,die schnellen Brillen,21,15,,,,,Alexandra Quehenberger,Lukas Thaurer,Tobias Moser,Thomas Stadler
+Group Stage,Open Intermediate,Power Pool B,5,Single game,Trolli Trollbert,Oops!... We Hit It Again,Trolli Trollbert,21,18,,,,,Leon Limmer,Mascha Ruppel,Johanna Kagerer,Lukas Stöbich
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Oops!... We Hit It Again,Die Salzis,Oops!... We Hit It Again,15,8,15,1,,,Johanna Kagerer,Lukas Stöbich,Johannes Gneist,Astrid Wimmer
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,MBT,Ace Queens ElSa,Ace Queens ElSa,14,16,7,15,,,Benedikt Lemler,Martin Schatzl,Elisa Pilgram,Sara Pungor
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,CUTastrophe,Ace Queens ElSa,CUTastrophe,15,9,15,9,,,Andi Gjergji,Hanna Mrak,Elisa Pilgram,Sara Pungor
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,die schnellen Brillen,Oops!... We Hit It Again,die schnellen Brillen,15,12,15,11,,,Alexandra Quehenberger,Lukas Thaurer,Johanna Kagerer,Lukas Stöbich
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Jo Bee Net,Trolli Trollbert,Trolli Trollbert,13,21,13,15,,,Johannes Strigl,Bettina Meinhart,Leon Limmer,Mascha Ruppel
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Eier auf Spanisch,FC Mathesport,Eier auf Spanisch,15,9,15,7,,,Tobias Moser,Thomas Stadler,Lorena Montellano,johannes schierl
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,CUTastrophe,Eier auf Spanisch,CUTastrophe,15,7,15,8,,,Andi Gjergji,Hanna Mrak,Tobias Moser,Thomas Stadler
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,die schnellen Brillen,Trolli Trollbert,Trolli Trollbert,15,11,9,15,14,16,Alexandra Quehenberger,Lukas Thaurer,Leon Limmer,Mascha Ruppel
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,FC Mathesport,Ace Queens ElSa,Ace Queens ElSa,7,15,12,15,,,Lorena Montellano,johannes schierl,Elisa Pilgram,Sara Pungor
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,Jo Bee Net,Oops!... We Hit It Again,Jo Bee Net,10,15,15,10,15,11,Johannes Strigl,Bettina Meinhart,Johanna Kagerer,Lukas Stöbich
+Bracket Stage,Open Intermediate,Bracket A,Final,Best of 3,CUTastrophe,Trolli Trollbert,CUTastrophe,15,8,15,13,,,Andi Gjergji,Hanna Mrak,Leon Limmer,Mascha Ruppel
+Bracket Stage,Open Intermediate,Bracket A,P3: Final,Best of 3,die schnellen Brillen,Eier auf Spanisch,die schnellen Brillen,15,11,11,15,15,13,Alexandra Quehenberger,Lukas Thaurer,Tobias Moser,Thomas Stadler
+Bracket Stage,Open Intermediate,Bracket A,P5: Final,Best of 3,Ace Queens ElSa,Jo Bee Net,Jo Bee Net,11,15,11,15,,,Elisa Pilgram,Sara Pungor,Johannes Strigl,Bettina Meinhart
+Bracket Stage,Open Intermediate,Bracket A,P7: Final,Best of 3,Oops!... We Hit It Again,FC Mathesport,Oops!... We Hit It Again,15,8,17,15,,,Johanna Kagerer,Lukas Stöbich,Lorena Montellano,johannes schierl
+Bracket Stage,Open Intermediate,Bracket A,P9: Final,Best of 3,MBT,Die Salzis,MBT,15,10,15,10,,,Benedikt Lemler,Martin Schatzl,Johannes Gneist,Astrid Wimmer
+Group Stage,Open,Power Pool A,1,Single game,RCG Yin Yang,Rocket Man,RCG Yin Yang,15,7,,,,,Gabriel Stoisser,Mio Martens,Luca Low,Torben Schubert
+Group Stage,Open,Power Pool A,1,Single game,JoJanosaurus Speck,Gasser / Geyer,Gasser / Geyer,13,15,,,,,Jan-Peter Geringer,Johannes Hammermeister,Stefan Geyer,Gabriel Gasser
+Group Stage,Open,Power Pool B,1,Single game,Verpaulte Clementinen,Smash or pass,Smash or pass,10,15,,,,,Clemens Mahringer,Paul Gerrit Winkler,Pippin Bär,Timo Clees
+Group Stage,Open,Power Pool A,2,Single game,RCG Yin Yang,Gasser / Geyer,RCG Yin Yang,15,8,,,,,Gabriel Stoisser,Mio Martens,Stefan Geyer,Gabriel Gasser
+Group Stage,Open,Power Pool A,2,Single game,JoJanosaurus Speck,Rocket Man,JoJanosaurus Speck,15,10,,,,,Jan-Peter Geringer,Johannes Hammermeister,Luca Low,Torben Schubert
+Group Stage,Open,Power Pool B,2,Single game,Verpaulte Clementinen,Aerials,Aerials,19,21,,,,,Clemens Mahringer,Paul Gerrit Winkler,Marko Barbir,Simon Wayd
+Group Stage,Open,Power Pool A,3,Single game,RCG Yin Yang,JoJanosaurus Speck,RCG Yin Yang,15,10,,,,,Gabriel Stoisser,Mio Martens,Jan-Peter Geringer,Johannes Hammermeister
+Group Stage,Open,Power Pool A,3,Single game,Gasser / Geyer,Rocket Man,Gasser / Geyer,15,7,,,,,Stefan Geyer,Gabriel Gasser,Luca Low,Torben Schubert
+Group Stage,Open,Power Pool B,3,Single game,Aerials,Smash or pass,Smash or pass,12,15,,,,,Marko Barbir,Simon Wayd,Pippin Bär,Timo Clees
+Group Stage,Open,Power Pool A,4,Single game,RCG Yin Yang,Rocket Man,RCG Yin Yang,15,7,,,,,Gabriel Stoisser,Mio Martens,Luca Low,Torben Schubert
+Group Stage,Open,Power Pool A,4,Single game,JoJanosaurus Speck,Gasser / Geyer,Gasser / Geyer,6,15,,,,,Jan-Peter Geringer,Johannes Hammermeister,Stefan Geyer,Gabriel Gasser
+Group Stage,Open,Power Pool B,4,Single game,Verpaulte Clementinen,Smash or pass,Smash or pass,15,17,,,,,Clemens Mahringer,Paul Gerrit Winkler,Pippin Bär,Timo Clees
+Group Stage,Open,Power Pool A,5,Single game,RCG Yin Yang,Gasser / Geyer,RCG Yin Yang,15,13,,,,,Gabriel Stoisser,Mio Martens,Stefan Geyer,Gabriel Gasser
+Group Stage,Open,Power Pool A,5,Single game,JoJanosaurus Speck,Rocket Man,JoJanosaurus Speck,15,11,,,,,Jan-Peter Geringer,Johannes Hammermeister,Luca Low,Torben Schubert
+Group Stage,Open,Power Pool B,5,Single game,Verpaulte Clementinen,Aerials,Verpaulte Clementinen,15,10,,,,,Clemens Mahringer,Paul Gerrit Winkler,Marko Barbir,Simon Wayd
+Group Stage,Open,Power Pool A,6,Single game,RCG Yin Yang,JoJanosaurus Speck,RCG Yin Yang,15,10,,,,,Gabriel Stoisser,Mio Martens,Jan-Peter Geringer,Johannes Hammermeister
+Group Stage,Open,Power Pool A,6,Single game,Gasser / Geyer,Rocket Man,Gasser / Geyer,15,9,,,,,Stefan Geyer,Gabriel Gasser,Luca Low,Torben Schubert
+Group Stage,Open,Power Pool B,6,Single game,Aerials,Smash or pass,Aerials,15,11,,,,,Marko Barbir,Simon Wayd,Pippin Bär,Timo Clees
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Smash or pass,Rocket Man,Smash or pass,21,13,21,13,,,Pippin Bär,Timo Clees,Luca Low,Torben Schubert
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Gasser / Geyer,Verpaulte Clementinen,Verpaulte Clementinen,24,25,21,11,15,21,Stefan Geyer,Gabriel Gasser,Clemens Mahringer,Paul Gerrit Winkler
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Aerials,JoJanosaurus Speck,Aerials,21,15,21,18,,,Marko Barbir,Simon Wayd,Jan-Peter Geringer,Johannes Hammermeister
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,RCG Yin Yang,Aerials,RCG Yin Yang,21,13,21,17,,,Gabriel Stoisser,Mio Martens,Marko Barbir,Simon Wayd
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Smash or pass,Verpaulte Clementinen,Verpaulte Clementinen,14,21,15,21,,,Pippin Bär,Timo Clees,Clemens Mahringer,Paul Gerrit Winkler
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Gasser / Geyer,Rocket Man,Gasser / Geyer,15,11,15,10,,,Stefan Geyer,Gabriel Gasser,Luca Low,Torben Schubert
+Bracket Stage,Open,Bracket A,Final,Best of 3,RCG Yin Yang,Verpaulte Clementinen,RCG Yin Yang,21,14,21,16,,,Gabriel Stoisser,Mio Martens,Clemens Mahringer,Paul Gerrit Winkler
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,Smash or pass,Aerials,Aerials,15,21,21,19,18,21,Pippin Bär,Timo Clees,Marko Barbir,Simon Wayd
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,JoJanosaurus Speck,Gasser / Geyer,Gasser / Geyer,0,1,0,1,,,Jan-Peter Geringer,Johannes Hammermeister,Stefan Geyer,Gabriel Gasser

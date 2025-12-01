@@ -1,0 +1,81 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,STS Pro,Power Pool,1,Single game,Numb,Tilted,Numb,2,0,,,,,Paq Clifford,Kieran Rose,Justin Barr,Will Picone
+Pool Play,STS Pro,Power Pool,1,Single game,Cold Sweep,Bot House,Cold Sweep,2,0,,,,,Maxime Prince,Vincent Mathieu,West Peterson,Owen Lippman
+Pool Play,STS Pro,Power Pool,1,Single game,Eisenträger/Siemer,Bazzani/Borsotti,Eisenträger/Siemer,2,0,,,,,Paul Siemer,Eisenträger Lukas,Nicola Bazzani,Andrea Borsotti
+Pool Play,STS Pro,Power Pool,1,Single game,Insystem,V⚡️RGA,V⚡️RGA,1,1,,,,,Etienne Cote,Blake Bosak,Dawson Morgan,Caleb Cummings
+Pool Play,STS Pro,Power Pool,1,Single game,Extra,foolish,foolish,1,1,,,,,Jé Gagnon,Emerson Dean,Lucas Pruett,Sunny Gu
+Pool Play,STS Pro,Power Pool,1,Single game,Ultra Instinct,Kingdom Come,Ultra Instinct,2,0,,,,,Gabriel Finocchi,Thomas Hamilton,Matthew Cole,Grant Klapwijk
+Pool Play,STS Pro,Power Pool,1,Single game,Zwaffle everyone,Degenerates,Degenerates,1,1,,,,,Robin Florinda,Levi Vandaele,Thomas Hoffman,Jack coolbaugh
+Pool Play,STS Pro,Power Pool,1,Single game,TRP Spotless,J.A.R.V.I.S.,J.A.R.V.I.S.,1,1,,,,,Ryan Gross,Joe Bondi,Josh Fragiacomo,Connor Nelson
+Pool Play,STS Pro,Power Pool,2,Single game,Numb,Bot House,Bot House,1,1,,,,,Paq Clifford,Kieran Rose,West Peterson,Owen Lippman
+Pool Play,STS Pro,Power Pool,2,Single game,Cold Sweep,Tilted,Tilted,0,2,,,,,Maxime Prince,Vincent Mathieu,Justin Barr,Will Picone
+Pool Play,STS Pro,Power Pool,2,Single game,Eisenträger/Siemer,V⚡️RGA,V⚡️RGA,1,1,,,,,Paul Siemer,Eisenträger Lukas,Dawson Morgan,Caleb Cummings
+Pool Play,STS Pro,Power Pool,2,Single game,Insystem,Bazzani/Borsotti,Insystem,2,0,,,,,Etienne Cote,Blake Bosak,Nicola Bazzani,Andrea Borsotti
+Pool Play,STS Pro,Power Pool,2,Single game,Extra,Kingdom Come,Kingdom Come,1,1,,,,,Jé Gagnon,Emerson Dean,Matthew Cole,Grant Klapwijk
+Pool Play,STS Pro,Power Pool,2,Single game,Ultra Instinct,foolish,foolish,1,1,,,,,Gabriel Finocchi,Thomas Hamilton,Lucas Pruett,Sunny Gu
+Pool Play,STS Pro,Power Pool,2,Single game,Zwaffle everyone,J.A.R.V.I.S.,J.A.R.V.I.S.,0,2,,,,,Robin Florinda,Levi Vandaele,Josh Fragiacomo,Connor Nelson
+Pool Play,STS Pro,Power Pool,2,Single game,TRP Spotless,Degenerates,TRP Spotless,1,1,,,,,Ryan Gross,Joe Bondi,Thomas Hoffman,Jack coolbaugh
+Pool Play,STS Pro,Power Pool,3,Single game,Numb,Cold Sweep,Numb,2,0,,,,,Paq Clifford,Kieran Rose,Maxime Prince,Vincent Mathieu
+Pool Play,STS Pro,Power Pool,3,Single game,Bot House,Tilted,Bot House,2,0,,,,,West Peterson,Owen Lippman,Justin Barr,Will Picone
+Pool Play,STS Pro,Power Pool,3,Single game,Eisenträger/Siemer,Insystem,Eisenträger/Siemer,1,1,,,,,Paul Siemer,Eisenträger Lukas,Etienne Cote,Blake Bosak
+Pool Play,STS Pro,Power Pool,3,Single game,V⚡️RGA,Bazzani/Borsotti,V⚡️RGA,2,0,,,,,Dawson Morgan,Caleb Cummings,Nicola Bazzani,Andrea Borsotti
+Pool Play,STS Pro,Power Pool,3,Single game,Extra,Ultra Instinct,Ultra Instinct,0,2,,,,,Jé Gagnon,Emerson Dean,Gabriel Finocchi,Thomas Hamilton
+Pool Play,STS Pro,Power Pool,3,Single game,Kingdom Come,foolish,foolish,1,1,,,,,Matthew Cole,Grant Klapwijk,Lucas Pruett,Sunny Gu
+Pool Play,STS Pro,Power Pool,3,Single game,Zwaffle everyone,TRP Spotless,TRP Spotless,0,2,,,,,Robin Florinda,Levi Vandaele,Ryan Gross,Joe Bondi
+Pool Play,STS Pro,Power Pool,3,Single game,J.A.R.V.I.S.,Degenerates,J.A.R.V.I.S.,2,0,,,,,Josh Fragiacomo,Connor Nelson,Thomas Hoffman,Jack coolbaugh
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,Numb,Extra,Extra,16,21,21,16,18,21,Paq Clifford,Kieran Rose,Jé Gagnon,Emerson Dean
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,Eisenträger/Siemer,Zwaffle everyone,Eisenträger/Siemer,21,12,21,16,,,Paul Siemer,Eisenträger Lukas,Robin Florinda,Levi Vandaele
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,Ultra Instinct,Bazzani/Borsotti,Ultra Instinct,21,15,21,12,,,Gabriel Finocchi,Thomas Hamilton,Nicola Bazzani,Andrea Borsotti
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,J.A.R.V.I.S.,Cold Sweep,J.A.R.V.I.S.,21,18,21,12,,,Josh Fragiacomo,Connor Nelson,Maxime Prince,Vincent Mathieu
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,foolish,V⚡️RGA,V⚡️RGA,21,16,17,21,30,32,Lucas Pruett,Sunny Gu,Dawson Morgan,Caleb Cummings
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,TRP Spotless,Tilted,TRP Spotless,24,22,18,21,21,19,Ryan Gross,Joe Bondi,Justin Barr,Will Picone
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,Bot House,Kingdom Come,Kingdom Come,16,21,19,21,,,West Peterson,Owen Lippman,Matthew Cole,Grant Klapwijk
+Bracket Play,STS Pro,Bracket A,Round of 16,Best of 3,Insystem,Degenerates,Insystem,21,23,21,17,21,18,Etienne Cote,Blake Bosak,Thomas Hoffman,Jack coolbaugh
+Bracket Play,STS Pro,Bracket A,Quarter-final,Best of 3,Extra,Insystem,Insystem,23,21,17,22,16,21,Jé Gagnon,Emerson Dean,Etienne Cote,Blake Bosak
+Bracket Play,STS Pro,Bracket A,Quarter-final,Best of 3,Eisenträger/Siemer,Kingdom Come,Eisenträger/Siemer,21,18,21,18,,,Paul Siemer,Eisenträger Lukas,Matthew Cole,Grant Klapwijk
+Bracket Play,STS Pro,Bracket A,Quarter-final,Best of 3,Ultra Instinct,TRP Spotless,Ultra Instinct,21,13,21,14,,,Gabriel Finocchi,Thomas Hamilton,Ryan Gross,Joe Bondi
+Bracket Play,STS Pro,Bracket A,Quarter-final,Best of 3,J.A.R.V.I.S.,V⚡️RGA,J.A.R.V.I.S.,21,15,21,15,,,Josh Fragiacomo,Connor Nelson,Dawson Morgan,Caleb Cummings
+Bracket Play,STS Pro,Bracket A,Semi-final,Best of 3,Insystem,J.A.R.V.I.S.,J.A.R.V.I.S.,21,19,15,21,16,21,Etienne Cote,Blake Bosak,Josh Fragiacomo,Connor Nelson
+Bracket Play,STS Pro,Bracket A,Semi-final,Best of 3,Eisenträger/Siemer,Ultra Instinct,Ultra Instinct,19,21,19,21,,,Paul Siemer,Eisenträger Lukas,Gabriel Finocchi,Thomas Hamilton
+Bracket Play,STS Pro,Bracket A,Final,Best of 3,J.A.R.V.I.S.,Ultra Instinct,Ultra Instinct,24,26,18,21,,,Josh Fragiacomo,Connor Nelson,Gabriel Finocchi,Thomas Hamilton
+Bracket Play,STS Pro,Bracket A,P3: Final,Best of 3,Eisenträger/Siemer,Insystem,Eisenträger/Siemer,26,24,21,19,,,Paul Siemer,Eisenträger Lukas,Etienne Cote,Blake Bosak
+Pool Play,Women's Pro,Power Pool,1,Single game,Pierson/Phan,Golden Brown,Pierson/Phan,2,0,,,,,Katheleen Phan,Katie Pierson,Joanna Gould,Meagan Bown
+Pool Play,Women's Pro,Power Pool,1,Single game,Dino Riot 🦖,Soft Serve,Dino Riot 🦖,2,0,,,,,Rafaela Bastos,Laurence Vallée,Perrin York,Kayla Ngai
+Pool Play,Women's Pro,Power Pool,1,Single game,Nova,Gobby Girls,Nova,2,0,,,,,Inès Paysan,Laura Kunzelmann,Sara Bradshaw,Jordan Hemmen
+Pool Play,Women's Pro,Power Pool,1,Single game,ellelowe sebmarine,tiramisu,tiramisu,0,2,,,,,Elle Lowe,Sebastiani Kim,Megan Leybourne,Daniela Kadlec
+Pool Play,Women's Pro,Power Pool,1,Single game,KickStart,Semi-Aquatic Mammals of Action,KickStart,2,0,,,,,Karah Hui,Sarah Allen,Joelle Nguyen,Jhanaj Quispe
+Pool Play,Women's Pro,Power Pool,1,Single game,THUS Parabatai,Gapcha,Gapcha,1,1,,,,,Kayla Wu-Fleming,Kalin Morgan,Janet Leung,Dianne Fonseca
+Pool Play,Women's Pro,Power Pool,1,Single game,Chitty Bang,Twist My Arm,Chitty Bang,2,0,,,,,Lou Washburn,Ronja Lorenz,Ally Neidermyer,Ava Caron
+Pool Play,Women's Pro,Power Pool,1,Single game,TWINZ,Carry Set,Carry Set,1,1,,,,,Olivia Jenki,Ali Jenki,Malia Wanderer,Abigale Lamontagne
+Pool Play,Women's Pro,Power Pool,2,Single game,Pierson/Phan,Soft Serve,Pierson/Phan,2,0,,,,,Katheleen Phan,Katie Pierson,Perrin York,Kayla Ngai
+Pool Play,Women's Pro,Power Pool,2,Single game,Dino Riot 🦖,Golden Brown,Dino Riot 🦖,2,0,,,,,Rafaela Bastos,Laurence Vallée,Joanna Gould,Meagan Bown
+Pool Play,Women's Pro,Power Pool,2,Single game,Nova,tiramisu,Nova,2,0,,,,,Inès Paysan,Laura Kunzelmann,Megan Leybourne,Daniela Kadlec
+Pool Play,Women's Pro,Power Pool,2,Single game,ellelowe sebmarine,Gobby Girls,ellelowe sebmarine,2,0,,,,,Elle Lowe,Sebastiani Kim,Sara Bradshaw,Jordan Hemmen
+Pool Play,Women's Pro,Power Pool,2,Single game,KickStart,Gapcha,Gapcha,0,2,,,,,Karah Hui,Sarah Allen,Janet Leung,Dianne Fonseca
+Pool Play,Women's Pro,Power Pool,2,Single game,THUS Parabatai,Semi-Aquatic Mammals of Action,THUS Parabatai,2,0,,,,,Kayla Wu-Fleming,Kalin Morgan,Joelle Nguyen,Jhanaj Quispe
+Pool Play,Women's Pro,Power Pool,2,Single game,Chitty Bang,Carry Set,Chitty Bang,1,1,,,,,Lou Washburn,Ronja Lorenz,Malia Wanderer,Abigale Lamontagne
+Pool Play,Women's Pro,Power Pool,2,Single game,TWINZ,Twist My Arm,TWINZ,2,0,,,,,Olivia Jenki,Ali Jenki,Ally Neidermyer,Ava Caron
+Pool Play,Women's Pro,Power Pool,3,Single game,Pierson/Phan,Dino Riot 🦖,Dino Riot 🦖,1,1,,,,,Katheleen Phan,Katie Pierson,Rafaela Bastos,Laurence Vallée
+Pool Play,Women's Pro,Power Pool,3,Single game,Soft Serve,Golden Brown,Soft Serve,2,0,,,,,Perrin York,Kayla Ngai,Joanna Gould,Meagan Bown
+Pool Play,Women's Pro,Power Pool,3,Single game,Nova,ellelowe sebmarine,Nova,2,0,,,,,Inès Paysan,Laura Kunzelmann,Elle Lowe,Sebastiani Kim
+Pool Play,Women's Pro,Power Pool,3,Single game,tiramisu,Gobby Girls,tiramisu,2,0,,,,,Megan Leybourne,Daniela Kadlec,Sara Bradshaw,Jordan Hemmen
+Pool Play,Women's Pro,Power Pool,3,Single game,KickStart,THUS Parabatai,THUS Parabatai,1,1,,,,,Karah Hui,Sarah Allen,Kayla Wu-Fleming,Kalin Morgan
+Pool Play,Women's Pro,Power Pool,3,Single game,Gapcha,Semi-Aquatic Mammals of Action,Gapcha,2,0,,,,,Janet Leung,Dianne Fonseca,Joelle Nguyen,Jhanaj Quispe
+Pool Play,Women's Pro,Power Pool,3,Single game,Chitty Bang,TWINZ,TWINZ,1,1,,,,,Lou Washburn,Ronja Lorenz,Olivia Jenki,Ali Jenki
+Pool Play,Women's Pro,Power Pool,3,Single game,Carry Set,Twist My Arm,Carry Set,2,0,,,,,Malia Wanderer,Abigale Lamontagne,Ally Neidermyer,Ava Caron
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,Pierson/Phan,Semi-Aquatic Mammals of Action,Pierson/Phan,21,18,21,18,,,Katheleen Phan,Katie Pierson,Joelle Nguyen,Jhanaj Quispe
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,Nova,Twist My Arm,Nova,21,6,21,7,,,Inès Paysan,Laura Kunzelmann,Ally Neidermyer,Ava Caron
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,Gapcha,Gobby Girls,Gapcha,21,17,21,15,,,Janet Leung,Dianne Fonseca,Sara Bradshaw,Jordan Hemmen
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,TWINZ,Golden Brown,TWINZ,21,11,21,11,,,Olivia Jenki,Ali Jenki,Joanna Gould,Meagan Bown
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,THUS Parabatai,ellelowe sebmarine,THUS Parabatai,21,17,21,19,,,Kayla Wu-Fleming,Kalin Morgan,Elle Lowe,Sebastiani Kim
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,Carry Set,Soft Serve,Carry Set,16,21,21,17,21,17,Malia Wanderer,Abigale Lamontagne,Perrin York,Kayla Ngai
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,Dino Riot 🦖,KickStart,KickStart,16,21,21,19,15,21,Rafaela Bastos,Laurence Vallée,Karah Hui,Sarah Allen
+Bracket Play,Women's Pro,Bracket A,Round of 16,Best of 3,tiramisu,Chitty Bang,tiramisu,21,16,21,19,,,Megan Leybourne,Daniela Kadlec,Lou Washburn,Ronja Lorenz
+Bracket Play,Women's Pro,Bracket A,Quarter-final,Best of 3,Pierson/Phan,tiramisu,Pierson/Phan,21,16,22,20,,,Katheleen Phan,Katie Pierson,Megan Leybourne,Daniela Kadlec
+Bracket Play,Women's Pro,Bracket A,Quarter-final,Best of 3,Nova,KickStart,Nova,18,21,21,15,21,15,Inès Paysan,Laura Kunzelmann,Karah Hui,Sarah Allen
+Bracket Play,Women's Pro,Bracket A,Quarter-final,Best of 3,Gapcha,Carry Set,Carry Set,19,21,18,21,,,Janet Leung,Dianne Fonseca,Malia Wanderer,Abigale Lamontagne
+Bracket Play,Women's Pro,Bracket A,Quarter-final,Best of 3,TWINZ,THUS Parabatai,THUS Parabatai,17,21,21,16,19,21,Olivia Jenki,Ali Jenki,Kayla Wu-Fleming,Kalin Morgan
+Bracket Play,Women's Pro,Bracket A,Semi-final,Best of 3,Pierson/Phan,THUS Parabatai,Pierson/Phan,21,18,12,21,21,18,Katheleen Phan,Katie Pierson,Kayla Wu-Fleming,Kalin Morgan
+Bracket Play,Women's Pro,Bracket A,Semi-final,Best of 3,Nova,Carry Set,Nova,21,13,21,14,,,Inès Paysan,Laura Kunzelmann,Malia Wanderer,Abigale Lamontagne
+Bracket Play,Women's Pro,Bracket A,Final,Best of 3,Pierson/Phan,Nova,Nova,12,21,19,21,,,Katheleen Phan,Katie Pierson,Inès Paysan,Laura Kunzelmann
+Bracket Play,Women's Pro,Bracket A,P3: Final,Best of 3,Carry Set,THUS Parabatai,THUS Parabatai,17,21,22,24,,,Malia Wanderer,Abigale Lamontagne,Kayla Wu-Fleming,Kalin Morgan

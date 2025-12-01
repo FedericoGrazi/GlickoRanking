@@ -1,0 +1,94 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Group A,1,Single game,Blackout,Team Struppi,Blackout,1,0,,,,,Gabriel Stoisser,Vincent Mathieu,Sebastian Fritsche,Werner Kaufmann
+Group Stage,Open,Group A,1,Single game,INES/TOPS,Sailball Smashers,INES/TOPS,15,8,,,,,Ines Kornek,Thomas Pschaid,Jürgen  Platl,Fabian Konstantiniuk
+Group Stage,Open,Group B,1,Single game,RCG Powerline,Amsch und Emsch,RCG Powerline,1,0,,,,,Nelson Dziruni,Benjamin Bachler,Emma Schmidt,Amelie Schmidt
+Group Stage,Open,Group B,1,Single game,Ultra Instinct,Blues Brothers,Ultra Instinct,22,20,,,,,Maher Saadeddin,Sebi Mezzey,Christoph Lorenzoni,Thimo R
+Group Stage,Open,Group C,1,Single game,czech-aut time,Tiny Typhoons,czech-aut time,21,3,,,,,David Jindra,Ondřej Čejka,Philipp Stern,Nico Hirczy
+Group Stage,Open,Group C,1,Single game,Aerials,Teamname schwierigstes,Aerials,1,0,,,,,Paul Weber,Marko Barbir,Tamara Sundl,Lisa Höglinger
+Group Stage,Open,Group D,1,Single game,Vienna Outskirts,Üza,Vienna Outskirts,1,0,,,,,Jaroslav Čabala,Ondřej Žák,Mohamad Akil,Maximilian Marterer
+Group Stage,Open,Group D,1,Single game,Duracell Hasis,Pocket Science,Duracell Hasis,21,14,,,,,Julia Stranzl,David Leidenfrost,David Gruber,Michael Hudimast
+Group Stage,Open,Group E,1,Single game,2nd Time Lucky,Mucki,2nd Time Lucky,21,19,,,,,Constanze Lehner,Scott Beeks,Yasmin Graeter,Angelika Bauer
+Group Stage,Open,Group E,1,Single game,Schmidt Wein,Freitagabend,Schmidt Wein,1,0,,,,,Andreas Reisenhofer,Willy Fedder,Elisabeth Ferstl,Another Austrian Person
+Group Stage,Open,Group A,2,Single game,Blackout,Sailball Smashers,Blackout,1,0,,,,,Gabriel Stoisser,Vincent Mathieu,Jürgen  Platl,Fabian Konstantiniuk
+Group Stage,Open,Group A,2,Single game,Rage Cage,Team Struppi,Rage Cage,1,0,,,,,Stefan Geyer,Dario Sommer,Sebastian Fritsche,Werner Kaufmann
+Group Stage,Open,Group B,2,Single game,RCG Powerline,Blues Brothers,RCG Powerline,21,10,,,,,Nelson Dziruni,Benjamin Bachler,Christoph Lorenzoni,Thimo R
+Group Stage,Open,Group B,2,Single game,ROU - Bob/Gyergyoi,Amsch und Emsch,ROU - Bob/Gyergyoi,1,0,,,,,Paolo Petrie,Irina Bob,Emma Schmidt,Amelie Schmidt
+Group Stage,Open,Group C,2,Single game,czech-aut time,Teamname schwierigstes,czech-aut time,1,0,,,,,David Jindra,Ondřej Čejka,Tamara Sundl,Lisa Höglinger
+Group Stage,Open,Group C,2,Single game,RCG Kannst mi ma,Tiny Typhoons,RCG Kannst mi ma,25,24,,,,,Michel L.,Matthias Huber,Philipp Stern,Nico Hirczy
+Group Stage,Open,Group D,2,Single game,Vienna Outskirts,Pocket Science,Vienna Outskirts,21,13,,,,,Jaroslav Čabala,Ondřej Žák,David Gruber,Michael Hudimast
+Group Stage,Open,Group D,2,Single game,Triple T,Üza,Triple T,1,0,,,,,Christoph Schellander,Thomas Wasserer,Mohamad Akil,Maximilian Marterer
+Group Stage,Open,Group E,2,Single game,2nd Time Lucky,Freitagabend,2nd Time Lucky,1,0,,,,,Constanze Lehner,Scott Beeks,Elisabeth Ferstl,Another Austrian Person
+Group Stage,Open,Group E,2,Single game,Fajitas,Mucki,Fajitas,21,14,,,,,James Faustmann,Fabian Hagen,Yasmin Graeter,Angelika Bauer
+Group Stage,Open,Group A,3,Single game,Blackout,Rage Cage,Blackout,21,12,,,,,Gabriel Stoisser,Vincent Mathieu,Stefan Geyer,Dario Sommer
+Group Stage,Open,Group A,3,Single game,INES/TOPS,Team Struppi,INES/TOPS,1,0,,,,,Ines Kornek,Thomas Pschaid,Sebastian Fritsche,Werner Kaufmann
+Group Stage,Open,Group B,3,Single game,RCG Powerline,ROU - Bob/Gyergyoi,RCG Powerline,21,5,,,,,Nelson Dziruni,Benjamin Bachler,Paolo Petrie,Irina Bob
+Group Stage,Open,Group B,3,Single game,Ultra Instinct,Amsch und Emsch,Ultra Instinct,1,0,,,,,Maher Saadeddin,Sebi Mezzey,Emma Schmidt,Amelie Schmidt
+Group Stage,Open,Group C,3,Single game,czech-aut time,RCG Kannst mi ma,czech-aut time,21,9,,,,,David Jindra,Ondřej Čejka,Michel L.,Matthias Huber
+Group Stage,Open,Group C,3,Single game,Aerials,Tiny Typhoons,Aerials,21,11,,,,,Paul Weber,Marko Barbir,Philipp Stern,Nico Hirczy
+Group Stage,Open,Group D,3,Single game,Vienna Outskirts,Triple T,Vienna Outskirts,21,15,,,,,Jaroslav Čabala,Ondřej Žák,Christoph Schellander,Thomas Wasserer
+Group Stage,Open,Group D,3,Single game,Duracell Hasis,Üza,Duracell Hasis,1,0,,,,,Julia Stranzl,David Leidenfrost,Mohamad Akil,Maximilian Marterer
+Group Stage,Open,Group E,3,Single game,2nd Time Lucky,Fajitas,2nd Time Lucky,21,15,,,,,Constanze Lehner,Scott Beeks,James Faustmann,Fabian Hagen
+Group Stage,Open,Group E,3,Single game,Schmidt Wein,Mucki,Schmidt Wein,21,18,,,,,Andreas Reisenhofer,Willy Fedder,Yasmin Graeter,Angelika Bauer
+Group Stage,Open,Group A,4,Single game,INES/TOPS,Rage Cage,INES/TOPS,21,17,,,,,Ines Kornek,Thomas Pschaid,Stefan Geyer,Dario Sommer
+Group Stage,Open,Group A,4,Single game,Sailball Smashers,Team Struppi,Team Struppi,0,1,,,,,Jürgen  Platl,Fabian Konstantiniuk,Sebastian Fritsche,Werner Kaufmann
+Group Stage,Open,Group B,4,Single game,Ultra Instinct,ROU - Bob/Gyergyoi,Ultra Instinct,21,10,,,,,Maher Saadeddin,Sebi Mezzey,Paolo Petrie,Irina Bob
+Group Stage,Open,Group B,4,Single game,Blues Brothers,Amsch und Emsch,Blues Brothers,1,0,,,,,Christoph Lorenzoni,Thimo R,Emma Schmidt,Amelie Schmidt
+Group Stage,Open,Group C,4,Single game,Aerials,RCG Kannst mi ma,Aerials,21,18,,,,,Paul Weber,Marko Barbir,Michel L.,Matthias Huber
+Group Stage,Open,Group C,4,Single game,Teamname schwierigstes,Tiny Typhoons,Teamname schwierigstes,1,0,,,,,Tamara Sundl,Lisa Höglinger,Philipp Stern,Nico Hirczy
+Group Stage,Open,Group D,4,Single game,Duracell Hasis,Triple T,Duracell Hasis,21,12,,,,,Julia Stranzl,David Leidenfrost,Christoph Schellander,Thomas Wasserer
+Group Stage,Open,Group D,4,Single game,Pocket Science,Üza,Pocket Science,1,0,,,,,David Gruber,Michael Hudimast,Mohamad Akil,Maximilian Marterer
+Group Stage,Open,Group E,4,Single game,Schmidt Wein,Fajitas,Schmidt Wein,24,22,,,,,Andreas Reisenhofer,Willy Fedder,James Faustmann,Fabian Hagen
+Group Stage,Open,Group E,4,Single game,Freitagabend,Mucki,Mucki,17,21,,,,,Elisabeth Ferstl,Another Austrian Person,Yasmin Graeter,Angelika Bauer
+Group Stage,Open,Group A,5,Single game,Blackout,INES/TOPS,Blackout,21,18,,,,,Gabriel Stoisser,Vincent Mathieu,Ines Kornek,Thomas Pschaid
+Group Stage,Open,Group A,5,Single game,Rage Cage,Sailball Smashers,Rage Cage,21,15,,,,,Stefan Geyer,Dario Sommer,Jürgen  Platl,Fabian Konstantiniuk
+Group Stage,Open,Group B,5,Single game,RCG Powerline,Ultra Instinct,RCG Powerline,21,19,,,,,Nelson Dziruni,Benjamin Bachler,Maher Saadeddin,Sebi Mezzey
+Group Stage,Open,Group B,5,Single game,ROU - Bob/Gyergyoi,Blues Brothers,Blues Brothers,14,21,,,,,Paolo Petrie,Irina Bob,Christoph Lorenzoni,Thimo R
+Group Stage,Open,Group C,5,Single game,czech-aut time,Aerials,Aerials,17,21,,,,,David Jindra,Ondřej Čejka,Paul Weber,Marko Barbir
+Group Stage,Open,Group C,5,Single game,RCG Kannst mi ma,Teamname schwierigstes,RCG Kannst mi ma,21,14,,,,,Michel L.,Matthias Huber,Tamara Sundl,Lisa Höglinger
+Group Stage,Open,Group D,5,Single game,Vienna Outskirts,Duracell Hasis,Vienna Outskirts,21,9,,,,,Jaroslav Čabala,Ondřej Žák,Julia Stranzl,David Leidenfrost
+Group Stage,Open,Group D,5,Single game,Triple T,Pocket Science,Triple T,21,15,,,,,Christoph Schellander,Thomas Wasserer,David Gruber,Michael Hudimast
+Group Stage,Open,Group E,5,Single game,2nd Time Lucky,Schmidt Wein,2nd Time Lucky,21,14,,,,,Constanze Lehner,Scott Beeks,Andreas Reisenhofer,Willy Fedder
+Group Stage,Open,Group E,5,Single game,Fajitas,Freitagabend,Fajitas,1,0,,,,,James Faustmann,Fabian Hagen,Elisabeth Ferstl,Another Austrian Person
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,RCG Kannst mi ma,Tiny Typhoons,RCG Kannst mi ma,15,9,17,15,,,Michel L.,Matthias Huber,Philipp Stern,Nico Hirczy
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Triple T,ROU - Bob/Gyergyoi,ROU - Bob/Gyergyoi,15,17,15,9,12,15,Christoph Schellander,Thomas Wasserer,Paolo Petrie,Irina Bob
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Mucki,Pocket Science,Mucki,15,11,13,15,15,11,Yasmin Graeter,Angelika Bauer,David Gruber,Michael Hudimast
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,RCG Powerline,Mucki,RCG Powerline,15,6,15,9,,,Nelson Dziruni,Benjamin Bachler,Yasmin Graeter,Angelika Bauer
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Blackout,ROU - Bob/Gyergyoi,Blackout,15,11,15,13,,,Gabriel Stoisser,Vincent Mathieu,Paolo Petrie,Irina Bob
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Vienna Outskirts,RCG Kannst mi ma,Vienna Outskirts,15,10,15,10,,,Jaroslav Čabala,Ondřej Žák,Michel L.,Matthias Huber
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Aerials,Rage Cage,Aerials,17,15,16,14,,,Paul Weber,Marko Barbir,Stefan Geyer,Dario Sommer
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,2nd Time Lucky,Blues Brothers,2nd Time Lucky,15,11,15,13,,,Constanze Lehner,Scott Beeks,Christoph Lorenzoni,Thimo R
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,czech-aut time,Fajitas,czech-aut time,15,11,15,9,,,David Jindra,Ondřej Čejka,James Faustmann,Fabian Hagen
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Ultra Instinct,Schmidt Wein,Ultra Instinct,15,11,15,13,,,Maher Saadeddin,Sebi Mezzey,Andreas Reisenhofer,Willy Fedder
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,INES/TOPS,Duracell Hasis,INES/TOPS,15,13,15,9,,,Ines Kornek,Thomas Pschaid,Julia Stranzl,David Leidenfrost
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,RCG Powerline,INES/TOPS,RCG Powerline,21,11,21,15,,,Nelson Dziruni,Benjamin Bachler,Ines Kornek,Thomas Pschaid
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Blackout,Ultra Instinct,Blackout,21,12,21,18,,,Gabriel Stoisser,Vincent Mathieu,Maher Saadeddin,Sebi Mezzey
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Vienna Outskirts,czech-aut time,czech-aut time,15,21,16,21,,,Jaroslav Čabala,Ondřej Žák,David Jindra,Ondřej Čejka
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Aerials,2nd Time Lucky,Aerials,21,16,16,21,21,18,Paul Weber,Marko Barbir,Constanze Lehner,Scott Beeks
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Duracell Hasis,Mucki,Duracell Hasis,1,0,,,,,Julia Stranzl,David Leidenfrost,Yasmin Graeter,Angelika Bauer
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Schmidt Wein,ROU - Bob/Gyergyoi,Schmidt Wein,2,1,1,2,2,1,Andreas Reisenhofer,Willy Fedder,Paolo Petrie,Irina Bob
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Fajitas,RCG Kannst mi ma,Fajitas,15,11,,,,,James Faustmann,Fabian Hagen,Michel L.,Matthias Huber
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Blues Brothers,Rage Cage,Rage Cage,14,16,,,,,Christoph Lorenzoni,Thimo R,Stefan Geyer,Dario Sommer
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,RCG Powerline,Aerials,RCG Powerline,21,14,21,12,,,Nelson Dziruni,Benjamin Bachler,Paul Weber,Marko Barbir
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Blackout,czech-aut time,Blackout,21,13,25,23,,,Gabriel Stoisser,Vincent Mathieu,David Jindra,Ondřej Čejka
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,2nd Time Lucky,INES/TOPS,2nd Time Lucky,2,0,,,,,Constanze Lehner,Scott Beeks,Ines Kornek,Thomas Pschaid
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,Vienna Outskirts,Ultra Instinct,Ultra Instinct,0,2,,,,,Jaroslav Čabala,Ondřej Žák,Maher Saadeddin,Sebi Mezzey
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,Duracell Hasis,Rage Cage,Duracell Hasis,2,0,,,,,Julia Stranzl,David Leidenfrost,Stefan Geyer,Dario Sommer
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,Schmidt Wein,Fajitas,Schmidt Wein,2,1,1,2,2,1,Andreas Reisenhofer,Willy Fedder,James Faustmann,Fabian Hagen
+Bracket Stage,Open,Bracket A,P13: Semi-final,Single game,Blues Brothers,Mucki,Blues Brothers,2,1,1,2,2,1,Christoph Lorenzoni,Thimo R,Yasmin Graeter,Angelika Bauer
+Bracket Stage,Open,Bracket A,P13: Semi-final,Single game,RCG Kannst mi ma,ROU - Bob/Gyergyoi,ROU - Bob/Gyergyoi,0,1,,,,,Michel L.,Matthias Huber,Paolo Petrie,Irina Bob
+Bracket Stage,Open,Bracket A,P17: Semi-final,Single game,Triple T,Tiny Typhoons,Tiny Typhoons,0,2,,,,,Christoph Schellander,Thomas Wasserer,Philipp Stern,Nico Hirczy
+Bracket Stage,Open,Bracket A,Final,Best of 3,RCG Powerline,Blackout,RCG Powerline,17,21,21,19,21,17,Nelson Dziruni,Benjamin Bachler,Gabriel Stoisser,Vincent Mathieu
+Bracket Stage,Open,Bracket A,P3: Final,Single game,czech-aut time,Aerials,czech-aut time,21,13,,,,,David Jindra,Ondřej Čejka,Paul Weber,Marko Barbir
+Bracket Stage,Open,Bracket A,P5: Final,Single game,2nd Time Lucky,Ultra Instinct,Ultra Instinct,0,1,,,,,Constanze Lehner,Scott Beeks,Maher Saadeddin,Sebi Mezzey
+Bracket Stage,Open,Bracket A,P7: Final,Single game,Vienna Outskirts,INES/TOPS,INES/TOPS,0,1,,,,,Jaroslav Čabala,Ondřej Žák,Ines Kornek,Thomas Pschaid
+Bracket Stage,Open,Bracket A,P9: Final,Single game,Duracell Hasis,Schmidt Wein,Duracell Hasis,2,0,,,,,Julia Stranzl,David Leidenfrost,Andreas Reisenhofer,Willy Fedder
+Bracket Stage,Open,Bracket A,P11: Final,Single game,Fajitas,Rage Cage,Rage Cage,0,2,,,,,James Faustmann,Fabian Hagen,Stefan Geyer,Dario Sommer
+Bracket Stage,Open,Bracket A,P13: Final,Single game,Blues Brothers,ROU - Bob/Gyergyoi,Blues Brothers,1,0,,,,,Christoph Lorenzoni,Thimo R,Paolo Petrie,Irina Bob
+Bracket Stage,Open,Bracket A,P17: Final,Single game,Pocket Science,Tiny Typhoons,Tiny Typhoons,0,2,,,,,David Gruber,Michael Hudimast,Philipp Stern,Nico Hirczy
+Bracket Stage,Open,Bracket B,Quarter-final,Single game,Team Struppi,Sailball Smashers,Sailball Smashers,0,2,,,,,Werner Kaufmann,Sebastian Fritsche,Jürgen  Platl,Fabian Konstantiniuk
+Bracket Stage,Open,Bracket B,Quarter-final,Single game,Üza,Amsch und Emsch,Üza,2,0,,,,,Mohamad Akil,Maximilian Marterer,Amelie Schmidt,Emma Schmidt
+Bracket Stage,Open,Bracket B,Semi-final,Single game,Teamname schwierigstes,Üza,Teamname schwierigstes,2,0,,,,,Tamara Sundl,Lisa Höglinger,Mohamad Akil,Maximilian Marterer
+Bracket Stage,Open,Bracket B,Semi-final,Single game,Freitagabend,Sailball Smashers,Sailball Smashers,0,2,,,,,Elisabeth Ferstl,Another Austrian Person,Jürgen  Platl,Fabian Konstantiniuk
+Bracket Stage,Open,Bracket B,Final,Single game,Teamname schwierigstes,Sailball Smashers,Sailball Smashers,0,1,,,,,Tamara Sundl,Lisa Höglinger,Jürgen  Platl,Fabian Konstantiniuk
+Bracket Stage,Open,Bracket B,P3: Final,Single game,Freitagabend,Üza,Freitagabend,2,0,,,,,Elisabeth Ferstl,Another Austrian Person,Mohamad Akil,Maximilian Marterer
+Bracket Stage,Open,Bracket B,P5: Final,Single game,Amsch und Emsch,Team Struppi,Team Struppi,0,1,,,,,Amelie Schmidt,Emma Schmidt,Werner Kaufmann,Sebastian Fritsche

@@ -1,0 +1,79 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Intermediate,Power Pool A,1,Single game,Hit on 2 Push Up Crew,Besamung,Hit on 2 Push Up Crew,21,8,,,,,Lukas Thaurer,Kristof Hammerer,Samuel Znidar,Benedikt Lemler
+Group Stage,Open Intermediate,Power Pool A,1,Single game,Blackberrys,Dromedar 1,Blackberrys,21,18,,,,,Bernhard Bauer,Moritz Weißenbäck,Timo Nesensohn,Julian Oberhauser
+Group Stage,Open Intermediate,Power Pool B,1,Single game,Steht noch nicht fest,Steingasse,Steht noch nicht fest,21,10,,,,,Liam Hiscox,Rabea Schalinski,Raphael Morell,TIBOR SKRZYDLO
+Group Stage,Open Intermediate,Power Pool B,1,Single game,Rocket Man,Dromedar 2,Rocket Man,21,13,,,,,Torben Schubert,Joscha Witzel,Tobias Gstach,Maximilian Jenny
+Group Stage,Open Intermediate,Power Pool C,1,Single game,Dromedar 3,G‘mischter Satz,G‘mischter Satz,18,21,,,,,Konstantin Vergianitis,Johannes Klapper,Alexander Winkler,Johanna Kagerer
+Group Stage,Open Intermediate,Power Pool C,1,Single game,Betty und Elfi,Die Danebenhauer,Betty und Elfi,21,5,,,,,Finn Berger,Niklas Nussbaumer,Christoph Rippel,Mario Pils
+Group Stage,Open Intermediate,Power Pool A,2,Single game,Hit on 2 Push Up Crew,Dromedar 1,Hit on 2 Push Up Crew,21,12,,,,,Lukas Thaurer,Kristof Hammerer,Timo Nesensohn,Julian Oberhauser
+Group Stage,Open Intermediate,Power Pool A,2,Single game,Blackberrys,Besamung,Blackberrys,21,15,,,,,Bernhard Bauer,Moritz Weißenbäck,Samuel Znidar,Benedikt Lemler
+Group Stage,Open Intermediate,Power Pool B,2,Single game,Steht noch nicht fest,Dromedar 2,Steht noch nicht fest,21,4,,,,,Liam Hiscox,Rabea Schalinski,Tobias Gstach,Maximilian Jenny
+Group Stage,Open Intermediate,Power Pool B,2,Single game,Rocket Man,Steingasse,Rocket Man,21,15,,,,,Torben Schubert,Joscha Witzel,Raphael Morell,TIBOR SKRZYDLO
+Group Stage,Open Intermediate,Power Pool C,2,Single game,Dromedar 3,Die Danebenhauer,Dromedar 3,21,8,,,,,Konstantin Vergianitis,Johannes Klapper,Christoph Rippel,Mario Pils
+Group Stage,Open Intermediate,Power Pool C,2,Single game,Betty und Elfi,G‘mischter Satz,G‘mischter Satz,7,21,,,,,Finn Berger,Niklas Nussbaumer,Alexander Winkler,Johanna Kagerer
+Group Stage,Open Intermediate,Power Pool A,3,Single game,Hit on 2 Push Up Crew,Blackberrys,Hit on 2 Push Up Crew,21,9,,,,,Lukas Thaurer,Kristof Hammerer,Bernhard Bauer,Moritz Weißenbäck
+Group Stage,Open Intermediate,Power Pool A,3,Single game,Dromedar 1,Besamung,Dromedar 1,23,21,,,,,Timo Nesensohn,Julian Oberhauser,Samuel Znidar,Benedikt Lemler
+Group Stage,Open Intermediate,Power Pool B,3,Single game,Steht noch nicht fest,Rocket Man,Steht noch nicht fest,21,18,,,,,Liam Hiscox,Rabea Schalinski,Torben Schubert,Joscha Witzel
+Group Stage,Open Intermediate,Power Pool B,3,Single game,Dromedar 2,Steingasse,Steingasse,10,21,,,,,Tobias Gstach,Maximilian Jenny,Raphael Morell,TIBOR SKRZYDLO
+Group Stage,Open Intermediate,Power Pool C,3,Single game,Dromedar 3,Betty und Elfi,Dromedar 3,21,10,,,,,Konstantin Vergianitis,Johannes Klapper,Finn Berger,Niklas Nussbaumer
+Group Stage,Open Intermediate,Power Pool C,3,Single game,Die Danebenhauer,G‘mischter Satz,G‘mischter Satz,4,21,,,,,Christoph Rippel,Mario Pils,Alexander Winkler,Johanna Kagerer
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Rocket Man,Die Danebenhauer,Rocket Man,1,0,1,0,,,Torben Schubert,Joscha Witzel,Christoph Rippel,Mario Pils
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Blackberrys,Dromedar 2,Blackberrys,15,7,15,12,,,Bernhard Bauer,Moritz Weißenbäck,Tobias Gstach,Maximilian Jenny
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Steingasse,Besamung,Steingasse,15,11,15,10,,,Raphael Morell,TIBOR SKRZYDLO,Samuel Znidar,Benedikt Lemler
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Betty und Elfi,Dromedar 1,Dromedar 1,0,1,0,1,,,Finn Berger,Niklas Nussbaumer,Timo Nesensohn,Julian Oberhauser
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Single game,Hit on 2 Push Up Crew,Dromedar 1,Hit on 2 Push Up Crew,2,0,,,,,Lukas Thaurer,Kristof Hammerer,Timo Nesensohn,Julian Oberhauser
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Single game,G‘mischter Satz,Steingasse,G‘mischter Satz,2,0,,,,,Alexander Winkler,Johanna Kagerer,Raphael Morell,TIBOR SKRZYDLO
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Single game,Steht noch nicht fest,Blackberrys,Steht noch nicht fest,2,0,,,,,Liam Hiscox,Rabea Schalinski,Bernhard Bauer,Moritz Weißenbäck
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Single game,Dromedar 3,Rocket Man,Rocket Man,0,2,,,,,Konstantin Vergianitis,Johannes Klapper,Torben Schubert,Joscha Witzel
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Single game,Hit on 2 Push Up Crew,Rocket Man,Hit on 2 Push Up Crew,2,0,,,,,Lukas Thaurer,Kristof Hammerer,Torben Schubert,Joscha Witzel
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Single game,G‘mischter Satz,Steht noch nicht fest,Steht noch nicht fest,1,2,,,,,Alexander Winkler,Johanna Kagerer,Liam Hiscox,Rabea Schalinski
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Single game,Dromedar 3,Dromedar 1,Dromedar 1,1,2,,,,,Konstantin Vergianitis,Johannes Klapper,Timo Nesensohn,Julian Oberhauser
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Single game,Blackberrys,Steingasse,Steingasse,1,2,,,,,Bernhard Bauer,Moritz Weißenbäck,Raphael Morell,TIBOR SKRZYDLO
+Bracket Stage,Open Intermediate,Bracket A,P9: Semi-final,Single game,Betty und Elfi,Die Danebenhauer,Betty und Elfi,2,0,,,,,Finn Berger,Niklas Nussbaumer,Christoph Rippel,Mario Pils
+Bracket Stage,Open Intermediate,Bracket A,P9: Semi-final,Single game,Besamung,Dromedar 2,Besamung,2,0,,,,,Samuel Znidar,Benedikt Lemler,Tobias Gstach,Maximilian Jenny
+Bracket Stage,Open Intermediate,Bracket A,P3: Final,Single game,G‘mischter Satz,Rocket Man,Rocket Man,0,2,,,,,Alexander Winkler,Johanna Kagerer,Torben Schubert,Joscha Witzel
+Bracket Stage,Open Intermediate,Bracket A,P5: Final,Single game,Dromedar 1,Steingasse,Steingasse,0,2,,,,,Timo Nesensohn,Julian Oberhauser,Raphael Morell,TIBOR SKRZYDLO
+Bracket Stage,Open Intermediate,Bracket A,P7: Final,Single game,Blackberrys,Dromedar 3,Blackberrys,21,5,,,,,Bernhard Bauer,Moritz Weißenbäck,Konstantin Vergianitis,Johannes Klapper
+Bracket Stage,Open Intermediate,Bracket A,P9: Final,Single game,Betty und Elfi,Besamung,Besamung,0,2,,,,,Finn Berger,Niklas Nussbaumer,Samuel Znidar,Benedikt Lemler
+Group Stage,Open,Power Pool A,1,Single game,Hanna/Gabriel,snelle bril,Hanna/Gabriel,21,8,,,,,Gabriel Stoisser,Hanna Mrak,Lukas Stöbich,Manuel Mahringer
+Group Stage,Open,Power Pool A,1,Single game,Kein Schnickschnack,Aerials,Aerials,18,21,,,,,Stefan Weiner,Jonas Adamer,Elisabeth Ferstl,Marko Barbir
+Group Stage,Open,Power Pool B,1,Single game,BLCOl,Crazy Fusion,BLCOl,21,11,,,,,Angelika Bauer,Pol Loutsch,Sophia Sparr,Matthias Huber
+Group Stage,Open,Power Pool B,1,Single game,RD RoundZnet,Servivors,RD RoundZnet,21,18,,,,,Jakob Demmer,Jan-Peter Geringer,Niki Seifert,Emanuel Brandl
+Group Stage,Open,Power Pool C,1,Single game,Spike-o-Saurus,Kidz,Kidz,20,22,,,,,Paul Gerrit Winkler,Elisa Zöhrer,nikolaus seiringer,Tim Phan Quoc
+Group Stage,Open,Power Pool C,1,Single game,Pablito‘s Groupies,Spikosaurier,Spikosaurier,14,21,,,,,Mio Martens,Sara Pungor,Thomas Pschaid,Tamara Sundl
+Group Stage,Open,Power Pool D,1,Single game,Athletic Andey & Magic Mike,Smash or pass,Smash or pass,18,21,,,,,Michael Hudimast,Andi Gjergji,Pippin Bär,Timo Clees
+Group Stage,Open,Power Pool A,2,Single game,Hanna/Gabriel,Aerials,Hanna/Gabriel,21,13,,,,,Gabriel Stoisser,Hanna Mrak,Elisabeth Ferstl,Marko Barbir
+Group Stage,Open,Power Pool A,2,Single game,Kein Schnickschnack,snelle bril,Kein Schnickschnack,21,18,,,,,Stefan Weiner,Jonas Adamer,Lukas Stöbich,Manuel Mahringer
+Group Stage,Open,Power Pool B,2,Single game,BLCOl,Servivors,BLCOl,21,14,,,,,Angelika Bauer,Pol Loutsch,Niki Seifert,Emanuel Brandl
+Group Stage,Open,Power Pool B,2,Single game,RD RoundZnet,Crazy Fusion,RD RoundZnet,21,18,,,,,Jakob Demmer,Jan-Peter Geringer,Sophia Sparr,Matthias Huber
+Group Stage,Open,Power Pool C,2,Single game,Spike-o-Saurus,Spikosaurier,Spike-o-Saurus,21,17,,,,,Paul Gerrit Winkler,Elisa Zöhrer,Thomas Pschaid,Tamara Sundl
+Group Stage,Open,Power Pool C,2,Single game,Pablito‘s Groupies,Kidz,Kidz,15,21,,,,,Mio Martens,Sara Pungor,nikolaus seiringer,Tim Phan Quoc
+Group Stage,Open,Power Pool D,2,Single game,Athletic Andey & Magic Mike,RCG Toramix,RCG Toramix,21,23,,,,,Michael Hudimast,Andi Gjergji,Raffael Foidl,Tobias Stadler
+Group Stage,Open,Power Pool A,3,Single game,Hanna/Gabriel,Kein Schnickschnack,Hanna/Gabriel,25,23,,,,,Gabriel Stoisser,Hanna Mrak,Stefan Weiner,Jonas Adamer
+Group Stage,Open,Power Pool A,3,Single game,Aerials,snelle bril,Aerials,21,19,,,,,Elisabeth Ferstl,Marko Barbir,Lukas Stöbich,Manuel Mahringer
+Group Stage,Open,Power Pool B,3,Single game,BLCOl,RD RoundZnet,BLCOl,21,11,,,,,Angelika Bauer,Pol Loutsch,Jakob Demmer,Jan-Peter Geringer
+Group Stage,Open,Power Pool B,3,Single game,Servivors,Crazy Fusion,Servivors,24,22,,,,,Niki Seifert,Emanuel Brandl,Sophia Sparr,Matthias Huber
+Group Stage,Open,Power Pool C,3,Single game,Spike-o-Saurus,Pablito‘s Groupies,Pablito‘s Groupies,19,21,,,,,Paul Gerrit Winkler,Elisa Zöhrer,Mio Martens,Sara Pungor
+Group Stage,Open,Power Pool C,3,Single game,Spikosaurier,Kidz,Spikosaurier,21,12,,,,,Thomas Pschaid,Tamara Sundl,nikolaus seiringer,Tim Phan Quoc
+Group Stage,Open,Power Pool D,3,Single game,RCG Toramix,Smash or pass,Smash or pass,15,21,,,,,Raffael Foidl,Tobias Stadler,Pippin Bär,Timo Clees
+Bracket Stage,Open,Champions Bracket,Quarter-final,Best of 3,Hanna/Gabriel,RD RoundZnet,Hanna/Gabriel,15,7,16,14,,,Gabriel Stoisser,Hanna Mrak,Jakob Demmer,Jan-Peter Geringer
+Bracket Stage,Open,Champions Bracket,Quarter-final,Best of 3,BLCOl,Aerials,BLCOl,15,10,15,10,,,Angelika Bauer,Pol Loutsch,Elisabeth Ferstl,Marko Barbir
+Bracket Stage,Open,Champions Bracket,Quarter-final,Best of 3,Spikosaurier,RCG Toramix,RCG Toramix,13,15,15,10,10,15,Thomas Pschaid,Tamara Sundl,Raffael Foidl,Tobias Stadler
+Bracket Stage,Open,Champions Bracket,Quarter-final,Best of 3,Smash or pass,Kidz,Smash or pass,14,16,15,13,15,10,Pippin Bär,Timo Clees,nikolaus seiringer,Tim Phan Quoc
+Bracket Stage,Open,Champions Bracket,Semi-final,Best of 3,Hanna/Gabriel,Smash or pass,Hanna/Gabriel,21,17,19,21,21,18,Gabriel Stoisser,Hanna Mrak,Pippin Bär,Timo Clees
+Bracket Stage,Open,Champions Bracket,Semi-final,Best of 3,BLCOl,RCG Toramix,BLCOl,21,17,21,11,,,Angelika Bauer,Pol Loutsch,Raffael Foidl,Tobias Stadler
+Bracket Stage,Open,Champions Bracket,P5: Semi-final,Single game,Kidz,RD RoundZnet,Kidz,15,11,,,,,nikolaus seiringer,Tim Phan Quoc,Jakob Demmer,Jan-Peter Geringer
+Bracket Stage,Open,Champions Bracket,P5: Semi-final,Single game,Spikosaurier,Aerials,Aerials,0,1,,,,,Thomas Pschaid,Tamara Sundl,Elisabeth Ferstl,Marko Barbir
+Bracket Stage,Open,Champions Bracket,Final,Best of 3,Hanna/Gabriel,BLCOl,Hanna/Gabriel,25,23,32,30,,,Gabriel Stoisser,Hanna Mrak,Angelika Bauer,Pol Loutsch
+Bracket Stage,Open,Champions Bracket,P3: Final,Single game,RCG Toramix,Smash or pass,Smash or pass,18,21,,,,,Raffael Foidl,Tobias Stadler,Pippin Bär,Timo Clees
+Bracket Stage,Open,Champions Bracket,P5: Final,Single game,Kidz,Aerials,Aerials,0,1,,,,,nikolaus seiringer,Tim Phan Quoc,Elisabeth Ferstl,Marko Barbir
+Bracket Stage,Open,Champions Bracket,P7: Final,Single game,Spikosaurier,RD RoundZnet,Spikosaurier,1,0,,,,,Thomas Pschaid,Tamara Sundl,Jakob Demmer,Jan-Peter Geringer
+Bracket Stage,Open,Bracket B,Quarter-final,Best of 3,Servivors,snelle bril,snelle bril,9,15,13,15,,,Niki Seifert,Emanuel Brandl,Lukas Stöbich,Manuel Mahringer
+Bracket Stage,Open,Bracket B,Quarter-final,Best of 3,Spike-o-Saurus,Crazy Fusion,Spike-o-Saurus,15,13,15,8,,,Paul Gerrit Winkler,Elisa Zöhrer,Sophia Sparr,Matthias Huber
+Bracket Stage,Open,Bracket B,Quarter-final,Best of 3,Athletic Andey & Magic Mike,Pablito‘s Groupies,Pablito‘s Groupies,15,11,11,15,6,15,Michael Hudimast,Andi Gjergji,Mio Martens,Sara Pungor
+Bracket Stage,Open,Bracket B,Semi-final,Best of 3,Kein Schnickschnack,Pablito‘s Groupies,Kein Schnickschnack,21,19,19,21,23,21,Stefan Weiner,Jonas Adamer,Mio Martens,Sara Pungor
+Bracket Stage,Open,Bracket B,Semi-final,Best of 3,snelle bril,Spike-o-Saurus,Spike-o-Saurus,17,21,18,21,,,Lukas Stöbich,Manuel Mahringer,Paul Gerrit Winkler,Elisa Zöhrer
+Bracket Stage,Open,Bracket B,P5: Semi-final,Single game,Crazy Fusion,Servivors,Crazy Fusion,15,13,,,,,Sophia Sparr,Matthias Huber,Niki Seifert,Emanuel Brandl
+Bracket Stage,Open,Bracket B,Final,Best of 3,Kein Schnickschnack,Spike-o-Saurus,Spike-o-Saurus,15,21,23,25,,,Stefan Weiner,Jonas Adamer,Paul Gerrit Winkler,Elisa Zöhrer
+Bracket Stage,Open,Bracket B,P3: Final,Single game,snelle bril,Pablito‘s Groupies,Pablito‘s Groupies,9,15,,,,,Lukas Stöbich,Manuel Mahringer,Mio Martens,Sara Pungor
+Bracket Stage,Open,Bracket B,P5: Final,Single game,Athletic Andey & Magic Mike,Crazy Fusion,Athletic Andey & Magic Mike,1,0,,,,,Michael Hudimast,Andi Gjergji,Sophia Sparr,Matthias Huber

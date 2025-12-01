@@ -1,0 +1,409 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Pro German,Group A (Turf - 1 & 2),1,Single game,Hustling Brothers,Noisy Frogs,Hustling Brothers,15,8,,,,,Yosha Vandaele,Levi Vandaele,Tom Hullot,Marius Snoeck
+Group Stage,Pro German,Group A (Turf - 1 & 2),1,Single game,Never Cold🌡️,Good ol' Bench,Never Cold🌡️,15,9,,,,,Jan Stachiewicz,Jaroslav Čabala,Louis JOUVE,Wout Geeraerts
+Group Stage,Pro German,Group B (Turf - 3 & 4),1,Single game,Here Aghent,Felix and Lou,Here Aghent,15,8,,,,,Markus Anderle,Robin Florinda,Felix Millton,Lou Washburn
+Group Stage,Pro German,Group B (Turf - 3 & 4),1,Single game,Belgian Fries,Dikken Blok,Dikken Blok,7,15,,,,,Gauthier Vandamme,joeri vlassaks,Jonas Jacquemijns,Gilles Mahy
+Group Stage,Pro German,Group A (Turf - 1 & 2),2,Single game,Hustling Brothers,Good ol' Bench,Hustling Brothers,15,10,,,,,Yosha Vandaele,Levi Vandaele,Louis JOUVE,Wout Geeraerts
+Group Stage,Pro German,Group A (Turf - 1 & 2),2,Single game,Never Cold🌡️,Noisy Frogs,Noisy Frogs,11,15,,,,,Jan Stachiewicz,Jaroslav Čabala,Tom Hullot,Marius Snoeck
+Group Stage,Pro German,Group B (Turf - 3 & 4),2,Single game,Here Aghent,Dikken Blok,Dikken Blok,16,18,,,,,Markus Anderle,Robin Florinda,Jonas Jacquemijns,Gilles Mahy
+Group Stage,Pro German,Group B (Turf - 3 & 4),2,Single game,Belgian Fries,Felix and Lou,Belgian Fries,15,13,,,,,Gauthier Vandamme,joeri vlassaks,Felix Millton,Lou Washburn
+Group Stage,Pro German,Group A (Turf - 1 & 2),3,Single game,Hustling Brothers,Never Cold🌡️,Hustling Brothers,15,10,,,,,Yosha Vandaele,Levi Vandaele,Jan Stachiewicz,Jaroslav Čabala
+Group Stage,Pro German,Group A (Turf - 1 & 2),3,Single game,Good ol' Bench,Noisy Frogs,Good ol' Bench,15,12,,,,,Louis JOUVE,Wout Geeraerts,Tom Hullot,Marius Snoeck
+Group Stage,Pro German,Group B (Turf - 3 & 4),3,Single game,Here Aghent,Belgian Fries,Here Aghent,15,10,,,,,Markus Anderle,Robin Florinda,Gauthier Vandamme,joeri vlassaks
+Group Stage,Pro German,Group B (Turf - 3 & 4),3,Single game,Dikken Blok,Felix and Lou,Dikken Blok,15,11,,,,,Jonas Jacquemijns,Gilles Mahy,Felix Millton,Lou Washburn
+Group Stage,Pro German,Group A (Turf - 1 & 2),4,Single game,Hustling Brothers,Noisy Frogs,Hustling Brothers,15,11,,,,,Yosha Vandaele,Levi Vandaele,Tom Hullot,Marius Snoeck
+Group Stage,Pro German,Group A (Turf - 1 & 2),4,Single game,Never Cold🌡️,Good ol' Bench,Never Cold🌡️,15,13,,,,,Jan Stachiewicz,Jaroslav Čabala,Louis JOUVE,Wout Geeraerts
+Group Stage,Pro German,Group B (Turf - 3 & 4),4,Single game,Here Aghent,Felix and Lou,Here Aghent,15,11,,,,,Markus Anderle,Robin Florinda,Felix Millton,Lou Washburn
+Group Stage,Pro German,Group B (Turf - 3 & 4),4,Single game,Belgian Fries,Dikken Blok,Belgian Fries,22,20,,,,,Gauthier Vandamme,joeri vlassaks,Jonas Jacquemijns,Gilles Mahy
+Group Stage,Pro German,Group A (Turf - 1 & 2),5,Single game,Hustling Brothers,Good ol' Bench,Hustling Brothers,15,7,,,,,Yosha Vandaele,Levi Vandaele,Louis JOUVE,Wout Geeraerts
+Group Stage,Pro German,Group A (Turf - 1 & 2),5,Single game,Never Cold🌡️,Noisy Frogs,Never Cold🌡️,15,8,,,,,Jan Stachiewicz,Jaroslav Čabala,Tom Hullot,Marius Snoeck
+Group Stage,Pro German,Group B (Turf - 3 & 4),5,Single game,Here Aghent,Dikken Blok,Here Aghent,15,13,,,,,Markus Anderle,Robin Florinda,Jonas Jacquemijns,Gilles Mahy
+Group Stage,Pro German,Group B (Turf - 3 & 4),5,Single game,Belgian Fries,Felix and Lou,Belgian Fries,15,12,,,,,Gauthier Vandamme,joeri vlassaks,Felix Millton,Lou Washburn
+Group Stage,Pro German,Group A (Turf - 1 & 2),6,Single game,Hustling Brothers,Never Cold🌡️,Hustling Brothers,15,8,,,,,Yosha Vandaele,Levi Vandaele,Jan Stachiewicz,Jaroslav Čabala
+Group Stage,Pro German,Group A (Turf - 1 & 2),6,Single game,Good ol' Bench,Noisy Frogs,Good ol' Bench,15,12,,,,,Louis JOUVE,Wout Geeraerts,Tom Hullot,Marius Snoeck
+Group Stage,Pro German,Group B (Turf - 3 & 4),6,Single game,Here Aghent,Belgian Fries,Belgian Fries,14,16,,,,,Markus Anderle,Robin Florinda,Gauthier Vandamme,joeri vlassaks
+Group Stage,Pro German,Group B (Turf - 3 & 4),6,Single game,Dikken Blok,Felix and Lou,Dikken Blok,16,14,,,,,Jonas Jacquemijns,Gilles Mahy,Felix Millton,Lou Washburn
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Hustling Brothers,Felix and Lou,Hustling Brothers,21,12,21,14,,,Yosha Vandaele,Levi Vandaele,Felix Millton,Lou Washburn
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Here Aghent,Noisy Frogs,Here Aghent,21,19,21,15,,,Markus Anderle,Robin Florinda,Tom Hullot,Marius Snoeck
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Dikken Blok,Good ol' Bench,Dikken Blok,21,17,21,19,,,Jonas Jacquemijns,Gilles Mahy,Louis JOUVE,Wout Geeraerts
+Bracket Stage,Pro German,Bracket A,Quarter-final,Best of 3,Belgian Fries,Never Cold🌡️,Never Cold🌡️,21,23,21,15,13,21,Gauthier Vandamme,joeri vlassaks,Jan Stachiewicz,Jaroslav Čabala
+Bracket Stage,Pro German,Bracket A,Semi-final,Best of 3,Hustling Brothers,Never Cold🌡️,Hustling Brothers,21,10,21,17,,,Yosha Vandaele,Levi Vandaele,Jan Stachiewicz,Jaroslav Čabala
+Bracket Stage,Pro German,Bracket A,Semi-final,Best of 3,Here Aghent,Dikken Blok,Dikken Blok,16,21,18,21,,,Markus Anderle,Robin Florinda,Jonas Jacquemijns,Gilles Mahy
+Bracket Stage,Pro German,Bracket A,P5: Semi-final,Best of 3,Belgian Fries,Felix and Lou,Felix and Lou,21,16,18,21,17,21,Gauthier Vandamme,joeri vlassaks,Felix Millton,Lou Washburn
+Bracket Stage,Pro German,Bracket A,P5: Semi-final,Best of 3,Good ol' Bench,Noisy Frogs,Noisy Frogs,0,1,0,1,,,Louis JOUVE,Wout Geeraerts,Tom Hullot,Marius Snoeck
+Bracket Stage,Pro German,Bracket A,Final,Best of 3,Hustling Brothers,Dikken Blok,Hustling Brothers,21,16,23,21,,,Yosha Vandaele,Levi Vandaele,Jonas Jacquemijns,Gilles Mahy
+Bracket Stage,Pro German,Bracket A,P3: Final,Best of 3,Here Aghent,Never Cold🌡️,Here Aghent,21,18,21,18,,,Markus Anderle,Robin Florinda,Jan Stachiewicz,Jaroslav Čabala
+Bracket Stage,Pro German,Bracket A,P5: Final,Best of 3,Felix and Lou,Noisy Frogs,Noisy Frogs,0,1,0,1,,,Felix Millton,Lou Washburn,Tom Hullot,Marius Snoeck
+Bracket Stage,Pro German,Bracket A,P7: Final,Best of 3,Good ol' Bench,Belgian Fries,Belgian Fries,0,1,0,1,,,Louis JOUVE,Wout Geeraerts,Gauthier Vandamme,joeri vlassaks
+Group Stage,Open Contender,Group A (Turf - 11 & 12),1,Single game,Da KaNToNie,We are content,Da KaNToNie,15,12,,,,,Lei Decappelle,Pieter De Pauw,Corentin Bureau,Jorge Donayre
+Group Stage,Open Contender,Group A (Turf - 11 & 12),1,Single game,outdoor olives,Wow!,outdoor olives,15,11,,,,,Aleksandrs Juška,Jarec Schouten,Amrit Hingorani,Jamie Carmichael
+Group Stage,Open Contender,Group B (Turf - 13 & 14),1,Single game,Allez Hopp,Van Poucket,Van Poucket,9,15,,,,,Kaspar Kreutzer,Andreas Lynen,Tobias Langer,Ajay Van Poucke
+Group Stage,Open Contender,Group B (Turf - 13 & 14),1,Single game,Jurassic Marek,Wild Beavers,Wild Beavers,14,15,,,,,Mathias Van der Linden,Frederik Severeyns,Kristof Beersmans,Rinus Dehertefelt
+Group Stage,Open Contender,Group C (Turf - 15 & 16),1,Single game,Los Abuelos,Bee Feat. Monkey,Bee Feat. Monkey,8,15,,,,,Jurre Baguet,Diëgo Lamonte,Ephraim Kotzerke,Baptiste Maison
+Group Stage,Open Contender,Group C (Turf - 15 & 16),1,Single game,Golden Rush,RC Floxy,Golden Rush,15,3,,,,,Théo Vanh Hemelryck,Louis Mareschal,florent saussol,Alexy Leroux
+Group Stage,Open Contender,Group (Turf - 17 & 18),1,Single game,Jakob zonder Frees,Machi Ice Tea,Jakob zonder Frees,15,11,,,,,Fre Eskens,Jakob van Vlierberghe,Patrick de Lange,Stan van Manen
+Group Stage,Open Contender,Group (Turf - 17 & 18),1,Single game,WoGi WoGi,99Dubbel0,WoGi WoGi,15,7,,,,,Wout Declercq,Gilles Hublet,Thomas Savat,Bram Verschoote
+Group Stage,Open Contender,Group E (Turf - 19 & 20),1,Single game,Turbo Tuur & Flaming Flo,The Blocksmiths Ultras,Turbo Tuur & Flaming Flo,15,14,,,,,Florian Poel,Tuur Demaegdt,Simon Wimmer,Joshua Dülz
+Group Stage,Open Contender,Group E (Turf - 19 & 20),1,Single game,For Andreas,No easy passes,For Andreas,15,14,,,,,Mathias Linnet,Gerrit Lang,Tim van Herreweghe,Philipp Fronik
+Group Stage,Open Contender,Group F (Turf - 21 & 22),1,Single game,Avalanche,Mejor sin Javi,Avalanche,15,7,,,,,Karl Wolf,Julius Hansen,Matthias Hainz,Esteban Cuesta
+Group Stage,Open Contender,Group F (Turf - 21 & 22),1,Single game,Jefrie,Ploegnaam,Ploegnaam,14,15,,,,,Fred Libert,Jeroen Laporte,Stijn Van den Branden,Maëlig Potiau
+Group Stage,Open Contender,Group A (Turf - 11 & 12),2,Single game,Da KaNToNie,Wow!,Da KaNToNie,15,11,,,,,Lei Decappelle,Pieter De Pauw,Amrit Hingorani,Jamie Carmichael
+Group Stage,Open Contender,Group A (Turf - 11 & 12),2,Single game,outdoor olives,We are content,outdoor olives,15,12,,,,,Aleksandrs Juška,Jarec Schouten,Corentin Bureau,Jorge Donayre
+Group Stage,Open Contender,Group B (Turf - 13 & 14),2,Single game,Allez Hopp,Wild Beavers,Allez Hopp,15,9,,,,,Kaspar Kreutzer,Andreas Lynen,Kristof Beersmans,Rinus Dehertefelt
+Group Stage,Open Contender,Group B (Turf - 13 & 14),2,Single game,Jurassic Marek,Van Poucket,Van Poucket,11,15,,,,,Mathias Van der Linden,Frederik Severeyns,Tobias Langer,Ajay Van Poucke
+Group Stage,Open Contender,Group C (Turf - 15 & 16),2,Single game,Los Abuelos,RC Floxy,Los Abuelos,15,12,,,,,Jurre Baguet,Diëgo Lamonte,florent saussol,Alexy Leroux
+Group Stage,Open Contender,Group C (Turf - 15 & 16),2,Single game,Golden Rush,Bee Feat. Monkey,Golden Rush,15,12,,,,,Théo Vanh Hemelryck,Louis Mareschal,Ephraim Kotzerke,Baptiste Maison
+Group Stage,Open Contender,Group (Turf - 17 & 18),2,Single game,Jakob zonder Frees,99Dubbel0,Jakob zonder Frees,15,8,,,,,Fre Eskens,Jakob van Vlierberghe,Thomas Savat,Bram Verschoote
+Group Stage,Open Contender,Group (Turf - 17 & 18),2,Single game,WoGi WoGi,Machi Ice Tea,WoGi WoGi,15,7,,,,,Wout Declercq,Gilles Hublet,Patrick de Lange,Stan van Manen
+Group Stage,Open Contender,Group E (Turf - 19 & 20),2,Single game,Turbo Tuur & Flaming Flo,No easy passes,Turbo Tuur & Flaming Flo,15,8,,,,,Florian Poel,Tuur Demaegdt,Tim van Herreweghe,Philipp Fronik
+Group Stage,Open Contender,Group E (Turf - 19 & 20),2,Single game,For Andreas,The Blocksmiths Ultras,The Blocksmiths Ultras,12,15,,,,,Mathias Linnet,Gerrit Lang,Simon Wimmer,Joshua Dülz
+Group Stage,Open Contender,Group F (Turf - 21 & 22),2,Single game,Avalanche,Ploegnaam,Avalanche,15,8,,,,,Karl Wolf,Julius Hansen,Stijn Van den Branden,Maëlig Potiau
+Group Stage,Open Contender,Group F (Turf - 21 & 22),2,Single game,Jefrie,Mejor sin Javi,Mejor sin Javi,13,15,,,,,Fred Libert,Jeroen Laporte,Matthias Hainz,Esteban Cuesta
+Group Stage,Open Contender,Group A (Turf - 11 & 12),3,Single game,Da KaNToNie,outdoor olives,Da KaNToNie,15,14,,,,,Lei Decappelle,Pieter De Pauw,Aleksandrs Juška,Jarec Schouten
+Group Stage,Open Contender,Group A (Turf - 11 & 12),3,Single game,Wow!,We are content,Wow!,15,11,,,,,Amrit Hingorani,Jamie Carmichael,Corentin Bureau,Jorge Donayre
+Group Stage,Open Contender,Group B (Turf - 13 & 14),3,Single game,Allez Hopp,Jurassic Marek,Allez Hopp,15,5,,,,,Kaspar Kreutzer,Andreas Lynen,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open Contender,Group B (Turf - 13 & 14),3,Single game,Wild Beavers,Van Poucket,Van Poucket,11,15,,,,,Kristof Beersmans,Rinus Dehertefelt,Tobias Langer,Ajay Van Poucke
+Group Stage,Open Contender,Group C (Turf - 15 & 16),3,Single game,Los Abuelos,Golden Rush,Golden Rush,7,15,,,,,Jurre Baguet,Diëgo Lamonte,Théo Vanh Hemelryck,Louis Mareschal
+Group Stage,Open Contender,Group C (Turf - 15 & 16),3,Single game,RC Floxy,Bee Feat. Monkey,Bee Feat. Monkey,8,15,,,,,florent saussol,Alexy Leroux,Ephraim Kotzerke,Baptiste Maison
+Group Stage,Open Contender,Group (Turf - 17 & 18),3,Single game,Jakob zonder Frees,WoGi WoGi,WoGi WoGi,8,15,,,,,Fre Eskens,Jakob van Vlierberghe,Wout Declercq,Gilles Hublet
+Group Stage,Open Contender,Group (Turf - 17 & 18),3,Single game,99Dubbel0,Machi Ice Tea,99Dubbel0,15,8,,,,,Thomas Savat,Bram Verschoote,Patrick de Lange,Stan van Manen
+Group Stage,Open Contender,Group E (Turf - 19 & 20),3,Single game,Turbo Tuur & Flaming Flo,For Andreas,For Andreas,8,15,,,,,Florian Poel,Tuur Demaegdt,Mathias Linnet,Gerrit Lang
+Group Stage,Open Contender,Group E (Turf - 19 & 20),3,Single game,No easy passes,The Blocksmiths Ultras,The Blocksmiths Ultras,8,15,,,,,Tim van Herreweghe,Philipp Fronik,Simon Wimmer,Joshua Dülz
+Group Stage,Open Contender,Group F (Turf - 21 & 22),3,Single game,Avalanche,Jefrie,Avalanche,15,13,,,,,Karl Wolf,Julius Hansen,Fred Libert,Jeroen Laporte
+Group Stage,Open Contender,Group F (Turf - 21 & 22),3,Single game,Ploegnaam,Mejor sin Javi,Mejor sin Javi,14,15,,,,,Stijn Van den Branden,Maëlig Potiau,Matthias Hainz,Esteban Cuesta
+Group Stage,Open Contender,Group A (Turf - 11 & 12),4,Single game,Da KaNToNie,We are content,Da KaNToNie,15,9,,,,,Lei Decappelle,Pieter De Pauw,Corentin Bureau,Jorge Donayre
+Group Stage,Open Contender,Group A (Turf - 11 & 12),4,Single game,outdoor olives,Wow!,Wow!,14,15,,,,,Aleksandrs Juška,Jarec Schouten,Amrit Hingorani,Jamie Carmichael
+Group Stage,Open Contender,Group B (Turf - 13 & 14),4,Single game,Allez Hopp,Van Poucket,Allez Hopp,15,10,,,,,Kaspar Kreutzer,Andreas Lynen,Tobias Langer,Ajay Van Poucke
+Group Stage,Open Contender,Group B (Turf - 13 & 14),4,Single game,Jurassic Marek,Wild Beavers,Jurassic Marek,15,11,,,,,Mathias Van der Linden,Frederik Severeyns,Kristof Beersmans,Rinus Dehertefelt
+Group Stage,Open Contender,Group C (Turf - 15 & 16),4,Single game,Los Abuelos,Bee Feat. Monkey,Bee Feat. Monkey,10,15,,,,,Jurre Baguet,Diëgo Lamonte,Ephraim Kotzerke,Baptiste Maison
+Group Stage,Open Contender,Group C (Turf - 15 & 16),4,Single game,Golden Rush,RC Floxy,Golden Rush,15,4,,,,,Théo Vanh Hemelryck,Louis Mareschal,florent saussol,Alexy Leroux
+Group Stage,Open Contender,Group (Turf - 17 & 18),4,Single game,Jakob zonder Frees,Machi Ice Tea,Jakob zonder Frees,15,12,,,,,Fre Eskens,Jakob van Vlierberghe,Patrick de Lange,Stan van Manen
+Group Stage,Open Contender,Group (Turf - 17 & 18),4,Single game,WoGi WoGi,99Dubbel0,WoGi WoGi,15,8,,,,,Wout Declercq,Gilles Hublet,Thomas Savat,Bram Verschoote
+Group Stage,Open Contender,Group E (Turf - 19 & 20),4,Single game,Turbo Tuur & Flaming Flo,The Blocksmiths Ultras,The Blocksmiths Ultras,11,15,,,,,Florian Poel,Tuur Demaegdt,Simon Wimmer,Joshua Dülz
+Group Stage,Open Contender,Group E (Turf - 19 & 20),4,Single game,For Andreas,No easy passes,For Andreas,15,7,,,,,Mathias Linnet,Gerrit Lang,Tim van Herreweghe,Philipp Fronik
+Group Stage,Open Contender,Group F (Turf - 21 & 22),4,Single game,Avalanche,Mejor sin Javi,Avalanche,15,8,,,,,Karl Wolf,Julius Hansen,Matthias Hainz,Esteban Cuesta
+Group Stage,Open Contender,Group F (Turf - 21 & 22),4,Single game,Jefrie,Ploegnaam,Ploegnaam,11,15,,,,,Fred Libert,Jeroen Laporte,Stijn Van den Branden,Maëlig Potiau
+Group Stage,Open Contender,Group A (Turf - 11 & 12),5,Single game,Da KaNToNie,Wow!,Wow!,14,15,,,,,Lei Decappelle,Pieter De Pauw,Amrit Hingorani,Jamie Carmichael
+Group Stage,Open Contender,Group A (Turf - 11 & 12),5,Single game,outdoor olives,We are content,outdoor olives,15,10,,,,,Aleksandrs Juška,Jarec Schouten,Corentin Bureau,Jorge Donayre
+Group Stage,Open Contender,Group B (Turf - 13 & 14),5,Single game,Allez Hopp,Wild Beavers,Allez Hopp,15,6,,,,,Kaspar Kreutzer,Andreas Lynen,Kristof Beersmans,Rinus Dehertefelt
+Group Stage,Open Contender,Group B (Turf - 13 & 14),5,Single game,Jurassic Marek,Van Poucket,Van Poucket,6,15,,,,,Mathias Van der Linden,Frederik Severeyns,Tobias Langer,Ajay Van Poucke
+Group Stage,Open Contender,Group C (Turf - 15 & 16),5,Single game,Los Abuelos,RC Floxy,Los Abuelos,15,14,,,,,Jurre Baguet,Diëgo Lamonte,florent saussol,Alexy Leroux
+Group Stage,Open Contender,Group C (Turf - 15 & 16),5,Single game,Golden Rush,Bee Feat. Monkey,Golden Rush,15,9,,,,,Théo Vanh Hemelryck,Louis Mareschal,Ephraim Kotzerke,Baptiste Maison
+Group Stage,Open Contender,Group (Turf - 17 & 18),5,Single game,Jakob zonder Frees,99Dubbel0,Jakob zonder Frees,15,9,,,,,Fre Eskens,Jakob van Vlierberghe,Thomas Savat,Bram Verschoote
+Group Stage,Open Contender,Group (Turf - 17 & 18),5,Single game,WoGi WoGi,Machi Ice Tea,Machi Ice Tea,14,15,,,,,Wout Declercq,Gilles Hublet,Patrick de Lange,Stan van Manen
+Group Stage,Open Contender,Group E (Turf - 19 & 20),5,Single game,Turbo Tuur & Flaming Flo,No easy passes,Turbo Tuur & Flaming Flo,15,8,,,,,Florian Poel,Tuur Demaegdt,Tim van Herreweghe,Philipp Fronik
+Group Stage,Open Contender,Group E (Turf - 19 & 20),5,Single game,For Andreas,The Blocksmiths Ultras,The Blocksmiths Ultras,13,15,,,,,Mathias Linnet,Gerrit Lang,Simon Wimmer,Joshua Dülz
+Group Stage,Open Contender,Group F (Turf - 21 & 22),5,Single game,Avalanche,Ploegnaam,Avalanche,15,4,,,,,Karl Wolf,Julius Hansen,Stijn Van den Branden,Maëlig Potiau
+Group Stage,Open Contender,Group F (Turf - 21 & 22),5,Single game,Jefrie,Mejor sin Javi,Jefrie,15,12,,,,,Fred Libert,Jeroen Laporte,Matthias Hainz,Esteban Cuesta
+Group Stage,Open Contender,Group A (Turf - 11 & 12),6,Single game,Da KaNToNie,outdoor olives,Da KaNToNie,15,11,,,,,Lei Decappelle,Pieter De Pauw,Aleksandrs Juška,Jarec Schouten
+Group Stage,Open Contender,Group A (Turf - 11 & 12),6,Single game,Wow!,We are content,Wow!,15,10,,,,,Amrit Hingorani,Jamie Carmichael,Corentin Bureau,Jorge Donayre
+Group Stage,Open Contender,Group B (Turf - 13 & 14),6,Single game,Allez Hopp,Jurassic Marek,Allez Hopp,15,14,,,,,Kaspar Kreutzer,Andreas Lynen,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open Contender,Group B (Turf - 13 & 14),6,Single game,Wild Beavers,Van Poucket,Van Poucket,11,15,,,,,Kristof Beersmans,Rinus Dehertefelt,Tobias Langer,Ajay Van Poucke
+Group Stage,Open Contender,Group C (Turf - 15 & 16),6,Single game,Los Abuelos,Golden Rush,Golden Rush,9,15,,,,,Jurre Baguet,Diëgo Lamonte,Théo Vanh Hemelryck,Louis Mareschal
+Group Stage,Open Contender,Group C (Turf - 15 & 16),6,Single game,RC Floxy,Bee Feat. Monkey,Bee Feat. Monkey,7,15,,,,,florent saussol,Alexy Leroux,Ephraim Kotzerke,Baptiste Maison
+Group Stage,Open Contender,Group (Turf - 17 & 18),6,Single game,Jakob zonder Frees,WoGi WoGi,Jakob zonder Frees,15,11,,,,,Fre Eskens,Jakob van Vlierberghe,Wout Declercq,Gilles Hublet
+Group Stage,Open Contender,Group (Turf - 17 & 18),6,Single game,99Dubbel0,Machi Ice Tea,Machi Ice Tea,6,15,,,,,Thomas Savat,Bram Verschoote,Patrick de Lange,Stan van Manen
+Group Stage,Open Contender,Group E (Turf - 19 & 20),6,Single game,Turbo Tuur & Flaming Flo,For Andreas,For Andreas,14,15,,,,,Florian Poel,Tuur Demaegdt,Mathias Linnet,Gerrit Lang
+Group Stage,Open Contender,Group E (Turf - 19 & 20),6,Single game,No easy passes,The Blocksmiths Ultras,The Blocksmiths Ultras,8,15,,,,,Tim van Herreweghe,Philipp Fronik,Simon Wimmer,Joshua Dülz
+Group Stage,Open Contender,Group F (Turf - 21 & 22),6,Single game,Avalanche,Jefrie,Avalanche,15,10,,,,,Karl Wolf,Julius Hansen,Fred Libert,Jeroen Laporte
+Group Stage,Open Contender,Group F (Turf - 21 & 22),6,Single game,Ploegnaam,Mejor sin Javi,Mejor sin Javi,9,15,,,,,Stijn Van den Branden,Maëlig Potiau,Matthias Hainz,Esteban Cuesta
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Golden Rush,Ploegnaam,Golden Rush,15,5,15,4,,,Théo Vanh Hemelryck,Louis Mareschal,Stijn Van den Branden,Maëlig Potiau
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Avalanche,Machi Ice Tea,Avalanche,15,13,15,7,,,Karl Wolf,Julius Hansen,Patrick de Lange,Stan van Manen
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Allez Hopp,Mejor sin Javi,Allez Hopp,15,7,15,7,,,Kaspar Kreutzer,Andreas Lynen,Matthias Hainz,Esteban Cuesta
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,The Blocksmiths Ultras,Turbo Tuur & Flaming Flo,The Blocksmiths Ultras,15,10,19,17,,,Simon Wimmer,Joshua Dülz,Florian Poel,Tuur Demaegdt
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Van Poucket,outdoor olives,Van Poucket,13,15,15,13,15,11,Tobias Langer,Ajay Van Poucke,Aleksandrs Juška,Jarec Schouten
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Jakob zonder Frees,Wow!,Jakob zonder Frees,15,8,15,12,,,Fre Eskens,Jakob van Vlierberghe,Amrit Hingorani,Jamie Carmichael
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Da KaNToNie,For Andreas,For Andreas,6,15,13,15,,,Lei Decappelle,Pieter De Pauw,Mathias Linnet,Gerrit Lang
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,WoGi WoGi,Bee Feat. Monkey,Bee Feat. Monkey,15,13,14,16,15,17,Wout Declercq,Gilles Hublet,Ephraim Kotzerke,Baptiste Maison
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Golden Rush,Bee Feat. Monkey,Golden Rush,21,9,21,9,,,Théo Vanh Hemelryck,Louis Mareschal,Ephraim Kotzerke,Baptiste Maison
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Avalanche,For Andreas,For Andreas,19,21,19,21,,,Karl Wolf,Julius Hansen,Mathias Linnet,Gerrit Lang
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Allez Hopp,Jakob zonder Frees,Allez Hopp,21,15,16,21,21,18,Kaspar Kreutzer,Andreas Lynen,Fre Eskens,Jakob van Vlierberghe
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,The Blocksmiths Ultras,Van Poucket,The Blocksmiths Ultras,15,11,20,21,18,16,Simon Wimmer,Joshua Dülz,Tobias Langer,Ajay Van Poucke
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,WoGi WoGi,Ploegnaam,WoGi WoGi,15,12,15,6,,,Wout Declercq,Gilles Hublet,Stijn Van den Branden,Maëlig Potiau
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Da KaNToNie,Machi Ice Tea,Da KaNToNie,8,15,18,16,15,8,Lei Decappelle,Pieter De Pauw,Patrick de Lange,Stan van Manen
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Wow!,Mejor sin Javi,Mejor sin Javi,13,15,11,15,,,Amrit Hingorani,Jamie Carmichael,Matthias Hainz,Esteban Cuesta
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,outdoor olives,Turbo Tuur & Flaming Flo,outdoor olives,15,12,15,11,,,Aleksandrs Juška,Jarec Schouten,Florian Poel,Tuur Demaegdt
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Golden Rush,The Blocksmiths Ultras,Golden Rush,21,10,21,11,,,Théo Vanh Hemelryck,Louis Mareschal,Simon Wimmer,Joshua Dülz
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,For Andreas,Allez Hopp,Allez Hopp,16,21,17,21,,,Mathias Linnet,Gerrit Lang,Kaspar Kreutzer,Andreas Lynen
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Van Poucket,Bee Feat. Monkey,Van Poucket,15,11,15,11,,,Tobias Langer,Ajay Van Poucke,Ephraim Kotzerke,Baptiste Maison
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Jakob zonder Frees,Avalanche,Avalanche,11,15,20,21,,,Fre Eskens,Jakob van Vlierberghe,Karl Wolf,Julius Hansen
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,WoGi WoGi,outdoor olives,WoGi WoGi,15,13,19,21,16,14,Wout Declercq,Gilles Hublet,Aleksandrs Juška,Jarec Schouten
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Da KaNToNie,Mejor sin Javi,Da KaNToNie,13,15,15,13,15,12,Lei Decappelle,Pieter De Pauw,Matthias Hainz,Esteban Cuesta
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,Turbo Tuur & Flaming Flo,Ploegnaam,Turbo Tuur & Flaming Flo,15,12,15,11,,,Florian Poel,Tuur Demaegdt,Stijn Van den Branden,Maëlig Potiau
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,Wow!,Machi Ice Tea,Machi Ice Tea,11,15,11,15,,,Amrit Hingorani,Jamie Carmichael,Patrick de Lange,Stan van Manen
+Bracket Stage,Open Contender,Bracket A,Final,Best of 3,Golden Rush,Allez Hopp,Golden Rush,21,18,21,15,,,Théo Vanh Hemelryck,Louis Mareschal,Kaspar Kreutzer,Andreas Lynen
+Bracket Stage,Open Contender,Bracket A,P3: Final,Best of 3,For Andreas,The Blocksmiths Ultras,For Andreas,21,17,11,21,21,16,Mathias Linnet,Gerrit Lang,Simon Wimmer,Joshua Dülz
+Bracket Stage,Open Contender,Bracket A,P5: Final,Best of 3,Van Poucket,Avalanche,Avalanche,13,15,12,15,,,Tobias Langer,Ajay Van Poucke,Karl Wolf,Julius Hansen
+Bracket Stage,Open Contender,Bracket A,P7: Final,Best of 3,Jakob zonder Frees,Bee Feat. Monkey,Jakob zonder Frees,22,20,1,0,,,Fre Eskens,Jakob van Vlierberghe,Ephraim Kotzerke,Baptiste Maison
+Bracket Stage,Open Contender,Bracket A,P9: Final,Best of 3,WoGi WoGi,Da KaNToNie,WoGi WoGi,15,7,11,15,15,12,Wout Declercq,Gilles Hublet,Lei Decappelle,Pieter De Pauw
+Bracket Stage,Open Contender,Bracket A,P11: Final,Best of 3,Mejor sin Javi,outdoor olives,Mejor sin Javi,15,13,12,15,15,13,Matthias Hainz,Esteban Cuesta,Aleksandrs Juška,Jarec Schouten
+Bracket Stage,Open Contender,Bracket A,P15: Final,Best of 3,Wow!,Ploegnaam,Wow!,15,10,15,10,,,Amrit Hingorani,Jamie Carmichael,Stijn Van den Branden,Maëlig Potiau
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Los Abuelos,RC Floxy,Los Abuelos,15,7,15,12,,,Jurre Baguet,Diëgo Lamonte,florent saussol,Alexy Leroux
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Jefrie,No easy passes,Jefrie,15,13,15,7,,,Fred Libert,Jeroen Laporte,Tim van Herreweghe,Philipp Fronik
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Jurassic Marek,We are content,Jurassic Marek,15,10,15,8,,,Mathias Van der Linden,Frederik Severeyns,Corentin Bureau,Jorge Donayre
+Bracket Stage,Open Contender,Bracket B,Quarter-final,Best of 3,Wild Beavers,99Dubbel0,99Dubbel0,11,15,7,15,,,Kristof Beersmans,Rinus Dehertefelt,Thomas Savat,Bram Verschoote
+Bracket Stage,Open Contender,Bracket B,Semi-final,Best of 3,Los Abuelos,99Dubbel0,Los Abuelos,15,10,15,7,,,Jurre Baguet,Diëgo Lamonte,Thomas Savat,Bram Verschoote
+Bracket Stage,Open Contender,Bracket B,Semi-final,Best of 3,Jefrie,Jurassic Marek,Jurassic Marek,12,15,12,15,,,Fred Libert,Jeroen Laporte,Mathias Van der Linden,Frederik Severeyns
+Bracket Stage,Open Contender,Bracket B,P5: Semi-final,Best of 3,Wild Beavers,RC Floxy,RC Floxy,11,15,13,15,,,Kristof Beersmans,Rinus Dehertefelt,florent saussol,Alexy Leroux
+Bracket Stage,Open Contender,Bracket B,P5: Semi-final,Best of 3,We are content,No easy passes,No easy passes,11,15,14,15,,,Corentin Bureau,Jorge Donayre,Tim van Herreweghe,Philipp Fronik
+Bracket Stage,Open Contender,Bracket B,Final,Best of 3,Los Abuelos,Jurassic Marek,Los Abuelos,15,12,15,10,,,Jurre Baguet,Diëgo Lamonte,Mathias Van der Linden,Frederik Severeyns
+Bracket Stage,Open Contender,Bracket B,P3: Final,Best of 3,Jefrie,99Dubbel0,Jefrie,15,12,15,9,,,Fred Libert,Jeroen Laporte,Thomas Savat,Bram Verschoote
+Bracket Stage,Open Contender,Bracket B,P5: Final,Best of 3,RC Floxy,No easy passes,No easy passes,11,15,13,15,,,florent saussol,Alexy Leroux,Tim van Herreweghe,Philipp Fronik
+Bracket Stage,Open Contender,Bracket B,P7: Final,Best of 3,We are content,Wild Beavers,We are content,15,12,15,13,,,Corentin Bureau,Jorge Donayre,Kristof Beersmans,Rinus Dehertefelt
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),1,Single game,Boma Worst,Notis a problem,Boma Worst,15,11,,,,,Mathieu Vercruysse,Noah Bonine,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),1,Single game,De nurkels,Slapsgiving,Slapsgiving,14,15,,,,,Emiel Casier,Matthias Boone,Paul Volle,Simon Düllmann
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),1,Single game,Tapir Plein,Setting is hard,Setting is hard,9,15,,,,,Lukas Petit,Pepijn Goethals,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),1,Single game,Foxes Warriors,UUU-rGent,Foxes Warriors,15,13,,,,,Nicolas Manneback,Manuel Van Rensbergen,Wouter Van Tongeren,Rens Elbertsen
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),1,Single game,No Bullshit Zone,Potato rotato,Potato rotato,12,15,,,,,wout thysens,Brecht Gemmel,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),1,Single game,Bernadette the seal,De koppers,De koppers,9,15,,,,,Bruno Lancksweerdt,Joran Kerkhove,Omar el Tambouli,Sam Beard
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),1,Single game,Waar is de TAP ir?,MKV t'Zand,Waar is de TAP ir?,15,9,,,,,Keelan Savat,Freek Goethals,Daan Animashaun,Robin Vloeberghs
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),1,Single game,Ostend Seals,Los Pinchamos,Ostend Seals,15,9,,,,,William Potigny,Christophe Verdonck,Lucas Algoed,Stephen Schouppe
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),1,Single game,Spike Jam,Rainbow Road,Spike Jam,15,9,,,,,Pieter-Jan Zwaan,Bram Desloovere,Yacine Jazi,Sep Marchand
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),1,Single game,The Authentic Liège Lions,Lightning Hits,The Authentic Liège Lions,15,7,,,,,Hugo Lebeaupin,Gilles Talmasse,Willem Renders,Mauro Depauw
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),1,Single game,Running Seals,Sitting Ducks,Sitting Ducks,11,15,,,,,Bastiaan Dekeyzer,Siebe Tanghe,Noëlle Steffens,Konni Schwarz
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),1,Single game,FlowZone,Ballistic Boys,FlowZone,15,7,,,,,Tuur De Brabander,Chris Timmerman,Miel Verkerken,Arne Feys
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),2,Single game,Boma Worst,Slapsgiving,Slapsgiving,12,15,,,,,Mathieu Vercruysse,Noah Bonine,Paul Volle,Simon Düllmann
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),2,Single game,Tokio 2020,Notis a problem,Tokio 2020,15,9,,,,,Ilya Akman,Ewaut Van Wambeke,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),2,Single game,Tapir Plein,UUU-rGent,Tapir Plein,15,10,,,,,Lukas Petit,Pepijn Goethals,Wouter Van Tongeren,Rens Elbertsen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),2,Single game,Mega sos,Setting is hard,Setting is hard,9,15,,,,,samuel courouble,Laurenz D'haemer,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),2,Single game,No Bullshit Zone,De koppers,No Bullshit Zone,15,6,,,,,wout thysens,Brecht Gemmel,Omar el Tambouli,Sam Beard
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),2,Single game,Cowdoy,Potato rotato,Potato rotato,8,15,,,,,Yarni Ricour,Arne de Spiegeleer,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),2,Single game,Waar is de TAP ir?,Los Pinchamos,Waar is de TAP ir?,15,13,,,,,Keelan Savat,Freek Goethals,Lucas Algoed,Stephen Schouppe
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),2,Single game,Ostend Seals,MKV t'Zand,Ostend Seals,15,8,,,,,William Potigny,Christophe Verdonck,Daan Animashaun,Robin Vloeberghs
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),2,Single game,Spike Jam,Lightning Hits,Spike Jam,15,10,,,,,Pieter-Jan Zwaan,Bram Desloovere,Willem Renders,Mauro Depauw
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),2,Single game,The Authentic Liège Lions,Rainbow Road,The Authentic Liège Lions,15,11,,,,,Hugo Lebeaupin,Gilles Talmasse,Yacine Jazi,Sep Marchand
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),2,Single game,Running Seals,Ballistic Boys,Running Seals,15,10,,,,,Bastiaan Dekeyzer,Siebe Tanghe,Miel Verkerken,Arne Feys
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),2,Single game,FlowZone,Sitting Ducks,FlowZone,15,14,,,,,Tuur De Brabander,Chris Timmerman,Noëlle Steffens,Konni Schwarz
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),3,Single game,Boma Worst,Tokio 2020,Boma Worst,15,14,,,,,Mathieu Vercruysse,Noah Bonine,Ilya Akman,Ewaut Van Wambeke
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),3,Single game,De nurkels,Notis a problem,De nurkels,15,8,,,,,Emiel Casier,Matthias Boone,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),3,Single game,Tapir Plein,Mega sos,Tapir Plein,15,12,,,,,Lukas Petit,Pepijn Goethals,samuel courouble,Laurenz D'haemer
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),3,Single game,Foxes Warriors,Setting is hard,Setting is hard,12,15,,,,,Nicolas Manneback,Manuel Van Rensbergen,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),3,Single game,No Bullshit Zone,Cowdoy,No Bullshit Zone,15,9,,,,,wout thysens,Brecht Gemmel,Yarni Ricour,Arne de Spiegeleer
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),3,Single game,Bernadette the seal,Potato rotato,Potato rotato,6,15,,,,,Bruno Lancksweerdt,Joran Kerkhove,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),3,Single game,Waar is de TAP ir?,Ostend Seals,Ostend Seals,14,15,,,,,Keelan Savat,Freek Goethals,William Potigny,Christophe Verdonck
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),3,Single game,Los Pinchamos,MKV t'Zand,Los Pinchamos,15,4,,,,,Lucas Algoed,Stephen Schouppe,Daan Animashaun,Robin Vloeberghs
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),3,Single game,Spike Jam,The Authentic Liège Lions,The Authentic Liège Lions,13,15,,,,,Pieter-Jan Zwaan,Bram Desloovere,Hugo Lebeaupin,Gilles Talmasse
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),3,Single game,Lightning Hits,Rainbow Road,Rainbow Road,12,15,,,,,Willem Renders,Mauro Depauw,Yacine Jazi,Sep Marchand
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),3,Single game,Running Seals,FlowZone,FlowZone,10,15,,,,,Bastiaan Dekeyzer,Siebe Tanghe,Tuur De Brabander,Chris Timmerman
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),3,Single game,Ballistic Boys,Sitting Ducks,Sitting Ducks,10,15,,,,,Miel Verkerken,Arne Feys,Noëlle Steffens,Konni Schwarz
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),4,Single game,De nurkels,Tokio 2020,De nurkels,15,7,,,,,Emiel Casier,Matthias Boone,Ilya Akman,Ewaut Van Wambeke
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),4,Single game,Slapsgiving,Notis a problem,Slapsgiving,15,11,,,,,Paul Volle,Simon Düllmann,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),4,Single game,Foxes Warriors,Mega sos,Foxes Warriors,15,13,,,,,Nicolas Manneback,Manuel Van Rensbergen,samuel courouble,Laurenz D'haemer
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),4,Single game,UUU-rGent,Setting is hard,Setting is hard,9,15,,,,,Wouter Van Tongeren,Rens Elbertsen,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),4,Single game,Bernadette the seal,Cowdoy,Cowdoy,12,15,,,,,Bruno Lancksweerdt,Joran Kerkhove,Yarni Ricour,Arne de Spiegeleer
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),4,Single game,De koppers,Potato rotato,Potato rotato,5,15,,,,,Omar el Tambouli,Sam Beard,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),5,Single game,Boma Worst,De nurkels,Boma Worst,15,14,,,,,Mathieu Vercruysse,Noah Bonine,Emiel Casier,Matthias Boone
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),5,Single game,Tokio 2020,Slapsgiving,Slapsgiving,13,15,,,,,Ilya Akman,Ewaut Van Wambeke,Paul Volle,Simon Düllmann
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),5,Single game,Tapir Plein,Foxes Warriors,Tapir Plein,15,12,,,,,Lukas Petit,Pepijn Goethals,Nicolas Manneback,Manuel Van Rensbergen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),5,Single game,Mega sos,UUU-rGent,Mega sos,15,13,,,,,samuel courouble,Laurenz D'haemer,Wouter Van Tongeren,Rens Elbertsen
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),5,Single game,No Bullshit Zone,Bernadette the seal,No Bullshit Zone,15,9,,,,,wout thysens,Brecht Gemmel,Bruno Lancksweerdt,Joran Kerkhove
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),5,Single game,Cowdoy,De koppers,Cowdoy,15,12,,,,,Yarni Ricour,Arne de Spiegeleer,Omar el Tambouli,Sam Beard
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),6,Single game,Boma Worst,Notis a problem,Boma Worst,15,7,,,,,Mathieu Vercruysse,Noah Bonine,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),6,Single game,De nurkels,Slapsgiving,Slapsgiving,12,15,,,,,Emiel Casier,Matthias Boone,Paul Volle,Simon Düllmann
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),6,Single game,Tapir Plein,Setting is hard,Tapir Plein,15,14,,,,,Lukas Petit,Pepijn Goethals,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),6,Single game,Foxes Warriors,UUU-rGent,Foxes Warriors,15,10,,,,,Nicolas Manneback,Manuel Van Rensbergen,Wouter Van Tongeren,Rens Elbertsen
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),6,Single game,No Bullshit Zone,Potato rotato,No Bullshit Zone,15,14,,,,,wout thysens,Brecht Gemmel,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),6,Single game,Bernadette the seal,De koppers,De koppers,12,15,,,,,Bruno Lancksweerdt,Joran Kerkhove,Omar el Tambouli,Sam Beard
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),4,Single game,Waar is de TAP ir?,MKV t'Zand,Waar is de TAP ir?,15,5,,,,,Keelan Savat,Freek Goethals,Daan Animashaun,Robin Vloeberghs
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),4,Single game,Ostend Seals,Los Pinchamos,Ostend Seals,15,9,,,,,William Potigny,Christophe Verdonck,Lucas Algoed,Stephen Schouppe
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),4,Single game,Spike Jam,Rainbow Road,Spike Jam,15,14,,,,,Pieter-Jan Zwaan,Bram Desloovere,Yacine Jazi,Sep Marchand
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),4,Single game,The Authentic Liège Lions,Lightning Hits,The Authentic Liège Lions,15,10,,,,,Hugo Lebeaupin,Gilles Talmasse,Willem Renders,Mauro Depauw
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),4,Single game,Running Seals,Sitting Ducks,Running Seals,15,14,,,,,Bastiaan Dekeyzer,Siebe Tanghe,Noëlle Steffens,Konni Schwarz
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),4,Single game,FlowZone,Ballistic Boys,FlowZone,15,8,,,,,Tuur De Brabander,Chris Timmerman,Miel Verkerken,Arne Feys
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),7,Single game,Boma Worst,Slapsgiving,Boma Worst,15,14,,,,,Mathieu Vercruysse,Noah Bonine,Paul Volle,Simon Düllmann
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),7,Single game,Tokio 2020,Notis a problem,Tokio 2020,15,11,,,,,Ilya Akman,Ewaut Van Wambeke,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),7,Single game,Tapir Plein,UUU-rGent,Tapir Plein,15,10,,,,,Lukas Petit,Pepijn Goethals,Wouter Van Tongeren,Rens Elbertsen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),7,Single game,Mega sos,Setting is hard,Setting is hard,8,15,,,,,samuel courouble,Laurenz D'haemer,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),7,Single game,No Bullshit Zone,De koppers,No Bullshit Zone,15,12,,,,,wout thysens,Brecht Gemmel,Omar el Tambouli,Sam Beard
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),7,Single game,Cowdoy,Potato rotato,Potato rotato,5,15,,,,,Yarni Ricour,Arne de Spiegeleer,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),5,Single game,Waar is de TAP ir?,Los Pinchamos,Waar is de TAP ir?,15,14,,,,,Keelan Savat,Freek Goethals,Lucas Algoed,Stephen Schouppe
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),5,Single game,Ostend Seals,MKV t'Zand,Ostend Seals,15,6,,,,,William Potigny,Christophe Verdonck,Daan Animashaun,Robin Vloeberghs
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),5,Single game,Spike Jam,Lightning Hits,Spike Jam,15,12,,,,,Pieter-Jan Zwaan,Bram Desloovere,Willem Renders,Mauro Depauw
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),5,Single game,The Authentic Liège Lions,Rainbow Road,The Authentic Liège Lions,15,8,,,,,Hugo Lebeaupin,Gilles Talmasse,Yacine Jazi,Sep Marchand
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),5,Single game,Running Seals,Ballistic Boys,Running Seals,15,14,,,,,Bastiaan Dekeyzer,Siebe Tanghe,Miel Verkerken,Arne Feys
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),5,Single game,FlowZone,Sitting Ducks,FlowZone,15,10,,,,,Tuur De Brabander,Chris Timmerman,Noëlle Steffens,Konni Schwarz
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),8,Single game,Boma Worst,Tokio 2020,Boma Worst,15,14,,,,,Mathieu Vercruysse,Noah Bonine,Ilya Akman,Ewaut Van Wambeke
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),8,Single game,De nurkels,Notis a problem,De nurkels,15,3,,,,,Emiel Casier,Matthias Boone,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),8,Single game,Tapir Plein,Mega sos,Tapir Plein,15,10,,,,,Lukas Petit,Pepijn Goethals,samuel courouble,Laurenz D'haemer
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),8,Single game,Foxes Warriors,Setting is hard,Setting is hard,6,15,,,,,Nicolas Manneback,Manuel Van Rensbergen,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),8,Single game,No Bullshit Zone,Cowdoy,No Bullshit Zone,15,7,,,,,wout thysens,Brecht Gemmel,Yarni Ricour,Arne de Spiegeleer
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),8,Single game,Bernadette the seal,Potato rotato,Potato rotato,7,15,,,,,Bruno Lancksweerdt,Joran Kerkhove,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),6,Single game,Waar is de TAP ir?,Ostend Seals,Ostend Seals,11,15,,,,,Keelan Savat,Freek Goethals,William Potigny,Christophe Verdonck
+Group Stage,Open Advanced,Group D (Grass - 27 & 28),6,Single game,Los Pinchamos,MKV t'Zand,Los Pinchamos,15,8,,,,,Lucas Algoed,Stephen Schouppe,Daan Animashaun,Robin Vloeberghs
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),6,Single game,Spike Jam,The Authentic Liège Lions,The Authentic Liège Lions,12,15,,,,,Pieter-Jan Zwaan,Bram Desloovere,Hugo Lebeaupin,Gilles Talmasse
+Group Stage,Open Advanced,Group E (Grass - 29 & 30),6,Single game,Lightning Hits,Rainbow Road,Rainbow Road,13,15,,,,,Willem Renders,Mauro Depauw,Yacine Jazi,Sep Marchand
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),6,Single game,Running Seals,FlowZone,FlowZone,10,15,,,,,Bastiaan Dekeyzer,Siebe Tanghe,Tuur De Brabander,Chris Timmerman
+Group Stage,Open Advanced,Group F (Grass - 31 & 32),6,Single game,Ballistic Boys,Sitting Ducks,Sitting Ducks,10,15,,,,,Miel Verkerken,Arne Feys,Noëlle Steffens,Konni Schwarz
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),9,Single game,De nurkels,Tokio 2020,De nurkels,15,12,,,,,Emiel Casier,Matthias Boone,Ilya Akman,Ewaut Van Wambeke
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),9,Single game,Slapsgiving,Notis a problem,Slapsgiving,15,7,,,,,Paul Volle,Simon Düllmann,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),9,Single game,Foxes Warriors,Mega sos,Foxes Warriors,15,13,,,,,Nicolas Manneback,Manuel Van Rensbergen,samuel courouble,Laurenz D'haemer
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),9,Single game,UUU-rGent,Setting is hard,Setting is hard,9,15,,,,,Wouter Van Tongeren,Rens Elbertsen,Fabian van Hummel,Rudo Brus
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),9,Single game,Bernadette the seal,Cowdoy,Cowdoy,6,15,,,,,Bruno Lancksweerdt,Joran Kerkhove,Yarni Ricour,Arne de Spiegeleer
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),9,Single game,De koppers,Potato rotato,Potato rotato,3,15,,,,,Omar el Tambouli,Sam Beard,Micha Daling,Tomer Kedar
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),10,Single game,Boma Worst,De nurkels,De nurkels,12,15,,,,,Mathieu Vercruysse,Noah Bonine,Emiel Casier,Matthias Boone
+Group Stage,Open Advanced,Group A (Grass - 11 & 12),10,Single game,Tokio 2020,Slapsgiving,Tokio 2020,15,12,,,,,Ilya Akman,Ewaut Van Wambeke,Paul Volle,Simon Düllmann
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),10,Single game,Tapir Plein,Foxes Warriors,Tapir Plein,15,12,,,,,Lukas Petit,Pepijn Goethals,Nicolas Manneback,Manuel Van Rensbergen
+Group Stage,Open Advanced,Group B (Grass - 13 & 14),10,Single game,Mega sos,UUU-rGent,UUU-rGent,3,15,,,,,samuel courouble,Laurenz D'haemer,Wouter Van Tongeren,Rens Elbertsen
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),10,Single game,No Bullshit Zone,Bernadette the seal,No Bullshit Zone,15,11,,,,,wout thysens,Brecht Gemmel,Bruno Lancksweerdt,Joran Kerkhove
+Group Stage,Open Advanced,Group C (Grass - 15 & 26),10,Single game,Cowdoy,De koppers,Cowdoy,15,13,,,,,Yarni Ricour,Arne de Spiegeleer,Omar el Tambouli,Sam Beard
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Ostend Seals,Cowdoy,Ostend Seals,15,10,18,16,,,William Potigny,Christophe Verdonck,Yarni Ricour,Arne de Spiegeleer
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,FlowZone,Foxes Warriors,FlowZone,15,13,15,12,,,Tuur De Brabander,Chris Timmerman,Nicolas Manneback,Manuel Van Rensbergen
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,The Authentic Liège Lions,Running Seals,The Authentic Liège Lions,15,10,15,12,,,Hugo Lebeaupin,Gilles Talmasse,Bastiaan Dekeyzer,Siebe Tanghe
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Potato rotato,Sitting Ducks,Potato rotato,11,15,15,8,15,10,Micha Daling,Tomer Kedar,Noëlle Steffens,Konni Schwarz
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Setting is hard,De nurkels,De nurkels,,,16,18,15,17,Fabian van Hummel,Rudo Brus,Emiel Casier,Matthias Boone
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,No Bullshit Zone,Spike Jam,No Bullshit Zone,15,11,15,13,,,wout thysens,Brecht Gemmel,Pieter-Jan Zwaan,Bram Desloovere
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Tapir Plein,Waar is de TAP ir?,Tapir Plein,21,19,12,15,15,9,Lukas Petit,Pepijn Goethals,Keelan Savat,Freek Goethals
+Bracket Stage,Open Advanced,Bracket A,Round of 16,Best of 3,Slapsgiving,Boma Worst,Slapsgiving,15,12,16,18,15,8,Paul Volle,Simon Düllmann,Mathieu Vercruysse,Noah Bonine
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,Ostend Seals,Slapsgiving,Slapsgiving,14,16,9,15,,,William Potigny,Christophe Verdonck,Paul Volle,Simon Düllmann
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,FlowZone,Tapir Plein,Tapir Plein,13,15,13,15,,,Tuur De Brabander,Chris Timmerman,Lukas Petit,Pepijn Goethals
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,The Authentic Liège Lions,No Bullshit Zone,The Authentic Liège Lions,15,12,11,15,15,12,Hugo Lebeaupin,Gilles Talmasse,wout thysens,Brecht Gemmel
+Bracket Stage,Open Advanced,Bracket A,Quarter-final,Best of 3,Potato rotato,De nurkels,Potato rotato,15,8,15,13,,,Micha Daling,Tomer Kedar,Emiel Casier,Matthias Boone
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,Boma Worst,Cowdoy,Boma Worst,15,12,15,10,,,Mathieu Vercruysse,Noah Bonine,Yarni Ricour,Arne de Spiegeleer
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,Waar is de TAP ir?,Foxes Warriors,Waar is de TAP ir?,15,12,15,11,,,Keelan Savat,Freek Goethals,Nicolas Manneback,Manuel Van Rensbergen
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,Spike Jam,Running Seals,Spike Jam,15,7,9,15,15,11,Pieter-Jan Zwaan,Bram Desloovere,Bastiaan Dekeyzer,Siebe Tanghe
+Bracket Stage,Open Advanced,Bracket A,P9: Quarter-final,Best of 3,Setting is hard,Sitting Ducks,Setting is hard,15,11,13,15,15,12,Fabian van Hummel,Rudo Brus,Noëlle Steffens,Konni Schwarz
+Bracket Stage,Open Advanced,Bracket A,Semi-final,Best of 3,Slapsgiving,Potato rotato,Slapsgiving,19,21,21,18,21,18,Paul Volle,Simon Düllmann,Micha Daling,Tomer Kedar
+Bracket Stage,Open Advanced,Bracket A,Semi-final,Best of 3,Tapir Plein,The Authentic Liège Lions,The Authentic Liège Lions,13,15,12,15,,,Lukas Petit,Pepijn Goethals,Hugo Lebeaupin,Gilles Talmasse
+Bracket Stage,Open Advanced,Bracket A,P5: Semi-final,Best of 3,De nurkels,Ostend Seals,De nurkels,1,0,0,1,1,0,Emiel Casier,Matthias Boone,William Potigny,Christophe Verdonck
+Bracket Stage,Open Advanced,Bracket A,P5: Semi-final,Best of 3,No Bullshit Zone,FlowZone,FlowZone,9,15,15,12,10,15,wout thysens,Brecht Gemmel,Tuur De Brabander,Chris Timmerman
+Bracket Stage,Open Advanced,Bracket A,P9: Semi-final,Best of 3,Boma Worst,Setting is hard,Setting is hard,13,15,18,16,10,15,Mathieu Vercruysse,Noah Bonine,Fabian van Hummel,Rudo Brus
+Bracket Stage,Open Advanced,Bracket A,P9: Semi-final,Best of 3,Waar is de TAP ir?,Spike Jam,Waar is de TAP ir?,15,12,15,12,,,Keelan Savat,Freek Goethals,Pieter-Jan Zwaan,Bram Desloovere
+Bracket Stage,Open Advanced,Bracket A,P13: Semi-final,Best of 3,Sitting Ducks,Cowdoy,Sitting Ducks,15,5,15,13,,,Noëlle Steffens,Konni Schwarz,Yarni Ricour,Arne de Spiegeleer
+Bracket Stage,Open Advanced,Bracket A,P13: Semi-final,Best of 3,Running Seals,Foxes Warriors,Running Seals,21,14,21,10,,,Bastiaan Dekeyzer,Siebe Tanghe,Nicolas Manneback,Manuel Van Rensbergen
+Bracket Stage,Open Advanced,Bracket A,Final,Best of 3,Slapsgiving,The Authentic Liège Lions,The Authentic Liège Lions,10,21,24,22,15,21,Paul Volle,Simon Düllmann,Hugo Lebeaupin,Gilles Talmasse
+Bracket Stage,Open Advanced,Bracket A,P3: Final,Best of 3,Tapir Plein,Potato rotato,Tapir Plein,21,19,21,18,,,Lukas Petit,Pepijn Goethals,Micha Daling,Tomer Kedar
+Bracket Stage,Open Advanced,Bracket A,P5: Final,Best of 3,De nurkels,FlowZone,De nurkels,1,0,1,0,,,Emiel Casier,Matthias Boone,Tuur De Brabander,Chris Timmerman
+Bracket Stage,Open Advanced,Bracket A,P7: Final,Best of 3,No Bullshit Zone,Ostend Seals,No Bullshit Zone,21,19,21,18,,,wout thysens,Brecht Gemmel,William Potigny,Christophe Verdonck
+Bracket Stage,Open Advanced,Bracket A,P9: Final,Best of 3,Setting is hard,Waar is de TAP ir?,Setting is hard,11,9,11,9,,,Fabian van Hummel,Rudo Brus,Keelan Savat,Freek Goethals
+Bracket Stage,Open Advanced,Bracket A,P11: Final,Best of 3,Spike Jam,Boma Worst,Spike Jam,1,0,0,1,1,0,Pieter-Jan Zwaan,Bram Desloovere,Mathieu Vercruysse,Noah Bonine
+Bracket Stage,Open Advanced,Bracket A,P13: Final,Best of 3,Sitting Ducks,Running Seals,Sitting Ducks,15,9,15,11,,,Noëlle Steffens,Konni Schwarz,Bastiaan Dekeyzer,Siebe Tanghe
+Bracket Stage,Open Advanced,Bracket A,P15: Final,Best of 3,Foxes Warriors,Cowdoy,Foxes Warriors,12,15,15,12,15,12,Nicolas Manneback,Manuel Van Rensbergen,Yarni Ricour,Arne de Spiegeleer
+Bracket Stage,Open Advanced,Bracket B,Round of 16,Best of 3,Ballistic Boys,Notis a problem,Ballistic Boys,15,13,18,16,,,Miel Verkerken,Arne Feys,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Bracket Stage,Open Advanced,Bracket B,Round of 16,Best of 3,MKV t'Zand,Bernadette the seal,Bernadette the seal,12,15,13,15,,,Daan Animashaun,Robin Vloeberghs,Bruno Lancksweerdt,Joran Kerkhove
+Bracket Stage,Open Advanced,Bracket B,Round of 16,Best of 3,UUU-rGent,Mega sos,UUU-rGent,15,12,15,11,,,Wouter Van Tongeren,Rens Elbertsen,samuel courouble,Laurenz D'haemer
+Bracket Stage,Open Advanced,Bracket B,Quarter-final,Best of 3,Los Pinchamos,UUU-rGent,Los Pinchamos,15,8,15,9,,,Lucas Algoed,Stephen Schouppe,Wouter Van Tongeren,Rens Elbertsen
+Bracket Stage,Open Advanced,Bracket B,Quarter-final,Best of 3,Rainbow Road,Bernadette the seal,Rainbow Road,15,6,15,8,,,Yacine Jazi,Sep Marchand,Bruno Lancksweerdt,Joran Kerkhove
+Bracket Stage,Open Advanced,Bracket B,Quarter-final,Best of 3,Tokio 2020,Ballistic Boys,Tokio 2020,15,12,15,13,,,Ilya Akman,Ewaut Van Wambeke,Miel Verkerken,Arne Feys
+Bracket Stage,Open Advanced,Bracket B,Quarter-final,Best of 3,De koppers,Lightning Hits,Lightning Hits,11,15,9,15,,,Omar el Tambouli,Sam Beard,Willem Renders,Mauro Depauw
+Bracket Stage,Open Advanced,Bracket B,Semi-final,Best of 3,Los Pinchamos,Lightning Hits,Lightning Hits,18,21,21,12,19,21,Lucas Algoed,Stephen Schouppe,Willem Renders,Mauro Depauw
+Bracket Stage,Open Advanced,Bracket B,Semi-final,Best of 3,Rainbow Road,Tokio 2020,Tokio 2020,17,21,21,18,18,21,Yacine Jazi,Sep Marchand,Ilya Akman,Ewaut Van Wambeke
+Bracket Stage,Open Advanced,Bracket B,P5: Semi-final,Best of 3,De koppers,UUU-rGent,UUU-rGent,22,24,19,21,,,Omar el Tambouli,Sam Beard,Wouter Van Tongeren,Rens Elbertsen
+Bracket Stage,Open Advanced,Bracket B,P5: Semi-final,Best of 3,Ballistic Boys,Bernadette the seal,Ballistic Boys,21,12,21,11,,,Miel Verkerken,Arne Feys,Bruno Lancksweerdt,Joran Kerkhove
+Bracket Stage,Open Advanced,Bracket B,P9: Semi-final,Best of 3,MKV t'Zand,Notis a problem,Notis a problem,14,16,13,15,,,Daan Animashaun,Robin Vloeberghs,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Bracket Stage,Open Advanced,Bracket B,Final,Best of 3,Lightning Hits,Tokio 2020,Tokio 2020,15,21,17,21,,,Willem Renders,Mauro Depauw,Ilya Akman,Ewaut Van Wambeke
+Bracket Stage,Open Advanced,Bracket B,P5: Final,Best of 3,UUU-rGent,Ballistic Boys,UUU-rGent,21,19,21,19,,,Wouter Van Tongeren,Rens Elbertsen,Miel Verkerken,Arne Feys
+Bracket Stage,Open Advanced,Bracket B,P7: Final,Best of 3,Bernadette the seal,De koppers,Bernadette the seal,15,21,21,19,21,15,Bruno Lancksweerdt,Joran Kerkhove,Omar el Tambouli,Sam Beard
+Bracket Stage,Open Advanced,Bracket B,P9: Final,Best of 3,Mega sos,Notis a problem,Mega sos,15,10,16,14,,,samuel courouble,Laurenz D'haemer,Alejandro Mendez Cordero,Jonathan Zhu Chen
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),1,Single game,Squeezy Bubbles 🫧🐕,Circles are pointless,Squeezy Bubbles 🫧🐕,15,4,,,,,Megan Leybourne,Amely Joly,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),1,Single game,Chick Flick,Seconds left,Chick Flick,15,13,,,,,Elien Alderweireldt,Amy Campbell,Lauma Ernestsone,Eline Meijer
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),1,Single game,Showerparty,Zussen/vriendinnen,Showerparty,15,4,,,,,Vivien Less,Nora Haas,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),1,Single game,25.02,Last minute!,25.02,15,9,,,,,Charlotte Bruns,Elise Van der Stichelen,Lauri Schippers,Shauny Dieltjes
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),1,Single game,AK,Bist du die Sardine?,AK,15,14,,,,,jana vandesijpe,Riet D'hoore,Anna Hillemann,Luzie Partl
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),1,Single game,[BEL] - Delbecke/Vankemenade,short & petite,[BEL] - Delbecke/Vankemenade,15,12,,,,,Tatiana Delbecke,Britt Vankemenade,Jessi Riedelsheimer,Louisiane Lemaire
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),2,Single game,Squeezy Bubbles 🫧🐕,Seconds left,Squeezy Bubbles 🫧🐕,15,6,,,,,Megan Leybourne,Amely Joly,Lauma Ernestsone,Eline Meijer
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),2,Single game,Louise Sarahttaque,Circles are pointless,Louise Sarahttaque,15,7,,,,,Louise Eydoux,Sarah Martinez,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),2,Single game,Showerparty,Last minute!,Showerparty,15,5,,,,,Vivien Less,Nora Haas,Lauri Schippers,Shauny Dieltjes
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),2,Single game,Nancy/Lotte,Zussen/vriendinnen,Nancy/Lotte,15,13,,,,,Lotte Verbeke,Nancy Pausenberger,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),2,Single game,AK,short & petite,AK,15,10,,,,,jana vandesijpe,Riet D'hoore,Jessi Riedelsheimer,Louisiane Lemaire
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),2,Single game,[BEL] - Delbecke/Vankemenade,Bist du die Sardine?,Bist du die Sardine?,12,15,,,,,Tatiana Delbecke,Britt Vankemenade,Anna Hillemann,Luzie Partl
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),3,Single game,Squeezy Bubbles 🫧🐕,Louise Sarahttaque,Squeezy Bubbles 🫧🐕,15,10,,,,,Megan Leybourne,Amely Joly,Louise Eydoux,Sarah Martinez
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),3,Single game,Chick Flick,Circles are pointless,Chick Flick,15,7,,,,,Elien Alderweireldt,Amy Campbell,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),3,Single game,Showerparty,Nancy/Lotte,Showerparty,15,5,,,,,Vivien Less,Nora Haas,Lotte Verbeke,Nancy Pausenberger
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),3,Single game,25.02,Zussen/vriendinnen,25.02,15,4,,,,,Charlotte Bruns,Elise Van der Stichelen,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),3,Single game,AK,[BEL] - Delbecke/Vankemenade,AK,15,7,,,,,jana vandesijpe,Riet D'hoore,Tatiana Delbecke,Britt Vankemenade
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),3,Single game,short & petite,Bist du die Sardine?,Bist du die Sardine?,12,15,,,,,Jessi Riedelsheimer,Louisiane Lemaire,Anna Hillemann,Luzie Partl
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),4,Single game,Chick Flick,Louise Sarahttaque,Louise Sarahttaque,13,15,,,,,Elien Alderweireldt,Amy Campbell,Louise Eydoux,Sarah Martinez
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),4,Single game,Seconds left,Circles are pointless,Seconds left,15,4,,,,,Lauma Ernestsone,Eline Meijer,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),4,Single game,25.02,Nancy/Lotte,25.02,15,0,,,,,Charlotte Bruns,Elise Van der Stichelen,Lotte Verbeke,Nancy Pausenberger
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),4,Single game,Last minute!,Zussen/vriendinnen,Last minute!,15,14,,,,,Lauri Schippers,Shauny Dieltjes,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),5,Single game,Squeezy Bubbles 🫧🐕,Chick Flick,Squeezy Bubbles 🫧🐕,15,4,,,,,Megan Leybourne,Amely Joly,Elien Alderweireldt,Amy Campbell
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),5,Single game,Louise Sarahttaque,Seconds left,Seconds left,13,15,,,,,Louise Eydoux,Sarah Martinez,Lauma Ernestsone,Eline Meijer
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),5,Single game,Showerparty,25.02,25.02,13,15,,,,,Vivien Less,Nora Haas,Charlotte Bruns,Elise Van der Stichelen
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),5,Single game,Nancy/Lotte,Last minute!,Last minute!,8,15,,,,,Lotte Verbeke,Nancy Pausenberger,Lauri Schippers,Shauny Dieltjes
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),6,Single game,Squeezy Bubbles 🫧🐕,Circles are pointless,Squeezy Bubbles 🫧🐕,15,5,,,,,Megan Leybourne,Amely Joly,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),6,Single game,Chick Flick,Seconds left,Seconds left,12,15,,,,,Elien Alderweireldt,Amy Campbell,Lauma Ernestsone,Eline Meijer
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),6,Single game,Showerparty,Zussen/vriendinnen,Showerparty,15,4,,,,,Vivien Less,Nora Haas,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),6,Single game,25.02,Last minute!,25.02,15,8,,,,,Charlotte Bruns,Elise Van der Stichelen,Lauri Schippers,Shauny Dieltjes
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),4,Single game,AK,Bist du die Sardine?,AK,15,9,,,,,jana vandesijpe,Riet D'hoore,Anna Hillemann,Luzie Partl
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),4,Single game,[BEL] - Delbecke/Vankemenade,short & petite,[BEL] - Delbecke/Vankemenade,15,14,,,,,Tatiana Delbecke,Britt Vankemenade,Jessi Riedelsheimer,Louisiane Lemaire
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),7,Single game,Squeezy Bubbles 🫧🐕,Seconds left,Squeezy Bubbles 🫧🐕,15,6,,,,,Megan Leybourne,Amely Joly,Lauma Ernestsone,Eline Meijer
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),7,Single game,Louise Sarahttaque,Circles are pointless,Louise Sarahttaque,15,9,,,,,Louise Eydoux,Sarah Martinez,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),7,Single game,Showerparty,Last minute!,Showerparty,15,5,,,,,Vivien Less,Nora Haas,Lauri Schippers,Shauny Dieltjes
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),7,Single game,Nancy/Lotte,Zussen/vriendinnen,Nancy/Lotte,15,14,,,,,Lotte Verbeke,Nancy Pausenberger,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),5,Single game,AK,short & petite,AK,15,7,,,,,jana vandesijpe,Riet D'hoore,Jessi Riedelsheimer,Louisiane Lemaire
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),5,Single game,[BEL] - Delbecke/Vankemenade,Bist du die Sardine?,Bist du die Sardine?,10,15,,,,,Tatiana Delbecke,Britt Vankemenade,Anna Hillemann,Luzie Partl
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),8,Single game,Squeezy Bubbles 🫧🐕,Louise Sarahttaque,Squeezy Bubbles 🫧🐕,15,8,,,,,Megan Leybourne,Amely Joly,Louise Eydoux,Sarah Martinez
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),8,Single game,Chick Flick,Circles are pointless,Chick Flick,15,9,,,,,Elien Alderweireldt,Amy Campbell,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),8,Single game,Showerparty,Nancy/Lotte,Showerparty,15,3,,,,,Vivien Less,Nora Haas,Lotte Verbeke,Nancy Pausenberger
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),8,Single game,25.02,Zussen/vriendinnen,25.02,15,4,,,,,Charlotte Bruns,Elise Van der Stichelen,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),6,Single game,AK,[BEL] - Delbecke/Vankemenade,AK,15,10,,,,,jana vandesijpe,Riet D'hoore,Tatiana Delbecke,Britt Vankemenade
+Group Stage,Women's Advanced,Group C (Turf - 9 & 10),6,Single game,short & petite,Bist du die Sardine?,Bist du die Sardine?,11,15,,,,,Jessi Riedelsheimer,Louisiane Lemaire,Anna Hillemann,Luzie Partl
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),9,Single game,Chick Flick,Louise Sarahttaque,Louise Sarahttaque,14,15,,,,,Elien Alderweireldt,Amy Campbell,Louise Eydoux,Sarah Martinez
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),9,Single game,Seconds left,Circles are pointless,Seconds left,15,7,,,,,Lauma Ernestsone,Eline Meijer,Ilonka Thielen,Mady Smit
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),9,Single game,25.02,Nancy/Lotte,25.02,15,6,,,,,Charlotte Bruns,Elise Van der Stichelen,Lotte Verbeke,Nancy Pausenberger
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),9,Single game,Last minute!,Zussen/vriendinnen,Last minute!,15,10,,,,,Lauri Schippers,Shauny Dieltjes,Fien Dams,Marte Dams
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),10,Single game,Squeezy Bubbles 🫧🐕,Chick Flick,Squeezy Bubbles 🫧🐕,15,5,,,,,Megan Leybourne,Amely Joly,Elien Alderweireldt,Amy Campbell
+Group Stage,Women's Advanced,Group A (Turf - 5 & 6),10,Single game,Louise Sarahttaque,Seconds left,Seconds left,13,15,,,,,Louise Eydoux,Sarah Martinez,Lauma Ernestsone,Eline Meijer
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),10,Single game,Showerparty,25.02,Showerparty,15,13,,,,,Vivien Less,Nora Haas,Charlotte Bruns,Elise Van der Stichelen
+Group Stage,Women's Advanced,Group B (Turf - 7 & 8),10,Single game,Nancy/Lotte,Last minute!,Last minute!,12,15,,,,,Lotte Verbeke,Nancy Pausenberger,Lauri Schippers,Shauny Dieltjes
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Showerparty,Circles are pointless,Showerparty,15,10,15,4,,,Vivien Less,Nora Haas,Ilonka Thielen,Mady Smit
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,25.02,Zussen/vriendinnen,25.02,15,8,15,4,,,Charlotte Bruns,Elise Van der Stichelen,Fien Dams,Marte Dams
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Bist du die Sardine?,Nancy/Lotte,Bist du die Sardine?,15,7,15,9,,,Anna Hillemann,Luzie Partl,Lotte Verbeke,Nancy Pausenberger
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Seconds left,short & petite,Seconds left,15,4,15,7,,,Lauma Ernestsone,Eline Meijer,Jessi Riedelsheimer,Louisiane Lemaire
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Louise Sarahttaque,Chick Flick,Chick Flick,12,15,20,21,,,Louise Eydoux,Sarah Martinez,Elien Alderweireldt,Amy Campbell
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Last minute!,[BEL] - Delbecke/Vankemenade,[BEL] - Delbecke/Vankemenade,8,15,7,15,,,Lauri Schippers,Shauny Dieltjes,Tatiana Delbecke,Britt Vankemenade
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Squeezy Bubbles 🫧🐕,[BEL] - Delbecke/Vankemenade,Squeezy Bubbles 🫧🐕,15,5,15,4,,,Megan Leybourne,Amely Joly,Tatiana Delbecke,Britt Vankemenade
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,AK,Chick Flick,AK,15,9,15,11,,,jana vandesijpe,Riet D'hoore,Elien Alderweireldt,Amy Campbell
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Showerparty,Seconds left,Showerparty,15,13,15,11,,,Vivien Less,Nora Haas,Lauma Ernestsone,Eline Meijer
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,25.02,Bist du die Sardine?,25.02,15,11,15,11,,,Charlotte Bruns,Elise Van der Stichelen,Anna Hillemann,Luzie Partl
+Bracket Stage,Women's Advanced,Bracket A,P9: Quarter-final,Best of 3,short & petite,Circles are pointless,short & petite,15,10,15,8,,,Jessi Riedelsheimer,Louisiane Lemaire,Ilonka Thielen,Mady Smit
+Bracket Stage,Women's Advanced,Bracket A,P9: Quarter-final,Best of 3,Nancy/Lotte,Zussen/vriendinnen,Nancy/Lotte,15,8,15,13,,,Lotte Verbeke,Nancy Pausenberger,Fien Dams,Marte Dams
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Squeezy Bubbles 🫧🐕,25.02,Squeezy Bubbles 🫧🐕,21,17,21,19,,,Megan Leybourne,Amely Joly,Charlotte Bruns,Elise Van der Stichelen
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,AK,Showerparty,Showerparty,16,21,15,21,,,jana vandesijpe,Riet D'hoore,Vivien Less,Nora Haas
+Bracket Stage,Women's Advanced,Bracket A,P5: Semi-final,Best of 3,Bist du die Sardine?,[BEL] - Delbecke/Vankemenade,Bist du die Sardine?,13,15,15,13,15,10,Anna Hillemann,Luzie Partl,Tatiana Delbecke,Britt Vankemenade
+Bracket Stage,Women's Advanced,Bracket A,P5: Semi-final,Best of 3,Seconds left,Chick Flick,Seconds left,15,12,15,12,,,Lauma Ernestsone,Eline Meijer,Elien Alderweireldt,Amy Campbell
+Bracket Stage,Women's Advanced,Bracket A,P9: Semi-final,Best of 3,Last minute!,Nancy/Lotte,Last minute!,15,0,15,0,,,Lauri Schippers,Shauny Dieltjes,Lotte Verbeke,Nancy Pausenberger
+Bracket Stage,Women's Advanced,Bracket A,P9: Semi-final,Best of 3,Louise Sarahttaque,short & petite,short & petite,6,15,9,15,,,Louise Eydoux,Sarah Martinez,Jessi Riedelsheimer,Louisiane Lemaire
+Bracket Stage,Women's Advanced,Bracket A,Final,Best of 3,Squeezy Bubbles 🫧🐕,Showerparty,Showerparty,21,11,17,21,17,21,Megan Leybourne,Amely Joly,Vivien Less,Nora Haas
+Bracket Stage,Women's Advanced,Bracket A,P3: Final,Best of 3,AK,25.02,AK,21,17,21,17,,,jana vandesijpe,Riet D'hoore,Charlotte Bruns,Elise Van der Stichelen
+Bracket Stage,Women's Advanced,Bracket A,P5: Final,Best of 3,Bist du die Sardine?,Seconds left,Seconds left,6,15,6,15,,,Anna Hillemann,Luzie Partl,Lauma Ernestsone,Eline Meijer
+Bracket Stage,Women's Advanced,Bracket A,P7: Final,Best of 3,Chick Flick,[BEL] - Delbecke/Vankemenade,[BEL] - Delbecke/Vankemenade,11,15,9,15,,,Elien Alderweireldt,Amy Campbell,Tatiana Delbecke,Britt Vankemenade
+Bracket Stage,Women's Advanced,Bracket A,P9: Final,Best of 3,Last minute!,short & petite,short & petite,10,15,7,15,,,Lauri Schippers,Shauny Dieltjes,Jessi Riedelsheimer,Louisiane Lemaire
+Bracket Stage,Women's Advanced,Bracket A,P11: Final,Best of 3,Louise Sarahttaque,Nancy/Lotte,Louise Sarahttaque,15,0,15,0,,,Louise Eydoux,Sarah Martinez,Lotte Verbeke,Nancy Pausenberger
+Bracket Stage,Women's Advanced,Bracket A,P13: Final,Best of 3,Zussen/vriendinnen,Circles are pointless,Circles are pointless,10,15,12,15,,,Fien Dams,Marte Dams,Ilonka Thielen,Mady Smit
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),1,Single game,Spike’jitos #1,C'est qui elles?,Spike’jitos #1,15,13,,,,,Anke Moenaert,Ode Vereecke,Rozi Ouali,Marie Perez
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),1,Single game,Team sjans,Bounce ballerz,Team sjans,15,7,,,,,Sanne Hogesteeger,Jannah Sonnenschein,Hanne Van Bockstaele,Maud Lason
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),1,Single game,Banana Girls,de kameleons,Banana Girls,15,8,,,,,Jana Laporte,Linde Van Wambeke,Jolien De Meyer,Iris Vande Moortel
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),1,Single game,LM,Spikegirls,Spikegirls,6,15,,,,,Laure Hulsmans,Bieke Bytebier,Irene van der Haar,Agnes Berveling
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),2,Single game,Spike’jitos #1,Bounce ballerz,Spike’jitos #1,15,13,,,,,Anke Moenaert,Ode Vereecke,Hanne Van Bockstaele,Maud Lason
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),2,Single game,Team sjans,C'est qui elles?,C'est qui elles?,10,15,,,,,Sanne Hogesteeger,Jannah Sonnenschein,Rozi Ouali,Marie Perez
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),2,Single game,Banana Girls,Spikegirls,Banana Girls,15,10,,,,,Jana Laporte,Linde Van Wambeke,Irene van der Haar,Agnes Berveling
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),2,Single game,LM,de kameleons,de kameleons,7,15,,,,,Laure Hulsmans,Bieke Bytebier,Jolien De Meyer,Iris Vande Moortel
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),3,Single game,Spike’jitos #1,Team sjans,Spike’jitos #1,15,12,,,,,Anke Moenaert,Ode Vereecke,Sanne Hogesteeger,Jannah Sonnenschein
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),3,Single game,Bounce ballerz,C'est qui elles?,C'est qui elles?,7,15,,,,,Hanne Van Bockstaele,Maud Lason,Rozi Ouali,Marie Perez
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),3,Single game,Banana Girls,LM,Banana Girls,15,2,,,,,Jana Laporte,Linde Van Wambeke,Laure Hulsmans,Bieke Bytebier
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),3,Single game,Spikegirls,de kameleons,Spikegirls,15,9,,,,,Irene van der Haar,Agnes Berveling,Jolien De Meyer,Iris Vande Moortel
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),4,Single game,Spike’jitos #1,C'est qui elles?,C'est qui elles?,14,15,,,,,Anke Moenaert,Ode Vereecke,Rozi Ouali,Marie Perez
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),4,Single game,Team sjans,Bounce ballerz,Bounce ballerz,13,15,,,,,Sanne Hogesteeger,Jannah Sonnenschein,Hanne Van Bockstaele,Maud Lason
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),4,Single game,Banana Girls,de kameleons,Banana Girls,15,7,,,,,Jana Laporte,Linde Van Wambeke,Jolien De Meyer,Iris Vande Moortel
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),4,Single game,LM,Spikegirls,Spikegirls,10,15,,,,,Laure Hulsmans,Bieke Bytebier,Irene van der Haar,Agnes Berveling
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),5,Single game,Spike’jitos #1,Bounce ballerz,Bounce ballerz,12,15,,,,,Anke Moenaert,Ode Vereecke,Hanne Van Bockstaele,Maud Lason
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),5,Single game,Team sjans,C'est qui elles?,C'est qui elles?,4,15,,,,,Sanne Hogesteeger,Jannah Sonnenschein,Rozi Ouali,Marie Perez
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),5,Single game,Banana Girls,Spikegirls,Banana Girls,15,8,,,,,Jana Laporte,Linde Van Wambeke,Irene van der Haar,Agnes Berveling
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),5,Single game,LM,de kameleons,de kameleons,5,15,,,,,Laure Hulsmans,Bieke Bytebier,Jolien De Meyer,Iris Vande Moortel
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),6,Single game,Spike’jitos #1,Team sjans,Team sjans,13,15,,,,,Anke Moenaert,Ode Vereecke,Sanne Hogesteeger,Jannah Sonnenschein
+Group Stage,Women's Intermediate,Group A (Grass - 7 & 8),6,Single game,Bounce ballerz,C'est qui elles?,C'est qui elles?,13,15,,,,,Hanne Van Bockstaele,Maud Lason,Rozi Ouali,Marie Perez
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),6,Single game,Banana Girls,LM,Banana Girls,15,3,,,,,Jana Laporte,Linde Van Wambeke,Laure Hulsmans,Bieke Bytebier
+Group Stage,Women's Intermediate,Group B (Grass - 9 & 10),6,Single game,Spikegirls,de kameleons,Spikegirls,15,11,,,,,Irene van der Haar,Agnes Berveling,Jolien De Meyer,Iris Vande Moortel
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Banana Girls,LM,Banana Girls,15,3,15,7,,,Jana Laporte,Linde Van Wambeke,Laure Hulsmans,Bieke Bytebier
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,C'est qui elles?,Bounce ballerz,C'est qui elles?,14,16,15,12,15,9,Rozi Ouali,Marie Perez,Hanne Van Bockstaele,Maud Lason
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Spikegirls,Team sjans,Team sjans,15,11,12,15,10,15,Irene van der Haar,Agnes Berveling,Sanne Hogesteeger,Jannah Sonnenschein
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Spike’jitos #1,de kameleons,Spike’jitos #1,15,5,15,5,,,Anke Moenaert,Ode Vereecke,Jolien De Meyer,Iris Vande Moortel
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Banana Girls,Spike’jitos #1,Banana Girls,15,8,15,5,,,Jana Laporte,Linde Van Wambeke,Anke Moenaert,Ode Vereecke
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,C'est qui elles?,Team sjans,C'est qui elles?,15,10,10,15,17,15,Rozi Ouali,Marie Perez,Sanne Hogesteeger,Jannah Sonnenschein
+Bracket Stage,Women's Intermediate,Bracket A,P5: Semi-final,Best of 3,de kameleons,LM,de kameleons,15,9,15,9,,,Jolien De Meyer,Iris Vande Moortel,Laure Hulsmans,Bieke Bytebier
+Bracket Stage,Women's Intermediate,Bracket A,P5: Semi-final,Best of 3,Spikegirls,Bounce ballerz,Spikegirls,15,10,15,3,,,Irene van der Haar,Agnes Berveling,Hanne Van Bockstaele,Maud Lason
+Bracket Stage,Women's Intermediate,Bracket A,Final,Best of 3,Banana Girls,C'est qui elles?,Banana Girls,21,16,21,11,,,Jana Laporte,Linde Van Wambeke,Rozi Ouali,Marie Perez
+Bracket Stage,Women's Intermediate,Bracket A,P3: Final,Best of 3,Team sjans,Spike’jitos #1,Spike’jitos #1,9,15,9,15,,,Sanne Hogesteeger,Jannah Sonnenschein,Anke Moenaert,Ode Vereecke
+Bracket Stage,Women's Intermediate,Bracket A,P5: Final,Best of 3,de kameleons,Spikegirls,Spikegirls,12,21,9,21,,,Jolien De Meyer,Iris Vande Moortel,Irene van der Haar,Agnes Berveling
+Bracket Stage,Women's Intermediate,Bracket A,P7: Final,Best of 3,Bounce ballerz,LM,Bounce ballerz,14,16,15,9,15,10,Hanne Van Bockstaele,Maud Lason,Laure Hulsmans,Bieke Bytebier

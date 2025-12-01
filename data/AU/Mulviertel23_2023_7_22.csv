@@ -1,0 +1,207 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Power Pool A,1,Best of 3,Asylum,Hairy Hari,Asylum,15,6,15,6,,,Pol Loutsch,David Leidenfrost,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool A,1,Best of 3,420 bros,Fajitas,Fajitas,9,15,6,15,,,Sebastian Radler,Raphael Maureder,Fabian Hagen,James Faustmann
+Group Stage,Open,Power Pool A,1,Best of 3,Wiener Böschung,Rage Cage,Wiener Böschung,15,12,15,13,,,Rafael Bösch,Dominik Sykora,Stefan Geyer,Dario Sommer
+Group Stage,Open,Power Pool A,1,Best of 3,Luckyshot,RCG Weak Circle,RCG Weak Circle,10,15,9,15,,,Andreas Falkinger,Manuel Mahringer,Marko Barbir,Simon Wayd
+Group Stage,Open,Power Pool B,1,Best of 3,RISIK,Stiftl United,RISIK,15,2,15,4,,,Simon Bösch,Adrian Maksymowicz,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool B,1,Best of 3,Mochi,cocktail enjoyers,Mochi,15,5,15,12,,,Angelika Bauer,Moritz Albrecht,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool B,1,Best of 3,Ultra Instinct,Team Erdbeerkombino,Ultra Instinct,15,8,15,4,,,Maher Saadeddin,Florian Dibold,Felix Krenn,Vinzenz Brameshuber
+Group Stage,Open,Power Pool B,1,Best of 3,Flatshot,Spikebros,,15,14,14,15,,,Gabriel Stoisser,Albin Janko,Martin Lindorfer,Raphael Eisschiel
+Group Stage,Open,Power Pool A,2,Best of 3,Asylum,Fajitas,,15,11,14,15,,,Pol Loutsch,David Leidenfrost,Fabian Hagen,James Faustmann
+Group Stage,Open,Power Pool A,2,Best of 3,420 bros,RCG Weak Circle,RCG Weak Circle,8,15,10,15,,,Sebastian Radler,Raphael Maureder,Marko Barbir,Simon Wayd
+Group Stage,Open,Power Pool A,2,Best of 3,Wiener Böschung,Luckyshot,Wiener Böschung,15,7,15,7,,,Rafael Bösch,Dominik Sykora,Andreas Falkinger,Manuel Mahringer
+Group Stage,Open,Power Pool A,2,Best of 3,Rage Cage,Hairy Hari,Rage Cage,15,4,15,4,,,Stefan Geyer,Dario Sommer,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool B,2,Best of 3,RISIK,cocktail enjoyers,RISIK,15,7,15,6,,,Simon Bösch,Adrian Maksymowicz,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool B,2,Best of 3,Mochi,Spikebros,,15,11,11,15,,,Angelika Bauer,Moritz Albrecht,Martin Lindorfer,Raphael Eisschiel
+Group Stage,Open,Power Pool B,2,Best of 3,Ultra Instinct,Flatshot,Flatshot,13,15,13,15,,,Maher Saadeddin,Florian Dibold,Gabriel Stoisser,Albin Janko
+Group Stage,Open,Power Pool B,2,Best of 3,Team Erdbeerkombino,Stiftl United,Team Erdbeerkombino,15,6,15,9,,,Felix Krenn,Vinzenz Brameshuber,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool A,3,Best of 3,Asylum,Rage Cage,Asylum,15,14,15,7,,,Pol Loutsch,David Leidenfrost,Stefan Geyer,Dario Sommer
+Group Stage,Open,Power Pool A,3,Best of 3,420 bros,Wiener Böschung,Wiener Böschung,8,15,12,15,,,Sebastian Radler,Raphael Maureder,Rafael Bösch,Dominik Sykora
+Group Stage,Open,Power Pool A,3,Best of 3,Luckyshot,Hairy Hari,Luckyshot,15,12,15,7,,,Andreas Falkinger,Manuel Mahringer,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool A,3,Best of 3,RCG Weak Circle,Fajitas,,15,12,2,15,,,Marko Barbir,Simon Wayd,Fabian Hagen,James Faustmann
+Group Stage,Open,Power Pool B,3,Best of 3,RISIK,Team Erdbeerkombino,RISIK,15,3,15,4,,,Simon Bösch,Adrian Maksymowicz,Felix Krenn,Vinzenz Brameshuber
+Group Stage,Open,Power Pool B,3,Best of 3,Mochi,Ultra Instinct,Ultra Instinct,7,15,12,15,,,Angelika Bauer,Moritz Albrecht,Maher Saadeddin,Florian Dibold
+Group Stage,Open,Power Pool B,3,Best of 3,Flatshot,Stiftl United,Flatshot,15,5,15,6,,,Gabriel Stoisser,Albin Janko,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool B,3,Best of 3,Spikebros,cocktail enjoyers,Spikebros,15,5,15,6,,,Martin Lindorfer,Raphael Eisschiel,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool A,4,Best of 3,Asylum,RCG Weak Circle,Asylum,15,11,15,11,,,Pol Loutsch,David Leidenfrost,Marko Barbir,Simon Wayd
+Group Stage,Open,Power Pool A,4,Best of 3,420 bros,Hairy Hari,420 bros,15,12,15,7,,,Sebastian Radler,Raphael Maureder,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool A,4,Best of 3,Wiener Böschung,Fajitas,,15,11,14,15,,,Rafael Bösch,Dominik Sykora,Fabian Hagen,James Faustmann
+Group Stage,Open,Power Pool A,4,Best of 3,Luckyshot,Rage Cage,Rage Cage,7,15,12,15,,,Andreas Falkinger,Manuel Mahringer,Stefan Geyer,Dario Sommer
+Group Stage,Open,Power Pool B,4,Best of 3,RISIK,Spikebros,Spikebros,13,15,14,15,,,Simon Bösch,Adrian Maksymowicz,Martin Lindorfer,Raphael Eisschiel
+Group Stage,Open,Power Pool B,4,Best of 3,Mochi,Stiftl United,Mochi,15,5,15,5,,,Angelika Bauer,Moritz Albrecht,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool B,4,Best of 3,Ultra Instinct,cocktail enjoyers,Ultra Instinct,15,7,15,12,,,Maher Saadeddin,Florian Dibold,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool B,4,Best of 3,Flatshot,Team Erdbeerkombino,Flatshot,15,5,15,7,,,Gabriel Stoisser,Albin Janko,Felix Krenn,Vinzenz Brameshuber
+Group Stage,Open,Power Pool A,5,Best of 3,Asylum,Luckyshot,Asylum,15,10,15,7,,,Pol Loutsch,David Leidenfrost,Andreas Falkinger,Manuel Mahringer
+Group Stage,Open,Power Pool A,5,Best of 3,420 bros,Rage Cage,Rage Cage,7,15,13,15,,,Sebastian Radler,Raphael Maureder,Stefan Geyer,Dario Sommer
+Group Stage,Open,Power Pool A,5,Best of 3,Wiener Böschung,RCG Weak Circle,Wiener Böschung,15,12,15,9,,,Rafael Bösch,Dominik Sykora,Marko Barbir,Simon Wayd
+Group Stage,Open,Power Pool A,5,Best of 3,Fajitas,Hairy Hari,Fajitas,15,9,15,5,,,Fabian Hagen,James Faustmann,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool B,5,Best of 3,RISIK,Flatshot,Flatshot,10,15,12,15,,,Simon Bösch,Adrian Maksymowicz,Gabriel Stoisser,Albin Janko
+Group Stage,Open,Power Pool B,5,Best of 3,Mochi,Team Erdbeerkombino,Mochi,15,11,15,12,,,Angelika Bauer,Moritz Albrecht,Felix Krenn,Vinzenz Brameshuber
+Group Stage,Open,Power Pool B,5,Best of 3,Ultra Instinct,Spikebros,,15,11,13,15,,,Maher Saadeddin,Florian Dibold,Martin Lindorfer,Raphael Eisschiel
+Group Stage,Open,Power Pool B,5,Best of 3,cocktail enjoyers,Stiftl United,cocktail enjoyers,15,11,15,10,,,Lukas Stöbich,Alexander Winkler,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool A,6,Best of 3,Asylum,Wiener Böschung,Asylum,15,9,15,8,,,Pol Loutsch,David Leidenfrost,Rafael Bösch,Dominik Sykora
+Group Stage,Open,Power Pool A,6,Best of 3,420 bros,Luckyshot,,15,13,14,15,,,Sebastian Radler,Raphael Maureder,Andreas Falkinger,Manuel Mahringer
+Group Stage,Open,Power Pool A,6,Best of 3,RCG Weak Circle,Hairy Hari,RCG Weak Circle,15,6,15,10,,,Marko Barbir,Simon Wayd,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool A,6,Best of 3,Rage Cage,Fajitas,,15,11,13,15,,,Stefan Geyer,Dario Sommer,Fabian Hagen,James Faustmann
+Group Stage,Open,Power Pool B,6,Best of 3,RISIK,Ultra Instinct,Ultra Instinct,11,15,11,15,,,Simon Bösch,Adrian Maksymowicz,Maher Saadeddin,Florian Dibold
+Group Stage,Open,Power Pool B,6,Best of 3,Mochi,Flatshot,Flatshot,9,15,9,15,,,Angelika Bauer,Moritz Albrecht,Gabriel Stoisser,Albin Janko
+Group Stage,Open,Power Pool B,6,Best of 3,Spikebros,Stiftl United,Spikebros,15,5,15,8,,,Martin Lindorfer,Raphael Eisschiel,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool B,6,Best of 3,Team Erdbeerkombino,cocktail enjoyers,cocktail enjoyers,12,15,12,15,,,Felix Krenn,Vinzenz Brameshuber,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool A,7,Best of 3,Asylum,420 bros,Asylum,15,1,15,5,,,Pol Loutsch,David Leidenfrost,Sebastian Radler,Raphael Maureder
+Group Stage,Open,Power Pool A,7,Best of 3,Wiener Böschung,Hairy Hari,Wiener Böschung,15,9,15,10,,,Rafael Bösch,Dominik Sykora,Philip Meßthaller,Peter Gabriel
+Group Stage,Open,Power Pool A,7,Best of 3,Luckyshot,Fajitas,Fajitas,9,15,6,15,,,Andreas Falkinger,Manuel Mahringer,Fabian Hagen,James Faustmann
+Group Stage,Open,Power Pool A,7,Best of 3,RCG Weak Circle,Rage Cage,Rage Cage,14,15,14,15,,,Marko Barbir,Simon Wayd,Stefan Geyer,Dario Sommer
+Group Stage,Open,Power Pool B,7,Best of 3,RISIK,Mochi,RISIK,15,13,16,11,,,Simon Bösch,Adrian Maksymowicz,Angelika Bauer,Moritz Albrecht
+Group Stage,Open,Power Pool B,7,Best of 3,Ultra Instinct,Stiftl United,Ultra Instinct,15,10,15,11,,,Maher Saadeddin,Florian Dibold,Tobias Haider,Bastian Koller
+Group Stage,Open,Power Pool B,7,Best of 3,Flatshot,cocktail enjoyers,Flatshot,15,5,15,9,,,Gabriel Stoisser,Albin Janko,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool B,7,Best of 3,Spikebros,Team Erdbeerkombino,Spikebros,15,5,15,8,,,Martin Lindorfer,Raphael Eisschiel,Felix Krenn,Vinzenz Brameshuber
+KO-Phase,Open,Bracket A,Quarter-final,Best of 3,Asylum,RISIK,Asylum,15,11,15,10,,,Pol Loutsch,David Leidenfrost,Simon Bösch,Adrian Maksymowicz
+KO-Phase,Open,Bracket A,Quarter-final,Best of 3,Flatshot,Fajitas,Flatshot,15,10,15,13,,,Gabriel Stoisser,Albin Janko,Fabian Hagen,James Faustmann
+KO-Phase,Open,Bracket A,Quarter-final,Best of 3,Wiener Böschung,Spikebros,Wiener Böschung,15,13,15,9,,,Rafael Bösch,Dominik Sykora,Martin Lindorfer,Raphael Eisschiel
+KO-Phase,Open,Bracket A,Quarter-final,Best of 3,Ultra Instinct,Rage Cage,Ultra Instinct,10,15,15,13,15,8,Maher Saadeddin,Florian Dibold,Stefan Geyer,Dario Sommer
+KO-Phase,Open,Bracket A,Semi-final,Best of 3,Asylum,Ultra Instinct,Asylum,21,13,21,19,,,Pol Loutsch,David Leidenfrost,Maher Saadeddin,Florian Dibold
+KO-Phase,Open,Bracket A,Semi-final,Best of 3,Flatshot,Wiener Böschung,Flatshot,21,13,21,18,,,Gabriel Stoisser,Albin Janko,Rafael Bösch,Dominik Sykora
+KO-Phase,Open,Bracket A,P5: Semi-final,Best of 3,Rage Cage,RISIK,Rage Cage,15,11,15,12,,,Stefan Geyer,Dario Sommer,Simon Bösch,Adrian Maksymowicz
+KO-Phase,Open,Bracket A,P5: Semi-final,Best of 3,Spikebros,Fajitas,Fajitas,15,9,5,15,11,15,Martin Lindorfer,Raphael Eisschiel,Fabian Hagen,James Faustmann
+KO-Phase,Open,Bracket A,Final,Best of 3,Asylum,Flatshot,Asylum,25,23,21,17,,,Pol Loutsch,David Leidenfrost,Gabriel Stoisser,Albin Janko
+KO-Phase,Open,Bracket A,P3: Final,Best of 3,Wiener Böschung,Ultra Instinct,Ultra Instinct,8,21,8,21,,,Rafael Bösch,Dominik Sykora,Maher Saadeddin,Florian Dibold
+KO-Phase,Open,Bracket A,P5: Final,Best of 3,Rage Cage,Fajitas,Fajitas,13,15,15,13,12,15,Stefan Geyer,Dario Sommer,Fabian Hagen,James Faustmann
+KO-Phase,Open,Bracket A,P7: Final,Best of 3,Spikebros,RISIK,RISIK,0,1,0,1,,,Martin Lindorfer,Raphael Eisschiel,Simon Bösch,Adrian Maksymowicz
+KO-Phase,Open,Bracket B,Quarter-final,Best of 3,RCG Weak Circle,Stiftl United,RCG Weak Circle,15,11,15,10,,,Marko Barbir,Simon Wayd,Tobias Haider,Bastian Koller
+KO-Phase,Open,Bracket B,Quarter-final,Best of 3,Mochi,Hairy Hari,Mochi,15,5,15,7,,,Angelika Bauer,Moritz Albrecht,Philip Meßthaller,Peter Gabriel
+KO-Phase,Open,Bracket B,Quarter-final,Best of 3,Luckyshot,Team Erdbeerkombino,Luckyshot,1,0,1,0,,,Andreas Falkinger,Manuel Mahringer,Felix Krenn,Vinzenz Brameshuber
+KO-Phase,Open,Bracket B,Quarter-final,Best of 3,cocktail enjoyers,420 bros,420 bros,13,15,14,15,,,Lukas Stöbich,Alexander Winkler,Sebastian Radler,Raphael Maureder
+KO-Phase,Open,Bracket B,Semi-final,Best of 3,RCG Weak Circle,420 bros,RCG Weak Circle,0,1,1,0,1,0,Marko Barbir,Simon Wayd,Sebastian Radler,Raphael Maureder
+KO-Phase,Open,Bracket B,Semi-final,Best of 3,Mochi,Luckyshot,Mochi,15,11,15,13,,,Angelika Bauer,Moritz Albrecht,Andreas Falkinger,Manuel Mahringer
+KO-Phase,Open,Bracket B,Final,Best of 3,RCG Weak Circle,Mochi,Mochi,11,15,13,15,,,Marko Barbir,Simon Wayd,Angelika Bauer,Moritz Albrecht
+KO-Phase,Open,Bracket B,P3: Final,Best of 3,Luckyshot,420 bros,Luckyshot,1,0,1,0,,,Andreas Falkinger,Manuel Mahringer,Sebastian Radler,Raphael Maureder
+Group Stage,Open Intermediate,Power Pool A,1,Best of 3,M&M,RCG Wonder Women,RCG Wonder Women,5,15,14,15,,,Manuel Dorner,Matthias Mühleder,Hanna Mrak,Elisa Pilgram
+Group Stage,Open Intermediate,Power Pool A,1,Best of 3,1+1Gratis,Palatschinken Express,1+1Gratis,15,13,15,5,,,Lukas Walchshofer,Paul Lackinger,Markus Hofmann,Daniel Leibezeder
+Group Stage,Open Intermediate,Power Pool B,1,Best of 3,Südtiroler Epflklauber,RC Hopfentee,Südtiroler Epflklauber,15,6,15,8,,,Jonas Gschnell,Fabio Gandolfi,Florian Winkler,Marcel Hasieber
+Group Stage,Open Intermediate,Power Pool B,1,Best of 3,Nur kosten,Gurktaler Jungs,Gurktaler Jungs,7,15,12,15,,,Elias Ratzinger,Patrick Seböck,Kevin Ortner,Rainer Schöffl
+Group Stage,Open Intermediate,Power Pool C,1,Best of 3,Eier auf Spanisch,Hoch werden mas nd gwinga,Eier auf Spanisch,15,14,15,5,,,Thomas Stadler,Tobias Moser,Sebastian Altendorfer,Erik Weishäupl
+Group Stage,Open Intermediate,Power Pool C,1,Best of 3,Spike it to the limit,Rimside Boys,Spike it to the limit,15,14,15,10,,,Matthias Andergassen,Xenia Fischer,Michael Hübel,Robert Nowak
+Group Stage,Open Intermediate,Power Pool C,1,Best of 3,Shagalabagala,Flower Power,Shagalabagala,15,2,15,6,,,Samuel Greuling,Kilian Hagmüller,Claudia Arnreiter,Lena Wöß
+Group Stage,Open Intermediate,Power Pool D,1,Best of 3,Freizeitdrangla,LUUstig & SEBsationell,Freizeitdrangla,15,4,15,11,,,Andi Prieschl,Markus Grabner,Lukas Nösslböck,Sebastian Tetzlaff
+Group Stage,Open Intermediate,Power Pool D,1,Best of 3,Dick und Durstig,Knechtsweez 1,Knechtsweez 1,11,15,6,15,,,Robin Schürz,Lukas Mantsch,Thomas Richtsfeld,Sebastian Radler
+Group Stage,Open Intermediate,Power Pool D,1,Best of 3,Böll Böll Kernöl,Leberkasultras,Leberkasultras,5,15,3,15,,,Simon Pichler,Peter Hauer,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool E,1,Best of 3,54321,Costa Concordia,Costa Concordia,8,15,10,15,,,Martin Wakolbinger,Paul Bernecker,Tobias Altendorfer,Daniel Girlinger
+Group Stage,Open Intermediate,Power Pool E,1,Best of 3,Knechtsweez 2,Freibierberschn,Knechtsweez 2,15,11,15,10,,,Rainer Ecker,Manfred Pamminger,Nikolaus Huber,Georg Huber
+Group Stage,Open Intermediate,Power Pool E,1,Best of 3,Danke fia nix,Missing Middle,Missing Middle,7,15,11,15,,,Markus Leitenbauer,UNALTRO,Maximilian Mitterlehner,Markus Radler
+Group Stage,Open Intermediate,Power Pool F,1,Best of 3,Trauergspü,Rim Job,Rim Job,3,15,3,15,,,Alexander Lang,Andreas Blazek,Martin Mondl,Michael  Lackner
+Group Stage,Open Intermediate,Power Pool F,1,Best of 3,spikepros,2Hans,spikepros,15,7,15,13,,,Lorenz Stirmayr,Daniel Rabeder,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Power Pool F,1,Best of 3,Turkish Hairlines,Ratzinger Prime,Turkish Hairlines,15,13,15,4,,,Silas Neumüller,Benedikt  Neumüller,Johannes Mayrhofer,Luca Cantarutti
+Group Stage,Open Intermediate,Power Pool A,2,Best of 3,Crêpe Suzette,Dream Team 🫶🏻,Crêpe Suzette,15,4,15,6,,,Gerald Kada,Johanna Kagerer,Sonja Dorner,Verena Luger
+Group Stage,Open Intermediate,Power Pool A,2,Best of 3,Palatschinken Express,RCG Wonder Women,RCG Wonder Women,6,15,8,15,,,Markus Hofmann,Daniel Leibezeder,Hanna Mrak,Elisa Pilgram
+Group Stage,Open Intermediate,Power Pool B,2,Best of 3,Südtiroler Epflklauber,Gurktaler Jungs,Gurktaler Jungs,10,15,12,15,,,Jonas Gschnell,Fabio Gandolfi,Kevin Ortner,Rainer Schöffl
+Group Stage,Open Intermediate,Power Pool B,2,Best of 3,Nur kosten,WASA,,15,7,13,15,,,Elias Ratzinger,Patrick Seböck,Martin Speer,Austriaco A Caso
+Group Stage,Open Intermediate,Power Pool C,2,Best of 3,Eier auf Spanisch,Rimside Boys,,14,15,15,4,,,Thomas Stadler,Tobias Moser,Michael Hübel,Robert Nowak
+Group Stage,Open Intermediate,Power Pool C,2,Best of 3,Spike it to the limit,Knechtsweez 3,Spike it to the limit,15,6,15,6,,,Matthias Andergassen,Xenia Fischer,Michael Lindorfer,Christoph Streinesberger
+Group Stage,Open Intermediate,Power Pool C,2,Best of 3,Flower Power,Hoch werden mas nd gwinga,,15,13,4,15,,,Claudia Arnreiter,Lena Wöß,Sebastian Altendorfer,Erik Weishäupl
+Group Stage,Open Intermediate,Power Pool D,2,Best of 3,Freizeitdrangla,Knechtsweez 1,,15,14,7,15,,,Andi Prieschl,Markus Grabner,Thomas Richtsfeld,Sebastian Radler
+Group Stage,Open Intermediate,Power Pool D,2,Best of 3,Dick und Durstig,Bsteck Zspod Bstöt,Bsteck Zspod Bstöt,7,15,4,15,,,Robin Schürz,Lukas Mantsch,Tobias Lauss,Peter Oberngruber
+Group Stage,Open Intermediate,Power Pool D,2,Best of 3,Leberkasultras,LUUstig & SEBsationell,LUUstig & SEBsationell,10,15,1,15,,,Sebastian Winkler,Gregor Höllinger,Lukas Nösslböck,Sebastian Tetzlaff
+Group Stage,Open Intermediate,Power Pool E,2,Best of 3,54321,Freibierberschn,54321,15,12,15,10,,,Martin Wakolbinger,Paul Bernecker,Nikolaus Huber,Georg Huber
+Group Stage,Open Intermediate,Power Pool E,2,Best of 3,Knechtsweez 2,Bacardi Razz,Knechtsweez 2,15,8,15,5,,,Rainer Ecker,Manfred Pamminger,Luca Dunhofer,Sebastian Eder
+Group Stage,Open Intermediate,Power Pool E,2,Best of 3,Missing Middle,Costa Concordia,Costa Concordia,10,15,7,15,,,Maximilian Mitterlehner,Markus Radler,Tobias Altendorfer,Daniel Girlinger
+Group Stage,Open Intermediate,Power Pool F,2,Best of 3,Trauergspü,2Hans,2Hans,1,15,12,15,,,Alexander Lang,Andreas Blazek,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Power Pool F,2,Best of 3,spikepros,2 Guys 2 Führerscheine,spikepros,15,4,15,1,,,Lorenz Stirmayr,Daniel Rabeder,Marco Füreder,Andreas Ehrenecker
+Group Stage,Open Intermediate,Power Pool F,2,Best of 3,Ratzinger Prime,Rim Job,Rim Job,7,15,12,15,,,Johannes Mayrhofer,Luca Cantarutti,Martin Mondl,Michael  Lackner
+Group Stage,Open Intermediate,Power Pool A,3,Best of 3,M&M,Palatschinken Express,M&M,15,11,15,12,,,Manuel Dorner,Matthias Mühleder,Markus Hofmann,Daniel Leibezeder
+Group Stage,Open Intermediate,Power Pool A,3,Best of 3,Crêpe Suzette,1+1Gratis,Crêpe Suzette,15,12,15,11,,,Gerald Kada,Johanna Kagerer,Lukas Walchshofer,Paul Lackinger
+Group Stage,Open Intermediate,Power Pool B,3,Best of 3,Nur kosten,Blockender Blauwal,Nur kosten,15,6,15,8,,,Elias Ratzinger,Patrick Seböck,Samuel Mayer,Tobias Huch
+Group Stage,Open Intermediate,Power Pool B,3,Best of 3,WASA,Gurktaler Jungs,Gurktaler Jungs,10,15,7,15,,,Martin Speer,Austriaco A Caso,Kevin Ortner,Rainer Schöffl
+Group Stage,Open Intermediate,Power Pool C,3,Best of 3,Eier auf Spanisch,Flower Power,Eier auf Spanisch,15,3,15,2,,,Thomas Stadler,Tobias Moser,Claudia Arnreiter,Lena Wöß
+Group Stage,Open Intermediate,Power Pool C,3,Best of 3,Spike it to the limit,Shagalabagala,Shagalabagala,9,15,8,15,,,Matthias Andergassen,Xenia Fischer,Samuel Greuling,Kilian Hagmüller
+Group Stage,Open Intermediate,Power Pool C,3,Best of 3,Knechtsweez 3,Rimside Boys,Rimside Boys,8,15,5,15,,,Michael Lindorfer,Christoph Streinesberger,Michael Hübel,Robert Nowak
+Group Stage,Open Intermediate,Power Pool D,3,Best of 3,Freizeitdrangla,Leberkasultras,Freizeitdrangla,15,7,15,9,,,Andi Prieschl,Markus Grabner,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool D,3,Best of 3,Dick und Durstig,Böll Böll Kernöl,Dick und Durstig,15,11,15,8,,,Robin Schürz,Lukas Mantsch,Simon Pichler,Peter Hauer
+Group Stage,Open Intermediate,Power Pool D,3,Best of 3,Bsteck Zspod Bstöt,Knechtsweez 1,,13,15,15,13,,,Tobias Lauss,Peter Oberngruber,Thomas Richtsfeld,Sebastian Radler
+Group Stage,Open Intermediate,Power Pool E,3,Best of 3,54321,Missing Middle,Missing Middle,10,15,13,15,,,Martin Wakolbinger,Paul Bernecker,Maximilian Mitterlehner,Markus Radler
+Group Stage,Open Intermediate,Power Pool E,3,Best of 3,Knechtsweez 2,Danke fia nix,Knechtsweez 2,15,11,15,12,,,Rainer Ecker,Manfred Pamminger,Markus Leitenbauer,UNALTRO
+Group Stage,Open Intermediate,Power Pool E,3,Best of 3,Bacardi Razz,Freibierberschn,Freibierberschn,9,15,12,15,,,Luca Dunhofer,Sebastian Eder,Nikolaus Huber,Georg Huber
+Group Stage,Open Intermediate,Power Pool F,3,Best of 3,Trauergspü,Ratzinger Prime,Ratzinger Prime,3,15,8,15,,,Alexander Lang,Andreas Blazek,Johannes Mayrhofer,Luca Cantarutti
+Group Stage,Open Intermediate,Power Pool F,3,Best of 3,spikepros,Turkish Hairlines,spikepros,15,6,15,8,,,Lorenz Stirmayr,Daniel Rabeder,Silas Neumüller,Benedikt  Neumüller
+Group Stage,Open Intermediate,Power Pool F,3,Best of 3,2 Guys 2 Führerscheine,2Hans,2Hans,4,15,10,15,,,Marco Füreder,Andreas Ehrenecker,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Power Pool A,4,Best of 3,M&M,Dream Team 🫶🏻,M&M,15,11,15,6,,,Manuel Dorner,Matthias Mühleder,Sonja Dorner,Verena Luger
+Group Stage,Open Intermediate,Power Pool A,4,Best of 3,Crêpe Suzette,RCG Wonder Women,,15,14,11,15,,,Gerald Kada,Johanna Kagerer,Hanna Mrak,Elisa Pilgram
+Group Stage,Open Intermediate,Power Pool B,4,Best of 3,Südtiroler Epflklauber,WASA,,14,15,15,13,,,Jonas Gschnell,Fabio Gandolfi,Martin Speer,Austriaco A Caso
+Group Stage,Open Intermediate,Power Pool B,4,Best of 3,Nur kosten,RC Hopfentee,Nur kosten,15,3,15,8,,,Elias Ratzinger,Patrick Seböck,Florian Winkler,Marcel Hasieber
+Group Stage,Open Intermediate,Power Pool B,4,Best of 3,Blockender Blauwal,Gurktaler Jungs,Gurktaler Jungs,4,15,3,15,,,Samuel Mayer,Tobias Huch,Kevin Ortner,Rainer Schöffl
+Group Stage,Open Intermediate,Power Pool C,4,Best of 3,Eier auf Spanisch,Knechtsweez 3,Eier auf Spanisch,15,3,15,3,,,Thomas Stadler,Tobias Moser,Michael Lindorfer,Christoph Streinesberger
+Group Stage,Open Intermediate,Power Pool C,4,Best of 3,Spike it to the limit,Hoch werden mas nd gwinga,,15,8,8,15,,,Matthias Andergassen,Xenia Fischer,Sebastian Altendorfer,Erik Weishäupl
+Group Stage,Open Intermediate,Power Pool C,4,Best of 3,Shagalabagala,Rimside Boys,Shagalabagala,15,6,15,4,,,Samuel Greuling,Kilian Hagmüller,Michael Hübel,Robert Nowak
+Group Stage,Open Intermediate,Power Pool D,4,Best of 3,Freizeitdrangla,Bsteck Zspod Bstöt,Bsteck Zspod Bstöt,12,15,9,15,,,Andi Prieschl,Markus Grabner,Tobias Lauss,Peter Oberngruber
+Group Stage,Open Intermediate,Power Pool D,4,Best of 3,Dick und Durstig,LUUstig & SEBsationell,LUUstig & SEBsationell,12,15,10,15,,,Robin Schürz,Lukas Mantsch,Lukas Nösslböck,Sebastian Tetzlaff
+Group Stage,Open Intermediate,Power Pool D,4,Best of 3,Böll Böll Kernöl,Knechtsweez 1,Knechtsweez 1,3,15,4,15,,,Simon Pichler,Peter Hauer,Thomas Richtsfeld,Sebastian Radler
+Group Stage,Open Intermediate,Power Pool E,4,Best of 3,54321,Bacardi Razz,,15,13,12,15,,,Martin Wakolbinger,Paul Bernecker,Luca Dunhofer,Sebastian Eder
+Group Stage,Open Intermediate,Power Pool E,4,Best of 3,Knechtsweez 2,Costa Concordia,,11,15,15,7,,,Rainer Ecker,Manfred Pamminger,Tobias Altendorfer,Daniel Girlinger
+Group Stage,Open Intermediate,Power Pool E,4,Best of 3,Danke fia nix,Freibierberschn,Danke fia nix,15,8,15,14,,,Markus Leitenbauer,UNALTRO,Nikolaus Huber,Georg Huber
+Group Stage,Open Intermediate,Power Pool F,4,Best of 3,Trauergspü,2 Guys 2 Führerscheine,2 Guys 2 Führerscheine,1,15,7,15,,,Alexander Lang,Andreas Blazek,Marco Füreder,Andreas Ehrenecker
+Group Stage,Open Intermediate,Power Pool F,4,Best of 3,spikepros,Rim Job,spikepros,15,5,15,7,,,Lorenz Stirmayr,Daniel Rabeder,Martin Mondl,Michael  Lackner
+Group Stage,Open Intermediate,Power Pool F,4,Best of 3,Turkish Hairlines,2Hans,2Hans,8,15,3,15,,,Silas Neumüller,Benedikt  Neumüller,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Power Pool A,5,Best of 3,Crêpe Suzette,Palatschinken Express,Crêpe Suzette,15,7,15,7,,,Gerald Kada,Johanna Kagerer,Markus Hofmann,Daniel Leibezeder
+Group Stage,Open Intermediate,Power Pool A,5,Best of 3,1+1Gratis,Dream Team 🫶🏻,1+1Gratis,15,4,15,9,,,Lukas Walchshofer,Paul Lackinger,Sonja Dorner,Verena Luger
+Group Stage,Open Intermediate,Power Pool B,5,Best of 3,Blockender Blauwal,WASA,WASA,5,15,7,15,,,Samuel Mayer,Tobias Huch,Martin Speer,Austriaco A Caso
+Group Stage,Open Intermediate,Power Pool B,5,Best of 3,Gurktaler Jungs,RC Hopfentee,Gurktaler Jungs,15,5,15,2,,,Kevin Ortner,Rainer Schöffl,Florian Winkler,Marcel Hasieber
+Group Stage,Open Intermediate,Power Pool C,5,Best of 3,Spike it to the limit,Flower Power,Spike it to the limit,15,3,15,7,,,Matthias Andergassen,Xenia Fischer,Claudia Arnreiter,Lena Wöß
+Group Stage,Open Intermediate,Power Pool C,5,Best of 3,Shagalabagala,Knechtsweez 3,Shagalabagala,15,5,15,8,,,Samuel Greuling,Kilian Hagmüller,Michael Lindorfer,Christoph Streinesberger
+Group Stage,Open Intermediate,Power Pool C,5,Best of 3,Rimside Boys,Hoch werden mas nd gwinga,,13,15,15,12,,,Michael Hübel,Robert Nowak,Sebastian Altendorfer,Erik Weishäupl
+Group Stage,Open Intermediate,Power Pool D,5,Best of 3,Dick und Durstig,Leberkasultras,,8,15,15,14,,,Robin Schürz,Lukas Mantsch,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool D,5,Best of 3,Böll Böll Kernöl,Bsteck Zspod Bstöt,Bsteck Zspod Bstöt,2,15,5,15,,,Simon Pichler,Peter Hauer,Tobias Lauss,Peter Oberngruber
+Group Stage,Open Intermediate,Power Pool D,5,Best of 3,Knechtsweez 1,LUUstig & SEBsationell,Knechtsweez 1,15,14,15,9,,,Thomas Richtsfeld,Sebastian Radler,Lukas Nösslböck,Sebastian Tetzlaff
+Group Stage,Open Intermediate,Power Pool E,5,Best of 3,Knechtsweez 2,Missing Middle,Knechtsweez 2,15,4,15,7,,,Rainer Ecker,Manfred Pamminger,Maximilian Mitterlehner,Markus Radler
+Group Stage,Open Intermediate,Power Pool E,5,Best of 3,Danke fia nix,Bacardi Razz,Danke fia nix,15,8,15,14,,,Markus Leitenbauer,UNALTRO,Luca Dunhofer,Sebastian Eder
+Group Stage,Open Intermediate,Power Pool E,5,Best of 3,Freibierberschn,Costa Concordia,Costa Concordia,4,15,10,15,,,Nikolaus Huber,Georg Huber,Tobias Altendorfer,Daniel Girlinger
+Group Stage,Open Intermediate,Power Pool F,5,Best of 3,spikepros,Ratzinger Prime,spikepros,15,3,15,6,,,Lorenz Stirmayr,Daniel Rabeder,Johannes Mayrhofer,Luca Cantarutti
+Group Stage,Open Intermediate,Power Pool F,5,Best of 3,Turkish Hairlines,2 Guys 2 Führerscheine,,13,15,15,11,,,Silas Neumüller,Benedikt  Neumüller,Marco Füreder,Andreas Ehrenecker
+Group Stage,Open Intermediate,Power Pool F,5,Best of 3,2Hans,Rim Job,2Hans,15,8,15,10,,,Ralph Strasser,Lukas Lackinger,Martin Mondl,Michael  Lackner
+Group Stage,Open Intermediate,Power Pool A,6,Best of 3,M&M,1+1Gratis,M&M,15,9,15,12,,,Manuel Dorner,Matthias Mühleder,Lukas Walchshofer,Paul Lackinger
+Group Stage,Open Intermediate,Power Pool A,6,Best of 3,Dream Team 🫶🏻,RCG Wonder Women,RCG Wonder Women,4,15,7,15,,,Sonja Dorner,Verena Luger,Hanna Mrak,Elisa Pilgram
+Group Stage,Open Intermediate,Power Pool B,6,Best of 3,Südtiroler Epflklauber,Blockender Blauwal,Südtiroler Epflklauber,15,13,15,11,,,Jonas Gschnell,Fabio Gandolfi,Samuel Mayer,Tobias Huch
+Group Stage,Open Intermediate,Power Pool B,6,Best of 3,WASA,RC Hopfentee,,14,15,15,8,,,Martin Speer,Austriaco A Caso,Florian Winkler,Marcel Hasieber
+Group Stage,Open Intermediate,Power Pool C,6,Best of 3,Eier auf Spanisch,Shagalabagala,,11,15,15,9,,,Thomas Stadler,Tobias Moser,Samuel Greuling,Kilian Hagmüller
+Group Stage,Open Intermediate,Power Pool C,6,Best of 3,Knechtsweez 3,Hoch werden mas nd gwinga,Hoch werden mas nd gwinga,9,15,13,15,,,Michael Lindorfer,Christoph Streinesberger,Sebastian Altendorfer,Erik Weishäupl
+Group Stage,Open Intermediate,Power Pool C,6,Best of 3,Flower Power,Rimside Boys,Rimside Boys,2,15,2,15,,,Claudia Arnreiter,Lena Wöß,Michael Hübel,Robert Nowak
+Group Stage,Open Intermediate,Power Pool D,6,Best of 3,Freizeitdrangla,Böll Böll Kernöl,Freizeitdrangla,15,4,15,9,,,Andi Prieschl,Markus Grabner,Simon Pichler,Peter Hauer
+Group Stage,Open Intermediate,Power Pool D,6,Best of 3,Bsteck Zspod Bstöt,LUUstig & SEBsationell,,14,15,15,6,,,Tobias Lauss,Peter Oberngruber,Lukas Nösslböck,Sebastian Tetzlaff
+Group Stage,Open Intermediate,Power Pool D,6,Best of 3,Leberkasultras,Knechtsweez 1,Knechtsweez 1,9,15,4,15,,,Sebastian Winkler,Gregor Höllinger,Thomas Richtsfeld,Sebastian Radler
+Group Stage,Open Intermediate,Power Pool E,6,Best of 3,54321,Danke fia nix,,13,15,15,13,,,Martin Wakolbinger,Paul Bernecker,Markus Leitenbauer,UNALTRO
+Group Stage,Open Intermediate,Power Pool E,6,Best of 3,Bacardi Razz,Costa Concordia,Costa Concordia,2,15,7,15,,,Luca Dunhofer,Sebastian Eder,Tobias Altendorfer,Daniel Girlinger
+Group Stage,Open Intermediate,Power Pool E,6,Best of 3,Missing Middle,Freibierberschn,Missing Middle,15,10,15,12,,,Maximilian Mitterlehner,Markus Radler,Nikolaus Huber,Georg Huber
+Group Stage,Open Intermediate,Power Pool F,6,Best of 3,Trauergspü,Turkish Hairlines,Turkish Hairlines,5,15,1,15,,,Alexander Lang,Andreas Blazek,Silas Neumüller,Benedikt  Neumüller
+Group Stage,Open Intermediate,Power Pool F,6,Best of 3,2 Guys 2 Führerscheine,Rim Job,Rim Job,7,15,11,15,,,Marco Füreder,Andreas Ehrenecker,Martin Mondl,Michael  Lackner
+Group Stage,Open Intermediate,Power Pool F,6,Best of 3,Ratzinger Prime,2Hans,2Hans,1,15,2,15,,,Johannes Mayrhofer,Luca Cantarutti,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Power Pool A,7,Best of 3,M&M,Crêpe Suzette,M&M,15,12,15,11,,,Manuel Dorner,Matthias Mühleder,Gerald Kada,Johanna Kagerer
+Group Stage,Open Intermediate,Power Pool A,7,Best of 3,1+1Gratis,RCG Wonder Women,1+1Gratis,15,13,15,13,,,Lukas Walchshofer,Paul Lackinger,Hanna Mrak,Elisa Pilgram
+Group Stage,Open Intermediate,Power Pool A,7,Best of 3,Dream Team 🫶🏻,Palatschinken Express,Palatschinken Express,12,15,4,15,,,Sonja Dorner,Verena Luger,Markus Hofmann,Daniel Leibezeder
+Group Stage,Open Intermediate,Power Pool B,7,Best of 3,Südtiroler Epflklauber,Nur kosten,Südtiroler Epflklauber,15,9,15,11,,,Jonas Gschnell,Fabio Gandolfi,Elias Ratzinger,Patrick Seböck
+Group Stage,Open Intermediate,Power Pool B,7,Best of 3,Blockender Blauwal,RC Hopfentee,Blockender Blauwal,15,13,15,14,,,Samuel Mayer,Tobias Huch,Florian Winkler,Marcel Hasieber
+Group Stage,Open Intermediate,Power Pool C,7,Best of 3,Eier auf Spanisch,Spike it to the limit,Eier auf Spanisch,15,7,15,5,,,Thomas Stadler,Tobias Moser,Matthias Andergassen,Xenia Fischer
+Group Stage,Open Intermediate,Power Pool C,7,Best of 3,Shagalabagala,Hoch werden mas nd gwinga,Shagalabagala,15,2,15,11,,,Samuel Greuling,Kilian Hagmüller,Sebastian Altendorfer,Erik Weishäupl
+Group Stage,Open Intermediate,Power Pool C,7,Best of 3,Knechtsweez 3,Flower Power,Knechtsweez 3,15,12,15,11,,,Michael Lindorfer,Christoph Streinesberger,Claudia Arnreiter,Lena Wöß
+Group Stage,Open Intermediate,Power Pool D,7,Best of 3,Freizeitdrangla,Dick und Durstig,Freizeitdrangla,15,6,15,10,,,Andi Prieschl,Markus Grabner,Robin Schürz,Lukas Mantsch
+Group Stage,Open Intermediate,Power Pool D,7,Best of 3,Böll Böll Kernöl,LUUstig & SEBsationell,LUUstig & SEBsationell,6,15,3,15,,,Simon Pichler,Peter Hauer,Lukas Nösslböck,Sebastian Tetzlaff
+Group Stage,Open Intermediate,Power Pool D,7,Best of 3,Bsteck Zspod Bstöt,Leberkasultras,Bsteck Zspod Bstöt,15,2,15,11,,,Tobias Lauss,Peter Oberngruber,Sebastian Winkler,Gregor Höllinger
+Group Stage,Open Intermediate,Power Pool E,7,Best of 3,54321,Knechtsweez 2,Knechtsweez 2,11,15,10,15,,,Martin Wakolbinger,Paul Bernecker,Rainer Ecker,Manfred Pamminger
+Group Stage,Open Intermediate,Power Pool E,7,Best of 3,Danke fia nix,Costa Concordia,Costa Concordia,5,15,7,15,,,Markus Leitenbauer,UNALTRO,Tobias Altendorfer,Daniel Girlinger
+Group Stage,Open Intermediate,Power Pool E,7,Best of 3,Bacardi Razz,Missing Middle,Missing Middle,8,15,7,15,,,Luca Dunhofer,Sebastian Eder,Maximilian Mitterlehner,Markus Radler
+Group Stage,Open Intermediate,Power Pool F,7,Best of 3,Trauergspü,spikepros,spikepros,3,15,2,15,,,Alexander Lang,Andreas Blazek,Lorenz Stirmayr,Daniel Rabeder
+Group Stage,Open Intermediate,Power Pool F,7,Best of 3,Turkish Hairlines,Rim Job,,10,15,15,13,,,Silas Neumüller,Benedikt  Neumüller,Martin Mondl,Michael  Lackner
+Group Stage,Open Intermediate,Power Pool F,7,Best of 3,2 Guys 2 Führerscheine,Ratzinger Prime,2 Guys 2 Führerscheine,15,13,15,6,,,Marco Füreder,Andreas Ehrenecker,Johannes Mayrhofer,Luca Cantarutti
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Eier auf Spanisch,Rim Job,Eier auf Spanisch,15,7,15,11,,,Thomas Stadler,Tobias Moser,Martin Mondl,Michael  Lackner
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,spikepros,Missing Middle,spikepros,15,1,15,4,,,Lorenz Stirmayr,Daniel Rabeder,Maximilian Mitterlehner,Markus Radler
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Bsteck Zspod Bstöt,Südtiroler Epflklauber,Südtiroler Epflklauber,13,15,13,15,,,Tobias Lauss,Peter Oberngruber,Jonas Gschnell,Fabio Gandolfi
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Shagalabagala,Crêpe Suzette,Shagalabagala,15,5,15,7,,,Samuel Greuling,Kilian Hagmüller,Gerald Kada,Johanna Kagerer
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Knechtsweez 1,RCG Wonder Women,Knechtsweez 1,15,13,15,14,,,Thomas Richtsfeld,Sebastian Radler,Hanna Mrak,Elisa Pilgram
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Gurktaler Jungs,M&M,Gurktaler Jungs,15,4,15,3,,,Kevin Ortner,Rainer Schöffl,Manuel Dorner,Matthias Mühleder
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Costa Concordia,Freizeitdrangla,Costa Concordia,15,11,15,9,,,Tobias Altendorfer,Daniel Girlinger,Andi Prieschl,Markus Grabner
+KO-Phase,Open Intermediate,Bracket A,Round of 16,Best of 3,Knechtsweez 2,2Hans,Knechtsweez 2,15,12,15,13,,,Rainer Ecker,Manfred Pamminger,Ralph Strasser,Lukas Lackinger
+KO-Phase,Open Intermediate,Bracket A,Quarter-final,Best of 3,Eier auf Spanisch,Knechtsweez 2,Knechtsweez 2,11,15,12,15,,,Thomas Stadler,Tobias Moser,Rainer Ecker,Manfred Pamminger
+KO-Phase,Open Intermediate,Bracket A,Quarter-final,Best of 3,spikepros,Costa Concordia,Costa Concordia,11,15,8,15,,,Lorenz Stirmayr,Daniel Rabeder,Tobias Altendorfer,Daniel Girlinger
+KO-Phase,Open Intermediate,Bracket A,Quarter-final,Best of 3,Südtiroler Epflklauber,Gurktaler Jungs,Gurktaler Jungs,15,12,8,15,8,11,Jonas Gschnell,Fabio Gandolfi,Kevin Ortner,Rainer Schöffl
+KO-Phase,Open Intermediate,Bracket A,Quarter-final,Best of 3,Shagalabagala,Knechtsweez 1,Shagalabagala,15,4,15,11,,,Samuel Greuling,Kilian Hagmüller,Thomas Richtsfeld,Sebastian Radler
+KO-Phase,Open Intermediate,Bracket A,Semi-final,Best of 3,Knechtsweez 2,Shagalabagala,Shagalabagala,0,1,0,1,0,1,Rainer Ecker,Manfred Pamminger,Samuel Greuling,Kilian Hagmüller
+KO-Phase,Open Intermediate,Bracket A,Semi-final,Best of 3,Costa Concordia,Gurktaler Jungs,Costa Concordia,1,0,1,0,,,Tobias Altendorfer,Daniel Girlinger,Kevin Ortner,Rainer Schöffl
+KO-Phase,Open Intermediate,Bracket A,Final,Best of 3,Shagalabagala,Costa Concordia,Costa Concordia,0,1,0,1,,,Samuel Greuling,Kilian Hagmüller,Tobias Altendorfer,Daniel Girlinger
+KO-Phase,Open Intermediate,Bracket A,P3: Final,Best of 3,Gurktaler Jungs,Knechtsweez 2,Knechtsweez 2,0,1,0,1,,,Kevin Ortner,Rainer Schöffl,Rainer Ecker,Manfred Pamminger

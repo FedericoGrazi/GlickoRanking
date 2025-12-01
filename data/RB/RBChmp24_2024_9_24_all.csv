@@ -1,0 +1,145 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Group A,1,Single game,L'Eclair,Nie van hier,L'Eclair,15,9,,,,,joeri vlassaks,Frederik Theunis,Olivier Le Jeune,Jonas Debusschere
+Group Stage,Open,Group A,1,Single game,TuTuZeZe,Les Gilber,TuTuZeZe,15,10,,,,,Zeno Goethals,Tuur Demaegdt,Gilles Talmasse,Bernard De Wolf
+Group Stage,Open,Group B,1,Single game,P'tits Loups,Demon Time,P'tits Loups,15,10,,,,,Gilles Hublet,Gauthier Vandamme,Irian Baert,Toan Pauwels
+Group Stage,Open,Group B,1,Single game,Antwerp Raptors,Jakoena Matata,Antwerp Raptors,15,13,,,,,Mathias Van der Linden,Frederik Severeyns,Jakob van Vlierberghe,Jeroen Laporte
+Group Stage,Open,Group C,1,Single game,GBGS,The fellowship of the rim,GBGS,15,7,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group C,1,Single game,Chocolate mousse,Op Tapir kan het!,Chocolate mousse,15,11,,,,,wout thysens,Nand Buyst,Pepijn Goethals,Bram Verschoote
+Group Stage,Open,Group D,1,Single game,Tapirs tribute team,Daddies Foxes 🦊,Tapirs tribute team,15,4,,,,,Pieter De Pauw,Jurre Baguet,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group D,1,Single game,Uno Reverse,daaaaar afou,Uno Reverse,15,13,,,,,Daan Paes,Martijn Paes,Alexandre Esposito,Pierre Debroux
+Group Stage,Open,Group A,2,Single game,L'Eclair,Les Gilber,L'Eclair,15,10,,,,,joeri vlassaks,Frederik Theunis,Gilles Talmasse,Bernard De Wolf
+Group Stage,Open,Group A,2,Single game,TuTuZeZe,Nie van hier,TuTuZeZe,15,9,,,,,Zeno Goethals,Tuur Demaegdt,Olivier Le Jeune,Jonas Debusschere
+Group Stage,Open,Group B,2,Single game,P'tits Loups,Jakoena Matata,Jakoena Matata,13,15,,,,,Gilles Hublet,Gauthier Vandamme,Jakob van Vlierberghe,Jeroen Laporte
+Group Stage,Open,Group B,2,Single game,Boys with balls,Demon Time,Boys with balls,15,10,,,,,Stijn Van den Branden,Xander Fieuws,Irian Baert,Toan Pauwels
+Group Stage,Open,Group C,2,Single game,GBGS,Op Tapir kan het!,GBGS,15,11,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,Pepijn Goethals,Bram Verschoote
+Group Stage,Open,Group C,2,Single game,Valar dohaeris,The fellowship of the rim,Valar dohaeris,15,7,,,,,Florian Poel,Ajay Van Poucke,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group D,2,Single game,Tapirs tribute team,daaaaar afou,Tapirs tribute team,15,13,,,,,Pieter De Pauw,Jurre Baguet,Alexandre Esposito,Pierre Debroux
+Group Stage,Open,Group D,2,Single game,Pastis or not Pastis ?,Daddies Foxes 🦊,Pastis or not Pastis ?,15,6,,,,,Adriaan Van Gerven,Igor Jottrand,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group A,3,Single game,L'Eclair,TuTuZeZe,L'Eclair,15,9,,,,,joeri vlassaks,Frederik Theunis,Zeno Goethals,Tuur Demaegdt
+Group Stage,Open,Group A,3,Single game,Les Gilber,Nie van hier,Les Gilber,15,11,,,,,Gilles Talmasse,Bernard De Wolf,Olivier Le Jeune,Jonas Debusschere
+Group Stage,Open,Group B,3,Single game,P'tits Loups,Boys with balls,P'tits Loups,15,8,,,,,Gilles Hublet,Gauthier Vandamme,Stijn Van den Branden,Xander Fieuws
+Group Stage,Open,Group B,3,Single game,Antwerp Raptors,Demon Time,Antwerp Raptors,15,11,,,,,Mathias Van der Linden,Frederik Severeyns,Irian Baert,Toan Pauwels
+Group Stage,Open,Group C,3,Single game,GBGS,Valar dohaeris,Valar dohaeris,8,15,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,Florian Poel,Ajay Van Poucke
+Group Stage,Open,Group C,3,Single game,Chocolate mousse,The fellowship of the rim,Chocolate mousse,15,11,,,,,wout thysens,Nand Buyst,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group D,3,Single game,Tapirs tribute team,Pastis or not Pastis ?,Pastis or not Pastis ?,14,16,,,,,Pieter De Pauw,Jurre Baguet,Adriaan Van Gerven,Igor Jottrand
+Group Stage,Open,Group D,3,Single game,Uno Reverse,Daddies Foxes 🦊,Uno Reverse,15,4,,,,,Daan Paes,Martijn Paes,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group B,4,Single game,Antwerp Raptors,Boys with balls,Antwerp Raptors,15,11,,,,,Mathias Van der Linden,Frederik Severeyns,Stijn Van den Branden,Xander Fieuws
+Group Stage,Open,Group B,4,Single game,Jakoena Matata,Demon Time,Jakoena Matata,15,10,,,,,Jakob van Vlierberghe,Jeroen Laporte,Irian Baert,Toan Pauwels
+Group Stage,Open,Group C,4,Single game,Chocolate mousse,Valar dohaeris,Valar dohaeris,12,15,,,,,wout thysens,Nand Buyst,Florian Poel,Ajay Van Poucke
+Group Stage,Open,Group C,4,Single game,Op Tapir kan het!,The fellowship of the rim,Op Tapir kan het!,15,13,,,,,Pepijn Goethals,Bram Verschoote,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group D,4,Single game,Uno Reverse,Pastis or not Pastis ?,Uno Reverse,15,13,,,,,Daan Paes,Martijn Paes,Adriaan Van Gerven,Igor Jottrand
+Group Stage,Open,Group D,4,Single game,daaaaar afou,Daddies Foxes 🦊,daaaaar afou,15,7,,,,,Alexandre Esposito,Pierre Debroux,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group B,5,Single game,P'tits Loups,Antwerp Raptors,P'tits Loups,15,9,,,,,Gilles Hublet,Gauthier Vandamme,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open,Group B,5,Single game,Boys with balls,Jakoena Matata,Boys with balls,15,10,,,,,Stijn Van den Branden,Xander Fieuws,Jakob van Vlierberghe,Jeroen Laporte
+Group Stage,Open,Group C,5,Single game,GBGS,Chocolate mousse,GBGS,15,10,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,wout thysens,Nand Buyst
+Group Stage,Open,Group C,5,Single game,Valar dohaeris,Op Tapir kan het!,Valar dohaeris,15,7,,,,,Florian Poel,Ajay Van Poucke,Pepijn Goethals,Bram Verschoote
+Group Stage,Open,Group D,5,Single game,Tapirs tribute team,Uno Reverse,Uno Reverse,14,16,,,,,Pieter De Pauw,Jurre Baguet,Daan Paes,Martijn Paes
+Group Stage,Open,Group D,5,Single game,Pastis or not Pastis ?,daaaaar afou,Pastis or not Pastis ?,15,12,,,,,Adriaan Van Gerven,Igor Jottrand,Alexandre Esposito,Pierre Debroux
+Group Stage,Open,Group A,4,Single game,L'Eclair,Nie van hier,L'Eclair,15,7,,,,,joeri vlassaks,Frederik Theunis,Olivier Le Jeune,Jonas Debusschere
+Group Stage,Open,Group A,4,Single game,TuTuZeZe,Les Gilber,Les Gilber,15,17,,,,,Zeno Goethals,Tuur Demaegdt,Gilles Talmasse,Bernard De Wolf
+Group Stage,Open,Group B,6,Single game,P'tits Loups,Demon Time,P'tits Loups,15,11,,,,,Gilles Hublet,Gauthier Vandamme,Irian Baert,Toan Pauwels
+Group Stage,Open,Group B,6,Single game,Antwerp Raptors,Jakoena Matata,Antwerp Raptors,15,13,,,,,Mathias Van der Linden,Frederik Severeyns,Jakob van Vlierberghe,Jeroen Laporte
+Group Stage,Open,Group C,6,Single game,GBGS,The fellowship of the rim,GBGS,15,9,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group C,6,Single game,Chocolate mousse,Op Tapir kan het!,Op Tapir kan het!,13,15,,,,,wout thysens,Nand Buyst,Pepijn Goethals,Bram Verschoote
+Group Stage,Open,Group D,6,Single game,Tapirs tribute team,Daddies Foxes 🦊,Tapirs tribute team,15,9,,,,,Pieter De Pauw,Jurre Baguet,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group D,6,Single game,Uno Reverse,daaaaar afou,Uno Reverse,15,10,,,,,Daan Paes,Martijn Paes,Alexandre Esposito,Pierre Debroux
+Group Stage,Open,Group A,5,Single game,L'Eclair,Les Gilber,L'Eclair,15,7,,,,,joeri vlassaks,Frederik Theunis,Gilles Talmasse,Bernard De Wolf
+Group Stage,Open,Group A,5,Single game,TuTuZeZe,Nie van hier,TuTuZeZe,15,11,,,,,Zeno Goethals,Tuur Demaegdt,Olivier Le Jeune,Jonas Debusschere
+Group Stage,Open,Group B,7,Single game,P'tits Loups,Jakoena Matata,P'tits Loups,15,10,,,,,Gilles Hublet,Gauthier Vandamme,Jakob van Vlierberghe,Jeroen Laporte
+Group Stage,Open,Group B,7,Single game,Boys with balls,Demon Time,Boys with balls,15,13,,,,,Stijn Van den Branden,Xander Fieuws,Irian Baert,Toan Pauwels
+Group Stage,Open,Group C,7,Single game,GBGS,Op Tapir kan het!,GBGS,15,8,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,Pepijn Goethals,Bram Verschoote
+Group Stage,Open,Group C,7,Single game,Valar dohaeris,The fellowship of the rim,Valar dohaeris,15,4,,,,,Florian Poel,Ajay Van Poucke,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group D,7,Single game,Tapirs tribute team,daaaaar afou,daaaaar afou,6,15,,,,,Pieter De Pauw,Jurre Baguet,Alexandre Esposito,Pierre Debroux
+Group Stage,Open,Group D,7,Single game,Pastis or not Pastis ?,Daddies Foxes 🦊,Pastis or not Pastis ?,15,6,,,,,Adriaan Van Gerven,Igor Jottrand,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group A,6,Single game,L'Eclair,TuTuZeZe,L'Eclair,15,12,,,,,joeri vlassaks,Frederik Theunis,Zeno Goethals,Tuur Demaegdt
+Group Stage,Open,Group A,6,Single game,Les Gilber,Nie van hier,Les Gilber,15,11,,,,,Gilles Talmasse,Bernard De Wolf,Olivier Le Jeune,Jonas Debusschere
+Group Stage,Open,Group B,8,Single game,P'tits Loups,Boys with balls,P'tits Loups,15,11,,,,,Gilles Hublet,Gauthier Vandamme,Stijn Van den Branden,Xander Fieuws
+Group Stage,Open,Group B,8,Single game,Antwerp Raptors,Demon Time,Demon Time,13,15,,,,,Mathias Van der Linden,Frederik Severeyns,Irian Baert,Toan Pauwels
+Group Stage,Open,Group C,8,Single game,GBGS,Valar dohaeris,Valar dohaeris,12,15,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,Florian Poel,Ajay Van Poucke
+Group Stage,Open,Group C,8,Single game,Chocolate mousse,The fellowship of the rim,Chocolate mousse,15,13,,,,,wout thysens,Nand Buyst,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group D,8,Single game,Tapirs tribute team,Pastis or not Pastis ?,Pastis or not Pastis ?,20,21,,,,,Pieter De Pauw,Jurre Baguet,Adriaan Van Gerven,Igor Jottrand
+Group Stage,Open,Group D,8,Single game,Uno Reverse,Daddies Foxes 🦊,Uno Reverse,15,6,,,,,Daan Paes,Martijn Paes,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group B,9,Single game,Antwerp Raptors,Boys with balls,Antwerp Raptors,15,13,,,,,Mathias Van der Linden,Frederik Severeyns,Stijn Van den Branden,Xander Fieuws
+Group Stage,Open,Group B,9,Single game,Jakoena Matata,Demon Time,Jakoena Matata,17,15,,,,,Jakob van Vlierberghe,Jeroen Laporte,Irian Baert,Toan Pauwels
+Group Stage,Open,Group C,9,Single game,Chocolate mousse,Valar dohaeris,Valar dohaeris,11,15,,,,,wout thysens,Nand Buyst,Florian Poel,Ajay Van Poucke
+Group Stage,Open,Group C,9,Single game,Op Tapir kan het!,The fellowship of the rim,Op Tapir kan het!,15,9,,,,,Pepijn Goethals,Bram Verschoote,Emilio Goethals,Xander De Bisschop
+Group Stage,Open,Group D,9,Single game,Uno Reverse,Pastis or not Pastis ?,Uno Reverse,15,11,,,,,Daan Paes,Martijn Paes,Adriaan Van Gerven,Igor Jottrand
+Group Stage,Open,Group D,9,Single game,daaaaar afou,Daddies Foxes 🦊,daaaaar afou,15,8,,,,,Alexandre Esposito,Pierre Debroux,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Open,Group B,10,Single game,P'tits Loups,Antwerp Raptors,P'tits Loups,15,11,,,,,Gilles Hublet,Gauthier Vandamme,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open,Group B,10,Single game,Boys with balls,Jakoena Matata,Boys with balls,15,13,,,,,Stijn Van den Branden,Xander Fieuws,Jakob van Vlierberghe,Jeroen Laporte
+Group Stage,Open,Group C,10,Single game,GBGS,Chocolate mousse,GBGS,15,13,,,,,Guillaume Van Eeckhaute,Maëlig Potiau,wout thysens,Nand Buyst
+Group Stage,Open,Group C,10,Single game,Valar dohaeris,Op Tapir kan het!,Valar dohaeris,15,6,,,,,Florian Poel,Ajay Van Poucke,Pepijn Goethals,Bram Verschoote
+Group Stage,Open,Group D,10,Single game,Tapirs tribute team,Uno Reverse,Uno Reverse,12,15,,,,,Pieter De Pauw,Jurre Baguet,Daan Paes,Martijn Paes
+Group Stage,Open,Group D,10,Single game,Pastis or not Pastis ?,daaaaar afou,Pastis or not Pastis ?,15,11,,,,,Adriaan Van Gerven,Igor Jottrand,Alexandre Esposito,Pierre Debroux
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Jakoena Matata,Daddies Foxes 🦊,Jakoena Matata,1,0,1,0,,,Jakob van Vlierberghe,Jeroen Laporte,Maxime Despontin,Vincent Vanderstocken
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Tapirs tribute team,The fellowship of the rim,Tapirs tribute team,1,0,1,0,,,Pieter De Pauw,Jurre Baguet,Emilio Goethals,Xander De Bisschop
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Op Tapir kan het!,Demon Time,Op Tapir kan het!,12,15,15,13,15,9,Pepijn Goethals,Bram Verschoote,Irian Baert,Toan Pauwels
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,L'Eclair,Op Tapir kan het!,L'Eclair,15,9,15,9,,,joeri vlassaks,Frederik Theunis,Pepijn Goethals,Bram Verschoote
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,P'tits Loups,Tapirs tribute team,P'tits Loups,1,0,1,0,,,Gilles Hublet,Gauthier Vandamme,Pieter De Pauw,Jurre Baguet
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Valar dohaeris,Jakoena Matata,Valar dohaeris,1,0,1,0,,,Florian Poel,Ajay Van Poucke,Jakob van Vlierberghe,Jeroen Laporte
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Uno Reverse,Nie van hier,Uno Reverse,15,10,15,9,,,Daan Paes,Martijn Paes,Olivier Le Jeune,Jonas Debusschere
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,GBGS,Boys with balls,GBGS,15,11,15,11,,,Guillaume Van Eeckhaute,Maëlig Potiau,Stijn Van den Branden,Xander Fieuws
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Pastis or not Pastis ?,Les Gilber,Pastis or not Pastis ?,1,0,0,1,1,0,Adriaan Van Gerven,Igor Jottrand,Gilles Talmasse,Bernard De Wolf
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,TuTuZeZe,Chocolate mousse,Chocolate mousse,13,15,11,15,,,Zeno Goethals,Tuur Demaegdt,wout thysens,Nand Buyst
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Antwerp Raptors,daaaaar afou,Antwerp Raptors,15,11,11,15,16,14,Mathias Van der Linden,Frederik Severeyns,Alexandre Esposito,Pierre Debroux
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,L'Eclair,Antwerp Raptors,L'Eclair,15,9,15,12,,,joeri vlassaks,Frederik Theunis,Mathias Van der Linden,Frederik Severeyns
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,P'tits Loups,Chocolate mousse,P'tits Loups,1,0,1,0,,,Gilles Hublet,Gauthier Vandamme,wout thysens,Nand Buyst
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Valar dohaeris,Pastis or not Pastis ?,Valar dohaeris,15,8,15,11,,,Florian Poel,Ajay Van Poucke,Adriaan Van Gerven,Igor Jottrand
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Uno Reverse,GBGS,GBGS,15,7,13,15,13,15,Daan Paes,Martijn Paes,Guillaume Van Eeckhaute,Maëlig Potiau
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,daaaaar afou,Op Tapir kan het!,Op Tapir kan het!,11,15,11,15,,,Alexandre Esposito,Pierre Debroux,Pepijn Goethals,Bram Verschoote
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,TuTuZeZe,Tapirs tribute team,Tapirs tribute team,0,1,0,1,,,Zeno Goethals,Tuur Demaegdt,Pieter De Pauw,Jurre Baguet
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Les Gilber,Jakoena Matata,Les Gilber,12,15,21,20,21,20,Gilles Talmasse,Bernard De Wolf,Jakob van Vlierberghe,Jeroen Laporte
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Boys with balls,Nie van hier,Boys with balls,15,12,15,9,,,Stijn Van den Branden,Xander Fieuws,Olivier Le Jeune,Jonas Debusschere
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,L'Eclair,GBGS,L'Eclair,21,12,21,14,,,joeri vlassaks,Frederik Theunis,Guillaume Van Eeckhaute,Maëlig Potiau
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,P'tits Loups,Valar dohaeris,P'tits Loups,1,0,1,0,,,Gilles Hublet,Gauthier Vandamme,Florian Poel,Ajay Van Poucke
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Uno Reverse,Antwerp Raptors,Uno Reverse,15,10,15,7,,,Daan Paes,Martijn Paes,Mathias Van der Linden,Frederik Severeyns
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Pastis or not Pastis ?,Chocolate mousse,Pastis or not Pastis ?,1,0,0,1,1,0,Adriaan Van Gerven,Igor Jottrand,wout thysens,Nand Buyst
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,Op Tapir kan het!,Boys with balls,Boys with balls,0,1,0,1,,,Pepijn Goethals,Bram Verschoote,Stijn Van den Branden,Xander Fieuws
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,Tapirs tribute team,Les Gilber,Tapirs tribute team,1,0,1,0,,,Pieter De Pauw,Jurre Baguet,Gilles Talmasse,Bernard De Wolf
+Bracket Stage,Open,Bracket A,P13: Semi-final,Best of 3,Nie van hier,daaaaar afou,daaaaar afou,8,15,18,20,,,Olivier Le Jeune,Jonas Debusschere,Alexandre Esposito,Pierre Debroux
+Bracket Stage,Open,Bracket A,P13: Semi-final,Best of 3,Jakoena Matata,TuTuZeZe,Jakoena Matata,1,0,1,0,,,Jakob van Vlierberghe,Jeroen Laporte,Zeno Goethals,Tuur Demaegdt
+Bracket Stage,Open,Bracket A,P17: Semi-final,Best of 3,The fellowship of the rim,Daddies Foxes 🦊,The fellowship of the rim,15,9,15,8,,,Emilio Goethals,Xander De Bisschop,Maxime Despontin,Vincent Vanderstocken
+Bracket Stage,Open,Bracket A,Final,Best of 3,L'Eclair,P'tits Loups,L'Eclair,1,0,1,0,,,joeri vlassaks,Frederik Theunis,Gilles Hublet,Gauthier Vandamme
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,Valar dohaeris,GBGS,GBGS,0,1,0,1,,,Florian Poel,Ajay Van Poucke,Guillaume Van Eeckhaute,Maëlig Potiau
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,Uno Reverse,Pastis or not Pastis ?,Uno Reverse,15,13,18,16,,,Daan Paes,Martijn Paes,Adriaan Van Gerven,Igor Jottrand
+Bracket Stage,Open,Bracket A,P7: Final,Best of 3,Chocolate mousse,Antwerp Raptors,Antwerp Raptors,11,15,13,15,,,wout thysens,Nand Buyst,Mathias Van der Linden,Frederik Severeyns
+Bracket Stage,Open,Bracket A,P9: Final,Best of 3,Boys with balls,Tapirs tribute team,Tapirs tribute team,0,1,0,1,,,Stijn Van den Branden,Xander Fieuws,Pieter De Pauw,Jurre Baguet
+Bracket Stage,Open,Bracket A,P11: Final,Best of 3,Les Gilber,Op Tapir kan het!,Op Tapir kan het!,1,0,0,1,0,1,Gilles Talmasse,Bernard De Wolf,Pepijn Goethals,Bram Verschoote
+Bracket Stage,Open,Bracket A,P17: Final,Best of 3,Demon Time,The fellowship of the rim,The fellowship of the rim,0,1,0,1,,,Irian Baert,Toan Pauwels,Emilio Goethals,Xander De Bisschop
+Gold beginner,Open,Group A,1,Best of 3,The fellowship of the rim,Daddies Foxes 🦊,The fellowship of the rim,15,9,15,8,,,Emilio Goethals,Xander De Bisschop,Maxime Despontin,Vincent Vanderstocken
+Group Stage,Women's Intermediate,Group A,1,Single game,Aaaaaah sh*t,Drag the Fox,Aaaaaah sh*t,15,4,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,1,Single game,Allesch Kapoedt,Let's goooo dikken!,Allesch Kapoedt,15,5,,,,,jana vandesijpe,Riet D'hoore,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,1,Single game,Wannabe TWINZ,Yellow Flags,Wannabe TWINZ,15,11,,,,,Tatiana Delbecke,Elise Van der Stichelen,Marie Jubault,Juliette Dumesnil
+Group Stage,Women's Intermediate,Group A,2,Single game,Aaaaaah sh*t,Let's goooo dikken!,Aaaaaah sh*t,15,10,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,2,Single game,Allesch Kapoedt,Wannabe TWINZ,Allesch Kapoedt,15,10,,,,,jana vandesijpe,Riet D'hoore,Tatiana Delbecke,Elise Van der Stichelen
+Group Stage,Women's Intermediate,Group A,2,Single game,Yellow Flags,Drag the Fox,Yellow Flags,15,10,,,,,Marie Jubault,Juliette Dumesnil,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,3,Single game,Aaaaaah sh*t,Yellow Flags,Yellow Flags,17,19,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Marie Jubault,Juliette Dumesnil
+Group Stage,Women's Intermediate,Group A,3,Single game,Allesch Kapoedt,Drag the Fox,Allesch Kapoedt,15,1,,,,,jana vandesijpe,Riet D'hoore,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,3,Single game,Wannabe TWINZ,Let's goooo dikken!,Wannabe TWINZ,15,6,,,,,Tatiana Delbecke,Elise Van der Stichelen,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,4,Single game,Aaaaaah sh*t,Wannabe TWINZ,Aaaaaah sh*t,15,12,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Tatiana Delbecke,Elise Van der Stichelen
+Group Stage,Women's Intermediate,Group A,4,Single game,Allesch Kapoedt,Yellow Flags,Allesch Kapoedt,15,12,,,,,jana vandesijpe,Riet D'hoore,Marie Jubault,Juliette Dumesnil
+Group Stage,Women's Intermediate,Group A,4,Single game,Let's goooo dikken!,Drag the Fox,Let's goooo dikken!,15,9,,,,,Rani T'Kint,Bieke Wynant,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,5,Single game,Aaaaaah sh*t,Allesch Kapoedt,Allesch Kapoedt,10,15,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,jana vandesijpe,Riet D'hoore
+Group Stage,Women's Intermediate,Group A,5,Single game,Wannabe TWINZ,Drag the Fox,Wannabe TWINZ,15,1,,,,,Tatiana Delbecke,Elise Van der Stichelen,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,5,Single game,Yellow Flags,Let's goooo dikken!,Yellow Flags,15,9,,,,,Marie Jubault,Juliette Dumesnil,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,6,Single game,Aaaaaah sh*t,Drag the Fox,Aaaaaah sh*t,15,4,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,6,Single game,Allesch Kapoedt,Let's goooo dikken!,Allesch Kapoedt,15,7,,,,,jana vandesijpe,Riet D'hoore,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,6,Single game,Wannabe TWINZ,Yellow Flags,Yellow Flags,8,15,,,,,Tatiana Delbecke,Elise Van der Stichelen,Marie Jubault,Juliette Dumesnil
+Group Stage,Women's Intermediate,Group A,7,Single game,Aaaaaah sh*t,Let's goooo dikken!,Aaaaaah sh*t,15,7,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,7,Single game,Allesch Kapoedt,Wannabe TWINZ,Allesch Kapoedt,15,7,,,,,jana vandesijpe,Riet D'hoore,Tatiana Delbecke,Elise Van der Stichelen
+Group Stage,Women's Intermediate,Group A,7,Single game,Yellow Flags,Drag the Fox,Yellow Flags,15,9,,,,,Marie Jubault,Juliette Dumesnil,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,8,Single game,Aaaaaah sh*t,Yellow Flags,Aaaaaah sh*t,15,13,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Marie Jubault,Juliette Dumesnil
+Group Stage,Women's Intermediate,Group A,8,Single game,Allesch Kapoedt,Drag the Fox,Allesch Kapoedt,15,2,,,,,jana vandesijpe,Riet D'hoore,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,8,Single game,Wannabe TWINZ,Let's goooo dikken!,Wannabe TWINZ,15,8,,,,,Tatiana Delbecke,Elise Van der Stichelen,Rani T'Kint,Bieke Wynant
+Group Stage,Women's Intermediate,Group A,9,Single game,Aaaaaah sh*t,Wannabe TWINZ,Wannabe TWINZ,14,16,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Tatiana Delbecke,Elise Van der Stichelen
+Group Stage,Women's Intermediate,Group A,9,Single game,Allesch Kapoedt,Yellow Flags,Allesch Kapoedt,15,9,,,,,jana vandesijpe,Riet D'hoore,Marie Jubault,Juliette Dumesnil
+Group Stage,Women's Intermediate,Group A,9,Single game,Let's goooo dikken!,Drag the Fox,Let's goooo dikken!,15,5,,,,,Rani T'Kint,Bieke Wynant,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,10,Single game,Aaaaaah sh*t,Allesch Kapoedt,Allesch Kapoedt,12,15,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,jana vandesijpe,Riet D'hoore
+Group Stage,Women's Intermediate,Group A,10,Single game,Wannabe TWINZ,Drag the Fox,Wannabe TWINZ,15,3,,,,,Tatiana Delbecke,Elise Van der Stichelen,Louise Gesquiere,Lien Keersse
+Group Stage,Women's Intermediate,Group A,10,Single game,Yellow Flags,Let's goooo dikken!,Yellow Flags,15,7,,,,,Marie Jubault,Juliette Dumesnil,Rani T'Kint,Bieke Wynant
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Aaaaaah sh*t,Drag the Fox,Aaaaaah sh*t,15,5,15,3,,,Marie-Alexia Teisseyre,Britt Vankemenade,Louise Gesquiere,Lien Keersse
+Bracket Stage,Women's Intermediate,Bracket A,Quarter-final,Best of 3,Wannabe TWINZ,Let's goooo dikken!,Wannabe TWINZ,1,0,1,0,,,Tatiana Delbecke,Elise Van der Stichelen,Rani T'Kint,Bieke Wynant
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Allesch Kapoedt,Wannabe TWINZ,Allesch Kapoedt,1,0,1,0,,,jana vandesijpe,Riet D'hoore,Tatiana Delbecke,Elise Van der Stichelen
+Bracket Stage,Women's Intermediate,Bracket A,Semi-final,Best of 3,Yellow Flags,Aaaaaah sh*t,Aaaaaah sh*t,0,1,0,1,,,Marie Jubault,Juliette Dumesnil,Marie-Alexia Teisseyre,Britt Vankemenade
+Bracket Stage,Women's Intermediate,Bracket A,Final,Best of 3,Allesch Kapoedt,Aaaaaah sh*t,Allesch Kapoedt,1,0,0,1,1,0,jana vandesijpe,Riet D'hoore,Marie-Alexia Teisseyre,Britt Vankemenade
+Bracket Stage,Women's Intermediate,Bracket A,P3: Final,Best of 3,Yellow Flags,Wannabe TWINZ,Wannabe TWINZ,1,0,0,1,0,1,Marie Jubault,Juliette Dumesnil,Tatiana Delbecke,Elise Van der Stichelen

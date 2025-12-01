@@ -1,0 +1,63 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Power Pool A,1,Best of 3,Spikebros,Long Distance Relationship,Long Distance Relationship,7,15,6,15,,,Martin Lindorfer,Manuel Mahringer,Thomas Pschaid,Nelson Dziruni
+Group Stage,Open,Power Pool A,1,Best of 3,Afterparty,pomodori secchi,Afterparty,15,5,15,5,,,Pol Loutsch,Maher Saadeddin,Christian Galvan,Hannes Huber
+Group Stage,Open,Power Pool B,1,Best of 3,RCG Limitless,cocktail enjoyers,RCG Limitless,15,10,15,4,,,Mio Martens,Marko Barbir,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool B,1,Best of 3,RD PaulJaner,Simmeringer Survival Guides,RD PaulJaner,15,9,15,11,,,Jan-Peter Geringer,Paul Gerrit Winkler,Stefan Weiner,Andi Gjergji
+Group Stage,Open,Power Pool C,1,Best of 3,Spike Blazer,Double Split Experiment,Double Split Experiment,6,15,9,15,,,Lukas Reiter,Raphael Eisschiel,Stefan Handschmann,Maximilian Knoll
+Group Stage,Open,Power Pool C,1,Best of 3,RCG Toramix,NoMa'am 2,RCG Toramix,15,11,16,14,,,Raffael Foidl,Tobias Stadler,Christoph Hinterbichler,Fabian Wagner
+Group Stage,Open,Power Pool A,2,Best of 3,Spikebros,pomodori secchi,Spikebros,15,12,15,9,,,Martin Lindorfer,Manuel Mahringer,Christian Galvan,Hannes Huber
+Group Stage,Open,Power Pool A,2,Best of 3,Afterparty,Long Distance Relationship,,8,15,15,13,,,Pol Loutsch,Maher Saadeddin,Thomas Pschaid,Nelson Dziruni
+Group Stage,Open,Power Pool B,2,Best of 3,RCG Limitless,Simmeringer Survival Guides,RCG Limitless,15,13,15,9,,,Mio Martens,Marko Barbir,Stefan Weiner,Andi Gjergji
+Group Stage,Open,Power Pool B,2,Best of 3,RD PaulJaner,cocktail enjoyers,RD PaulJaner,15,9,15,6,,,Jan-Peter Geringer,Paul Gerrit Winkler,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool C,2,Best of 3,Spike Blazer,NoMa'am 2,Spike Blazer,15,12,19,17,,,Lukas Reiter,Raphael Eisschiel,Christoph Hinterbichler,Fabian Wagner
+Group Stage,Open,Power Pool C,2,Best of 3,RCG Toramix,Double Split Experiment,Double Split Experiment,9,15,5,15,,,Raffael Foidl,Tobias Stadler,Stefan Handschmann,Maximilian Knoll
+Group Stage,Open,Power Pool A,3,Best of 3,Spikebros,Afterparty,Afterparty,14,16,11,15,,,Martin Lindorfer,Manuel Mahringer,Pol Loutsch,Maher Saadeddin
+Group Stage,Open,Power Pool A,3,Best of 3,pomodori secchi,Long Distance Relationship,Long Distance Relationship,5,15,8,15,,,Christian Galvan,Hannes Huber,Thomas Pschaid,Nelson Dziruni
+Group Stage,Open,Power Pool B,3,Best of 3,RCG Limitless,RD PaulJaner,,14,16,18,16,,,Mio Martens,Marko Barbir,Jan-Peter Geringer,Paul Gerrit Winkler
+Group Stage,Open,Power Pool B,3,Best of 3,Simmeringer Survival Guides,cocktail enjoyers,Simmeringer Survival Guides,16,14,15,13,,,Stefan Weiner,Andi Gjergji,Lukas Stöbich,Alexander Winkler
+Group Stage,Open,Power Pool C,3,Best of 3,Spike Blazer,RCG Toramix,RCG Toramix,6,15,11,15,,,Lukas Reiter,Raphael Eisschiel,Raffael Foidl,Tobias Stadler
+Group Stage,Open,Power Pool C,3,Best of 3,NoMa'am 2,Double Split Experiment,Double Split Experiment,5,15,6,15,,,Christoph Hinterbichler,Fabian Wagner,Stefan Handschmann,Maximilian Knoll
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Afterparty,pomodori secchi,Afterparty,15,12,15,13,,,Pol Loutsch,Maher Saadeddin,Christian Galvan,Hannes Huber
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,RCG Toramix,cocktail enjoyers,RCG Toramix,15,8,15,10,,,Raffael Foidl,Tobias Stadler,Lukas Stöbich,Alexander Winkler
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Spikebros,NoMa'am 2,Spikebros,15,9,15,7,,,Martin Lindorfer,Manuel Mahringer,Christoph Hinterbichler,Fabian Wagner
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Simmeringer Survival Guides,Spike Blazer,Simmeringer Survival Guides,15,11,15,9,,,Stefan Weiner,Andi Gjergji,Lukas Reiter,Raphael Eisschiel
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Double Split Experiment,Simmeringer Survival Guides,Double Split Experiment,15,5,15,8,,,Stefan Handschmann,Maximilian Knoll,Stefan Weiner,Andi Gjergji
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Long Distance Relationship,Spikebros,Long Distance Relationship,15,8,15,6,,,Thomas Pschaid,Nelson Dziruni,Martin Lindorfer,Manuel Mahringer
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,RD PaulJaner,RCG Toramix,RD PaulJaner,15,8,15,6,,,Jan-Peter Geringer,Paul Gerrit Winkler,Raffael Foidl,Tobias Stadler
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,RCG Limitless,Afterparty,Afterparty,10,15,18,20,,,Mio Martens,Marko Barbir,Pol Loutsch,Maher Saadeddin
+Bracket Stage,Open,Bracket A,Semi-final,Single game,Double Split Experiment,Afterparty,Double Split Experiment,1,0,,,,,Stefan Handschmann,Maximilian Knoll,Pol Loutsch,Maher Saadeddin
+Bracket Stage,Open,Bracket A,Semi-final,Single game,Long Distance Relationship,RD PaulJaner,Long Distance Relationship,21,14,,,,,Thomas Pschaid,Nelson Dziruni,Jan-Peter Geringer,Paul Gerrit Winkler
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,RCG Limitless,Simmeringer Survival Guides,RCG Limitless,20,18,,,,,Mio Martens,Marko Barbir,Stefan Weiner,Andi Gjergji
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,RCG Toramix,Spikebros,RCG Toramix,1,0,,,,,Raffael Foidl,Tobias Stadler,Martin Lindorfer,Manuel Mahringer
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,Spike Blazer,pomodori secchi,pomodori secchi,0,1,,,,,Lukas Reiter,Raphael Eisschiel,Christian Galvan,Hannes Huber
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,NoMa'am 2,cocktail enjoyers,NoMa'am 2,2,1,,,,,Christoph Hinterbichler,Fabian Wagner,Lukas Stöbich,Alexander Winkler
+Bracket Stage,Open,Bracket A,Final,Best of 3,Double Split Experiment,Long Distance Relationship,Double Split Experiment,1,0,0,1,1,0,Stefan Handschmann,Maximilian Knoll,Thomas Pschaid,Nelson Dziruni
+Bracket Stage,Open,Bracket A,P3: Final,Single game,RD PaulJaner,Afterparty,Afterparty,0,1,,,,,Jan-Peter Geringer,Paul Gerrit Winkler,Pol Loutsch,Maher Saadeddin
+Bracket Stage,Open,Bracket A,P5: Final,Single game,RCG Limitless,RCG Toramix,RCG Limitless,1,0,,,,,Mio Martens,Marko Barbir,Raffael Foidl,Tobias Stadler
+Bracket Stage,Open,Bracket A,P7: Final,Single game,Spikebros,Simmeringer Survival Guides,Spikebros,1,0,,,,,Martin Lindorfer,Manuel Mahringer,Stefan Weiner,Andi Gjergji
+Bracket Stage,Open,Bracket A,P9: Final,Single game,pomodori secchi,NoMa'am 2,pomodori secchi,1,0,,,,,Christian Galvan,Hannes Huber,Christoph Hinterbichler,Fabian Wagner
+Bracket Stage,Open,Bracket A,P11: Final,Single game,cocktail enjoyers,Spike Blazer,Spike Blazer,0,1,,,,,Lukas Stöbich,Alexander Winkler,Lukas Reiter,Raphael Eisschiel
+Group Stage,Open Intermediate,Group A,1,Best of 3,OCJ,Viereinhalb Finger Gicht,OCJ,15,10,15,8,,,Xavier van Gorp,Julius Focke,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Group A,1,Best of 3,Holy Vatikan,Steelcityballerz,Holy Vatikan,15,10,15,4,,,Samuel Jenner,Benedict Humer,Raphael Maureder,Josef Rehberger
+Group Stage,Open Intermediate,Group B,1,Best of 3,Too many balls to handle,Hairy Harry,,15,13,11,15,,,Benedict Ackerer,Lorenz Gutenthaler,Philip Meßthaller,Peter Gabriel
+Group Stage,Open Intermediate,Group B,1,Best of 3,ASZ,Geri & Jonas,Geri & Jonas,8,15,7,15,,,Martin Wakolbinger,Paul Bernecker,Gerald Kada,Jonas Adamer
+Group Stage,Open Intermediate,Group A,2,Best of 3,OCJ,Steelcityballerz,OCJ,16,14,15,7,,,Xavier van Gorp,Julius Focke,Raphael Maureder,Josef Rehberger
+Group Stage,Open Intermediate,Group A,2,Best of 3,Holy Vatikan,Viereinhalb Finger Gicht,Viereinhalb Finger Gicht,11,15,11,15,,,Samuel Jenner,Benedict Humer,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Group B,2,Best of 3,Too many balls to handle,Geri & Jonas,Geri & Jonas,7,15,8,15,,,Benedict Ackerer,Lorenz Gutenthaler,Gerald Kada,Jonas Adamer
+Group Stage,Open Intermediate,Group B,2,Best of 3,ASZ,Hairy Harry,,5,15,15,7,,,Martin Wakolbinger,Paul Bernecker,Philip Meßthaller,Peter Gabriel
+Group Stage,Open Intermediate,Group A,3,Best of 3,OCJ,Holy Vatikan,OCJ,15,7,15,10,,,Xavier van Gorp,Julius Focke,Samuel Jenner,Benedict Humer
+Group Stage,Open Intermediate,Group A,3,Best of 3,Steelcityballerz,Viereinhalb Finger Gicht,Viereinhalb Finger Gicht,4,15,6,15,,,Raphael Maureder,Josef Rehberger,Ralph Strasser,Lukas Lackinger
+Group Stage,Open Intermediate,Group B,3,Best of 3,Too many balls to handle,ASZ,ASZ,9,15,9,15,,,Benedict Ackerer,Lorenz Gutenthaler,Martin Wakolbinger,Paul Bernecker
+Group Stage,Open Intermediate,Group B,3,Best of 3,Geri & Jonas,Hairy Harry,Geri & Jonas,15,2,15,7,,,Gerald Kada,Jonas Adamer,Philip Meßthaller,Peter Gabriel
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Geri & Jonas,Too many balls to handle,Geri & Jonas,15,10,15,3,,,Gerald Kada,Jonas Adamer,Benedict Ackerer,Lorenz Gutenthaler
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,OCJ,Steelcityballerz,OCJ,15,6,15,4,,,Xavier van Gorp,Julius Focke,Raphael Maureder,Josef Rehberger
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Viereinhalb Finger Gicht,Hairy Harry,Viereinhalb Finger Gicht,15,10,12,15,15,7,Ralph Strasser,Lukas Lackinger,Philip Meßthaller,Peter Gabriel
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,ASZ,Holy Vatikan,Holy Vatikan,11,15,14,16,,,Martin Wakolbinger,Paul Bernecker,Samuel Jenner,Benedict Humer
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,Geri & Jonas,Holy Vatikan,Geri & Jonas,15,11,15,11,,,Gerald Kada,Jonas Adamer,Samuel Jenner,Benedict Humer
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,OCJ,Viereinhalb Finger Gicht,OCJ,20,18,15,10,,,Xavier van Gorp,Julius Focke,Ralph Strasser,Lukas Lackinger
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Single game,ASZ,Too many balls to handle,Too many balls to handle,0,1,,,,,Martin Wakolbinger,Paul Bernecker,Benedict Ackerer,Lorenz Gutenthaler
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Single game,Hairy Harry,Steelcityballerz,Hairy Harry,1,0,,,,,Philip Meßthaller,Peter Gabriel,Raphael Maureder,Josef Rehberger
+Bracket Stage,Open Intermediate,Bracket A,Final,Single game,Geri & Jonas,OCJ,Geri & Jonas,1,0,,,,,Gerald Kada,Jonas Adamer,Xavier van Gorp,Julius Focke
+Bracket Stage,Open Intermediate,Bracket A,P3: Final,Single game,Viereinhalb Finger Gicht,Holy Vatikan,Viereinhalb Finger Gicht,1,0,,,,,Ralph Strasser,Lukas Lackinger,Samuel Jenner,Benedict Humer
+Bracket Stage,Open Intermediate,Bracket A,P5: Final,Single game,Too many balls to handle,Hairy Harry,Hairy Harry,0,1,,,,,Benedict Ackerer,Lorenz Gutenthaler,Philip Meßthaller,Peter Gabriel
+Bracket Stage,Open Intermediate,Bracket A,P7: Final,Single game,Steelcityballerz,ASZ,Steelcityballerz,1,0,,,,,Raphael Maureder,Josef Rehberger,Martin Wakolbinger,Paul Bernecker

@@ -1,0 +1,119 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Intermediate German,Group A,1,Single game,Maximus Foxus 🦊,Kempense Sluipschutters,Maximus Foxus 🦊,15,12,,,,,Maxime Patry,Maxime Despontin,Robin van Reusel,Jules Uiterwijk
+Group Stage,Intermediate German,Group A,1,Single game,Quokka e kiwi,Belge&frouze,Quokka e kiwi,15,11,,,,,Marianne Ferragina,Luca Tosatti,Alexandre Esposito,Nicolas Godot
+Group Stage,Intermediate German,Group B,1,Single game,Kip aant spike,Lords of the rim,Lords of the rim,8,15,,,,,Quentin van Kesteren,Diederik Reyniers,Niels Verbois,Stephane Colfs
+Group Stage,Intermediate German,Group B,1,Single game,ZAC,Spikachu,ZAC,15,8,,,,,Olivier Le Jeune,Rani T'Kint,cédric willems,Alexis Remeysen
+Group Stage,Intermediate German,Group A,2,Single game,Maximus Foxus 🦊,Belge&frouze,Belge&frouze,13,15,,,,,Maxime Patry,Maxime Despontin,Alexandre Esposito,Nicolas Godot
+Group Stage,Intermediate German,Group A,2,Single game,Quokka e kiwi,Kempense Sluipschutters,Quokka e kiwi,15,3,,,,,Marianne Ferragina,Luca Tosatti,Robin van Reusel,Jules Uiterwijk
+Group Stage,Intermediate German,Group B,2,Single game,Kip aant spike,Spikachu,Spikachu,12,15,,,,,Quentin van Kesteren,Diederik Reyniers,cédric willems,Alexis Remeysen
+Group Stage,Intermediate German,Group B,2,Single game,ZAC,Lords of the rim,Lords of the rim,10,15,,,,,Olivier Le Jeune,Rani T'Kint,Niels Verbois,Stephane Colfs
+Group Stage,Intermediate German,Group A,3,Single game,Maximus Foxus 🦊,Quokka e kiwi,Quokka e kiwi,5,15,,,,,Maxime Patry,Maxime Despontin,Marianne Ferragina,Luca Tosatti
+Group Stage,Intermediate German,Group A,3,Single game,Belge&frouze,Kempense Sluipschutters,Belge&frouze,15,13,,,,,Alexandre Esposito,Nicolas Godot,Robin van Reusel,Jules Uiterwijk
+Group Stage,Intermediate German,Group B,3,Single game,Kip aant spike,ZAC,ZAC,10,15,,,,,Quentin van Kesteren,Diederik Reyniers,Olivier Le Jeune,Rani T'Kint
+Group Stage,Intermediate German,Group B,3,Single game,Spikachu,Lords of the rim,Lords of the rim,10,15,,,,,cédric willems,Alexis Remeysen,Niels Verbois,Stephane Colfs
+Group Stage,Intermediate German,Group A,4,Single game,Maximus Foxus 🦊,Kempense Sluipschutters,Maximus Foxus 🦊,15,7,,,,,Maxime Patry,Maxime Despontin,Robin van Reusel,Jules Uiterwijk
+Group Stage,Intermediate German,Group A,4,Single game,Quokka e kiwi,Belge&frouze,Quokka e kiwi,15,13,,,,,Marianne Ferragina,Luca Tosatti,Alexandre Esposito,Nicolas Godot
+Group Stage,Intermediate German,Group B,4,Single game,Kip aant spike,Lords of the rim,Lords of the rim,12,15,,,,,Quentin van Kesteren,Diederik Reyniers,Niels Verbois,Stephane Colfs
+Group Stage,Intermediate German,Group B,4,Single game,ZAC,Spikachu,ZAC,19,17,,,,,Olivier Le Jeune,Rani T'Kint,cédric willems,Alexis Remeysen
+Group Stage,Intermediate German,Group A,5,Single game,Maximus Foxus 🦊,Belge&frouze,Maximus Foxus 🦊,15,7,,,,,Maxime Patry,Maxime Despontin,Alexandre Esposito,Nicolas Godot
+Group Stage,Intermediate German,Group A,5,Single game,Quokka e kiwi,Kempense Sluipschutters,Quokka e kiwi,15,10,,,,,Marianne Ferragina,Luca Tosatti,Robin van Reusel,Jules Uiterwijk
+Group Stage,Intermediate German,Group B,5,Single game,Kip aant spike,Spikachu,Kip aant spike,15,10,,,,,Quentin van Kesteren,Diederik Reyniers,cédric willems,Alexis Remeysen
+Group Stage,Intermediate German,Group B,5,Single game,ZAC,Lords of the rim,Lords of the rim,12,15,,,,,Olivier Le Jeune,Rani T'Kint,Niels Verbois,Stephane Colfs
+Group Stage,Intermediate German,Group A,6,Single game,Maximus Foxus 🦊,Quokka e kiwi,Quokka e kiwi,13,15,,,,,Maxime Patry,Maxime Despontin,Marianne Ferragina,Luca Tosatti
+Group Stage,Intermediate German,Group A,6,Single game,Belge&frouze,Kempense Sluipschutters,Kempense Sluipschutters,12,15,,,,,Alexandre Esposito,Nicolas Godot,Robin van Reusel,Jules Uiterwijk
+Group Stage,Intermediate German,Group B,6,Single game,Kip aant spike,ZAC,ZAC,6,15,,,,,Quentin van Kesteren,Diederik Reyniers,Olivier Le Jeune,Rani T'Kint
+Group Stage,Intermediate German,Group B,6,Single game,Spikachu,Lords of the rim,Lords of the rim,7,15,,,,,cédric willems,Alexis Remeysen,Niels Verbois,Stephane Colfs
+Final Bracket,Intermediate German,Bracket A,Quarter-final,Single game,Yellow Flags,Kempense Sluipschutters,Kempense Sluipschutters,0,2,0,1,,,Juliette Dumesnil,Marie Jubault,Robin van Reusel,Jules Uiterwijk
+Final Bracket,Intermediate German,Bracket A,Quarter-final,Single game,Lords of the rim,Spikachu,Lords of the rim,2,0,1,0,,,Niels Verbois,Stephane Colfs,cédric willems,Alexis Remeysen
+Final Bracket,Intermediate German,Bracket A,Quarter-final,Single game,ZAC,Kip aant spike,ZAC,2,0,1,0,,,Olivier Le Jeune,Rani T'Kint,Quentin van Kesteren,Diederik Reyniers
+Final Bracket,Intermediate German,Bracket A,Quarter-final,Single game,Maximus Foxus 🦊,Belge&frouze,Belge&frouze,1,2,2,1,1,2,Maxime Patry,Maxime Despontin,Alexandre Esposito,Nicolas Godot
+Final Bracket,Intermediate German,Bracket A,Semi-final,Single game,Kempense Sluipschutters,Belge&frouze,Belge&frouze,0,2,0,2,,,Robin van Reusel,Jules Uiterwijk,Alexandre Esposito,Nicolas Godot
+Final Bracket,Intermediate German,Bracket A,Semi-final,Single game,Lords of the rim,ZAC,ZAC,0,2,0,1,,,Niels Verbois,Stephane Colfs,Olivier Le Jeune,Rani T'Kint
+Final Bracket,Intermediate German,Bracket A,P5: Semi-final,Single game,Maximus Foxus 🦊,Yellow Flags,Yellow Flags,1,2,2,1,1,2,Maxime Patry,Maxime Despontin,Juliette Dumesnil,Marie Jubault
+Final Bracket,Intermediate German,Bracket A,P5: Semi-final,Single game,Kip aant spike,Spikachu,Spikachu,1,2,2,1,1,2,Quentin van Kesteren,Diederik Reyniers,cédric willems,Alexis Remeysen
+Final Bracket,Intermediate German,Bracket A,Final,Single game,Belge&frouze,ZAC,ZAC,1,2,2,1,1,2,Alexandre Esposito,Nicolas Godot,Olivier Le Jeune,Rani T'Kint
+Final Bracket,Intermediate German,Bracket A,P3: Final,Single game,Lords of the rim,Kempense Sluipschutters,Lords of the rim,2,0,2,1,,,Niels Verbois,Stephane Colfs,Robin van Reusel,Jules Uiterwijk
+Final Bracket,Intermediate German,Bracket A,P7: Final,Single game,Kip aant spike,Maximus Foxus 🦊,Maximus Foxus 🦊,0,2,1,2,,,Quentin van Kesteren,Diederik Reyniers,Maxime Patry,Maxime Despontin
+Group Stage,Open,Group A,1,Single game,Tripple lefty,Ak,Tripple lefty,15,9,,,,,Jorn neyens,Johan Van den Bergh,jana vandesijpe,Riet D'hoore
+Group Stage,Open,Group A,1,Single game,Underdogs,The One with Tuur and Gauthier,Underdogs,16,14,,,,,Stijn Van den Branden,joeri vlassaks,Gauthier Vandamme,Tuur Demaegdt
+Group Stage,Open,Group B,1,Single game,Flokkie,Nu kunt ge wissele,Flokkie,20,18,,,,,Jonas Jacquemijns,Florian Poel,Adriaan Van Gerven,Martijn Paes
+Group Stage,Open,Group B,1,Single game,Claviculae Fractura,Jurassic Marek,Claviculae Fractura,15,6,,,,,Jurre Baguet,Fre Eskens,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open,Group C,1,Single game,Aaaaaah sh*t,Yellow Flags,Yellow Flags,13,15,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Juliette Dumesnil,Marie Jubault
+Group Stage,Open,Group C,1,Single game,Prehisto-wolves 🐺,Wolves war z,Wolves war z,14,16,,,,,Adrien Cretin,Maëlig Potiau,Bernard De Wolf,Guillaume Van Eeckhaute
+Group Stage,Open,Group D,1,Single game,The Authentic Liège Lions,Cactus Lupus,Cactus Lupus,13,15,,,,,Gilles Talmasse,Hugo Lebeaupin,Xavier van Gorp,Nicolas Manneback
+Group Stage,Open,Group D,1,Single game,Gratis pi(j)ntjes?,Amadeus Mozart,Gratis pi(j)ntjes?,15,5,,,,,Steffen Schraeyen,Kenneth Put,Pierre Debroux,Martin Dochy
+Group Stage,Open,Group A,2,Single game,Tripple lefty,The One with Tuur and Gauthier,Tripple lefty,15,12,,,,,Jorn neyens,Johan Van den Bergh,Gauthier Vandamme,Tuur Demaegdt
+Group Stage,Open,Group A,2,Single game,Underdogs,Ak,Underdogs,15,10,,,,,Stijn Van den Branden,joeri vlassaks,jana vandesijpe,Riet D'hoore
+Group Stage,Open,Group B,2,Single game,Flokkie,Jurassic Marek,Jurassic Marek,12,15,,,,,Jonas Jacquemijns,Florian Poel,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open,Group B,2,Single game,Claviculae Fractura,Nu kunt ge wissele,Claviculae Fractura,15,9,,,,,Jurre Baguet,Fre Eskens,Adriaan Van Gerven,Martijn Paes
+Group Stage,Open,Group C,2,Single game,Aaaaaah sh*t,Wolves war z,Aaaaaah sh*t,15,11,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Bernard De Wolf,Guillaume Van Eeckhaute
+Group Stage,Open,Group C,2,Single game,Prehisto-wolves 🐺,Yellow Flags,Prehisto-wolves 🐺,15,9,,,,,Adrien Cretin,Maëlig Potiau,Juliette Dumesnil,Marie Jubault
+Group Stage,Open,Group D,2,Single game,The Authentic Liège Lions,Amadeus Mozart,The Authentic Liège Lions,15,7,,,,,Gilles Talmasse,Hugo Lebeaupin,Pierre Debroux,Martin Dochy
+Group Stage,Open,Group D,2,Single game,Gratis pi(j)ntjes?,Cactus Lupus,Cactus Lupus,10,15,,,,,Steffen Schraeyen,Kenneth Put,Xavier van Gorp,Nicolas Manneback
+Group Stage,Open,Group A,3,Single game,Tripple lefty,Underdogs,Tripple lefty,19,17,,,,,Jorn neyens,Johan Van den Bergh,Stijn Van den Branden,joeri vlassaks
+Group Stage,Open,Group A,3,Single game,The One with Tuur and Gauthier,Ak,The One with Tuur and Gauthier,15,8,,,,,Gauthier Vandamme,Tuur Demaegdt,jana vandesijpe,Riet D'hoore
+Group Stage,Open,Group B,3,Single game,Flokkie,Claviculae Fractura,Claviculae Fractura,13,15,,,,,Jonas Jacquemijns,Florian Poel,Jurre Baguet,Fre Eskens
+Group Stage,Open,Group B,3,Single game,Jurassic Marek,Nu kunt ge wissele,Jurassic Marek,15,13,,,,,Mathias Van der Linden,Frederik Severeyns,Adriaan Van Gerven,Martijn Paes
+Group Stage,Open,Group C,3,Single game,Aaaaaah sh*t,Prehisto-wolves 🐺,Prehisto-wolves 🐺,13,15,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Adrien Cretin,Maëlig Potiau
+Group Stage,Open,Group C,3,Single game,Wolves war z,Yellow Flags,Wolves war z,15,7,,,,,Bernard De Wolf,Guillaume Van Eeckhaute,Juliette Dumesnil,Marie Jubault
+Group Stage,Open,Group D,3,Single game,The Authentic Liège Lions,Gratis pi(j)ntjes?,The Authentic Liège Lions,15,12,,,,,Gilles Talmasse,Hugo Lebeaupin,Steffen Schraeyen,Kenneth Put
+Group Stage,Open,Group D,3,Single game,Amadeus Mozart,Cactus Lupus,Amadeus Mozart,15,13,,,,,Pierre Debroux,Martin Dochy,Xavier van Gorp,Nicolas Manneback
+Group Stage,Open,Group A,4,Single game,Tripple lefty,Ak,Tripple lefty,15,13,,,,,Jorn neyens,Johan Van den Bergh,jana vandesijpe,Riet D'hoore
+Group Stage,Open,Group A,4,Single game,Underdogs,The One with Tuur and Gauthier,The One with Tuur and Gauthier,13,15,,,,,Stijn Van den Branden,joeri vlassaks,Gauthier Vandamme,Tuur Demaegdt
+Group Stage,Open,Group B,4,Single game,Flokkie,Nu kunt ge wissele,Flokkie,15,12,,,,,Jonas Jacquemijns,Florian Poel,Adriaan Van Gerven,Martijn Paes
+Group Stage,Open,Group B,4,Single game,Claviculae Fractura,Jurassic Marek,Claviculae Fractura,15,13,,,,,Jurre Baguet,Fre Eskens,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open,Group C,4,Single game,Aaaaaah sh*t,Yellow Flags,Aaaaaah sh*t,15,12,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Juliette Dumesnil,Marie Jubault
+Group Stage,Open,Group C,4,Single game,Prehisto-wolves 🐺,Wolves war z,Prehisto-wolves 🐺,15,9,,,,,Adrien Cretin,Maëlig Potiau,Bernard De Wolf,Guillaume Van Eeckhaute
+Group Stage,Open,Group D,4,Single game,The Authentic Liège Lions,Cactus Lupus,The Authentic Liège Lions,15,13,,,,,Gilles Talmasse,Hugo Lebeaupin,Xavier van Gorp,Nicolas Manneback
+Group Stage,Open,Group D,4,Single game,Gratis pi(j)ntjes?,Amadeus Mozart,Amadeus Mozart,13,15,,,,,Steffen Schraeyen,Kenneth Put,Pierre Debroux,Martin Dochy
+Group Stage,Open,Group A,5,Single game,Tripple lefty,The One with Tuur and Gauthier,Tripple lefty,15,12,,,,,Jorn neyens,Johan Van den Bergh,Gauthier Vandamme,Tuur Demaegdt
+Group Stage,Open,Group A,5,Single game,Underdogs,Ak,Underdogs,15,7,,,,,Stijn Van den Branden,joeri vlassaks,jana vandesijpe,Riet D'hoore
+Group Stage,Open,Group B,5,Single game,Flokkie,Jurassic Marek,Flokkie,15,10,,,,,Jonas Jacquemijns,Florian Poel,Mathias Van der Linden,Frederik Severeyns
+Group Stage,Open,Group B,5,Single game,Claviculae Fractura,Nu kunt ge wissele,Claviculae Fractura,16,14,,,,,Jurre Baguet,Fre Eskens,Adriaan Van Gerven,Martijn Paes
+Group Stage,Open,Group C,5,Single game,Aaaaaah sh*t,Wolves war z,Wolves war z,13,15,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Bernard De Wolf,Guillaume Van Eeckhaute
+Group Stage,Open,Group C,5,Single game,Prehisto-wolves 🐺,Yellow Flags,Prehisto-wolves 🐺,15,10,,,,,Adrien Cretin,Maëlig Potiau,Juliette Dumesnil,Marie Jubault
+Group Stage,Open,Group D,5,Single game,The Authentic Liège Lions,Amadeus Mozart,The Authentic Liège Lions,15,6,,,,,Gilles Talmasse,Hugo Lebeaupin,Pierre Debroux,Martin Dochy
+Group Stage,Open,Group D,5,Single game,Gratis pi(j)ntjes?,Cactus Lupus,Gratis pi(j)ntjes?,15,11,,,,,Steffen Schraeyen,Kenneth Put,Xavier van Gorp,Nicolas Manneback
+Group Stage,Open,Group A,6,Single game,Tripple lefty,Underdogs,Underdogs,13,15,,,,,Jorn neyens,Johan Van den Bergh,Stijn Van den Branden,joeri vlassaks
+Group Stage,Open,Group A,6,Single game,The One with Tuur and Gauthier,Ak,The One with Tuur and Gauthier,15,12,,,,,Gauthier Vandamme,Tuur Demaegdt,jana vandesijpe,Riet D'hoore
+Group Stage,Open,Group B,6,Single game,Flokkie,Claviculae Fractura,Flokkie,15,9,,,,,Jonas Jacquemijns,Florian Poel,Jurre Baguet,Fre Eskens
+Group Stage,Open,Group B,6,Single game,Jurassic Marek,Nu kunt ge wissele,Jurassic Marek,15,12,,,,,Mathias Van der Linden,Frederik Severeyns,Adriaan Van Gerven,Martijn Paes
+Group Stage,Open,Group C,6,Single game,Aaaaaah sh*t,Prehisto-wolves 🐺,Prehisto-wolves 🐺,12,15,,,,,Marie-Alexia Teisseyre,Britt Vankemenade,Adrien Cretin,Maëlig Potiau
+Group Stage,Open,Group C,6,Single game,Wolves war z,Yellow Flags,Wolves war z,15,7,,,,,Bernard De Wolf,Guillaume Van Eeckhaute,Juliette Dumesnil,Marie Jubault
+Group Stage,Open,Group D,6,Single game,The Authentic Liège Lions,Gratis pi(j)ntjes?,The Authentic Liège Lions,15,13,,,,,Gilles Talmasse,Hugo Lebeaupin,Steffen Schraeyen,Kenneth Put
+Group Stage,Open,Group D,6,Single game,Amadeus Mozart,Cactus Lupus,Cactus Lupus,11,15,,,,,Pierre Debroux,Martin Dochy,Xavier van Gorp,Nicolas Manneback
+Final Bracket,Open,Seeds 1-8,Quarter-final,Single game,Claviculae Fractura,Tripple lefty,Claviculae Fractura,21,16,,,,,Jurre Baguet,Fre Eskens,Jorn neyens,Johan Van den Bergh
+Final Bracket,Open,Seeds 1-8,Quarter-final,Single game,Flokkie,Underdogs,Underdogs,16,21,,,,,Jonas Jacquemijns,Florian Poel,Stijn Van den Branden,joeri vlassaks
+Final Bracket,Open,Seeds 1-8,Quarter-final,Single game,The One with Tuur and Gauthier,Jurassic Marek,The One with Tuur and Gauthier,21,14,,,,,Gauthier Vandamme,Tuur Demaegdt,Mathias Van der Linden,Frederik Severeyns
+Final Bracket,Open,Seeds 1-8,Quarter-final,Single game,Ak,Nu kunt ge wissele,Ak,1,0,,,,,jana vandesijpe,Riet D'hoore,Adriaan Van Gerven,Martijn Paes
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Claviculae Fractura,Quokka e kiwi,Claviculae Fractura,15,9,15,7,,,Jurre Baguet,Fre Eskens,Marianne Ferragina,Luca Tosatti
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Tripple lefty,Amadeus Mozart,Tripple lefty,15,8,15,8,,,Jorn neyens,Johan Van den Bergh,Pierre Debroux,Martin Dochy
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Underdogs,Aaaaaah sh*t,Underdogs,15,9,15,9,,,Stijn Van den Branden,joeri vlassaks,Marie-Alexia Teisseyre,Britt Vankemenade
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Flokkie,Gratis pi(j)ntjes?,Flokkie,15,12,15,8,,,Jonas Jacquemijns,Florian Poel,Steffen Schraeyen,Kenneth Put
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,The One with Tuur and Gauthier,Cactus Lupus,The One with Tuur and Gauthier,15,11,15,11,,,Gauthier Vandamme,Tuur Demaegdt,Xavier van Gorp,Nicolas Manneback
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Jurassic Marek,Wolves war z,Jurassic Marek,12,15,15,11,15,12,Mathias Van der Linden,Frederik Severeyns,Bernard De Wolf,Guillaume Van Eeckhaute
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Ak,Prehisto-wolves 🐺,Prehisto-wolves 🐺,12,15,15,13,13,15,jana vandesijpe,Riet D'hoore,Adrien Cretin,Maëlig Potiau
+Final Bracket,Open,Bracket A,Round of 16,Best of 3,Nu kunt ge wissele,The Authentic Liège Lions,Nu kunt ge wissele,15,9,20,18,,,Adriaan Van Gerven,Martijn Paes,Gilles Talmasse,Hugo Lebeaupin
+Final Bracket,Open,Bracket A,Quarter-final,Best of 3,Claviculae Fractura,Nu kunt ge wissele,Nu kunt ge wissele,12,15,15,11,18,20,Jurre Baguet,Fre Eskens,Adriaan Van Gerven,Martijn Paes
+Final Bracket,Open,Bracket A,Quarter-final,Best of 3,Tripple lefty,Prehisto-wolves 🐺,Tripple lefty,15,13,12,15,15,12,Jorn neyens,Johan Van den Bergh,Adrien Cretin,Maëlig Potiau
+Final Bracket,Open,Bracket A,Quarter-final,Best of 3,Underdogs,Jurassic Marek,Underdogs,29,31,15,9,15,9,Stijn Van den Branden,joeri vlassaks,Mathias Van der Linden,Frederik Severeyns
+Final Bracket,Open,Bracket A,Quarter-final,Best of 3,Flokkie,The One with Tuur and Gauthier,The One with Tuur and Gauthier,0,1,0,1,,,Jonas Jacquemijns,Florian Poel,Gauthier Vandamme,Tuur Demaegdt
+Final Bracket,Open,Bracket A,P9: Quarter-final,Best of 3,The Authentic Liège Lions,Quokka e kiwi,The Authentic Liège Lions,11,15,15,11,15,8,Gilles Talmasse,Hugo Lebeaupin,Marianne Ferragina,Luca Tosatti
+Final Bracket,Open,Bracket A,P9: Quarter-final,Best of 3,Ak,Amadeus Mozart,Ak,15,9,15,7,,,jana vandesijpe,Riet D'hoore,Pierre Debroux,Martin Dochy
+Final Bracket,Open,Bracket A,P9: Quarter-final,Best of 3,Wolves war z,Aaaaaah sh*t,Wolves war z,15,11,15,9,,,Bernard De Wolf,Guillaume Van Eeckhaute,Marie-Alexia Teisseyre,Britt Vankemenade
+Final Bracket,Open,Bracket A,P9: Quarter-final,Best of 3,Cactus Lupus,Gratis pi(j)ntjes?,Gratis pi(j)ntjes?,15,11,12,15,8,15,Xavier van Gorp,Nicolas Manneback,Steffen Schraeyen,Kenneth Put
+Final Bracket,Open,Bracket A,Semi-final,Best of 3,Nu kunt ge wissele,The One with Tuur and Gauthier,The One with Tuur and Gauthier,1,0,0,1,0,1,Adriaan Van Gerven,Martijn Paes,Gauthier Vandamme,Tuur Demaegdt
+Final Bracket,Open,Bracket A,Semi-final,Best of 3,Tripple lefty,Underdogs,Underdogs,21,19,19,21,19,21,Jorn neyens,Johan Van den Bergh,Stijn Van den Branden,joeri vlassaks
+Final Bracket,Open,Bracket A,P5: Semi-final,Best of 3,Flokkie,Claviculae Fractura,Flokkie,15,12,15,13,,,Jonas Jacquemijns,Florian Poel,Jurre Baguet,Fre Eskens
+Final Bracket,Open,Bracket A,P5: Semi-final,Best of 3,Jurassic Marek,Prehisto-wolves 🐺,Jurassic Marek,15,9,15,8,,,Mathias Van der Linden,Frederik Severeyns,Adrien Cretin,Maëlig Potiau
+Final Bracket,Open,Bracket A,P9: Semi-final,Best of 3,The Authentic Liège Lions,Gratis pi(j)ntjes?,The Authentic Liège Lions,15,9,15,10,,,Gilles Talmasse,Hugo Lebeaupin,Steffen Schraeyen,Kenneth Put
+Final Bracket,Open,Bracket A,P9: Semi-final,Best of 3,Ak,Wolves war z,Wolves war z,15,13,11,15,12,15,jana vandesijpe,Riet D'hoore,Bernard De Wolf,Guillaume Van Eeckhaute
+Final Bracket,Open,Bracket A,P13: Semi-final,Best of 3,Cactus Lupus,Quokka e kiwi,Quokka e kiwi,14,16,15,13,13,15,Xavier van Gorp,Nicolas Manneback,Marianne Ferragina,Luca Tosatti
+Final Bracket,Open,Bracket A,P13: Semi-final,Best of 3,Aaaaaah sh*t,Amadeus Mozart,Amadeus Mozart,13,15,13,15,,,Marie-Alexia Teisseyre,Britt Vankemenade,Pierre Debroux,Martin Dochy
+Final Bracket,Open,Bracket A,Final,Best of 3,The One with Tuur and Gauthier,Underdogs,Underdogs,13,15,,,12,15,Gauthier Vandamme,Tuur Demaegdt,Stijn Van den Branden,joeri vlassaks
+Final Bracket,Open,Bracket A,P3: Final,Best of 3,Tripple lefty,Nu kunt ge wissele,Tripple lefty,1,0,0,1,1,0,Jorn neyens,Johan Van den Bergh,Adriaan Van Gerven,Martijn Paes
+Final Bracket,Open,Bracket A,P5: Final,Best of 3,Flokkie,Jurassic Marek,Jurassic Marek,9,15,11,15,,,Jonas Jacquemijns,Florian Poel,Mathias Van der Linden,Frederik Severeyns
+Final Bracket,Open,Bracket A,P7: Final,Best of 3,Prehisto-wolves 🐺,Claviculae Fractura,Claviculae Fractura,23,25,0,1,,,Adrien Cretin,Maëlig Potiau,Jurre Baguet,Fre Eskens
+Final Bracket,Open,Bracket A,P9: Final,Best of 3,The Authentic Liège Lions,Wolves war z,Wolves war z,13,15,13,15,,,Gilles Talmasse,Hugo Lebeaupin,Bernard De Wolf,Guillaume Van Eeckhaute
+Final Bracket,Open,Bracket A,P11: Final,Best of 3,Ak,Gratis pi(j)ntjes?,Gratis pi(j)ntjes?,15,10,12,15,11,15,jana vandesijpe,Riet D'hoore,Steffen Schraeyen,Kenneth Put
+Final Bracket,Open,Bracket A,P15: Final,Best of 3,Aaaaaah sh*t,Cactus Lupus,Cactus Lupus,-1,0,-1,0,,,Marie-Alexia Teisseyre,Britt Vankemenade,Xavier van Gorp,Nicolas Manneback

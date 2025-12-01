@@ -1,0 +1,614 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Contender,Group A,1,Single game,Pour 2,Pâté Limousin,Pour 2,15,9,,,,,Louis Mareschal,Hugo Lacombe,Maxime Dumargne,Alexandre ROLLOIS
+Group Stage,Open Contender,Group B,1,Single game,Pour Combien ?,C’est pas clair,Pour Combien ?,17,15,,,,,Robin Florinda,Dorian Améziane,Olivier Saunier,Benjamin LIVET
+Group Stage,Open Contender,Group B,1,Single game,Câlin 🫂,29 Oldies,Câlin 🫂,15,6,,,,,Marius Snoeck,Lancelot Touzé,Pierre Hachard,Benoit Ngn
+Group Stage,Open Contender,Group D,1,Single game,Les truffades,Prauloc,Les truffades,15,11,,,,,Romain Chaulet,Aurélien CHAULET,Victor Augelet,Remi Salles
+Group Stage,Open Contender,Group D,1,Single game,Cold Vains,Cèdre doux,Cèdre doux,13,15,,,,,Frederik Theunis,Irian Baert,Paul Heintzé,karim lahoud
+Group Stage,Open Contender,Group E,1,Single game,Misty Moonshot,RAPHALE,Misty Moonshot,15,12,,,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open Contender,Group E,1,Single game,Saumon fumés,Can't beat em join em,Saumon fumés,15,10,,,,,Inès Paysan,Aymeric Sandoz,Guillaume Van Eeckhaute,wout thysens
+Group Stage,Open Contender,Group C,1,Single game,Extra Tackle,Mimoon Galactics,Extra Tackle,15,13,,,,,Thibaud Brun,Ryan DANEKAS,Paul Gheeraert,Grégoire Adnet
+Group Stage,Open Contender,Group C,1,Single game,Areytez nous !,Pour Antoine,Areytez nous !,15,11,,,,,Etienne Lafond,Clément Rey,Oussama Tchita,Gilles Hublet
+Group Stage,Open Contender,Group F,1,Single game,Euh.,[BUS] Els Dracs,[BUS] Els Dracs,10,15,,,,,Victor Cambois,Samy Caux-Ramon,Kevin Manitch,Aimeric Vinas
+Group Stage,Open Contender,Group F,1,Single game,Uno Reverse,Dive guys 🤿,Uno Reverse,15,8,,,,,Daan Paes,Martijn Paes,Lucas Cornut,Titouan Alliod
+Group Stage,Open Contender,Group A,2,Single game,Pour 2,Magniflicks 3.0,Pour 2,15,7,,,,,Louis Mareschal,Hugo Lacombe,Clément Martin-Gougenheim,Paul Halphen
+Group Stage,Open Contender,Group B,2,Single game,Pour Combien ?,29 Oldies,Pour Combien ?,15,8,,,,,Robin Florinda,Dorian Améziane,Pierre Hachard,Benoit Ngn
+Group Stage,Open Contender,Group B,2,Single game,Câlin 🫂,C’est pas clair,Câlin 🫂,15,10,,,,,Marius Snoeck,Lancelot Touzé,Olivier Saunier,Benjamin LIVET
+Group Stage,Open Contender,Group D,2,Single game,Les truffades,Cèdre doux,Cèdre doux,11,15,,,,,Romain Chaulet,Aurélien CHAULET,Paul Heintzé,karim lahoud
+Group Stage,Open Contender,Group D,2,Single game,Cold Vains,Prauloc,Cold Vains,15,13,,,,,Frederik Theunis,Irian Baert,Victor Augelet,Remi Salles
+Group Stage,Open Contender,Group E,2,Single game,Misty Moonshot,Can't beat em join em,Misty Moonshot,15,9,,,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Guillaume Van Eeckhaute,wout thysens
+Group Stage,Open Contender,Group E,2,Single game,Saumon fumés,RAPHALE,Saumon fumés,15,7,,,,,Inès Paysan,Aymeric Sandoz,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open Contender,Group C,2,Single game,Extra Tackle,Pour Antoine,Pour Antoine,14,16,,,,,Thibaud Brun,Ryan DANEKAS,Oussama Tchita,Gilles Hublet
+Group Stage,Open Contender,Group C,2,Single game,Areytez nous !,Mimoon Galactics,Areytez nous !,15,8,,,,,Etienne Lafond,Clément Rey,Paul Gheeraert,Grégoire Adnet
+Group Stage,Open Contender,Group F,2,Single game,Euh.,Dive guys 🤿,Euh.,16,14,,,,,Victor Cambois,Samy Caux-Ramon,Lucas Cornut,Titouan Alliod
+Group Stage,Open Contender,Group F,2,Single game,Uno Reverse,[BUS] Els Dracs,Uno Reverse,15,13,,,,,Daan Paes,Martijn Paes,Kevin Manitch,Aimeric Vinas
+Group Stage,Open Contender,Group A,3,Single game,Magniflicks 3.0,Pâté Limousin,Magniflicks 3.0,15,9,,,,,Clément Martin-Gougenheim,Paul Halphen,Maxime Dumargne,Alexandre ROLLOIS
+Group Stage,Open Contender,Group B,3,Single game,Pour Combien ?,Câlin 🫂,Pour Combien ?,15,11,,,,,Robin Florinda,Dorian Améziane,Marius Snoeck,Lancelot Touzé
+Group Stage,Open Contender,Group B,3,Single game,29 Oldies,C’est pas clair,C’est pas clair,12,15,,,,,Pierre Hachard,Benoit Ngn,Olivier Saunier,Benjamin LIVET
+Group Stage,Open Contender,Group D,3,Single game,Les truffades,Cold Vains,Cold Vains,10,15,,,,,Romain Chaulet,Aurélien CHAULET,Frederik Theunis,Irian Baert
+Group Stage,Open Contender,Group D,3,Single game,Cèdre doux,Prauloc,Cèdre doux,15,11,,,,,Paul Heintzé,karim lahoud,Victor Augelet,Remi Salles
+Group Stage,Open Contender,Group E,3,Single game,Misty Moonshot,Saumon fumés,Misty Moonshot,15,8,,,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Inès Paysan,Aymeric Sandoz
+Group Stage,Open Contender,Group E,3,Single game,Can't beat em join em,RAPHALE,RAPHALE,10,15,,,,,Guillaume Van Eeckhaute,wout thysens,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open Contender,Group C,3,Single game,Extra Tackle,Areytez nous !,Extra Tackle,15,13,,,,,Thibaud Brun,Ryan DANEKAS,Etienne Lafond,Clément Rey
+Group Stage,Open Contender,Group C,3,Single game,Pour Antoine,Mimoon Galactics,Mimoon Galactics,12,15,,,,,Oussama Tchita,Gilles Hublet,Paul Gheeraert,Grégoire Adnet
+Group Stage,Open Contender,Group F,3,Single game,Euh.,Uno Reverse,Uno Reverse,13,15,,,,,Victor Cambois,Samy Caux-Ramon,Daan Paes,Martijn Paes
+Group Stage,Open Contender,Group F,3,Single game,Dive guys 🤿,[BUS] Els Dracs,Dive guys 🤿,15,11,,,,,Lucas Cornut,Titouan Alliod,Kevin Manitch,Aimeric Vinas
+Group Stage,Open Contender,Group A,4,Single game,Pour 2,Pâté Limousin,Pour 2,15,12,,,,,Louis Mareschal,Hugo Lacombe,Maxime Dumargne,Alexandre ROLLOIS
+Group Stage,Open Contender,Group B,4,Single game,Pour Combien ?,C’est pas clair,Pour Combien ?,15,7,,,,,Robin Florinda,Dorian Améziane,Olivier Saunier,Benjamin LIVET
+Group Stage,Open Contender,Group B,4,Single game,Câlin 🫂,29 Oldies,Câlin 🫂,15,7,,,,,Marius Snoeck,Lancelot Touzé,Pierre Hachard,Benoit Ngn
+Group Stage,Open Contender,Group D,4,Single game,Les truffades,Prauloc,Les truffades,15,13,,,,,Romain Chaulet,Aurélien CHAULET,Victor Augelet,Remi Salles
+Group Stage,Open Contender,Group D,4,Single game,Cold Vains,Cèdre doux,Cold Vains,15,8,,,,,Frederik Theunis,Irian Baert,Paul Heintzé,karim lahoud
+Group Stage,Open Contender,Group E,4,Single game,Misty Moonshot,RAPHALE,Misty Moonshot,15,7,,,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open Contender,Group E,4,Single game,Saumon fumés,Can't beat em join em,Saumon fumés,15,7,,,,,Inès Paysan,Aymeric Sandoz,Guillaume Van Eeckhaute,wout thysens
+Group Stage,Open Contender,Group C,4,Single game,Extra Tackle,Mimoon Galactics,Mimoon Galactics,13,15,,,,,Thibaud Brun,Ryan DANEKAS,Paul Gheeraert,Grégoire Adnet
+Group Stage,Open Contender,Group C,4,Single game,Areytez nous !,Pour Antoine,Areytez nous !,15,13,,,,,Etienne Lafond,Clément Rey,Oussama Tchita,Gilles Hublet
+Group Stage,Open Contender,Group F,4,Single game,Euh.,[BUS] Els Dracs,Euh.,15,9,,,,,Victor Cambois,Samy Caux-Ramon,Kevin Manitch,Aimeric Vinas
+Group Stage,Open Contender,Group F,4,Single game,Uno Reverse,Dive guys 🤿,Dive guys 🤿,10,15,,,,,Daan Paes,Martijn Paes,Lucas Cornut,Titouan Alliod
+Group Stage,Open Contender,Group A,5,Single game,Pour 2,Magniflicks 3.0,Pour 2,15,11,,,,,Louis Mareschal,Hugo Lacombe,Clément Martin-Gougenheim,Paul Halphen
+Group Stage,Open Contender,Group B,5,Single game,Pour Combien ?,29 Oldies,Pour Combien ?,15,11,,,,,Robin Florinda,Dorian Améziane,Pierre Hachard,Benoit Ngn
+Group Stage,Open Contender,Group B,5,Single game,Câlin 🫂,C’est pas clair,C’est pas clair,10,15,,,,,Marius Snoeck,Lancelot Touzé,Olivier Saunier,Benjamin LIVET
+Group Stage,Open Contender,Group D,5,Single game,Les truffades,Cèdre doux,Les truffades,15,12,,,,,Romain Chaulet,Aurélien CHAULET,Paul Heintzé,karim lahoud
+Group Stage,Open Contender,Group D,5,Single game,Cold Vains,Prauloc,Cold Vains,15,10,,,,,Frederik Theunis,Irian Baert,Victor Augelet,Remi Salles
+Group Stage,Open Contender,Group E,5,Single game,Misty Moonshot,Can't beat em join em,Misty Moonshot,15,4,,,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Guillaume Van Eeckhaute,wout thysens
+Group Stage,Open Contender,Group E,5,Single game,Saumon fumés,RAPHALE,Saumon fumés,15,9,,,,,Inès Paysan,Aymeric Sandoz,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open Contender,Group C,5,Single game,Extra Tackle,Pour Antoine,Extra Tackle,17,16,,,,,Thibaud Brun,Ryan DANEKAS,Oussama Tchita,Gilles Hublet
+Group Stage,Open Contender,Group C,5,Single game,Areytez nous !,Mimoon Galactics,Areytez nous !,15,11,,,,,Etienne Lafond,Clément Rey,Paul Gheeraert,Grégoire Adnet
+Group Stage,Open Contender,Group F,5,Single game,Euh.,Dive guys 🤿,Dive guys 🤿,12,15,,,,,Victor Cambois,Samy Caux-Ramon,Lucas Cornut,Titouan Alliod
+Group Stage,Open Contender,Group F,5,Single game,Uno Reverse,[BUS] Els Dracs,Uno Reverse,15,12,,,,,Daan Paes,Martijn Paes,Kevin Manitch,Aimeric Vinas
+Group Stage,Open Contender,Group A,6,Single game,Magniflicks 3.0,Pâté Limousin,Magniflicks 3.0,15,13,,,,,Clément Martin-Gougenheim,Paul Halphen,Maxime Dumargne,Alexandre ROLLOIS
+Group Stage,Open Contender,Group B,6,Single game,Pour Combien ?,Câlin 🫂,Pour Combien ?,15,9,,,,,Robin Florinda,Dorian Améziane,Marius Snoeck,Lancelot Touzé
+Group Stage,Open Contender,Group B,6,Single game,29 Oldies,C’est pas clair,C’est pas clair,8,15,,,,,Pierre Hachard,Benoit Ngn,Olivier Saunier,Benjamin LIVET
+Group Stage,Open Contender,Group D,6,Single game,Les truffades,Cold Vains,Les truffades,17,16,,,,,Romain Chaulet,Aurélien CHAULET,Frederik Theunis,Irian Baert
+Group Stage,Open Contender,Group D,6,Single game,Cèdre doux,Prauloc,Cèdre doux,17,15,,,,,Paul Heintzé,karim lahoud,Victor Augelet,Remi Salles
+Group Stage,Open Contender,Group E,6,Single game,Misty Moonshot,Saumon fumés,Misty Moonshot,15,7,,,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Inès Paysan,Aymeric Sandoz
+Group Stage,Open Contender,Group E,6,Single game,Can't beat em join em,RAPHALE,Can't beat em join em,15,13,,,,,Guillaume Van Eeckhaute,wout thysens,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open Contender,Group C,6,Single game,Extra Tackle,Areytez nous !,Extra Tackle,15,4,,,,,Thibaud Brun,Ryan DANEKAS,Etienne Lafond,Clément Rey
+Group Stage,Open Contender,Group C,6,Single game,Pour Antoine,Mimoon Galactics,Mimoon Galactics,16,17,,,,,Oussama Tchita,Gilles Hublet,Paul Gheeraert,Grégoire Adnet
+Group Stage,Open Contender,Group F,6,Single game,Euh.,Uno Reverse,Uno Reverse,13,15,,,,,Victor Cambois,Samy Caux-Ramon,Daan Paes,Martijn Paes
+Group Stage,Open Contender,Group F,6,Single game,Dive guys 🤿,[BUS] Els Dracs,Dive guys 🤿,15,6,,,,,Lucas Cornut,Titouan Alliod,Kevin Manitch,Aimeric Vinas
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Cèdre doux,29 Oldies,Cèdre doux,15,3,15,11,,,Paul Heintzé,karim lahoud,Pierre Hachard,Benoit Ngn
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Les truffades,Pâté Limousin,Pâté Limousin,15,9,9,15,14,16,Romain Chaulet,Aurélien CHAULET,Maxime Dumargne,Alexandre ROLLOIS
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Câlin 🫂,Prauloc,Prauloc,20,21,12,15,,,Marius Snoeck,Lancelot Touzé,Victor Augelet,Remi Salles
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,C’est pas clair,Can't beat em join em,C’est pas clair,15,13,15,10,,,Olivier Saunier,Benjamin LIVET,Guillaume Van Eeckhaute,wout thysens
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Magniflicks 3.0,RAPHALE,Magniflicks 3.0,15,8,15,12,,,Clément Martin-Gougenheim,Paul Halphen,Raphaël Chauvet,Alexandre Thiollière
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Mimoon Galactics,[BUS] Els Dracs,Mimoon Galactics,12,15,15,12,19,17,Paul Gheeraert,Grégoire Adnet,Kevin Manitch,Aimeric Vinas
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Euh.,Pour Antoine,Euh.,15,13,15,12,,,Victor Cambois,Samy Caux-Ramon,Oussama Tchita,Gilles Hublet
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Misty Moonshot,Euh.,Misty Moonshot,18,16,15,9,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Victor Cambois,Samy Caux-Ramon
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Pour 2,Mimoon Galactics,Pour 2,15,5,15,6,,,Louis Mareschal,Hugo Lacombe,Paul Gheeraert,Grégoire Adnet
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Pour Combien ?,Magniflicks 3.0,Pour Combien ?,16,14,12,15,15,12,Robin Florinda,Dorian Améziane,Clément Martin-Gougenheim,Paul Halphen
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Uno Reverse,C’est pas clair,C’est pas clair,15,11,13,15,19,21,Daan Paes,Martijn Paes,Olivier Saunier,Benjamin LIVET
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Cold Vains,Prauloc,Cold Vains,15,10,16,14,,,Frederik Theunis,Irian Baert,Victor Augelet,Remi Salles
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Extra Tackle,Pâté Limousin,Extra Tackle,15,11,15,11,,,Thibaud Brun,Ryan DANEKAS,Maxime Dumargne,Alexandre ROLLOIS
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Saumon fumés,Cèdre doux,Saumon fumés,15,8,13,15,17,15,Inès Paysan,Aymeric Sandoz,Paul Heintzé,karim lahoud
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Dive guys 🤿,Areytez nous !,Areytez nous !,13,15,11,15,,,Lucas Cornut,Titouan Alliod,Etienne Lafond,Clément Rey
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Misty Moonshot,Areytez nous !,Misty Moonshot,21,16,21,16,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Etienne Lafond,Clément Rey
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Pour 2,Saumon fumés,Pour 2,21,17,21,17,,,Louis Mareschal,Hugo Lacombe,Inès Paysan,Aymeric Sandoz
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Pour Combien ?,Extra Tackle,Pour Combien ?,21,16,19,21,21,18,Robin Florinda,Dorian Améziane,Thibaud Brun,Ryan DANEKAS
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,C’est pas clair,Cold Vains,C’est pas clair,1,0,1,0,,,Olivier Saunier,Benjamin LIVET,Frederik Theunis,Irian Baert
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Dive guys 🤿,Euh.,Dive guys 🤿,15,13,15,11,,,Lucas Cornut,Titouan Alliod,Victor Cambois,Samy Caux-Ramon
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Cèdre doux,Mimoon Galactics,Cèdre doux,17,15,15,11,,,Paul Heintzé,karim lahoud,Paul Gheeraert,Grégoire Adnet
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Pâté Limousin,Magniflicks 3.0,Pâté Limousin,15,12,21,20,,,Maxime Dumargne,Alexandre ROLLOIS,Clément Martin-Gougenheim,Paul Halphen
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Prauloc,Uno Reverse,Uno Reverse,6,15,17,19,,,Victor Augelet,Remi Salles,Daan Paes,Martijn Paes
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,[BUS] Els Dracs,29 Oldies,[BUS] Els Dracs,17,15,20,21,15,5,Kevin Manitch,Aimeric Vinas,Pierre Hachard,Benoit Ngn
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,RAPHALE,Les truffades,Les truffades,12,15,12,15,,,Raphaël Chauvet,Alexandre Thiollière,Romain Chaulet,Aurélien CHAULET
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,Can't beat em join em,Câlin 🫂,Câlin 🫂,11,15,8,15,,,Guillaume Van Eeckhaute,wout thysens,Marius Snoeck,Lancelot Touzé
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Misty Moonshot,C’est pas clair,Misty Moonshot,21,11,21,15,,,Pierre Lecrosnier,Théo Vanh Hemelryck,Olivier Saunier,Benjamin LIVET
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Pour 2,Pour Combien ?,Pour Combien ?,21,15,19,21,19,21,Louis Mareschal,Hugo Lacombe,Robin Florinda,Dorian Améziane
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Cold Vains,Areytez nous !,Areytez nous !,13,15,15,17,,,Frederik Theunis,Irian Baert,Etienne Lafond,Clément Rey
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Extra Tackle,Saumon fumés,Extra Tackle,21,14,21,16,,,Thibaud Brun,Ryan DANEKAS,Inès Paysan,Aymeric Sandoz
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Dive guys 🤿,Uno Reverse,Uno Reverse,13,15,11,15,,,Lucas Cornut,Titouan Alliod,Daan Paes,Martijn Paes
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Cèdre doux,Pâté Limousin,Cèdre doux,15,12,15,9,,,Paul Heintzé,karim lahoud,Maxime Dumargne,Alexandre ROLLOIS
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,Prauloc,Euh.,Prauloc,12,15,16,14,15,9,Victor Augelet,Remi Salles,Victor Cambois,Samy Caux-Ramon
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,Magniflicks 3.0,Mimoon Galactics,Magniflicks 3.0,15,7,15,14,,,Clément Martin-Gougenheim,Paul Halphen,Paul Gheeraert,Grégoire Adnet
+Bracket Stage,Open Contender,Bracket A,P17: Semi-final,Best of 3,Pour Antoine,Câlin 🫂,Pour Antoine,15,8,18,16,,,Oussama Tchita,Gilles Hublet,Marius Snoeck,Lancelot Touzé
+Bracket Stage,Open Contender,Bracket A,P17: Semi-final,Best of 3,[BUS] Els Dracs,Les truffades,Les truffades,11,15,15,13,13,15,Kevin Manitch,Aimeric Vinas,Romain Chaulet,Aurélien CHAULET
+Bracket Stage,Open Contender,Bracket A,P21: Semi-final,Best of 3,RAPHALE,29 Oldies,RAPHALE,15,11,15,10,,,Raphaël Chauvet,Alexandre Thiollière,Pierre Hachard,Benoit Ngn
+Bracket Stage,Open Contender,Bracket A,Final,Best of 3,Misty Moonshot,Pour Combien ?,Misty Moonshot,19,21,21,18,21,19,Pierre Lecrosnier,Théo Vanh Hemelryck,Robin Florinda,Dorian Améziane
+Bracket Stage,Open Contender,Bracket A,P3: Final,Best of 3,Pour 2,C’est pas clair,Pour 2,21,5,21,15,,,Louis Mareschal,Hugo Lacombe,Olivier Saunier,Benjamin LIVET
+Bracket Stage,Open Contender,Bracket A,P5: Final,Best of 3,Areytez nous !,Extra Tackle,Extra Tackle,11,21,20,22,,,Etienne Lafond,Clément Rey,Thibaud Brun,Ryan DANEKAS
+Bracket Stage,Open Contender,Bracket A,P7: Final,Best of 3,Saumon fumés,Cold Vains,Saumon fumés,21,15,21,15,,,Inès Paysan,Aymeric Sandoz,Frederik Theunis,Irian Baert
+Bracket Stage,Open Contender,Bracket A,P9: Final,Best of 3,Uno Reverse,Cèdre doux,Uno Reverse,15,6,15,11,,,Daan Paes,Martijn Paes,Paul Heintzé,karim lahoud
+Bracket Stage,Open Contender,Bracket A,P11: Final,Best of 3,Pâté Limousin,Dive guys 🤿,Pâté Limousin,15,12,15,12,,,Maxime Dumargne,Alexandre ROLLOIS,Lucas Cornut,Titouan Alliod
+Bracket Stage,Open Contender,Bracket A,P13: Final,Best of 3,Prauloc,Magniflicks 3.0,Magniflicks 3.0,12,15,18,16,18,20,Victor Augelet,Remi Salles,Clément Martin-Gougenheim,Paul Halphen
+Bracket Stage,Open Contender,Bracket A,P15: Final,Best of 3,Mimoon Galactics,Euh.,Euh.,12,15,14,16,,,Paul Gheeraert,Grégoire Adnet,Victor Cambois,Samy Caux-Ramon
+Bracket Stage,Open Contender,Bracket A,P17: Final,Best of 3,Pour Antoine,Les truffades,Les truffades,15,13,13,15,13,15,Oussama Tchita,Gilles Hublet,Romain Chaulet,Aurélien CHAULET
+Bracket Stage,Open Contender,Bracket A,P19: Final,Best of 3,[BUS] Els Dracs,Câlin 🫂,Câlin 🫂,12,15,13,15,,,Kevin Manitch,Aimeric Vinas,Marius Snoeck,Lancelot Touzé
+Bracket Stage,Open Contender,Bracket A,P21: Final,Best of 3,Can't beat em join em,RAPHALE,RAPHALE,15,13,14,16,13,15,Guillaume Van Eeckhaute,wout thysens,Raphaël Chauvet,Alexandre Thiollière
+Group Stage,Open,Group A,1,Single game,Cut killer,Théo dans le classement,Cut killer,15,11,,,,,Maxime Cadiou,Valentin Lanchas,Théophile Danzanvilliers,MAYE Theo
+Group Stage,Open,Group A,1,Single game,Bacchus e benessere,Les Intermédiaires,Bacchus e benessere,15,9,,,,,luc beltrando,Louen Previtali,Mathieu Laborde,ANTOINE Fraizier
+Group Stage,Open,Group B,1,Single game,Machines de Nantes,Raclette et crustacés,Machines de Nantes,15,8,,,,,Antoine Lemercier,Matthieu Deux,Thomas Hostin,Léo Habauzit
+Group Stage,Open,Group B,1,Single game,Rouen'carnage,Spiky blinders,Rouen'carnage,15,12,,,,,Antoine .R,Camille BRUMENT,Clément Moutton,Johan Poussier
+Group Stage,Open,Group C,1,Single game,Em'mental,Fumar Mata,Em'mental,15,8,,,,,Antoine Wasselin,Paul-Victor Macron,Jérémie Bourgeois,Maxime DESVALLÉES
+Group Stage,Open,Group D,1,Single game,Vicious Circle,BAaaaaaAA,Vicious Circle,15,9,,,,,Antoine Devaud,Simon Chervin,Fabian Hofacker,Benjamin Blin
+Group Stage,Open,Group D,1,Single game,Roundnet Tourléans,Barbecue,Barbecue,16,17,,,,,Luc Tremsal,Geoffrey Cheneau,Vincent SIRVIN,Maxime Pitault
+Group Stage,Open,Group E,1,Single game,Les Chat’ & Cut,Les Capucinois,Les Chat’ & Cut,15,6,,,,,Tom Callen,Alexis Sécher,Jean-Baptiste Tanguy,Florian Le Roy
+Group Stage,Open,Group E,1,Single game,Zougoula,Juego Bonito,Zougoula,15,13,,,,,léo boulay,Tom Boulay,Gabin Vielescot,Mathis Williame
+Group Stage,Open,Group F,1,Single game,LefTeam,Toad,LefTeam,17,16,,,,,Jean Kervella,Valentin Bourrelier,Adriaan Van Gerven,Toan Pauwels
+Group Stage,Open,Group F,1,Single game,Loire Roundnet,Seb à la frite,Loire Roundnet,17,16,,,,,Hugo Thuilliez,Matthieu Fleuriault,Sébastien Lefèvre,corentin chambost
+Group Stage,Open,Group G,1,Single game,Derby … TOU-LOU-SAIN !!!!,Les Praid’z,Les Praid’z,8,15,,,,,Alec Gautier,Guillaume Guébin,Robin Villard,côme stephant
+Group Stage,Open,Group G,1,Single game,Roundnet Anti Fasciste,CRASH & REHAB 2,CRASH & REHAB 2,10,15,,,,,William Combe,quentin henry,Julien Boquillon,Jérémie TRAORE
+Group Stage,Open,Group H,1,Single game,Quijou ou Quichou,Pas cléments du tout,Quijou ou Quichou,15,9,,,,,Matthieu Bertho,Guillaume Boisseau,Matthieu Garrigue,Clément Chassant
+Group Stage,Open,Group A,2,Single game,Cut killer,Les Intermédiaires,Les Intermédiaires,16,17,,,,,Maxime Cadiou,Valentin Lanchas,Mathieu Laborde,ANTOINE Fraizier
+Group Stage,Open,Group A,2,Single game,Bacchus e benessere,Théo dans le classement,Bacchus e benessere,15,12,,,,,luc beltrando,Louen Previtali,Théophile Danzanvilliers,MAYE Theo
+Group Stage,Open,Group B,2,Single game,Machines de Nantes,Spiky blinders,Machines de Nantes,15,13,,,,,Antoine Lemercier,Matthieu Deux,Clément Moutton,Johan Poussier
+Group Stage,Open,Group B,2,Single game,Rouen'carnage,Raclette et crustacés,Rouen'carnage,15,10,,,,,Antoine .R,Camille BRUMENT,Thomas Hostin,Léo Habauzit
+Group Stage,Open,Group C,2,Single game,Em'mental,Aveyrun 🐅,Em'mental,15,13,,,,,Antoine Wasselin,Paul-Victor Macron,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE
+Group Stage,Open,Group D,2,Single game,Vicious Circle,Barbecue,Vicious Circle,15,9,,,,,Antoine Devaud,Simon Chervin,Vincent SIRVIN,Maxime Pitault
+Group Stage,Open,Group D,2,Single game,Roundnet Tourléans,BAaaaaaAA,Roundnet Tourléans,15,13,,,,,Luc Tremsal,Geoffrey Cheneau,Fabian Hofacker,Benjamin Blin
+Group Stage,Open,Group E,2,Single game,Les Chat’ & Cut,Juego Bonito,Les Chat’ & Cut,15,6,,,,,Tom Callen,Alexis Sécher,Gabin Vielescot,Mathis Williame
+Group Stage,Open,Group E,2,Single game,Zougoula,Les Capucinois,Zougoula,15,13,,,,,léo boulay,Tom Boulay,Jean-Baptiste Tanguy,Florian Le Roy
+Group Stage,Open,Group F,2,Single game,LefTeam,Seb à la frite,Seb à la frite,16,17,,,,,Jean Kervella,Valentin Bourrelier,Sébastien Lefèvre,corentin chambost
+Group Stage,Open,Group F,2,Single game,Loire Roundnet,Toad,Loire Roundnet,15,10,,,,,Hugo Thuilliez,Matthieu Fleuriault,Adriaan Van Gerven,Toan Pauwels
+Group Stage,Open,Group G,2,Single game,Derby … TOU-LOU-SAIN !!!!,CRASH & REHAB 2,CRASH & REHAB 2,11,15,,,,,Alec Gautier,Guillaume Guébin,Julien Boquillon,Jérémie TRAORE
+Group Stage,Open,Group G,2,Single game,Roundnet Anti Fasciste,Les Praid’z,Roundnet Anti Fasciste,15,11,,,,,William Combe,quentin henry,Robin Villard,côme stephant
+Group Stage,Open,Group H,2,Single game,Quijou ou Quichou,Ju et Sev,Quijou ou Quichou,16,14,,,,,Matthieu Bertho,Guillaume Boisseau,Severin Labit,Chuniaud julien
+Group Stage,Open,Group A,3,Single game,Cut killer,Bacchus e benessere,Bacchus e benessere,13,15,,,,,Maxime Cadiou,Valentin Lanchas,luc beltrando,Louen Previtali
+Group Stage,Open,Group A,3,Single game,Les Intermédiaires,Théo dans le classement,Les Intermédiaires,15,10,,,,,Mathieu Laborde,ANTOINE Fraizier,Théophile Danzanvilliers,MAYE Theo
+Group Stage,Open,Group B,3,Single game,Machines de Nantes,Rouen'carnage,Machines de Nantes,15,9,,,,,Antoine Lemercier,Matthieu Deux,Antoine .R,Camille BRUMENT
+Group Stage,Open,Group B,3,Single game,Spiky blinders,Raclette et crustacés,Spiky blinders,15,11,,,,,Clément Moutton,Johan Poussier,Thomas Hostin,Léo Habauzit
+Group Stage,Open,Group C,3,Single game,Aveyrun 🐅,Fumar Mata,Aveyrun 🐅,15,11,,,,,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE,Jérémie Bourgeois,Maxime DESVALLÉES
+Group Stage,Open,Group D,3,Single game,Vicious Circle,Roundnet Tourléans,Vicious Circle,15,13,,,,,Antoine Devaud,Simon Chervin,Luc Tremsal,Geoffrey Cheneau
+Group Stage,Open,Group D,3,Single game,Barbecue,BAaaaaaAA,BAaaaaaAA,15,17,,,,,Vincent SIRVIN,Maxime Pitault,Fabian Hofacker,Benjamin Blin
+Group Stage,Open,Group E,3,Single game,Les Chat’ & Cut,Zougoula,Les Chat’ & Cut,15,12,,,,,Tom Callen,Alexis Sécher,léo boulay,Tom Boulay
+Group Stage,Open,Group E,3,Single game,Juego Bonito,Les Capucinois,Juego Bonito,15,8,,,,,Gabin Vielescot,Mathis Williame,Jean-Baptiste Tanguy,Florian Le Roy
+Group Stage,Open,Group F,3,Single game,LefTeam,Loire Roundnet,Loire Roundnet,12,15,,,,,Jean Kervella,Valentin Bourrelier,Hugo Thuilliez,Matthieu Fleuriault
+Group Stage,Open,Group F,3,Single game,Seb à la frite,Toad,Seb à la frite,17,16,,,,,Sébastien Lefèvre,corentin chambost,Adriaan Van Gerven,Toan Pauwels
+Group Stage,Open,Group G,3,Single game,Derby … TOU-LOU-SAIN !!!!,Roundnet Anti Fasciste,Derby … TOU-LOU-SAIN !!!!,15,10,,,,,Alec Gautier,Guillaume Guébin,William Combe,quentin henry
+Group Stage,Open,Group G,3,Single game,CRASH & REHAB 2,Les Praid’z,Les Praid’z,11,15,,,,,Julien Boquillon,Jérémie TRAORE,Robin Villard,côme stephant
+Group Stage,Open,Group H,3,Single game,Ju et Sev,Pas cléments du tout,Ju et Sev,15,13,,,,,Severin Labit,Chuniaud julien,Matthieu Garrigue,Clément Chassant
+Group Stage,Open,Group A,4,Single game,Cut killer,Théo dans le classement,Cut killer,15,9,,,,,Maxime Cadiou,Valentin Lanchas,Théophile Danzanvilliers,MAYE Theo
+Group Stage,Open,Group A,4,Single game,Bacchus e benessere,Les Intermédiaires,Bacchus e benessere,15,12,,,,,luc beltrando,Louen Previtali,Mathieu Laborde,ANTOINE Fraizier
+Group Stage,Open,Group B,4,Single game,Machines de Nantes,Raclette et crustacés,Machines de Nantes,15,6,,,,,Antoine Lemercier,Matthieu Deux,Thomas Hostin,Léo Habauzit
+Group Stage,Open,Group B,4,Single game,Rouen'carnage,Spiky blinders,Rouen'carnage,15,10,,,,,Antoine .R,Camille BRUMENT,Clément Moutton,Johan Poussier
+Group Stage,Open,Group C,4,Single game,Em'mental,Fumar Mata,Em'mental,15,7,,,,,Antoine Wasselin,Paul-Victor Macron,Jérémie Bourgeois,Maxime DESVALLÉES
+Group Stage,Open,Group D,4,Single game,Vicious Circle,BAaaaaaAA,Vicious Circle,15,9,,,,,Antoine Devaud,Simon Chervin,Fabian Hofacker,Benjamin Blin
+Group Stage,Open,Group D,4,Single game,Roundnet Tourléans,Barbecue,Roundnet Tourléans,15,9,,,,,Luc Tremsal,Geoffrey Cheneau,Vincent SIRVIN,Maxime Pitault
+Group Stage,Open,Group E,4,Single game,Les Chat’ & Cut,Les Capucinois,Les Capucinois,12,15,,,,,Tom Callen,Alexis Sécher,Jean-Baptiste Tanguy,Florian Le Roy
+Group Stage,Open,Group E,4,Single game,Zougoula,Juego Bonito,Zougoula,15,13,,,,,léo boulay,Tom Boulay,Gabin Vielescot,Mathis Williame
+Group Stage,Open,Group F,4,Single game,LefTeam,Toad,Toad,6,15,,,,,Jean Kervella,Valentin Bourrelier,Adriaan Van Gerven,Toan Pauwels
+Group Stage,Open,Group F,4,Single game,Loire Roundnet,Seb à la frite,Loire Roundnet,15,12,,,,,Hugo Thuilliez,Matthieu Fleuriault,Sébastien Lefèvre,corentin chambost
+Group Stage,Open,Group G,4,Single game,Derby … TOU-LOU-SAIN !!!!,Les Praid’z,Derby … TOU-LOU-SAIN !!!!,15,11,,,,,Alec Gautier,Guillaume Guébin,Robin Villard,côme stephant
+Group Stage,Open,Group G,4,Single game,Roundnet Anti Fasciste,CRASH & REHAB 2,CRASH & REHAB 2,16,18,,,,,William Combe,quentin henry,Julien Boquillon,Jérémie TRAORE
+Group Stage,Open,Group H,4,Single game,Quijou ou Quichou,Pas cléments du tout,Pas cléments du tout,13,15,,,,,Matthieu Bertho,Guillaume Boisseau,Matthieu Garrigue,Clément Chassant
+Group Stage,Open,Group A,5,Single game,Cut killer,Les Intermédiaires,Cut killer,15,10,,,,,Maxime Cadiou,Valentin Lanchas,Mathieu Laborde,ANTOINE Fraizier
+Group Stage,Open,Group A,5,Single game,Bacchus e benessere,Théo dans le classement,Bacchus e benessere,15,8,,,,,luc beltrando,Louen Previtali,Théophile Danzanvilliers,MAYE Theo
+Group Stage,Open,Group B,5,Single game,Machines de Nantes,Spiky blinders,Machines de Nantes,15,7,,,,,Antoine Lemercier,Matthieu Deux,Clément Moutton,Johan Poussier
+Group Stage,Open,Group B,5,Single game,Rouen'carnage,Raclette et crustacés,Rouen'carnage,15,12,,,,,Antoine .R,Camille BRUMENT,Thomas Hostin,Léo Habauzit
+Group Stage,Open,Group C,5,Single game,Em'mental,Aveyrun 🐅,Em'mental,15,13,,,,,Antoine Wasselin,Paul-Victor Macron,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE
+Group Stage,Open,Group D,5,Single game,Vicious Circle,Barbecue,Vicious Circle,15,7,,,,,Antoine Devaud,Simon Chervin,Vincent SIRVIN,Maxime Pitault
+Group Stage,Open,Group D,5,Single game,Roundnet Tourléans,BAaaaaaAA,Roundnet Tourléans,15,10,,,,,Luc Tremsal,Geoffrey Cheneau,Fabian Hofacker,Benjamin Blin
+Group Stage,Open,Group E,5,Single game,Les Chat’ & Cut,Juego Bonito,Les Chat’ & Cut,15,12,,,,,Tom Callen,Alexis Sécher,Gabin Vielescot,Mathis Williame
+Group Stage,Open,Group E,5,Single game,Zougoula,Les Capucinois,Zougoula,17,16,,,,,léo boulay,Tom Boulay,Jean-Baptiste Tanguy,Florian Le Roy
+Group Stage,Open,Group F,5,Single game,LefTeam,Seb à la frite,LefTeam,15,12,,,,,Jean Kervella,Valentin Bourrelier,Sébastien Lefèvre,corentin chambost
+Group Stage,Open,Group F,5,Single game,Loire Roundnet,Toad,Loire Roundnet,17,16,,,,,Hugo Thuilliez,Matthieu Fleuriault,Adriaan Van Gerven,Toan Pauwels
+Group Stage,Open,Group G,5,Single game,Derby … TOU-LOU-SAIN !!!!,CRASH & REHAB 2,CRASH & REHAB 2,12,15,,,,,Alec Gautier,Guillaume Guébin,Julien Boquillon,Jérémie TRAORE
+Group Stage,Open,Group G,5,Single game,Roundnet Anti Fasciste,Les Praid’z,Roundnet Anti Fasciste,15,11,,,,,William Combe,quentin henry,Robin Villard,côme stephant
+Group Stage,Open,Group H,5,Single game,Quijou ou Quichou,Ju et Sev,Quijou ou Quichou,15,11,,,,,Matthieu Bertho,Guillaume Boisseau,Severin Labit,Chuniaud julien
+Group Stage,Open,Group A,6,Single game,Cut killer,Bacchus e benessere,Bacchus e benessere,12,15,,,,,Maxime Cadiou,Valentin Lanchas,luc beltrando,Louen Previtali
+Group Stage,Open,Group A,6,Single game,Les Intermédiaires,Théo dans le classement,Les Intermédiaires,15,10,,,,,Mathieu Laborde,ANTOINE Fraizier,Théophile Danzanvilliers,MAYE Theo
+Group Stage,Open,Group B,6,Single game,Machines de Nantes,Rouen'carnage,Rouen'carnage,14,16,,,,,Antoine Lemercier,Matthieu Deux,Antoine .R,Camille BRUMENT
+Group Stage,Open,Group B,6,Single game,Spiky blinders,Raclette et crustacés,Spiky blinders,15,6,,,,,Clément Moutton,Johan Poussier,Thomas Hostin,Léo Habauzit
+Group Stage,Open,Group C,6,Single game,Aveyrun 🐅,Fumar Mata,Aveyrun 🐅,15,13,,,,,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE,Jérémie Bourgeois,Maxime DESVALLÉES
+Group Stage,Open,Group D,6,Single game,Vicious Circle,Roundnet Tourléans,Vicious Circle,17,15,,,,,Antoine Devaud,Simon Chervin,Luc Tremsal,Geoffrey Cheneau
+Group Stage,Open,Group D,6,Single game,Barbecue,BAaaaaaAA,Barbecue,15,10,,,,,Vincent SIRVIN,Maxime Pitault,Fabian Hofacker,Benjamin Blin
+Group Stage,Open,Group E,6,Single game,Les Chat’ & Cut,Zougoula,Les Chat’ & Cut,17,15,,,,,Tom Callen,Alexis Sécher,léo boulay,Tom Boulay
+Group Stage,Open,Group E,6,Single game,Juego Bonito,Les Capucinois,Juego Bonito,16,14,,,,,Gabin Vielescot,Mathis Williame,Jean-Baptiste Tanguy,Florian Le Roy
+Group Stage,Open,Group F,6,Single game,LefTeam,Loire Roundnet,LefTeam,17,16,,,,,Jean Kervella,Valentin Bourrelier,Hugo Thuilliez,Matthieu Fleuriault
+Group Stage,Open,Group F,6,Single game,Seb à la frite,Toad,Seb à la frite,16,14,,,,,Sébastien Lefèvre,corentin chambost,Adriaan Van Gerven,Toan Pauwels
+Group Stage,Open,Group G,6,Single game,Derby … TOU-LOU-SAIN !!!!,Roundnet Anti Fasciste,Roundnet Anti Fasciste,12,15,,,,,Alec Gautier,Guillaume Guébin,William Combe,quentin henry
+Group Stage,Open,Group G,6,Single game,CRASH & REHAB 2,Les Praid’z,Les Praid’z,10,15,,,,,Julien Boquillon,Jérémie TRAORE,Robin Villard,côme stephant
+Group Stage,Open,Group H,6,Single game,Ju et Sev,Pas cléments du tout,Ju et Sev,15,11,,,,,Severin Labit,Chuniaud julien,Matthieu Garrigue,Clément Chassant
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Bacchus e benessere,Raclette et crustacés,Bacchus e benessere,15,10,15,11,,,luc beltrando,Louen Previtali,Thomas Hostin,Léo Habauzit
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Machines de Nantes,Fumar Mata,Machines de Nantes,15,11,17,15,,,Antoine Lemercier,Matthieu Deux,Jérémie Bourgeois,Maxime DESVALLÉES
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Les Chat’ & Cut,Théo dans le classement,Les Chat’ & Cut,15,12,15,6,,,Tom Callen,Alexis Sécher,Théophile Danzanvilliers,MAYE Theo
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Rouen'carnage,BAaaaaaAA,Rouen'carnage,15,12,15,10,,,Antoine .R,Camille BRUMENT,Fabian Hofacker,Benjamin Blin
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Loire Roundnet,Les Capucinois,Loire Roundnet,15,13,17,15,,,Hugo Thuilliez,Matthieu Fleuriault,Jean-Baptiste Tanguy,Florian Le Roy
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Quijou ou Quichou,Toad,Quijou ou Quichou,18,16,15,12,,,Matthieu Bertho,Guillaume Boisseau,Adriaan Van Gerven,Toan Pauwels
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,CRASH & REHAB 2,Pas cléments du tout,CRASH & REHAB 2,15,13,12,15,16,14,Julien Boquillon,Jérémie TRAORE,Matthieu Garrigue,Clément Chassant
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Zougoula,Barbecue,Barbecue,15,11,4,15,16,18,léo boulay,Tom Boulay,Vincent SIRVIN,Maxime Pitault
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Cut killer,Derby … TOU-LOU-SAIN !!!!,Cut killer,15,9,13,15,24,22,Maxime Cadiou,Valentin Lanchas,Alec Gautier,Guillaume Guébin
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Roundnet Tourléans,Juego Bonito,Roundnet Tourléans,15,13,15,13,,,Luc Tremsal,Geoffrey Cheneau,Gabin Vielescot,Mathis Williame
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Les Praid’z,Spiky blinders,Les Praid’z,18,16,15,7,,,Robin Villard,côme stephant,Clément Moutton,Johan Poussier
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Aveyrun 🐅,LefTeam,LefTeam,9,15,11,15,,,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE,Jean Kervella,Valentin Bourrelier
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Ju et Sev,Les Intermédiaires,Ju et Sev,5,15,15,13,15,12,Severin Labit,Chuniaud julien,Mathieu Laborde,ANTOINE Fraizier
+Bracket Stage,Open,Bracket A,Round of 32,Best of 3,Roundnet Anti Fasciste,Seb à la frite,Seb à la frite,0,1,0,1,,,William Combe,quentin henry,Sébastien Lefèvre,corentin chambost
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Vicious Circle,Seb à la frite,Vicious Circle,15,11,15,13,,,Antoine Devaud,Simon Chervin,Sébastien Lefèvre,corentin chambost
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Em'mental,Ju et Sev,Em'mental,15,7,15,12,,,Antoine Wasselin,Paul-Victor Macron,Severin Labit,Chuniaud julien
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Bacchus e benessere,LefTeam,LefTeam,13,15,10,15,,,luc beltrando,Louen Previtali,Jean Kervella,Valentin Bourrelier
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Machines de Nantes,Les Praid’z,Les Praid’z,15,17,13,15,,,Antoine Lemercier,Matthieu Deux,Robin Villard,côme stephant
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Les Chat’ & Cut,Roundnet Tourléans,Roundnet Tourléans,15,8,11,15,11,15,Tom Callen,Alexis Sécher,Luc Tremsal,Geoffrey Cheneau
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Rouen'carnage,Cut killer,Cut killer,14,16,21,20,13,15,Antoine .R,Camille BRUMENT,Maxime Cadiou,Valentin Lanchas
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Loire Roundnet,Barbecue,Loire Roundnet,13,15,15,9,15,12,Hugo Thuilliez,Matthieu Fleuriault,Vincent SIRVIN,Maxime Pitault
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Quijou ou Quichou,CRASH & REHAB 2,Quijou ou Quichou,16,14,10,15,16,14,Matthieu Bertho,Guillaume Boisseau,Julien Boquillon,Jérémie TRAORE
+Bracket Stage,Open,Bracket A,P17: Round of 16,Best of 3,Aveyrun 🐅,Raclette et crustacés,Aveyrun 🐅,15,13,15,11,,,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE,Thomas Hostin,Léo Habauzit
+Bracket Stage,Open,Bracket A,P17: Round of 16,Best of 3,Spiky blinders,Fumar Mata,Spiky blinders,15,10,15,13,,,Clément Moutton,Johan Poussier,Jérémie Bourgeois,Maxime DESVALLÉES
+Bracket Stage,Open,Bracket A,P17: Round of 16,Best of 3,Juego Bonito,Théo dans le classement,Théo dans le classement,12,15,13,15,,,Gabin Vielescot,Mathis Williame,Théophile Danzanvilliers,MAYE Theo
+Bracket Stage,Open,Bracket A,P17: Round of 16,Best of 3,Derby … TOU-LOU-SAIN !!!!,BAaaaaaAA,Derby … TOU-LOU-SAIN !!!!,17,15,15,10,,,Alec Gautier,Guillaume Guébin,Fabian Hofacker,Benjamin Blin
+Bracket Stage,Open,Bracket A,P17: Round of 16,Best of 3,Zougoula,Les Capucinois,Zougoula,15,8,15,13,,,léo boulay,Tom Boulay,Jean-Baptiste Tanguy,Florian Le Roy
+Bracket Stage,Open,Bracket A,P17: Round of 16,Best of 3,Pas cléments du tout,Toad,Toad,16,14,8,15,10,15,Matthieu Garrigue,Clément Chassant,Adriaan Van Gerven,Toan Pauwels
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Vicious Circle,Quijou ou Quichou,Vicious Circle,21,14,21,13,,,Antoine Devaud,Simon Chervin,Matthieu Bertho,Guillaume Boisseau
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Em'mental,Loire Roundnet,Em'mental,21,16,21,17,,,Antoine Wasselin,Paul-Victor Macron,Hugo Thuilliez,Matthieu Fleuriault
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,LefTeam,Cut killer,LefTeam,15,11,15,11,,,Jean Kervella,Valentin Bourrelier,Maxime Cadiou,Valentin Lanchas
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Les Praid’z,Roundnet Tourléans,Roundnet Tourléans,11,15,10,15,,,Robin Villard,côme stephant,Luc Tremsal,Geoffrey Cheneau
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,CRASH & REHAB 2,Seb à la frite,Seb à la frite,10,15,11,15,,,Julien Boquillon,Jérémie TRAORE,Sébastien Lefèvre,corentin chambost
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Barbecue,Ju et Sev,Ju et Sev,12,15,10,15,,,Vincent SIRVIN,Maxime Pitault,Severin Labit,Chuniaud julien
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Rouen'carnage,Bacchus e benessere,Bacchus e benessere,9,15,15,13,11,15,Antoine .R,Camille BRUMENT,luc beltrando,Louen Previtali
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,Les Chat’ & Cut,Machines de Nantes,Machines de Nantes,11,15,8,15,,,Tom Callen,Alexis Sécher,Antoine Lemercier,Matthieu Deux
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,Roundnet Anti Fasciste,Toad,Toad,0,15,0,15,,,William Combe,quentin henry,Adriaan Van Gerven,Toan Pauwels
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,Les Intermédiaires,Zougoula,Les Intermédiaires,15,12,21,20,,,Mathieu Laborde,ANTOINE Fraizier,léo boulay,Tom Boulay
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,Aveyrun 🐅,Derby … TOU-LOU-SAIN !!!!,Aveyrun 🐅,17,15,15,9,,,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE,Alec Gautier,Guillaume Guébin
+Bracket Stage,Open,Bracket A,P17: Quarter-final,Best of 3,Spiky blinders,Théo dans le classement,Spiky blinders,15,7,7,15,15,13,Clément Moutton,Johan Poussier,Théophile Danzanvilliers,MAYE Theo
+Bracket Stage,Open,Bracket A,P25: Quarter-final,Best of 3,BAaaaaaAA,Raclette et crustacés,BAaaaaaAA,15,13,15,17,15,12,Fabian Hofacker,Benjamin Blin,Thomas Hostin,Léo Habauzit
+Bracket Stage,Open,Bracket A,P25: Quarter-final,Best of 3,Juego Bonito,Fumar Mata,Fumar Mata,13,15,15,13,19,21,Gabin Vielescot,Mathis Williame,Jérémie Bourgeois,Maxime DESVALLÉES
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Vicious Circle,Roundnet Tourléans,Vicious Circle,0,1,1,0,1,0,Antoine Devaud,Simon Chervin,Luc Tremsal,Geoffrey Cheneau
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Em'mental,LefTeam,Em'mental,15,13,15,11,,,Antoine Wasselin,Paul-Victor Macron,Jean Kervella,Valentin Bourrelier
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Les Praid’z,Quijou ou Quichou,Les Praid’z,16,14,17,15,,,Robin Villard,côme stephant,Matthieu Bertho,Guillaume Boisseau
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Cut killer,Loire Roundnet,Loire Roundnet,20,21,12,15,,,Maxime Cadiou,Valentin Lanchas,Hugo Thuilliez,Matthieu Fleuriault
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,Seb à la frite,Machines de Nantes,Seb à la frite,17,15,19,17,,,Sébastien Lefèvre,corentin chambost,Antoine Lemercier,Matthieu Deux
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,Ju et Sev,Bacchus e benessere,Bacchus e benessere,11,15,14,16,,,Severin Labit,Chuniaud julien,luc beltrando,Louen Previtali
+Bracket Stage,Open,Bracket A,P13: Semi-final,Best of 3,Les Chat’ & Cut,CRASH & REHAB 2,Les Chat’ & Cut,15,12,15,12,,,Tom Callen,Alexis Sécher,Julien Boquillon,Jérémie TRAORE
+Bracket Stage,Open,Bracket A,P13: Semi-final,Best of 3,Rouen'carnage,Barbecue,Rouen'carnage,15,12,15,12,,,Antoine .R,Camille BRUMENT,Vincent SIRVIN,Maxime Pitault
+Bracket Stage,Open,Bracket A,P17: Semi-final,Best of 3,Toad,Spiky blinders,Toad,15,12,15,10,,,Adriaan Van Gerven,Toan Pauwels,Clément Moutton,Johan Poussier
+Bracket Stage,Open,Bracket A,P17: Semi-final,Best of 3,Les Intermédiaires,Aveyrun 🐅,Les Intermédiaires,15,11,17,15,,,Mathieu Laborde,ANTOINE Fraizier,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE
+Bracket Stage,Open,Bracket A,P21: Semi-final,Best of 3,Théo dans le classement,Roundnet Anti Fasciste,Théo dans le classement,15,0,15,0,,,Théophile Danzanvilliers,MAYE Theo,William Combe,quentin henry
+Bracket Stage,Open,Bracket A,P21: Semi-final,Best of 3,Derby … TOU-LOU-SAIN !!!!,Zougoula,Derby … TOU-LOU-SAIN !!!!,15,12,12,15,15,12,Alec Gautier,Guillaume Guébin,léo boulay,Tom Boulay
+Bracket Stage,Open,Bracket A,P25: Semi-final,Best of 3,Pas cléments du tout,Fumar Mata,Fumar Mata,13,15,13,15,,,Matthieu Garrigue,Clément Chassant,Jérémie Bourgeois,Maxime DESVALLÉES
+Bracket Stage,Open,Bracket A,P25: Semi-final,Best of 3,Les Capucinois,BAaaaaaAA,BAaaaaaAA,13,15,13,15,,,Jean-Baptiste Tanguy,Florian Le Roy,Fabian Hofacker,Benjamin Blin
+Bracket Stage,Open,Bracket A,Final,Best of 3,Vicious Circle,Em'mental,Em'mental,21,15,16,21,18,21,Antoine Devaud,Simon Chervin,Antoine Wasselin,Paul-Victor Macron
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,LefTeam,Roundnet Tourléans,LefTeam,21,9,18,21,21,19,Jean Kervella,Valentin Bourrelier,Luc Tremsal,Geoffrey Cheneau
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,Les Praid’z,Loire Roundnet,Loire Roundnet,8,15,20,21,,,Robin Villard,côme stephant,Hugo Thuilliez,Matthieu Fleuriault
+Bracket Stage,Open,Bracket A,P7: Final,Best of 3,Cut killer,Quijou ou Quichou,Quijou ou Quichou,0,1,0,1,,,Maxime Cadiou,Valentin Lanchas,Matthieu Bertho,Guillaume Boisseau
+Bracket Stage,Open,Bracket A,P9: Final,Best of 3,Seb à la frite,Bacchus e benessere,Bacchus e benessere,13,15,14,16,,,Sébastien Lefèvre,corentin chambost,luc beltrando,Louen Previtali
+Bracket Stage,Open,Bracket A,P11: Final,Best of 3,Ju et Sev,Machines de Nantes,Machines de Nantes,11,15,15,17,,,Severin Labit,Chuniaud julien,Antoine Lemercier,Matthieu Deux
+Bracket Stage,Open,Bracket A,P13: Final,Best of 3,Les Chat’ & Cut,Rouen'carnage,Les Chat’ & Cut,15,13,15,13,,,Tom Callen,Alexis Sécher,Antoine .R,Camille BRUMENT
+Bracket Stage,Open,Bracket A,P15: Final,Best of 3,Barbecue,CRASH & REHAB 2,Barbecue,1,0,1,0,,,Vincent SIRVIN,Maxime Pitault,Julien Boquillon,Jérémie TRAORE
+Bracket Stage,Open,Bracket A,P17: Final,Best of 3,Toad,Les Intermédiaires,Toad,1,0,0,1,1,0,Adriaan Van Gerven,Toan Pauwels,Mathieu Laborde,ANTOINE Fraizier
+Bracket Stage,Open,Bracket A,P19: Final,Best of 3,Aveyrun 🐅,Spiky blinders,Spiky blinders,12,15,15,12,12,15,Guillaume Rauffet,Paul-etienne BERNARD-PLANESSE,Clément Moutton,Johan Poussier
+Bracket Stage,Open,Bracket A,P21: Final,Best of 3,Théo dans le classement,Derby … TOU-LOU-SAIN !!!!,Derby … TOU-LOU-SAIN !!!!,10,15,15,10,10,15,Théophile Danzanvilliers,MAYE Theo,Alec Gautier,Guillaume Guébin
+Bracket Stage,Open,Bracket A,P23: Final,Best of 3,Zougoula,Roundnet Anti Fasciste,Zougoula,1,0,1,0,,,léo boulay,Tom Boulay,William Combe,quentin henry
+Bracket Stage,Open,Bracket A,P25: Final,Best of 3,Fumar Mata,BAaaaaaAA,BAaaaaaAA,12,15,12,15,,,Jérémie Bourgeois,Maxime DESVALLÉES,Fabian Hofacker,Benjamin Blin
+Bracket Stage,Open,Bracket A,P27: Final,Best of 3,Les Capucinois,Pas cléments du tout,Les Capucinois,15,12,8,12,15,13,Jean-Baptiste Tanguy,Florian Le Roy,Matthieu Garrigue,Clément Chassant
+Bracket Stage,Open,Bracket A,P29: Final,Best of 3,Juego Bonito,Raclette et crustacés,Raclette et crustacés,14,16,15,7,9,15,Gabin Vielescot,Mathis Williame,Thomas Hostin,Léo Habauzit
+Group Stage,Open Intermediate,Group A,1,Single game,Ego Flick,CRC Tom & Romain,Ego Flick,15,9,,,,,Clément Bouhourd,Quentin Rouhier,Romain Guerin,Tom André
+Group Stage,Open Intermediate,Group A,1,Single game,Les inconnus,Failures,Les inconnus,15,13,,,,,Antoine Halphen,Baptiste BESSON,Damien Bourgeois,Mouad Berrehal
+Group Stage,Open Intermediate,Group B,1,Single game,Les Gabelous,CRC LéoLy,Les Gabelous,15,3,,,,,Gabriel Viala,Louis Feller,Wolf Léonie,Lydia Guerin
+Group Stage,Open Intermediate,Group B,1,Single game,Manchette,Les bincheurs,Manchette,15,8,,,,,Victor LAUNAY,Adrien Mary,Clément Garbe,Pierre Portal
+Group Stage,Open Intermediate,Group C,1,Single game,B&M,Gr49,B&M,15,6,,,,,Benjamin Hay,Matthieu Crupel,Célien Sc,Clément BOURNIGAUD
+Group Stage,Open Intermediate,Group D,1,Single game,Bercy Beau Cul,The Lose Brothers,Bercy Beau Cul,15,9,,,,,Jeremy Corgnet,Alexandre Allain,Gabin Rolland,Joris Melgar
+Group Stage,Open Intermediate,Group D,1,Single game,Kouign-A-Spike,Les Petites Frappes,Les Petites Frappes,11,15,,,,,Alexis Thomas,Jahan Carperan,Arthur Vignais,Benjamin  De La Fournière
+Group Stage,Open Intermediate,Group E,1,Single game,French Fries,Pinch&Binch,French Fries,15,12,,,,,Louis Sicot,Gautier Pollet-Villard,Victor Cipel,Gwendal Decourchelle
+Group Stage,Open Intermediate,Group F,1,Single game,Quick et Flupke,Lords Ezalman,Quick et Flupke,15,7,,,,,Paul Souche,Antoine Vinck,Thomas Oriol,Kevin Dourgaparsad
+Group Stage,Open Intermediate,Group F,1,Single game,ZeRo Flick,LesChiChi,ZeRo Flick,15,6,,,,,Romain Pineau,Zeffiro Soldi,Thomas De chillaz,aymeric de chillaz
+Group Stage,Open Intermediate,Group G,1,Single game,Castors senior,Le relais rouennais,Le relais rouennais,12,15,,,,,Didier Franque,Philippe Haas,Jules Fougere,Julien ALLEGRE
+Group Stage,Open Intermediate,Group G,1,Single game,GRNA - イナズマツ－,Team Dell'Arte,GRNA - イナズマツ－,15,13,,,,,Leo Samy Ferrao,Enzo Samy Ferrao,Louis Delort,Rémi Mazars
+Group Stage,Open Intermediate,Group H,1,Single game,La salade de la truffade,CRC Könige,La salade de la truffade,15,4,,,,,Florian Pernollet,Vianney Couturier,Helene König,Martin Jeanne
+Group Stage,Open Intermediate,Group H,1,Single game,Avignoun's Popes,STAPS,Avignoun's Popes,15,9,,,,,Billaud William,Romain Cohen,Antoine Bourion,Charly Lenormand
+Group Stage,Open Intermediate,Group I,1,Single game,Les Doubtfire,Kitho double,Les Doubtfire,15,12,,,,,William CAIN-ROSSOW,Robin Richard,Kilian Runavot,Thomas Morandeau
+Group Stage,Open Intermediate,Group I,1,Single game,1 grand 1 petit,Province Connexion,1 grand 1 petit,15,6,,,,,Samuel Chaput,Raphael AUTERNAUD,Alex De-sa,Valette Benjamin
+Group Stage,Open Intermediate,Group J,1,Single game,Pro-Fit-Raul,OnePunchSpike,Pro-Fit-Raul,15,12,,,,,Paul Duverny,Robin Laclare,Kilian Le Breton,Mélann Maes
+Group Stage,Open Intermediate,Group J,1,Single game,Paris-Bruxelles,Random team,Paris-Bruxelles,15,7,,,,,Nathan Colle,Swan Delplanque,Antoine  Brusson,Matthieu Gueulle
+Group Stage,Open Intermediate,Group A,2,Single game,Ego Flick,Failures,Ego Flick,15,8,,,,,Clément Bouhourd,Quentin Rouhier,Damien Bourgeois,Mouad Berrehal
+Group Stage,Open Intermediate,Group A,2,Single game,Les inconnus,CRC Tom & Romain,CRC Tom & Romain,8,15,,,,,Antoine Halphen,Baptiste BESSON,Romain Guerin,Tom André
+Group Stage,Open Intermediate,Group B,2,Single game,Les Gabelous,Les bincheurs,Les Gabelous,15,6,,,,,Gabriel Viala,Louis Feller,Clément Garbe,Pierre Portal
+Group Stage,Open Intermediate,Group B,2,Single game,Manchette,CRC LéoLy,Manchette,15,4,,,,,Victor LAUNAY,Adrien Mary,Wolf Léonie,Lydia Guerin
+Group Stage,Open Intermediate,Group C,2,Single game,B&M,Net Flicks,Net Flicks,8,15,,,,,Benjamin Hay,Matthieu Crupel,Clarice Moulin,Guillaume Cavaro
+Group Stage,Open Intermediate,Group D,2,Single game,Bercy Beau Cul,Les Petites Frappes,Les Petites Frappes,8,15,,,,,Jeremy Corgnet,Alexandre Allain,Arthur Vignais,Benjamin  De La Fournière
+Group Stage,Open Intermediate,Group D,2,Single game,Kouign-A-Spike,The Lose Brothers,The Lose Brothers,11,15,,,,,Alexis Thomas,Jahan Carperan,Gabin Rolland,Joris Melgar
+Group Stage,Open Intermediate,Group E,2,Single game,French Fries,JUAN SOUPAR,French Fries,15,6,,,,,Louis Sicot,Gautier Pollet-Villard,Julien Paris,Anthony Souchon
+Group Stage,Open Intermediate,Group F,2,Single game,Quick et Flupke,LesChiChi,Quick et Flupke,15,5,,,,,Paul Souche,Antoine Vinck,Thomas De chillaz,aymeric de chillaz
+Group Stage,Open Intermediate,Group F,2,Single game,ZeRo Flick,Lords Ezalman,ZeRo Flick,15,11,,,,,Romain Pineau,Zeffiro Soldi,Thomas Oriol,Kevin Dourgaparsad
+Group Stage,Open Intermediate,Group G,2,Single game,Castors senior,Team Dell'Arte,Castors senior,17,15,,,,,Didier Franque,Philippe Haas,Louis Delort,Rémi Mazars
+Group Stage,Open Intermediate,Group G,2,Single game,GRNA - イナズマツ－,Le relais rouennais,GRNA - イナズマツ－,15,13,,,,,Leo Samy Ferrao,Enzo Samy Ferrao,Jules Fougere,Julien ALLEGRE
+Group Stage,Open Intermediate,Group H,2,Single game,La salade de la truffade,STAPS,La salade de la truffade,15,9,,,,,Florian Pernollet,Vianney Couturier,Antoine Bourion,Charly Lenormand
+Group Stage,Open Intermediate,Group H,2,Single game,Avignoun's Popes,CRC Könige,Avignoun's Popes,15,9,,,,,Billaud William,Romain Cohen,Helene König,Martin Jeanne
+Group Stage,Open Intermediate,Group I,2,Single game,Les Doubtfire,Province Connexion,Les Doubtfire,15,9,,,,,William CAIN-ROSSOW,Robin Richard,Alex De-sa,Valette Benjamin
+Group Stage,Open Intermediate,Group I,2,Single game,1 grand 1 petit,Kitho double,1 grand 1 petit,15,10,,,,,Samuel Chaput,Raphael AUTERNAUD,Kilian Runavot,Thomas Morandeau
+Group Stage,Open Intermediate,Group J,2,Single game,Pro-Fit-Raul,Random team,Pro-Fit-Raul,15,8,,,,,Paul Duverny,Robin Laclare,Antoine  Brusson,Matthieu Gueulle
+Group Stage,Open Intermediate,Group J,2,Single game,Paris-Bruxelles,OnePunchSpike,Paris-Bruxelles,15,6,,,,,Nathan Colle,Swan Delplanque,Kilian Le Breton,Mélann Maes
+Group Stage,Open Intermediate,Group A,3,Single game,Ego Flick,Les inconnus,Ego Flick,15,6,,,,,Clément Bouhourd,Quentin Rouhier,Antoine Halphen,Baptiste BESSON
+Group Stage,Open Intermediate,Group A,3,Single game,Failures,CRC Tom & Romain,Failures,15,8,,,,,Damien Bourgeois,Mouad Berrehal,Romain Guerin,Tom André
+Group Stage,Open Intermediate,Group B,3,Single game,Les Gabelous,Manchette,Manchette,9,15,,,,,Gabriel Viala,Louis Feller,Victor LAUNAY,Adrien Mary
+Group Stage,Open Intermediate,Group B,3,Single game,Les bincheurs,CRC LéoLy,Les bincheurs,15,8,,,,,Clément Garbe,Pierre Portal,Wolf Léonie,Lydia Guerin
+Group Stage,Open Intermediate,Group C,3,Single game,Net Flicks,Gr49,Net Flicks,15,8,,,,,Clarice Moulin,Guillaume Cavaro,Célien Sc,Clément BOURNIGAUD
+Group Stage,Open Intermediate,Group D,3,Single game,Bercy Beau Cul,Kouign-A-Spike,Bercy Beau Cul,15,9,,,,,Jeremy Corgnet,Alexandre Allain,Alexis Thomas,Jahan Carperan
+Group Stage,Open Intermediate,Group D,3,Single game,Les Petites Frappes,The Lose Brothers,The Lose Brothers,9,15,,,,,Arthur Vignais,Benjamin  De La Fournière,Gabin Rolland,Joris Melgar
+Group Stage,Open Intermediate,Group E,3,Single game,JUAN SOUPAR,Pinch&Binch,Pinch&Binch,16,17,,,,,Julien Paris,Anthony Souchon,Victor Cipel,Gwendal Decourchelle
+Group Stage,Open Intermediate,Group F,3,Single game,Quick et Flupke,ZeRo Flick,Quick et Flupke,17,16,,,,,Paul Souche,Antoine Vinck,Romain Pineau,Zeffiro Soldi
+Group Stage,Open Intermediate,Group F,3,Single game,LesChiChi,Lords Ezalman,Lords Ezalman,11,15,,,,,Thomas De chillaz,aymeric de chillaz,Thomas Oriol,Kevin Dourgaparsad
+Group Stage,Open Intermediate,Group G,3,Single game,Castors senior,GRNA - イナズマツ－,GRNA - イナズマツ－,11,15,,,,,Didier Franque,Philippe Haas,Leo Samy Ferrao,Enzo Samy Ferrao
+Group Stage,Open Intermediate,Group G,3,Single game,Team Dell'Arte,Le relais rouennais,Le relais rouennais,16,17,,,,,Louis Delort,Rémi Mazars,Jules Fougere,Julien ALLEGRE
+Group Stage,Open Intermediate,Group H,3,Single game,La salade de la truffade,Avignoun's Popes,La salade de la truffade,15,10,,,,,Florian Pernollet,Vianney Couturier,Billaud William,Romain Cohen
+Group Stage,Open Intermediate,Group H,3,Single game,STAPS,CRC Könige,STAPS,15,8,,,,,Antoine Bourion,Charly Lenormand,Helene König,Martin Jeanne
+Group Stage,Open Intermediate,Group I,3,Single game,Les Doubtfire,1 grand 1 petit,1 grand 1 petit,9,15,,,,,William CAIN-ROSSOW,Robin Richard,Samuel Chaput,Raphael AUTERNAUD
+Group Stage,Open Intermediate,Group I,3,Single game,Province Connexion,Kitho double,Kitho double,10,15,,,,,Alex De-sa,Valette Benjamin,Kilian Runavot,Thomas Morandeau
+Group Stage,Open Intermediate,Group J,3,Single game,Pro-Fit-Raul,Paris-Bruxelles,Paris-Bruxelles,9,15,,,,,Paul Duverny,Robin Laclare,Nathan Colle,Swan Delplanque
+Group Stage,Open Intermediate,Group J,3,Single game,Random team,OnePunchSpike,OnePunchSpike,12,15,,,,,Antoine  Brusson,Matthieu Gueulle,Kilian Le Breton,Mélann Maes
+Group Stage,Open Intermediate,Group A,4,Single game,Ego Flick,CRC Tom & Romain,Ego Flick,15,8,,,,,Clément Bouhourd,Quentin Rouhier,Romain Guerin,Tom André
+Group Stage,Open Intermediate,Group A,4,Single game,Les inconnus,Failures,Failures,7,15,,,,,Antoine Halphen,Baptiste BESSON,Damien Bourgeois,Mouad Berrehal
+Group Stage,Open Intermediate,Group B,4,Single game,Les Gabelous,CRC LéoLy,Les Gabelous,15,8,,,,,Gabriel Viala,Louis Feller,Wolf Léonie,Lydia Guerin
+Group Stage,Open Intermediate,Group B,4,Single game,Manchette,Les bincheurs,Manchette,15,5,,,,,Victor LAUNAY,Adrien Mary,Clément Garbe,Pierre Portal
+Group Stage,Open Intermediate,Group C,4,Single game,B&M,Gr49,B&M,15,13,,,,,Benjamin Hay,Matthieu Crupel,Célien Sc,Clément BOURNIGAUD
+Group Stage,Open Intermediate,Group D,4,Single game,Bercy Beau Cul,The Lose Brothers,Bercy Beau Cul,15,9,,,,,Jeremy Corgnet,Alexandre Allain,Gabin Rolland,Joris Melgar
+Group Stage,Open Intermediate,Group D,4,Single game,Kouign-A-Spike,Les Petites Frappes,Les Petites Frappes,16,17,,,,,Alexis Thomas,Jahan Carperan,Arthur Vignais,Benjamin  De La Fournière
+Group Stage,Open Intermediate,Group E,4,Single game,French Fries,Pinch&Binch,French Fries,15,9,,,,,Louis Sicot,Gautier Pollet-Villard,Victor Cipel,Gwendal Decourchelle
+Group Stage,Open Intermediate,Group F,4,Single game,Quick et Flupke,Lords Ezalman,Quick et Flupke,15,6,,,,,Paul Souche,Antoine Vinck,Thomas Oriol,Kevin Dourgaparsad
+Group Stage,Open Intermediate,Group F,4,Single game,ZeRo Flick,LesChiChi,ZeRo Flick,15,9,,,,,Romain Pineau,Zeffiro Soldi,Thomas De chillaz,aymeric de chillaz
+Group Stage,Open Intermediate,Group G,4,Single game,Castors senior,Le relais rouennais,Castors senior,15,11,,,,,Didier Franque,Philippe Haas,Jules Fougere,Julien ALLEGRE
+Group Stage,Open Intermediate,Group G,4,Single game,GRNA - イナズマツ－,Team Dell'Arte,Team Dell'Arte,11,15,,,,,Leo Samy Ferrao,Enzo Samy Ferrao,Louis Delort,Rémi Mazars
+Group Stage,Open Intermediate,Group H,4,Single game,La salade de la truffade,CRC Könige,La salade de la truffade,15,12,,,,,Florian Pernollet,Vianney Couturier,Helene König,Martin Jeanne
+Group Stage,Open Intermediate,Group H,4,Single game,Avignoun's Popes,STAPS,STAPS,11,15,,,,,Billaud William,Romain Cohen,Antoine Bourion,Charly Lenormand
+Group Stage,Open Intermediate,Group I,4,Single game,Les Doubtfire,Kitho double,Kitho double,10,15,,,,,William CAIN-ROSSOW,Robin Richard,Kilian Runavot,Thomas Morandeau
+Group Stage,Open Intermediate,Group I,4,Single game,1 grand 1 petit,Province Connexion,1 grand 1 petit,15,9,,,,,Samuel Chaput,Raphael AUTERNAUD,Alex De-sa,Valette Benjamin
+Group Stage,Open Intermediate,Group J,4,Single game,Pro-Fit-Raul,OnePunchSpike,Pro-Fit-Raul,15,11,,,,,Paul Duverny,Robin Laclare,Kilian Le Breton,Mélann Maes
+Group Stage,Open Intermediate,Group J,4,Single game,Paris-Bruxelles,Random team,Paris-Bruxelles,17,16,,,,,Nathan Colle,Swan Delplanque,Antoine  Brusson,Matthieu Gueulle
+Group Stage,Open Intermediate,Group A,5,Single game,Ego Flick,Failures,Ego Flick,15,5,,,,,Clément Bouhourd,Quentin Rouhier,Damien Bourgeois,Mouad Berrehal
+Group Stage,Open Intermediate,Group A,5,Single game,Les inconnus,CRC Tom & Romain,CRC Tom & Romain,11,15,,,,,Antoine Halphen,Baptiste BESSON,Romain Guerin,Tom André
+Group Stage,Open Intermediate,Group B,5,Single game,Les Gabelous,Les bincheurs,Les Gabelous,15,10,,,,,Gabriel Viala,Louis Feller,Clément Garbe,Pierre Portal
+Group Stage,Open Intermediate,Group B,5,Single game,Manchette,CRC LéoLy,Manchette,15,3,,,,,Victor LAUNAY,Adrien Mary,Wolf Léonie,Lydia Guerin
+Group Stage,Open Intermediate,Group C,5,Single game,B&M,Net Flicks,B&M,15,12,,,,,Benjamin Hay,Matthieu Crupel,Clarice Moulin,Guillaume Cavaro
+Group Stage,Open Intermediate,Group D,5,Single game,Bercy Beau Cul,Les Petites Frappes,Bercy Beau Cul,15,7,,,,,Jeremy Corgnet,Alexandre Allain,Arthur Vignais,Benjamin  De La Fournière
+Group Stage,Open Intermediate,Group D,5,Single game,Kouign-A-Spike,The Lose Brothers,The Lose Brothers,7,15,,,,,Alexis Thomas,Jahan Carperan,Gabin Rolland,Joris Melgar
+Group Stage,Open Intermediate,Group E,5,Single game,French Fries,JUAN SOUPAR,French Fries,15,12,,,,,Louis Sicot,Gautier Pollet-Villard,Julien Paris,Anthony Souchon
+Group Stage,Open Intermediate,Group F,5,Single game,Quick et Flupke,LesChiChi,Quick et Flupke,15,8,,,,,Paul Souche,Antoine Vinck,Thomas De chillaz,aymeric de chillaz
+Group Stage,Open Intermediate,Group F,5,Single game,ZeRo Flick,Lords Ezalman,ZeRo Flick,15,10,,,,,Romain Pineau,Zeffiro Soldi,Thomas Oriol,Kevin Dourgaparsad
+Group Stage,Open Intermediate,Group G,5,Single game,Castors senior,Team Dell'Arte,Castors senior,15,10,,,,,Didier Franque,Philippe Haas,Louis Delort,Rémi Mazars
+Group Stage,Open Intermediate,Group G,5,Single game,GRNA - イナズマツ－,Le relais rouennais,GRNA - イナズマツ－,16,14,,,,,Leo Samy Ferrao,Enzo Samy Ferrao,Jules Fougere,Julien ALLEGRE
+Group Stage,Open Intermediate,Group H,5,Single game,La salade de la truffade,STAPS,La salade de la truffade,15,10,,,,,Florian Pernollet,Vianney Couturier,Antoine Bourion,Charly Lenormand
+Group Stage,Open Intermediate,Group H,5,Single game,Avignoun's Popes,CRC Könige,Avignoun's Popes,15,6,,,,,Billaud William,Romain Cohen,Helene König,Martin Jeanne
+Group Stage,Open Intermediate,Group I,5,Single game,Les Doubtfire,Province Connexion,Province Connexion,13,15,,,,,William CAIN-ROSSOW,Robin Richard,Alex De-sa,Valette Benjamin
+Group Stage,Open Intermediate,Group I,5,Single game,1 grand 1 petit,Kitho double,1 grand 1 petit,15,8,,,,,Samuel Chaput,Raphael AUTERNAUD,Kilian Runavot,Thomas Morandeau
+Group Stage,Open Intermediate,Group J,5,Single game,Pro-Fit-Raul,Random team,Pro-Fit-Raul,15,9,,,,,Paul Duverny,Robin Laclare,Antoine  Brusson,Matthieu Gueulle
+Group Stage,Open Intermediate,Group J,5,Single game,Paris-Bruxelles,OnePunchSpike,Paris-Bruxelles,15,12,,,,,Nathan Colle,Swan Delplanque,Kilian Le Breton,Mélann Maes
+Group Stage,Open Intermediate,Group A,6,Single game,Ego Flick,Les inconnus,Ego Flick,15,6,,,,,Clément Bouhourd,Quentin Rouhier,Antoine Halphen,Baptiste BESSON
+Group Stage,Open Intermediate,Group A,6,Single game,Failures,CRC Tom & Romain,Failures,15,10,,,,,Damien Bourgeois,Mouad Berrehal,Romain Guerin,Tom André
+Group Stage,Open Intermediate,Group B,6,Single game,Les Gabelous,Manchette,Manchette,15,17,,,,,Gabriel Viala,Louis Feller,Victor LAUNAY,Adrien Mary
+Group Stage,Open Intermediate,Group B,6,Single game,Les bincheurs,CRC LéoLy,Les bincheurs,15,7,,,,,Clément Garbe,Pierre Portal,Wolf Léonie,Lydia Guerin
+Group Stage,Open Intermediate,Group C,6,Single game,Net Flicks,Gr49,Net Flicks,15,10,,,,,Clarice Moulin,Guillaume Cavaro,Célien Sc,Clément BOURNIGAUD
+Group Stage,Open Intermediate,Group D,6,Single game,Bercy Beau Cul,Kouign-A-Spike,Bercy Beau Cul,15,10,,,,,Jeremy Corgnet,Alexandre Allain,Alexis Thomas,Jahan Carperan
+Group Stage,Open Intermediate,Group D,6,Single game,Les Petites Frappes,The Lose Brothers,Les Petites Frappes,15,11,,,,,Arthur Vignais,Benjamin  De La Fournière,Gabin Rolland,Joris Melgar
+Group Stage,Open Intermediate,Group E,6,Single game,JUAN SOUPAR,Pinch&Binch,Pinch&Binch,11,15,,,,,Julien Paris,Anthony Souchon,Victor Cipel,Gwendal Decourchelle
+Group Stage,Open Intermediate,Group F,6,Single game,Quick et Flupke,ZeRo Flick,Quick et Flupke,15,13,,,,,Paul Souche,Antoine Vinck,Romain Pineau,Zeffiro Soldi
+Group Stage,Open Intermediate,Group F,6,Single game,LesChiChi,Lords Ezalman,LesChiChi,15,12,,,,,Thomas De chillaz,aymeric de chillaz,Thomas Oriol,Kevin Dourgaparsad
+Group Stage,Open Intermediate,Group G,6,Single game,Castors senior,GRNA - イナズマツ－,GRNA - イナズマツ－,13,15,,,,,Didier Franque,Philippe Haas,Leo Samy Ferrao,Enzo Samy Ferrao
+Group Stage,Open Intermediate,Group G,6,Single game,Team Dell'Arte,Le relais rouennais,Le relais rouennais,12,15,,,,,Louis Delort,Rémi Mazars,Jules Fougere,Julien ALLEGRE
+Group Stage,Open Intermediate,Group H,6,Single game,La salade de la truffade,Avignoun's Popes,La salade de la truffade,15,13,,,,,Florian Pernollet,Vianney Couturier,Billaud William,Romain Cohen
+Group Stage,Open Intermediate,Group H,6,Single game,STAPS,CRC Könige,STAPS,15,6,,,,,Antoine Bourion,Charly Lenormand,Helene König,Martin Jeanne
+Group Stage,Open Intermediate,Group I,6,Single game,Les Doubtfire,1 grand 1 petit,1 grand 1 petit,5,15,,,,,William CAIN-ROSSOW,Robin Richard,Samuel Chaput,Raphael AUTERNAUD
+Group Stage,Open Intermediate,Group I,6,Single game,Province Connexion,Kitho double,Kitho double,9,15,,,,,Alex De-sa,Valette Benjamin,Kilian Runavot,Thomas Morandeau
+Group Stage,Open Intermediate,Group J,6,Single game,Pro-Fit-Raul,Paris-Bruxelles,Pro-Fit-Raul,15,11,,,,,Paul Duverny,Robin Laclare,Nathan Colle,Swan Delplanque
+Group Stage,Open Intermediate,Group J,6,Single game,Random team,OnePunchSpike,OnePunchSpike,9,15,,,,,Antoine  Brusson,Matthieu Gueulle,Kilian Le Breton,Mélann Maes
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Ego Flick,Les inconnus,Ego Flick,15,6,15,6,,,Clément Bouhourd,Quentin Rouhier,Antoine Halphen,Baptiste BESSON
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Manchette,LesChiChi,Manchette,21,15,21,11,,,Victor LAUNAY,Adrien Mary,Thomas De chillaz,aymeric de chillaz
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,1 grand 1 petit,Province Connexion,1 grand 1 petit,15,4,15,10,,,Samuel Chaput,Raphael AUTERNAUD,Alex De-sa,Valette Benjamin
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Quick et Flupke,Lords Ezalman,Quick et Flupke,15,9,15,6,,,Paul Souche,Antoine Vinck,Thomas Oriol,Kevin Dourgaparsad
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,La salade de la truffade,Team Dell'Arte,La salade de la truffade,15,12,15,10,,,Florian Pernollet,Vianney Couturier,Louis Delort,Rémi Mazars
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,French Fries,Les bincheurs,French Fries,15,8,15,8,,,Louis Sicot,Gautier Pollet-Villard,Clément Garbe,Pierre Portal
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Bercy Beau Cul,CRC Tom & Romain,Bercy Beau Cul,15,9,15,9,,,Jeremy Corgnet,Alexandre Allain,Romain Guerin,Tom André
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Paris-Bruxelles,Les Doubtfire,Paris-Bruxelles,15,11,15,11,,,Nathan Colle,Swan Delplanque,William CAIN-ROSSOW,Robin Richard
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Pro-Fit-Raul,OnePunchSpike,OnePunchSpike,11,15,15,8,13,15,Paul Duverny,Robin Laclare,Kilian Le Breton,Mélann Maes
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,GRNA - イナズマツ－,Pinch&Binch,GRNA - イナズマツ－,18,16,13,15,15,11,Leo Samy Ferrao,Enzo Samy Ferrao,Victor Cipel,Gwendal Decourchelle
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Net Flicks,Le relais rouennais,Net Flicks,15,12,15,6,,,Clarice Moulin,Guillaume Cavaro,Jules Fougere,Julien ALLEGRE
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,B&M,Kitho double,B&M,15,10,15,13,,,Benjamin Hay,Matthieu Crupel,Kilian Runavot,Thomas Morandeau
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Les Gabelous,Failures,Failures,7,15,17,15,13,15,Gabriel Viala,Louis Feller,Damien Bourgeois,Mouad Berrehal
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,ZeRo Flick,The Lose Brothers,ZeRo Flick,15,5,15,13,,,Romain Pineau,Zeffiro Soldi,Gabin Rolland,Joris Melgar
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Les Petites Frappes,Castors senior,Les Petites Frappes,15,11,15,13,,,Arthur Vignais,Benjamin  De La Fournière,Didier Franque,Philippe Haas
+Bracket Stage,Open Intermediate,Bracket A,Round of 32,Best of 3,Avignoun's Popes,STAPS,Avignoun's Popes,15,11,15,12,,,Billaud William,Romain Cohen,Antoine Bourion,Charly Lenormand
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Ego Flick,Avignoun's Popes,Ego Flick,15,6,15,11,,,Clément Bouhourd,Quentin Rouhier,Billaud William,Romain Cohen
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Manchette,Les Petites Frappes,Les Petites Frappes,8,15,18,16,7,15,Victor LAUNAY,Adrien Mary,Arthur Vignais,Benjamin  De La Fournière
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,1 grand 1 petit,ZeRo Flick,1 grand 1 petit,17,15,15,9,,,Samuel Chaput,Raphael AUTERNAUD,Romain Pineau,Zeffiro Soldi
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Quick et Flupke,Failures,Quick et Flupke,15,10,15,9,,,Paul Souche,Antoine Vinck,Damien Bourgeois,Mouad Berrehal
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,La salade de la truffade,B&M,La salade de la truffade,10,15,15,13,17,15,Florian Pernollet,Vianney Couturier,Benjamin Hay,Matthieu Crupel
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,French Fries,Net Flicks,Net Flicks,12,15,13,15,,,Louis Sicot,Gautier Pollet-Villard,Clarice Moulin,Guillaume Cavaro
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Bercy Beau Cul,GRNA - イナズマツ－,GRNA - イナズマツ－,6,15,15,11,6,15,Jeremy Corgnet,Alexandre Allain,Leo Samy Ferrao,Enzo Samy Ferrao
+Bracket Stage,Open Intermediate,Bracket A,Round of 16,Best of 3,Paris-Bruxelles,OnePunchSpike,Paris-Bruxelles,15,10,15,13,,,Nathan Colle,Swan Delplanque,Kilian Le Breton,Mélann Maes
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,STAPS,Les inconnus,STAPS,15,11,15,17,15,6,Antoine Bourion,Charly Lenormand,Antoine Halphen,Baptiste BESSON
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,Castors senior,LesChiChi,Castors senior,15,7,15,9,,,Didier Franque,Philippe Haas,Thomas De chillaz,aymeric de chillaz
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,The Lose Brothers,Province Connexion,Province Connexion,12,15,15,12,12,15,Gabin Rolland,Joris Melgar,Alex De-sa,Valette Benjamin
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,Les Gabelous,Lords Ezalman,Les Gabelous,20,18,11,15,15,12,Gabriel Viala,Louis Feller,Thomas Oriol,Kevin Dourgaparsad
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,Kitho double,Team Dell'Arte,Kitho double,12,15,15,6,15,12,Kilian Runavot,Thomas Morandeau,Louis Delort,Rémi Mazars
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,Le relais rouennais,Les bincheurs,Le relais rouennais,15,13,17,15,,,Jules Fougere,Julien ALLEGRE,Clément Garbe,Pierre Portal
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,Pinch&Binch,CRC Tom & Romain,Pinch&Binch,15,9,15,9,,,Victor Cipel,Gwendal Decourchelle,Romain Guerin,Tom André
+Bracket Stage,Open Intermediate,Bracket A,P17: Round of 16,Best of 3,Pro-Fit-Raul,Les Doubtfire,Pro-Fit-Raul,15,13,14,16,15,8,Paul Duverny,Robin Laclare,William CAIN-ROSSOW,Robin Richard
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Ego Flick,Paris-Bruxelles,Ego Flick,21,11,18,21,21,14,Clément Bouhourd,Quentin Rouhier,Nathan Colle,Swan Delplanque
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Les Petites Frappes,GRNA - イナズマツ－,GRNA - イナズマツ－,18,21,12,21,,,Arthur Vignais,Benjamin  De La Fournière,Leo Samy Ferrao,Enzo Samy Ferrao
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,1 grand 1 petit,Net Flicks,1 grand 1 petit,25,24,21,16,,,Samuel Chaput,Raphael AUTERNAUD,Clarice Moulin,Guillaume Cavaro
+Bracket Stage,Open Intermediate,Bracket A,Quarter-final,Best of 3,Quick et Flupke,La salade de la truffade,Quick et Flupke,17,21,21,10,21,12,Paul Souche,Antoine Vinck,Florian Pernollet,Vianney Couturier
+Bracket Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,OnePunchSpike,Avignoun's Popes,Avignoun's Popes,10,15,11,15,,,Kilian Le Breton,Mélann Maes,Billaud William,Romain Cohen
+Bracket Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,Bercy Beau Cul,Manchette,Bercy Beau Cul,15,10,15,13,,,Jeremy Corgnet,Alexandre Allain,Victor LAUNAY,Adrien Mary
+Bracket Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,French Fries,ZeRo Flick,ZeRo Flick,13,15,11,15,,,Louis Sicot,Gautier Pollet-Villard,Romain Pineau,Zeffiro Soldi
+Bracket Stage,Open Intermediate,Bracket A,P9: Quarter-final,Best of 3,B&M,Failures,B&M,15,8,15,8,,,Benjamin Hay,Matthieu Crupel,Damien Bourgeois,Mouad Berrehal
+Bracket Stage,Open Intermediate,Bracket A,P17: Quarter-final,Best of 3,STAPS,Pro-Fit-Raul,Pro-Fit-Raul,8,15,11,15,,,Antoine Bourion,Charly Lenormand,Paul Duverny,Robin Laclare
+Bracket Stage,Open Intermediate,Bracket A,P17: Quarter-final,Best of 3,Castors senior,Pinch&Binch,Pinch&Binch,12,15,11,15,,,Didier Franque,Philippe Haas,Victor Cipel,Gwendal Decourchelle
+Bracket Stage,Open Intermediate,Bracket A,P17: Quarter-final,Best of 3,Province Connexion,Le relais rouennais,Le relais rouennais,12,15,11,15,,,Alex De-sa,Valette Benjamin,Jules Fougere,Julien ALLEGRE
+Bracket Stage,Open Intermediate,Bracket A,P17: Quarter-final,Best of 3,Les Gabelous,Kitho double,Kitho double,13,15,15,10,10,15,Gabriel Viala,Louis Feller,Kilian Runavot,Thomas Morandeau
+Bracket Stage,Open Intermediate,Bracket A,P25: Quarter-final,Best of 3,Les Doubtfire,Les inconnus,Les Doubtfire,15,12,15,13,,,William CAIN-ROSSOW,Robin Richard,Antoine Halphen,Baptiste BESSON
+Bracket Stage,Open Intermediate,Bracket A,P25: Quarter-final,Best of 3,CRC Tom & Romain,LesChiChi,CRC Tom & Romain,21,17,25,24,,,Romain Guerin,Tom André,Thomas De chillaz,aymeric de chillaz
+Bracket Stage,Open Intermediate,Bracket A,P25: Quarter-final,Best of 3,Les bincheurs,The Lose Brothers,Les bincheurs,15,12,15,12,,,Clément Garbe,Pierre Portal,Gabin Rolland,Joris Melgar
+Bracket Stage,Open Intermediate,Bracket A,P25: Quarter-final,Best of 3,Team Dell'Arte,Lords Ezalman,Lords Ezalman,0,1,0,1,,,Louis Delort,Rémi Mazars,Thomas Oriol,Kevin Dourgaparsad
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,Ego Flick,Quick et Flupke,Ego Flick,21,17,17,21,21,17,Clément Bouhourd,Quentin Rouhier,Paul Souche,Antoine Vinck
+Bracket Stage,Open Intermediate,Bracket A,Semi-final,Best of 3,GRNA - イナズマツ－,1 grand 1 petit,GRNA - イナズマツ－,21,18,15,21,23,21,Leo Samy Ferrao,Enzo Samy Ferrao,Samuel Chaput,Raphael AUTERNAUD
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,La salade de la truffade,Paris-Bruxelles,Paris-Bruxelles,19,21,22,24,,,Florian Pernollet,Vianney Couturier,Nathan Colle,Swan Delplanque
+Bracket Stage,Open Intermediate,Bracket A,P5: Semi-final,Best of 3,Net Flicks,Les Petites Frappes,Net Flicks,15,3,15,7,,,Clarice Moulin,Guillaume Cavaro,Arthur Vignais,Benjamin  De La Fournière
+Bracket Stage,Open Intermediate,Bracket A,P9: Semi-final,Best of 3,Avignoun's Popes,B&M,B&M,10,15,15,10,10,15,Billaud William,Romain Cohen,Benjamin Hay,Matthieu Crupel
+Bracket Stage,Open Intermediate,Bracket A,P9: Semi-final,Best of 3,Bercy Beau Cul,ZeRo Flick,ZeRo Flick,15,13,12,15,13,15,Jeremy Corgnet,Alexandre Allain,Romain Pineau,Zeffiro Soldi
+Bracket Stage,Open Intermediate,Bracket A,P13: Semi-final,Best of 3,Failures,OnePunchSpike,OnePunchSpike,0,1,0,1,0,1,Damien Bourgeois,Mouad Berrehal,Kilian Le Breton,Mélann Maes
+Bracket Stage,Open Intermediate,Bracket A,P13: Semi-final,Best of 3,French Fries,Manchette,French Fries,15,6,15,11,,,Louis Sicot,Gautier Pollet-Villard,Victor LAUNAY,Adrien Mary
+Bracket Stage,Open Intermediate,Bracket A,P17: Semi-final,Best of 3,Pro-Fit-Raul,Kitho double,Kitho double,17,19,12,15,,,Paul Duverny,Robin Laclare,Kilian Runavot,Thomas Morandeau
+Bracket Stage,Open Intermediate,Bracket A,P17: Semi-final,Best of 3,Pinch&Binch,Le relais rouennais,Pinch&Binch,15,12,15,11,,,Victor Cipel,Gwendal Decourchelle,Jules Fougere,Julien ALLEGRE
+Bracket Stage,Open Intermediate,Bracket A,P21: Semi-final,Best of 3,Les Gabelous,STAPS,STAPS,11,15,13,15,,,Gabriel Viala,Louis Feller,Antoine Bourion,Charly Lenormand
+Bracket Stage,Open Intermediate,Bracket A,P21: Semi-final,Best of 3,Province Connexion,Castors senior,Castors senior,12,15,13,15,,,Alex De-sa,Valette Benjamin,Didier Franque,Philippe Haas
+Bracket Stage,Open Intermediate,Bracket A,P25: Semi-final,Best of 3,Les Doubtfire,Lords Ezalman,Les Doubtfire,21,16,21,14,,,William CAIN-ROSSOW,Robin Richard,Thomas Oriol,Kevin Dourgaparsad
+Bracket Stage,Open Intermediate,Bracket A,P25: Semi-final,Best of 3,CRC Tom & Romain,Les bincheurs,CRC Tom & Romain,21,19,21,19,,,Romain Guerin,Tom André,Clément Garbe,Pierre Portal
+Bracket Stage,Open Intermediate,Bracket A,P29: Semi-final,Best of 3,Team Dell'Arte,Les inconnus,Les inconnus,0,1,0,1,,,Louis Delort,Rémi Mazars,Antoine Halphen,Baptiste BESSON
+Bracket Stage,Open Intermediate,Bracket A,P29: Semi-final,Best of 3,The Lose Brothers,LesChiChi,The Lose Brothers,18,16,15,12,,,Gabin Rolland,Joris Melgar,Thomas De chillaz,aymeric de chillaz
+Bracket Stage,Open Intermediate,Bracket A,Final,Best of 3,Ego Flick,GRNA - イナズマツ－,Ego Flick,21,11,23,21,,,Clément Bouhourd,Quentin Rouhier,Leo Samy Ferrao,Enzo Samy Ferrao
+Bracket Stage,Open Intermediate,Bracket A,P3: Final,Best of 3,1 grand 1 petit,Quick et Flupke,1 grand 1 petit,16,18,15,12,15,12,Samuel Chaput,Raphael AUTERNAUD,Paul Souche,Antoine Vinck
+Bracket Stage,Open Intermediate,Bracket A,P5: Final,Best of 3,Paris-Bruxelles,Net Flicks,Net Flicks,14,16,8,15,,,Nathan Colle,Swan Delplanque,Clarice Moulin,Guillaume Cavaro
+Bracket Stage,Open Intermediate,Bracket A,P7: Final,Best of 3,Les Petites Frappes,La salade de la truffade,La salade de la truffade,14,16,13,15,,,Arthur Vignais,Benjamin  De La Fournière,Florian Pernollet,Vianney Couturier
+Bracket Stage,Open Intermediate,Bracket A,P9: Final,Best of 3,B&M,ZeRo Flick,ZeRo Flick,15,13,10,15,15,17,Benjamin Hay,Matthieu Crupel,Romain Pineau,Zeffiro Soldi
+Bracket Stage,Open Intermediate,Bracket A,P11: Final,Best of 3,Bercy Beau Cul,Avignoun's Popes,Bercy Beau Cul,15,5,15,11,,,Jeremy Corgnet,Alexandre Allain,Billaud William,Romain Cohen
+Bracket Stage,Open Intermediate,Bracket A,P13: Final,Best of 3,OnePunchSpike,French Fries,French Fries,9,15,6,15,,,Kilian Le Breton,Mélann Maes,Louis Sicot,Gautier Pollet-Villard
+Bracket Stage,Open Intermediate,Bracket A,P15: Final,Best of 3,Manchette,Failures,Manchette,1,0,1,0,,,Victor LAUNAY,Adrien Mary,Damien Bourgeois,Mouad Berrehal
+Bracket Stage,Open Intermediate,Bracket A,P17: Final,Best of 3,Kitho double,Pinch&Binch,Pinch&Binch,11,15,13,15,,,Kilian Runavot,Thomas Morandeau,Victor Cipel,Gwendal Decourchelle
+Bracket Stage,Open Intermediate,Bracket A,P19: Final,Best of 3,Le relais rouennais,Pro-Fit-Raul,Pro-Fit-Raul,9,15,15,11,13,15,Jules Fougere,Julien ALLEGRE,Paul Duverny,Robin Laclare
+Bracket Stage,Open Intermediate,Bracket A,P21: Final,Best of 3,STAPS,Castors senior,Castors senior,14,16,15,13,9,15,Antoine Bourion,Charly Lenormand,Didier Franque,Philippe Haas
+Bracket Stage,Open Intermediate,Bracket A,P23: Final,Best of 3,Province Connexion,Les Gabelous,Province Connexion,15,13,16,14,,,Alex De-sa,Valette Benjamin,Gabriel Viala,Louis Feller
+Bracket Stage,Open Intermediate,Bracket A,P27: Final,Best of 3,Les bincheurs,Lords Ezalman,Les bincheurs,21,18,21,19,,,Clément Garbe,Pierre Portal,Thomas Oriol,Kevin Dourgaparsad
+Bracket Stage,Open Intermediate,Bracket A,P29: Final,Best of 3,Les inconnus,The Lose Brothers,The Lose Brothers,5,15,8,15,,,Antoine Halphen,Baptiste BESSON,Gabin Rolland,Joris Melgar
+Bracket Stage,Open Intermediate,Bracket A,P31: Final,Best of 3,LesChiChi,Team Dell'Arte,Team Dell'Arte,0,1,0,1,,,Thomas De chillaz,aymeric de chillaz,Louis Delort,Rémi Mazars
+poules de classement,Open Intermediate,Group A,1,Best of 3,Random team,Gr49,Gr49,14,16,15,7,13,15,Antoine  Brusson,Matthieu Gueulle,Célien Sc,Clément BOURNIGAUD
+poules de classement,Open Intermediate,Group A,1,Best of 3,JUAN SOUPAR,Kouign-A-Spike,JUAN SOUPAR,12,15,15,10,15,10,Julien Paris,Anthony Souchon,Alexis Thomas,Jahan Carperan
+poules de classement,Open Intermediate,Group A,1,Best of 3,CRC Könige,CRC LéoLy,CRC Könige,15,8,15,10,,,Helene König,Martin Jeanne,Wolf Léonie,Lydia Guerin
+poules de classement,Open Intermediate,Group A,2,Best of 3,Random team,Kouign-A-Spike,Random team,15,12,15,10,,,Antoine  Brusson,Matthieu Gueulle,Alexis Thomas,Jahan Carperan
+poules de classement,Open Intermediate,Group A,2,Best of 3,JUAN SOUPAR,CRC Könige,JUAN SOUPAR,15,13,15,9,,,Julien Paris,Anthony Souchon,Helene König,Martin Jeanne
+poules de classement,Open Intermediate,Group A,2,Best of 3,CRC LéoLy,Gr49,Gr49,4,15,5,15,,,Wolf Léonie,Lydia Guerin,Célien Sc,Clément BOURNIGAUD
+poules de classement,Open Intermediate,Group A,3,Best of 3,Random team,CRC LéoLy,Random team,15,3,15,6,,,Antoine  Brusson,Matthieu Gueulle,Wolf Léonie,Lydia Guerin
+poules de classement,Open Intermediate,Group A,3,Best of 3,JUAN SOUPAR,Gr49,JUAN SOUPAR,16,14,8,15,15,12,Julien Paris,Anthony Souchon,Célien Sc,Clément BOURNIGAUD
+poules de classement,Open Intermediate,Group A,3,Best of 3,CRC Könige,Kouign-A-Spike,Kouign-A-Spike,10,15,12,15,,,Helene König,Martin Jeanne,Alexis Thomas,Jahan Carperan
+poules de classement,Open Intermediate,Group A,4,Best of 3,Random team,CRC Könige,Random team,15,5,15,3,,,Antoine  Brusson,Matthieu Gueulle,Helene König,Martin Jeanne
+poules de classement,Open Intermediate,Group A,4,Best of 3,JUAN SOUPAR,CRC LéoLy,JUAN SOUPAR,15,5,15,8,,,Julien Paris,Anthony Souchon,Wolf Léonie,Lydia Guerin
+poules de classement,Open Intermediate,Group A,4,Best of 3,Kouign-A-Spike,Gr49,Gr49,13,15,10,15,,,Alexis Thomas,Jahan Carperan,Célien Sc,Clément BOURNIGAUD
+poules de classement,Open Intermediate,Group A,5,Best of 3,Random team,JUAN SOUPAR,JUAN SOUPAR,11,15,15,13,13,15,Antoine  Brusson,Matthieu Gueulle,Julien Paris,Anthony Souchon
+poules de classement,Open Intermediate,Group A,5,Best of 3,CRC Könige,Gr49,Gr49,7,15,8,15,,,Helene König,Martin Jeanne,Célien Sc,Clément BOURNIGAUD
+poules de classement,Open Intermediate,Group A,5,Best of 3,CRC LéoLy,Kouign-A-Spike,Kouign-A-Spike,4,15,6,15,,,Wolf Léonie,Lydia Guerin,Alexis Thomas,Jahan Carperan
+Group Stage,Women's Contender,Group A,1,Single game,Blblblblblblblblblblblblblblbl,Laurianna,Blblblblblblblblblblblblblblbl,15,13,,,,,ondine novarese,Vanangamoudiar Liza,Lauriane Zwolinski,Anna Kervoël
+Group Stage,Women's Contender,Group A,1,Single game,Q-Cuteness,Sans forcer 💪,Q-Cuteness,15,12,,,,,Elise Martin,Aurelia Russinger,Marine Thomasson,Emeline Lauzier
+Group Stage,Women's Contender,Group B,1,Single game,Nat&Jade,Ça fait boomball caféw,Nat&Jade,15,6,,,,,Natacha Alt,Jade Lacombe,Julie Espeche-Bernard,Louisiane Lemaire
+Group Stage,Women's Contender,Group B,1,Single game,Très rapidement,Les pralines,Très rapidement,15,9,,,,,Sarah Martinez,Julia Bernard,Hannah Fritz,Marion Deffrasnes
+Group Stage,Women's Contender,Group C,1,Single game,Cucut Minute,Chlaurore,Cucut Minute,14,7,,,,,Anaïs Duport,Valentine Pottez,Aurore Gosselin,Chloe Henningsen
+Group Stage,Women's Contender,Group C,1,Single game,Tbd,Yellow flags,Yellow flags,12,15,,,,,Elena Rossetto,Marie-Alexia Teisseyre,Juliette Dumesnil,Marie Jubault
+Group Stage,Women's Contender,Group A,2,Single game,Blblblblblblblblblblblblblblbl,Sans forcer 💪,Blblblblblblblblblblblblblblbl,15,6,,,,,ondine novarese,Vanangamoudiar Liza,Marine Thomasson,Emeline Lauzier
+Group Stage,Women's Contender,Group A,2,Single game,Q-Cuteness,Laurianna,Q-Cuteness,15,12,,,,,Elise Martin,Aurelia Russinger,Lauriane Zwolinski,Anna Kervoël
+Group Stage,Women's Contender,Group B,2,Single game,Nat&Jade,Les pralines,Nat&Jade,15,7,,,,,Natacha Alt,Jade Lacombe,Hannah Fritz,Marion Deffrasnes
+Group Stage,Women's Contender,Group B,2,Single game,Très rapidement,Ça fait boomball caféw,Très rapidement,15,11,,,,,Sarah Martinez,Julia Bernard,Julie Espeche-Bernard,Louisiane Lemaire
+Group Stage,Women's Contender,Group C,2,Single game,Cucut Minute,Yellow flags,Cucut Minute,15,10,,,,,Anaïs Duport,Valentine Pottez,Juliette Dumesnil,Marie Jubault
+Group Stage,Women's Contender,Group C,2,Single game,Tbd,Chlaurore,Tbd,15,8,,,,,Elena Rossetto,Marie-Alexia Teisseyre,Aurore Gosselin,Chloe Henningsen
+Group Stage,Women's Contender,Group A,3,Single game,Blblblblblblblblblblblblblblbl,Q-Cuteness,Blblblblblblblblblblblblblblbl,15,11,,,,,ondine novarese,Vanangamoudiar Liza,Elise Martin,Aurelia Russinger
+Group Stage,Women's Contender,Group A,3,Single game,Sans forcer 💪,Laurianna,Laurianna,11,15,,,,,Marine Thomasson,Emeline Lauzier,Lauriane Zwolinski,Anna Kervoël
+Group Stage,Women's Contender,Group B,3,Single game,Nat&Jade,Très rapidement,Nat&Jade,15,4,,,,,Natacha Alt,Jade Lacombe,Sarah Martinez,Julia Bernard
+Group Stage,Women's Contender,Group B,3,Single game,Les pralines,Ça fait boomball caféw,Ça fait boomball caféw,13,15,,,,,Hannah Fritz,Marion Deffrasnes,Julie Espeche-Bernard,Louisiane Lemaire
+Group Stage,Women's Contender,Group C,3,Single game,Cucut Minute,Tbd,Cucut Minute,15,11,,,,,Anaïs Duport,Valentine Pottez,Elena Rossetto,Marie-Alexia Teisseyre
+Group Stage,Women's Contender,Group C,3,Single game,Yellow flags,Chlaurore,Yellow flags,15,8,,,,,Juliette Dumesnil,Marie Jubault,Aurore Gosselin,Chloe Henningsen
+Group Stage,Women's Contender,Group A,4,Single game,Blblblblblblblblblblblblblblbl,Laurianna,Blblblblblblblblblblblblblblbl,17,15,,,,,ondine novarese,Vanangamoudiar Liza,Lauriane Zwolinski,Anna Kervoël
+Group Stage,Women's Contender,Group A,4,Single game,Q-Cuteness,Sans forcer 💪,Q-Cuteness,15,9,,,,,Elise Martin,Aurelia Russinger,Marine Thomasson,Emeline Lauzier
+Group Stage,Women's Contender,Group B,4,Single game,Nat&Jade,Ça fait boomball caféw,Nat&Jade,15,6,,,,,Natacha Alt,Jade Lacombe,Julie Espeche-Bernard,Louisiane Lemaire
+Group Stage,Women's Contender,Group B,4,Single game,Très rapidement,Les pralines,Les pralines,15,17,,,,,Sarah Martinez,Julia Bernard,Hannah Fritz,Marion Deffrasnes
+Group Stage,Women's Contender,Group C,4,Single game,Cucut Minute,Chlaurore,Cucut Minute,15,11,,,,,Anaïs Duport,Valentine Pottez,Aurore Gosselin,Chloe Henningsen
+Group Stage,Women's Contender,Group C,4,Single game,Tbd,Yellow flags,Tbd,15,4,,,,,Elena Rossetto,Marie-Alexia Teisseyre,Juliette Dumesnil,Marie Jubault
+Group Stage,Women's Contender,Group A,5,Single game,Blblblblblblblblblblblblblblbl,Sans forcer 💪,Blblblblblblblblblblblblblblbl,15,12,,,,,ondine novarese,Vanangamoudiar Liza,Marine Thomasson,Emeline Lauzier
+Group Stage,Women's Contender,Group A,5,Single game,Q-Cuteness,Laurianna,Laurianna,6,15,,,,,Elise Martin,Aurelia Russinger,Lauriane Zwolinski,Anna Kervoël
+Group Stage,Women's Contender,Group B,5,Single game,Nat&Jade,Les pralines,Nat&Jade,15,5,,,,,Natacha Alt,Jade Lacombe,Hannah Fritz,Marion Deffrasnes
+Group Stage,Women's Contender,Group B,5,Single game,Très rapidement,Ça fait boomball caféw,Très rapidement,15,11,,,,,Sarah Martinez,Julia Bernard,Julie Espeche-Bernard,Louisiane Lemaire
+Group Stage,Women's Contender,Group C,5,Single game,Cucut Minute,Yellow flags,Cucut Minute,15,10,,,,,Anaïs Duport,Valentine Pottez,Juliette Dumesnil,Marie Jubault
+Group Stage,Women's Contender,Group C,5,Single game,Tbd,Chlaurore,Tbd,17,16,,,,,Elena Rossetto,Marie-Alexia Teisseyre,Aurore Gosselin,Chloe Henningsen
+Group Stage,Women's Contender,Group A,6,Single game,Blblblblblblblblblblblblblblbl,Q-Cuteness,Blblblblblblblblblblblblblblbl,15,10,,,,,ondine novarese,Vanangamoudiar Liza,Elise Martin,Aurelia Russinger
+Group Stage,Women's Contender,Group A,6,Single game,Sans forcer 💪,Laurianna,Laurianna,9,15,,,,,Marine Thomasson,Emeline Lauzier,Lauriane Zwolinski,Anna Kervoël
+Group Stage,Women's Contender,Group B,6,Single game,Nat&Jade,Très rapidement,Nat&Jade,15,7,,,,,Natacha Alt,Jade Lacombe,Sarah Martinez,Julia Bernard
+Group Stage,Women's Contender,Group B,6,Single game,Les pralines,Ça fait boomball caféw,Les pralines,15,13,,,,,Hannah Fritz,Marion Deffrasnes,Julie Espeche-Bernard,Louisiane Lemaire
+Group Stage,Women's Contender,Group C,6,Single game,Cucut Minute,Tbd,Cucut Minute,15,12,,,,,Anaïs Duport,Valentine Pottez,Elena Rossetto,Marie-Alexia Teisseyre
+Group Stage,Women's Contender,Group C,6,Single game,Yellow flags,Chlaurore,Yellow flags,15,11,,,,,Juliette Dumesnil,Marie Jubault,Aurore Gosselin,Chloe Henningsen
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Tbd,Sans forcer 💪,Tbd,15,11,15,10,,,Elena Rossetto,Marie-Alexia Teisseyre,Marine Thomasson,Emeline Lauzier
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Q-Cuteness,Chlaurore,Q-Cuteness,16,14,13,15,15,12,Elise Martin,Aurelia Russinger,Aurore Gosselin,Chloe Henningsen
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Très rapidement,Ça fait boomball caféw,Très rapidement,9,15,15,9,15,9,Sarah Martinez,Julia Bernard,Julie Espeche-Bernard,Louisiane Lemaire
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Yellow flags,Les pralines,Yellow flags,17,15,15,6,,,Juliette Dumesnil,Marie Jubault,Hannah Fritz,Marion Deffrasnes
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Nat&Jade,Yellow flags,Nat&Jade,21,12,21,12,,,Natacha Alt,Jade Lacombe,Juliette Dumesnil,Marie Jubault
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Cucut Minute,Très rapidement,Cucut Minute,25,24,21,19,,,Anaïs Duport,Valentine Pottez,Sarah Martinez,Julia Bernard
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Blblblblblblblblblblblblblblbl,Q-Cuteness,Blblblblblblblblblblblblblblbl,21,11,21,10,,,ondine novarese,Vanangamoudiar Liza,Elise Martin,Aurelia Russinger
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Laurianna,Tbd,Tbd,10,21,21,19,10,21,Lauriane Zwolinski,Anna Kervoël,Elena Rossetto,Marie-Alexia Teisseyre
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,Nat&Jade,Tbd,Nat&Jade,21,14,21,14,,,Natacha Alt,Jade Lacombe,Elena Rossetto,Marie-Alexia Teisseyre
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,Cucut Minute,Blblblblblblblblblblblblblblbl,Blblblblblblblblblblblblblblbl,14,21,20,22,,,Anaïs Duport,Valentine Pottez,ondine novarese,Vanangamoudiar Liza
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Laurianna,Yellow flags,Laurianna,16,14,15,11,,,Lauriane Zwolinski,Anna Kervoël,Juliette Dumesnil,Marie Jubault
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Q-Cuteness,Très rapidement,Très rapidement,12,15,8,15,,,Elise Martin,Aurelia Russinger,Sarah Martinez,Julia Bernard
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,Les pralines,Sans forcer 💪,Sans forcer 💪,7,15,10,15,,,Hannah Fritz,Marion Deffrasnes,Marine Thomasson,Emeline Lauzier
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,Ça fait boomball caféw,Chlaurore,Chlaurore,11,15,10,15,,,Julie Espeche-Bernard,Louisiane Lemaire,Aurore Gosselin,Chloe Henningsen
+Bracket Stage,Women's Contender,Bracket A,Final,Best of 3,Nat&Jade,Blblblblblblblblblblblblblblbl,Blblblblblblblblblblblblblblbl,18,21,15,21,,,Natacha Alt,Jade Lacombe,ondine novarese,Vanangamoudiar Liza
+Bracket Stage,Women's Contender,Bracket A,P3: Final,Best of 3,Cucut Minute,Tbd,Cucut Minute,21,16,17,21,21,16,Anaïs Duport,Valentine Pottez,Elena Rossetto,Marie-Alexia Teisseyre
+Bracket Stage,Women's Contender,Bracket A,P5: Final,Best of 3,Laurianna,Très rapidement,Très rapidement,15,17,9,15,,,Lauriane Zwolinski,Anna Kervoël,Sarah Martinez,Julia Bernard
+Bracket Stage,Women's Contender,Bracket A,P7: Final,Best of 3,Q-Cuteness,Yellow flags,Yellow flags,13,15,13,15,,,Elise Martin,Aurelia Russinger,Juliette Dumesnil,Marie Jubault
+Bracket Stage,Women's Contender,Bracket A,P9: Final,Best of 3,Sans forcer 💪,Chlaurore,Sans forcer 💪,12,15,15,12,15,11,Marine Thomasson,Emeline Lauzier,Aurore Gosselin,Chloe Henningsen
+Bracket Stage,Women's Contender,Bracket A,P11: Final,Best of 3,Ça fait boomball caféw,Les pralines,Ça fait boomball caféw,15,10,15,10,,,Julie Espeche-Bernard,Louisiane Lemaire,Hannah Fritz,Marion Deffrasnes
+Group Stage,Women's Advanced,Group A,1,Single game,Khti's,Tarouf,Khti's,15,4,,,,,Rozi Ouali,Marina Goncalves,Taëlle Cardin,Clara Colcanap
+Group Stage,Women's Advanced,Group A,1,Single game,Oh la chatte,Over the Rimbow,Oh la chatte,15,11,,,,,Lea Tomasino,Eugénie Auguay,Melanie Gauthiez,Julie Dussart
+Group Stage,Women's Advanced,Group B,1,Single game,Tralalipouetpouet,Les monstres 😈,Tralalipouetpouet,15,2,,,,,Marine Hauchère,Margot Paulin,Estelle Loesch,Sophie  CLEMENT
+Group Stage,Women's Advanced,Group B,1,Single game,Ju'Mélie,GTOP,Ju'Mélie,15,8,,,,,Amélie Calvier,Juliette Fiatte,Domitille Delattre,Alice-Rose THOMAS
+Group Stage,Women's Advanced,Group C,1,Single game,Un bon bourgogne,La revanche,Un bon bourgogne,15,4,,,,,Amélie Pinard,Anita Richard,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group C,1,Single game,Gif sur Besançon,SpikeTrotters,Gif sur Besançon,15,5,,,,,Camille Clastres,Emilia Rossi,Maya Pariyar,Lorraine Verdet
+Group Stage,Women's Advanced,Group D,1,Single game,Turbo Praline,Incapable de faire un choix,Turbo Praline,15,8,,,,,Marie Corberand,Capucine Fouraux,Laura Ewersbach,Emilie Terrasse
+Group Stage,Women's Advanced,Group D,1,Single game,Dussies,Toulbroch,Toulbroch,9,15,,,,,Arij Aissa,Julie Colomb,Léan Cabon,Yaëlle CAILLEAUD
+Group Stage,Women's Advanced,Group A,2,Single game,Khti's,Over the Rimbow,Khti's,15,11,,,,,Rozi Ouali,Marina Goncalves,Melanie Gauthiez,Julie Dussart
+Group Stage,Women's Advanced,Group A,2,Single game,Oh la chatte,Tarouf,Oh la chatte,16,14,,,,,Lea Tomasino,Eugénie Auguay,Taëlle Cardin,Clara Colcanap
+Group Stage,Women's Advanced,Group B,2,Single game,Tralalipouetpouet,GTOP,Tralalipouetpouet,15,10,,,,,Marine Hauchère,Margot Paulin,Domitille Delattre,Alice-Rose THOMAS
+Group Stage,Women's Advanced,Group B,2,Single game,Ju'Mélie,Les monstres 😈,Ju'Mélie,15,1,,,,,Amélie Calvier,Juliette Fiatte,Estelle Loesch,Sophie  CLEMENT
+Group Stage,Women's Advanced,Group C,2,Single game,Un bon bourgogne,SpikeTrotters,Un bon bourgogne,15,7,,,,,Amélie Pinard,Anita Richard,Maya Pariyar,Lorraine Verdet
+Group Stage,Women's Advanced,Group C,2,Single game,S'blankita,La revanche,S'blankita,15,7,,,,,Nikita Macoin,Julie Blanquefort,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group D,2,Single game,Turbo Praline,Toulbroch,Turbo Praline,15,5,,,,,Marie Corberand,Capucine Fouraux,Léan Cabon,Yaëlle CAILLEAUD
+Group Stage,Women's Advanced,Group D,2,Single game,Dussies,Incapable de faire un choix,Dussies,15,4,,,,,Arij Aissa,Julie Colomb,Laura Ewersbach,Emilie Terrasse
+Group Stage,Women's Advanced,Group A,3,Single game,Khti's,Oh la chatte,Khti's,15,8,,,,,Rozi Ouali,Marina Goncalves,Lea Tomasino,Eugénie Auguay
+Group Stage,Women's Advanced,Group A,3,Single game,Over the Rimbow,Tarouf,Over the Rimbow,15,10,,,,,Melanie Gauthiez,Julie Dussart,Taëlle Cardin,Clara Colcanap
+Group Stage,Women's Advanced,Group B,3,Single game,Tralalipouetpouet,Ju'Mélie,Tralalipouetpouet,15,8,,,,,Marine Hauchère,Margot Paulin,Amélie Calvier,Juliette Fiatte
+Group Stage,Women's Advanced,Group B,3,Single game,GTOP,Les monstres 😈,GTOP,15,8,,,,,Domitille Delattre,Alice-Rose THOMAS,Estelle Loesch,Sophie  CLEMENT
+Group Stage,Women's Advanced,Group C,3,Single game,Un bon bourgogne,S'blankita,Un bon bourgogne,16,14,,,,,Amélie Pinard,Anita Richard,Nikita Macoin,Julie Blanquefort
+Group Stage,Women's Advanced,Group C,3,Single game,Gif sur Besançon,La revanche,Gif sur Besançon,15,6,,,,,Camille Clastres,Emilia Rossi,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group D,3,Single game,Turbo Praline,Dussies,Turbo Praline,15,8,,,,,Marie Corberand,Capucine Fouraux,Arij Aissa,Julie Colomb
+Group Stage,Women's Advanced,Group D,3,Single game,Toulbroch,Incapable de faire un choix,Toulbroch,15,2,,,,,Léan Cabon,Yaëlle CAILLEAUD,Laura Ewersbach,Emilie Terrasse
+Group Stage,Women's Advanced,Group C,4,Single game,Gif sur Besançon,S'blankita,S'blankita,12,15,,,,,Camille Clastres,Emilia Rossi,Nikita Macoin,Julie Blanquefort
+Group Stage,Women's Advanced,Group C,4,Single game,SpikeTrotters,La revanche,SpikeTrotters,15,9,,,,,Maya Pariyar,Lorraine Verdet,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group C,5,Single game,Un bon bourgogne,Gif sur Besançon,Gif sur Besançon,10,15,,,,,Amélie Pinard,Anita Richard,Camille Clastres,Emilia Rossi
+Group Stage,Women's Advanced,Group C,5,Single game,S'blankita,SpikeTrotters,S'blankita,15,13,,,,,Nikita Macoin,Julie Blanquefort,Maya Pariyar,Lorraine Verdet
+Group Stage,Women's Advanced,Group A,4,Single game,Khti's,Tarouf,Khti's,15,9,,,,,Rozi Ouali,Marina Goncalves,Taëlle Cardin,Clara Colcanap
+Group Stage,Women's Advanced,Group A,4,Single game,Oh la chatte,Over the Rimbow,Oh la chatte,15,12,,,,,Lea Tomasino,Eugénie Auguay,Melanie Gauthiez,Julie Dussart
+Group Stage,Women's Advanced,Group B,4,Single game,Tralalipouetpouet,Les monstres 😈,Tralalipouetpouet,15,6,,,,,Marine Hauchère,Margot Paulin,Estelle Loesch,Sophie  CLEMENT
+Group Stage,Women's Advanced,Group B,4,Single game,Ju'Mélie,GTOP,Ju'Mélie,15,8,,,,,Amélie Calvier,Juliette Fiatte,Domitille Delattre,Alice-Rose THOMAS
+Group Stage,Women's Advanced,Group C,6,Single game,Un bon bourgogne,La revanche,Un bon bourgogne,15,2,,,,,Amélie Pinard,Anita Richard,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group C,6,Single game,Gif sur Besançon,SpikeTrotters,Gif sur Besançon,15,2,,,,,Camille Clastres,Emilia Rossi,Maya Pariyar,Lorraine Verdet
+Group Stage,Women's Advanced,Group D,4,Single game,Turbo Praline,Incapable de faire un choix,Turbo Praline,15,4,,,,,Marie Corberand,Capucine Fouraux,Laura Ewersbach,Emilie Terrasse
+Group Stage,Women's Advanced,Group D,4,Single game,Dussies,Toulbroch,Toulbroch,7,15,,,,,Arij Aissa,Julie Colomb,Léan Cabon,Yaëlle CAILLEAUD
+Group Stage,Women's Advanced,Group A,5,Single game,Khti's,Over the Rimbow,Khti's,15,12,,,,,Rozi Ouali,Marina Goncalves,Melanie Gauthiez,Julie Dussart
+Group Stage,Women's Advanced,Group A,5,Single game,Oh la chatte,Tarouf,Tarouf,8,15,,,,,Lea Tomasino,Eugénie Auguay,Taëlle Cardin,Clara Colcanap
+Group Stage,Women's Advanced,Group B,5,Single game,Tralalipouetpouet,GTOP,GTOP,15,17,,,,,Marine Hauchère,Margot Paulin,Domitille Delattre,Alice-Rose THOMAS
+Group Stage,Women's Advanced,Group B,5,Single game,Ju'Mélie,Les monstres 😈,Ju'Mélie,15,5,,,,,Amélie Calvier,Juliette Fiatte,Estelle Loesch,Sophie  CLEMENT
+Group Stage,Women's Advanced,Group C,7,Single game,Un bon bourgogne,SpikeTrotters,Un bon bourgogne,15,12,,,,,Amélie Pinard,Anita Richard,Maya Pariyar,Lorraine Verdet
+Group Stage,Women's Advanced,Group C,7,Single game,S'blankita,La revanche,S'blankita,15,6,,,,,Nikita Macoin,Julie Blanquefort,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group D,5,Single game,Turbo Praline,Toulbroch,Turbo Praline,15,9,,,,,Marie Corberand,Capucine Fouraux,Léan Cabon,Yaëlle CAILLEAUD
+Group Stage,Women's Advanced,Group D,5,Single game,Dussies,Incapable de faire un choix,Dussies,15,4,,,,,Arij Aissa,Julie Colomb,Laura Ewersbach,Emilie Terrasse
+Group Stage,Women's Advanced,Group A,6,Single game,Khti's,Oh la chatte,Khti's,15,9,,,,,Rozi Ouali,Marina Goncalves,Lea Tomasino,Eugénie Auguay
+Group Stage,Women's Advanced,Group A,6,Single game,Over the Rimbow,Tarouf,Tarouf,13,15,,,,,Melanie Gauthiez,Julie Dussart,Taëlle Cardin,Clara Colcanap
+Group Stage,Women's Advanced,Group B,6,Single game,Tralalipouetpouet,Ju'Mélie,Ju'Mélie,12,14,,,,,Marine Hauchère,Margot Paulin,Amélie Calvier,Juliette Fiatte
+Group Stage,Women's Advanced,Group B,6,Single game,GTOP,Les monstres 😈,GTOP,15,10,,,,,Domitille Delattre,Alice-Rose THOMAS,Estelle Loesch,Sophie  CLEMENT
+Group Stage,Women's Advanced,Group C,8,Single game,Un bon bourgogne,S'blankita,Un bon bourgogne,15,13,,,,,Amélie Pinard,Anita Richard,Nikita Macoin,Julie Blanquefort
+Group Stage,Women's Advanced,Group C,8,Single game,Gif sur Besançon,La revanche,Gif sur Besançon,15,6,,,,,Camille Clastres,Emilia Rossi,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group D,6,Single game,Turbo Praline,Dussies,Turbo Praline,15,8,,,,,Marie Corberand,Capucine Fouraux,Arij Aissa,Julie Colomb
+Group Stage,Women's Advanced,Group D,6,Single game,Toulbroch,Incapable de faire un choix,Toulbroch,15,4,,,,,Léan Cabon,Yaëlle CAILLEAUD,Laura Ewersbach,Emilie Terrasse
+Group Stage,Women's Advanced,Group C,9,Single game,Gif sur Besançon,S'blankita,Gif sur Besançon,15,9,,,,,Camille Clastres,Emilia Rossi,Nikita Macoin,Julie Blanquefort
+Group Stage,Women's Advanced,Group C,9,Single game,SpikeTrotters,La revanche,SpikeTrotters,15,3,,,,,Maya Pariyar,Lorraine Verdet,Valentine Schrotzenberger,Mathilde COPIN
+Group Stage,Women's Advanced,Group C,10,Single game,Un bon bourgogne,Gif sur Besançon,Gif sur Besançon,11,15,,,,,Amélie Pinard,Anita Richard,Camille Clastres,Emilia Rossi
+Group Stage,Women's Advanced,Group C,10,Single game,S'blankita,SpikeTrotters,S'blankita,15,12,,,,,Nikita Macoin,Julie Blanquefort,Maya Pariyar,Lorraine Verdet
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Un bon bourgogne,Tarouf,Un bon bourgogne,15,8,15,11,,,Amélie Pinard,Anita Richard,Taëlle Cardin,Clara Colcanap
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Tralalipouetpouet,Dussies,Tralalipouetpouet,13,15,15,10,15,13,Marine Hauchère,Margot Paulin,Arij Aissa,Julie Colomb
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,Toulbroch,Oh la chatte,Toulbroch,15,8,21,20,,,Léan Cabon,Yaëlle CAILLEAUD,Lea Tomasino,Eugénie Auguay
+Bracket Stage,Women's Advanced,Bracket A,Round of 16,Best of 3,S'blankita,GTOP,S'blankita,15,9,14,16,15,6,Nikita Macoin,Julie Blanquefort,Domitille Delattre,Alice-Rose THOMAS
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Turbo Praline,S'blankita,Turbo Praline,21,6,21,12,,,Marie Corberand,Capucine Fouraux,Nikita Macoin,Julie Blanquefort
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Khti's,Toulbroch,Toulbroch,17,15,13,15,13,15,Rozi Ouali,Marina Goncalves,Léan Cabon,Yaëlle CAILLEAUD
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Gif sur Besançon,Tralalipouetpouet,Tralalipouetpouet,17,21,21,19,19,21,Camille Clastres,Emilia Rossi,Marine Hauchère,Margot Paulin
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Best of 3,Ju'Mélie,Un bon bourgogne,Un bon bourgogne,18,21,21,14,18,21,Amélie Calvier,Juliette Fiatte,Amélie Pinard,Anita Richard
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Turbo Praline,Un bon bourgogne,Turbo Praline,21,15,21,16,,,Marie Corberand,Capucine Fouraux,Amélie Pinard,Anita Richard
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Toulbroch,Tralalipouetpouet,Toulbroch,21,17,21,12,,,Léan Cabon,Yaëlle CAILLEAUD,Marine Hauchère,Margot Paulin
+Bracket Stage,Women's Advanced,Bracket A,P5: Semi-final,Best of 3,Ju'Mélie,S'blankita,S'blankita,15,13,8,15,13,15,Amélie Calvier,Juliette Fiatte,Nikita Macoin,Julie Blanquefort
+Bracket Stage,Women's Advanced,Bracket A,P5: Semi-final,Best of 3,Gif sur Besançon,Khti's,Gif sur Besançon,15,9,15,6,,,Camille Clastres,Emilia Rossi,Rozi Ouali,Marina Goncalves
+Bracket Stage,Women's Advanced,Bracket A,P9: Semi-final,Best of 3,GTOP,Tarouf,GTOP,17,21,24,22,21,17,Domitille Delattre,Alice-Rose THOMAS,Taëlle Cardin,Clara Colcanap
+Bracket Stage,Women's Advanced,Bracket A,P9: Semi-final,Best of 3,Oh la chatte,Dussies,Dussies,0,1,0,1,,,Lea Tomasino,Eugénie Auguay,Arij Aissa,Julie Colomb
+Bracket Stage,Women's Advanced,Bracket A,Final,Best of 3,Turbo Praline,Toulbroch,Turbo Praline,21,13,21,16,,,Marie Corberand,Capucine Fouraux,Léan Cabon,Yaëlle CAILLEAUD
+Bracket Stage,Women's Advanced,Bracket A,P3: Final,Best of 3,Tralalipouetpouet,Un bon bourgogne,Un bon bourgogne,18,21,18,21,,,Marine Hauchère,Margot Paulin,Amélie Pinard,Anita Richard
+Bracket Stage,Women's Advanced,Bracket A,P5: Final,Best of 3,S'blankita,Gif sur Besançon,Gif sur Besançon,15,12,12,15,11,15,Nikita Macoin,Julie Blanquefort,Camille Clastres,Emilia Rossi
+Bracket Stage,Women's Advanced,Bracket A,P7: Final,Best of 3,Khti's,Ju'Mélie,Khti's,17,15,12,15,15,8,Rozi Ouali,Marina Goncalves,Amélie Calvier,Juliette Fiatte
+Bracket Stage,Women's Advanced,Bracket A,P9: Final,Best of 3,GTOP,Dussies,Dussies,21,18,23,25,0,1,Domitille Delattre,Alice-Rose THOMAS,Arij Aissa,Julie Colomb
+Bracket Stage,Women's Advanced,Bracket A,P11: Final,Best of 3,Oh la chatte,Tarouf,Tarouf,0,1,0,1,,,Lea Tomasino,Eugénie Auguay,Taëlle Cardin,Clara Colcanap
+poules de classement,Women's Advanced,Group A,1,Best of 3,Incapable de faire un choix,La revanche,La revanche,11,15,14,16,,,Laura Ewersbach,Emilie Terrasse,Valentine Schrotzenberger,Mathilde COPIN
+poules de classement,Women's Advanced,Group A,1,Best of 3,Over the Rimbow,SpikeTrotters,Over the Rimbow,15,8,15,7,,,Melanie Gauthiez,Julie Dussart,Maya Pariyar,Lorraine Verdet
+poules de classement,Women's Advanced,Group A,2,Best of 3,Incapable de faire un choix,SpikeTrotters,SpikeTrotters,5,15,11,15,,,Laura Ewersbach,Emilie Terrasse,Maya Pariyar,Lorraine Verdet
+poules de classement,Women's Advanced,Group A,2,Best of 3,Les monstres 😈,La revanche,La revanche,4,15,13,15,,,Estelle Loesch,Sophie  CLEMENT,Valentine Schrotzenberger,Mathilde COPIN
+poules de classement,Women's Advanced,Group A,3,Best of 3,Incapable de faire un choix,Les monstres 😈,Incapable de faire un choix,15,12,11,15,15,11,Laura Ewersbach,Emilie Terrasse,Estelle Loesch,Sophie  CLEMENT
+poules de classement,Women's Advanced,Group A,3,Best of 3,Over the Rimbow,La revanche,Over the Rimbow,15,9,15,7,,,Melanie Gauthiez,Julie Dussart,Valentine Schrotzenberger,Mathilde COPIN
+poules de classement,Women's Advanced,Group A,4,Best of 3,Over the Rimbow,Les monstres 😈,Over the Rimbow,15,6,15,5,,,Melanie Gauthiez,Julie Dussart,Estelle Loesch,Sophie  CLEMENT
+poules de classement,Women's Advanced,Group A,4,Best of 3,SpikeTrotters,La revanche,SpikeTrotters,15,7,12,15,17,15,Maya Pariyar,Lorraine Verdet,Valentine Schrotzenberger,Mathilde COPIN
+poules de classement,Women's Advanced,Group A,5,Best of 3,Incapable de faire un choix,Over the Rimbow,Over the Rimbow,4,15,1,15,,,Laura Ewersbach,Emilie Terrasse,Melanie Gauthiez,Julie Dussart
+poules de classement,Women's Advanced,Group A,5,Best of 3,Les monstres 😈,SpikeTrotters,SpikeTrotters,8,15,10,15,,,Estelle Loesch,Sophie  CLEMENT,Maya Pariyar,Lorraine Verdet

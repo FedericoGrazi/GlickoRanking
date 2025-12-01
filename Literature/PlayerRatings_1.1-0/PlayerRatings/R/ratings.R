@@ -1,0 +1,1203 @@
+"elo" <- function(x, status=NULL, init=2200, gamma=0, kfac=27, history=FALSE, sort=TRUE, ...)
+{
+  if(!is.data.frame(x)) x <- as.data.frame(x)
+  if(!is.data.frame(status) && !is.null(status)) status <- as.data.frame(status)
+  if(length(init) != 1) stop("the length of 'init' must be one")
+  if(ncol(x) != 4) stop("'x' must have four variables")
+  if(nrow(x) == 0) {
+    if(is.null(status)) stop("'x' is empty and 'status' is NULL")
+	lout <- list(ratings = status, history = NULL, gamma = gamma, kfac=kfac, type = "Elo")
+    class(lout) <- "rating"
+    return(lout)
+  }
+  gammas <- rep(gamma, length.out = nrow(x))         
+  names(x) <- c("Month","White","Black","Score")
+  if(!is.numeric(x$Month)) 
+    stop("Time period must be numeric")
+  if(!is.numeric(x$White) && !is.character(x$White))
+    stop("Player identifiers must be numeric or character")
+  if(!is.numeric(x$Black) && !is.character(x$Black))
+    stop("Player identifiers must be numeric or character")	
+  if(!is.numeric(x$Score) || any(x$Score > 1) || any(x$Score < 0))
+    stop("Game scores must be in the interval [0,1]")
+  
+  play <- sort(unique(c(x$White,x$Black)))
+  np <- length(play)
+  x$White <- match(x$White, play)
+  x$Black <- match(x$Black, play)
+  if(!is.null(status)) {
+    npadd <- play[!(play %in% status$Player)]
+	zv <- rep(0, length(npadd))
+    npstatus <- data.frame(Player = npadd, Rating = rep(init,length(npadd)), Games = zv, 
+      Win = zv, Draw = zv, Loss = zv, Lag = zv)
+	if(!("Games" %in% names(status))) status <- cbind(status, Games = 0)
+	if(!("Win" %in% names(status))) status <- cbind(status, Win = 0)
+	if(!("Draw" %in% names(status))) status <- cbind(status, Draw = 0)
+	if(!("Loss" %in% names(status))) status <- cbind(status, Loss = 0)
+    if(!("Lag" %in% names(status))) status <- cbind(status, Lag = 0)
+    status <- rbind(status[,c("Player","Rating","Games","Win","Draw","Loss","Lag")], npstatus)
+    rinit <- status[[2]]
+    ngames <- status[[3]]
+    nwin <- status[[4]]
+    ndraw <- status[[5]]
+    nloss <- status[[6]]
+    nlag <- status[[7]]
+    names(rinit) <- names(ngames) <- status$Player
+  }
+  else {
+    rinit <- rep(init, length.out=np)
+    ngames <- nwin <- ndraw <- nloss <- nlag <- rep(0, length.out=np)
+    names(rinit) <- names(ngames) <- names(nlag) <- play
+  }
+ 
+  if(!all(names(rinit) == names(ngames)))
+    stop("names of ratings and ngames are different")
+  if(!all(play %in% names(rinit))) 
+    stop("Payers in data are not within current status")
+
+  nm <- length(unique(x$Month))
+  curplay <- match(play, names(rinit))
+  orats <- rinit[-curplay] 
+  ongames <- ngames[-curplay]
+  onwin <- nwin[-curplay]
+  ondraw <- ndraw[-curplay]
+  onloss <- nloss[-curplay]
+  olag <- nlag[-curplay]
+  olag[ongames != 0] <- olag[ongames != 0] + nm
+  crats <- rinit[curplay] 
+  ngames <- ngames[curplay] 
+  nwin <- nwin[curplay]
+  ndraw <- ndraw[curplay]
+  nloss <- nloss[curplay]
+  nlag <- nlag[curplay]
+
+  gammas <- split(gammas, x$Month)
+  x <- split(x, x$Month)
+  if(history) {
+    histry <- array(NA, dim=c(np,nm,3), dimnames=list(play,1:nm,c("Rating","Games","Lag")))
+  }
+
+  for(i in 1:nm) {
+    traini <- x[[i]]
+	  gammai <- gammas[[i]] 
+    nr <- nrow(traini)
+    dscore <- .C("elo_c",
+      as.integer(np), as.integer(nr), as.integer(traini$White-1), as.integer(traini$Black-1),
+      as.double(traini$Score), as.double(crats), as.double(gammai), dscore = double(np))$dscore
+    if(!is.function(kfac)) {
+      crats <- crats + kfac * dscore
+    }
+    else {
+      crats <- crats + kfac(crats, ngames, ...) * dscore
+    }
+    trainipl <- c(traini$White,traini$Black)
+    trainiplw <- c(traini$White[traini$Score==1],traini$Black[traini$Score==0])
+    trainipld <- c(traini$White[traini$Score==0.5],traini$Black[traini$Score==0.5])
+    trainipll <- c(traini$White[traini$Score==0],traini$Black[traini$Score==1])
+    ngames <- ngames + tabulate(trainipl, np)
+    nwin <- nwin + tabulate(trainiplw, np)
+    ndraw <- ndraw + tabulate(trainipld, np)
+    nloss <- nloss + tabulate(trainipll, np)
+    playi <- unique(trainipl)
+    nlag[ngames!=0] <- nlag[ngames!=0] + 1
+    nlag[playi] <- 0
+
+     if(history) {
+      histry[,i,1] <- crats
+      histry[,i,2] <- ngames
+      histry[,i,3] <- nlag
+    }
+  }
+  if(!history) histry <- NULL
+  player <- suppressWarnings(as.numeric(names(c(crats,orats))))
+  if (any(is.na(player))) player <- names(c(crats,orats))
+  dfout <- data.frame(Player=player, Rating=c(crats,orats), Games=c(ngames,ongames), 
+    Win=c(nwin,onwin), Draw=c(ndraw,ondraw), Loss=c(nloss,onloss), Lag=c(nlag,olag),
+	stringsAsFactors = FALSE)
+  if(sort) dfout <- dfout[order(dfout$Rating,decreasing=TRUE),] else dfout <- dfout[order(dfout$Player),]
+  row.names(dfout) <- 1:nrow(dfout)  
+
+  lout <- list(ratings = dfout, history = histry, gamma = gamma, kfac=kfac, type = "Elo")
+  class(lout) <- "rating"
+  lout
+}
+
+"fide" <- function(x, status=NULL, init=2200, gamma=0, kfac=kfide,
+  history=FALSE, sort=TRUE, ...)
+{  
+  if(!is.data.frame(x)) x <- as.data.frame(x)
+  if(!is.data.frame(status) && !is.null(status)) status <- as.data.frame(status)
+  if(length(init) != 1) stop("the length of 'init' must be one")
+  if(ncol(x) != 4) stop("'x' must have four variables")
+  if(nrow(x) == 0) {
+    if(is.null(status)) stop("'x' is empty and 'status' is NULL")
+	lout <- list(ratings = status, history = NULL, gamma = gamma, kfac=kfac, type = "Elo")
+    class(lout) <- "rating"
+    return(lout)
+  }
+  gammas <- rep(gamma, length.out = nrow(x)) 
+  names(x) <- c("Month","White","Black","Score")
+  if(!is.numeric(x$Month)) 
+    stop("Time period must be numeric")
+  if(!is.numeric(x$White) && !is.character(x$White))
+    stop("Player identifiers must be numeric or character")
+  if(!is.numeric(x$Black) && !is.character(x$Black))
+    stop("Player identifiers must be numeric or character")	
+  if(!is.numeric(x$Score) || any(x$Score > 1) || any(x$Score < 0))
+    stop("Game scores must be in the interval [0,1]")
+	
+  play <- sort(unique(c(x$White,x$Black)))
+  np <- length(play)
+  x$White <- match(x$White, play)
+  x$Black <- match(x$Black, play)
+
+  if(!is.null(status)) {
+    npadd <- play[!(play %in% status$Player)]
+	zv <- rep(0, length(npadd))
+	ev <- rep(as.numeric(init > 2400), length.out=length(npadd))
+    npstatus <- data.frame(Player = npadd, Rating = rep(init,length(npadd)), Games = zv, 
+      Win = zv, Draw = zv, Loss = zv, Lag = zv, Elite = ev, Opponent = zv)
+	if(!("Games" %in% names(status))) status <- cbind(status, Games = 0)
+	if(!("Win" %in% names(status))) status <- cbind(status, Win = 0)
+	if(!("Draw" %in% names(status))) status <- cbind(status, Draw = 0)
+	if(!("Loss" %in% names(status))) status <- cbind(status, Loss = 0)
+    if(!("Lag" %in% names(status))) status <- cbind(status, Lag = 0)
+    if(!("Elite" %in% names(status))) status <- cbind(status, Elite = as.numeric(status$Player >= 2400))
+    if(!("Opponent" %in% names(status))) status <- cbind(status, Opponent = status$Rating)
+    status <- rbind(status[,c("Player","Rating","Games","Win","Draw","Loss","Lag","Elite","Opponent")], npstatus)
+    rinit <- status[[2]]
+    ngames <- status[[3]]
+    nwin <- status[[4]]
+    ndraw <- status[[5]]
+    nloss <- status[[6]]
+    nlag <- status[[7]]
+    elite <- status[[8]]
+    opponent <- status[[9]]
+    names(rinit) <- names(ngames) <- status$Player
+  }
+  else {
+    rinit <- rep(init, length.out=np)
+    ngames <- nwin <- ndraw <- nloss <- nlag <- elite <- opponent <- rep(0, length.out=np)
+    names(rinit) <- names(ngames) <- names(nlag) <- play
+  }
+ 
+  if(!all(names(rinit) == names(ngames)))
+    stop("names of ratings and ngames are different")
+  if(!all(play %in% names(rinit))) 
+    stop("Payers in data are not within current status")
+
+  nm <- length(unique(x$Month))
+  curplay <- match(play, names(rinit))
+  orats <- rinit[-curplay] 
+  ongames <- ngames[-curplay]
+  onwin <- nwin[-curplay]
+  ondraw <- ndraw[-curplay]
+  onloss <- nloss[-curplay]
+  olag <- nlag[-curplay]
+  olag[ongames != 0] <- olag[ongames != 0] + nm
+  oelite <- elite[-curplay]
+  oopponent <- opponent[-curplay]
+  crats <- rinit[curplay] 
+  ngames <- ngames[curplay] 
+  nwin <- nwin[curplay]
+  ndraw <- ndraw[curplay]
+  nloss <- nloss[curplay]
+  nlag <- nlag[curplay]
+  elite <- elite[curplay]
+  opponent <- opponent[curplay]
+
+  gammas <- split(gammas, x$Month)
+  x <- split(x, x$Month)
+  if(history) {
+    histry <- array(NA, dim=c(np,nm,3), dimnames=list(play,1:nm,c("Rating","Games","Lag")))
+  }
+
+  for(i in 1:nm) {
+    traini <- x[[i]]
+	gammai <- gammas[[i]]
+    nr <- nrow(traini)
+    trainiW <- traini$White; trainiB <- traini$Black; trainiS <- traini$Score
+
+    dscore <- .C("elo_c",
+      as.integer(np), as.integer(nr), as.integer(trainiW-1), as.integer(trainiB-1),
+      as.double(trainiS), as.double(crats), as.double(gammai), dscore = double(np))$dscore
+    if(!is.function(kfac)) {
+      crats <- crats + kfac * dscore
+    }
+    else {
+      crats <- crats + kfac(crats, ngames, elite, ...) * dscore
+    }
+
+    trainipl <- c(trainiW,trainiB)
+    trainiplw <- c(trainiW[traini$Score==1],trainiB[traini$Score==0])
+    trainipld <- c(trainiW[traini$Score==0.5],trainiB[traini$Score==0.5])
+    trainipll <- c(trainiW[traini$Score==0],trainiB[traini$Score==1])
+    ngamesi <- tabulate(trainipl, np)
+    ngames <- ngames + ngamesi
+    nwin <- nwin + tabulate(trainiplw, np)
+    ndraw <- ndraw + tabulate(trainipld, np)
+    nloss <- nloss + tabulate(trainipll, np)
+    playi <- unique(trainipl)
+    nlag[ngames!=0] <- nlag[ngames!=0] + 1
+    nlag[playi] <- 0
+    elite[crats >= 2400] <- 1
+    
+    opponentiw <- sapply(split(crats[trainiB], trainiW), sum) 
+    opponentib <- sapply(split(crats[trainiW], trainiB), sum) 
+    opponenti <- numeric(np)
+    opponenti[as.numeric(names(opponentiw))] <- opponentiw
+    opponenti[as.numeric(names(opponentib))] <- opponenti[as.numeric(names(opponentib))] + opponentib
+    opponent[ngames!=0] <- (((ngames-ngamesi)/ngames)*opponent + opponenti/ngames)[ngames!=0]
+
+    if(history) {
+      histry[,i,1] <- crats
+      histry[,i,2] <- ngames
+      histry[,i,3] <- nlag
+    }
+  }
+  if(!history) histry <- NULL
+  player <- suppressWarnings(as.numeric(names(c(crats,orats))))
+  if (any(is.na(player))) player <- names(c(crats,orats))
+  dfout <- data.frame(Player=player, Rating=c(crats,orats), Games=c(ngames,ongames), 
+    Win=c(nwin,onwin), Draw=c(ndraw,ondraw), Loss=c(nloss,onloss), Lag=c(nlag,olag),
+    Elite=c(elite,oelite), Opponent=c(opponent,oopponent),
+	stringsAsFactors = FALSE)
+  if(sort) dfout <- dfout[order(dfout$Rating,decreasing=TRUE),] else dfout <- dfout[order(dfout$Player),]
+  row.names(dfout) <- 1:nrow(dfout)  
+
+  lout <- list(ratings = dfout, history = histry, gamma = gamma, kfac=kfac, type = "Elo")
+  class(lout) <- "rating"
+  lout
+}
+
+"glicko" <- function(x, status=NULL, init=c(2200,300), gamma=0, cval=15, history=FALSE, sort=TRUE, rdmax = 350, ...)
+{ 
+  if(!is.data.frame(x)) x <- as.data.frame(x)
+  if(!is.data.frame(status) && !is.null(status)) status <- as.data.frame(status)
+  if(length(init) != 2) stop("the length of 'init' must be two")
+  if(init[2] <= 0) stop("initial deviation must be positive")
+  if(init[2] > rdmax) stop("initial deviation cannot be greater than rdmax")
+  if(ncol(x) != 4) stop("'x' must have four variables")
+  if(nrow(x) == 0) {
+    if(is.null(status)) stop("'x' is empty and 'status' is NULL")
+	lout <- list(ratings=status, history=NULL, gamma=gamma, cval=cval, type = "Glicko")
+    class(lout) <- "rating"
+    return(lout)
+  }
+  gammas <- rep(gamma, length.out = nrow(x)) 
+  names(x) <- c("Month","White","Black","Score")
+  if(!is.numeric(x$Month)) 
+    stop("Time period must be numeric")
+  if(!is.numeric(x$White) && !is.character(x$White))
+    stop("Player identifiers must be numeric or character")
+  if(!is.numeric(x$Black) && !is.character(x$Black))
+    stop("Player identifiers must be numeric or character")	
+  if(!is.numeric(x$Score) || any(x$Score > 1) || any(x$Score < 0))
+    stop("Game scores must be in the interval [0,1]")
+	
+  play <- sort(unique(c(x$White,x$Black)))
+  np <- length(play)
+  x$White <- match(x$White, play)
+  x$Black <- match(x$Black, play)
+
+  if(!is.null(status)) {
+    npadd <- play[!(play %in% status$Player)]
+	zv <- rep(0, length(npadd))
+    npstatus <- data.frame(Player = npadd, Rating = rep(init[1],length(npadd)), 
+      Deviation = rep(init[2],length(npadd)), Games = zv, Win = zv, Draw = zv, 
+	  Loss = zv, Lag = zv)
+	if(!("Games" %in% names(status))) status <- cbind(status, Games = 0)
+	if(!("Win" %in% names(status))) status <- cbind(status, Win = 0)
+	if(!("Draw" %in% names(status))) status <- cbind(status, Draw = 0)
+	if(!("Loss" %in% names(status))) status <- cbind(status, Loss = 0)
+    if(!("Lag" %in% names(status))) status <- cbind(status, Lag = 0)
+    status <- rbind(status[,c("Player","Rating","Deviation","Games","Win","Draw","Loss","Lag")], npstatus)
+    rinit <- status[[2]]
+    dinit <- status[[3]]
+    ngames <- status[[4]]
+    nwin <- status[[5]]
+    ndraw <- status[[6]]
+    nloss <- status[[7]]
+    nlag <- status[[8]]
+    names(rinit) <- names(dinit) <- names(ngames) <- status$Player
+  }
+  else {
+    rinit <- rep(init[1], length.out=np)
+    dinit <- rep(init[2], length.out=np)
+    ngames <- nwin <- ndraw <- nloss <- rep(0, length.out=np)
+    nlag <- rep(0,np)
+    names(rinit) <- names(dinit) <- names(ngames) <- names(nlag) <- play
+  }
+ 
+  if(!all(names(rinit) == names(ngames)))
+    stop("names of ratings and ngames are different")
+  if(!all(play %in% names(rinit))) 
+    stop("Payers in data are not within current status")
+
+  nm <- length(unique(x$Month))
+  curplay <- match(play, names(rinit))
+  orats <- rinit[-curplay] 
+  odevs <- dinit[-curplay]^2
+  ongames <- ngames[-curplay]
+  onwin <- nwin[-curplay]
+  ondraw <- ndraw[-curplay]
+  onloss <- nloss[-curplay]
+  olag <- nlag[-curplay]
+  olag[ongames != 0] <- olag[ongames != 0] + nm
+  crats <- rinit[curplay] 
+  cdevs <- dinit[curplay]^2
+  ngames <- ngames[curplay] 
+  nwin <- nwin[curplay]
+  ndraw <- ndraw[curplay]
+  nloss <- nloss[curplay]
+  nlag <- nlag[curplay]
+
+  qv <- log(10)/400; qip3 <- 3*(qv/pi)^2 
+  gammas <- split(gammas, x$Month)
+  x <- split(x, x$Month)
+  players <- lapply(x, function(y) unique(c(y$White, y$Black)))
+  if(history) {
+    histry <- array(NA, dim=c(np,nm,4), dimnames=list(play,1:nm,c("Rating","Deviation","Games","Lag")))
+  }
+
+  for(i in 1:nm) {
+    traini <- x[[i]]
+	gammai <- gammas[[i]]
+    nr <- nrow(traini)
+    playi <- players[[i]]
+
+    cdevs[playi] <- pmin(cdevs[playi] + (nlag[playi]+1)*(cval^2), rdmax * rdmax)
+    gdevs <- 1/sqrt(1 + qip3*cdevs) 
+    ngamesi <- tabulate(c(traini$White,traini$Black), np)
+    dscore <- .C("glicko_c",
+      as.integer(np), as.integer(nr), as.integer(traini$White-1), as.integer(traini$Black-1),
+      as.double(traini$Score), as.double(crats), as.double(gdevs), as.double(gammai),
+      dscore = double(2*np))$dscore
+    dval <- dscore[(np+1):(2*np)]; dscore <- dscore[1:np]
+    cdevs <- 1/(1/cdevs + dval)
+    crats <- crats + cdevs * qv * dscore
+
+    trainiplw <- c(traini$White[traini$Score==1],traini$Black[traini$Score==0])
+    trainipld <- c(traini$White[traini$Score==0.5],traini$Black[traini$Score==0.5])
+    trainipll <- c(traini$White[traini$Score==0],traini$Black[traini$Score==1])
+    ngames <- ngames + ngamesi
+    nwin <- nwin + tabulate(trainiplw, np)
+    ndraw <- ndraw + tabulate(trainipld, np)
+    nloss <- nloss + tabulate(trainipll, np)
+    nlag[ngames!=0] <- nlag[ngames!=0] + 1
+    nlag[playi] <- 0
+
+    if(history) {
+      histry[,i,1] <- crats
+      histry[,i,2] <- sqrt(cdevs)
+      histry[,i,3] <- ngames
+      histry[,i,4] <- nlag
+    }
+  }
+  if(!history) histry <- NULL
+  player <- suppressWarnings(as.numeric(names(c(crats,orats))))
+  if (any(is.na(player))) player <- names(c(crats,orats))
+  dfout <- data.frame(Player=player, Rating=c(crats,orats), Deviation=sqrt(c(cdevs,odevs)), 
+    Games=c(ngames,ongames), Win=c(nwin,onwin), Draw=c(ndraw,ondraw), Loss=c(nloss,onloss), 
+    Lag=c(nlag,olag),
+	stringsAsFactors = FALSE)
+  if(sort) dfout <- dfout[order(dfout$Rating,decreasing=TRUE),] else dfout <- dfout[order(dfout$Player),]
+  row.names(dfout) <- 1:nrow(dfout)
+
+  lout <- list(ratings=dfout, history=histry, gamma=gamma, cval=cval, type = "Glicko")
+  class(lout) <- "rating"
+  lout
+}
+
+"glicko2" <- function(x, status=NULL, init=c(2200,300,0.15), gamma=0, tau=1.2, history=FALSE, sort=TRUE, rdmax = 350, ...)
+{ 
+  if(!is.data.frame(x)) x <- as.data.frame(x)
+  if(!is.data.frame(status) && !is.null(status)) status <- as.data.frame(status)
+  qv <- log(10)/400
+  if(length(init) != 3) stop("the length of 'init' must be three")
+  if(init[2] <= 0) stop("initial deviation must be positive")
+  if(init[2] > rdmax) stop("initial deviation cannot be greater than rdmax")
+  if(init[3] <= 0) stop("initial volatility must be positive")
+  if(init[3] > qv*rdmax) stop("initial volatility cannot be greater than log(10)*rdmax/400")
+  if(ncol(x) != 4) stop("'x' must have four variables")
+  if(nrow(x) == 0) {
+    if(is.null(status)) stop("'x' is empty and 'status' is NULL")
+    lout <- list(ratings=status, history=NULL, gamma=gamma, tau=tau, type = "Glicko-2")
+    class(lout) <- "rating"
+    return(lout)
+  }
+  gammas <- rep(gamma, length.out = nrow(x)) 
+  names(x) <- c("Month","White","Black","Score")
+  if(!is.numeric(x$Month)) 
+    stop("Time period must be numeric")
+  if(!is.numeric(x$White) && !is.character(x$White))
+    stop("Player identifiers must be numeric or character")
+  if(!is.numeric(x$Black) && !is.character(x$Black))
+    stop("Player identifiers must be numeric or character")	
+  if(!is.numeric(x$Score) || any(x$Score > 1) || any(x$Score < 0))
+    stop("Game scores must be in the interval [0,1]")
+  
+  play <- sort(unique(c(x$White,x$Black)))
+  np <- length(play)
+  x$White <- match(x$White, play)
+  x$Black <- match(x$Black, play)
+  
+  if(!is.null(status)) {
+    npadd <- play[!(play %in% status$Player)]
+    zv <- rep(0, length(npadd))
+    npstatus <- data.frame(Player = npadd, Rating = rep(init[1],length(npadd)), 
+                           Deviation = rep(init[2],length(npadd)), Volatility = rep(init[3],length(npadd)), 
+                           Games = zv, Win = zv, Draw = zv, Loss = zv, Lag = zv)
+    if(!("Games" %in% names(status))) status <- cbind(status, Games = 0)
+    if(!("Win" %in% names(status))) status <- cbind(status, Win = 0)
+    if(!("Draw" %in% names(status))) status <- cbind(status, Draw = 0)
+    if(!("Loss" %in% names(status))) status <- cbind(status, Loss = 0)
+    if(!("Lag" %in% names(status))) status <- cbind(status, Lag = 0)
+    status <- rbind(status[,c("Player","Rating","Deviation","Volatility","Games","Win","Draw","Loss","Lag")], npstatus)
+    rinit <- status[[2]]
+    dinit <- status[[3]]
+    vinit <- status[[4]]
+    ngames <- status[[5]]
+    nwin <- status[[6]]
+    ndraw <- status[[7]]
+    nloss <- status[[8]]
+    nlag <- status[[9]]
+    names(rinit) <- names(dinit) <- names(vinit) <- names(ngames) <- status$Player
+  }
+  else {
+    rinit <- rep(init[1], length.out=np)
+    dinit <- rep(init[2], length.out=np)
+    vinit <- rep(init[3], length.out=np)
+    ngames <- nwin <- ndraw <- nloss <- rep(0, length.out=np)
+    nlag <- rep(0,np)
+    names(rinit) <- names(dinit) <- names(vinit) <- names(ngames) <- names(nlag) <- play
+  }
+  
+  if(!all(names(rinit) == names(ngames)))
+    stop("names of ratings and ngames are different")
+  if(!all(play %in% names(rinit))) 
+    stop("Payers in data are not within current status")
+  
+  # conversion to Glicko-2 scale
+  rinit <- qv*(rinit - 1500)
+  gammas <- qv*gammas
+  dinit <- qv*dinit
+  
+  nm <- length(unique(x$Month))
+  curplay <- match(play, names(rinit))
+  orats <- rinit[-curplay] 
+  odevs <- dinit[-curplay]^2
+  ovols <- vinit[-curplay]
+  ongames <- ngames[-curplay]
+  onwin <- nwin[-curplay]
+  ondraw <- ndraw[-curplay]
+  onloss <- nloss[-curplay]
+  olag <- nlag[-curplay]
+  olag[ongames != 0] <- olag[ongames != 0] + nm
+  crats <- rinit[curplay] 
+  cdevs <- dinit[curplay]^2
+  cvols <- vinit[curplay]
+  ngames <- ngames[curplay] 
+  nwin <- nwin[curplay]
+  ndraw <- ndraw[curplay]
+  nloss <- nloss[curplay]
+  nlag <- nlag[curplay]
+  
+  gammas <- split(gammas, x$Month)
+  x <- split(x, x$Month)
+  players <- lapply(x, function(y) unique(c(y$White, y$Black)))
+  if(history) {
+    histry <- array(NA, dim=c(np,nm,5), dimnames=list(play,1:nm,c("Rating","Deviation","Volatility","Games","Lag")))
+  }
+  
+  tau2 <- tau * tau
+  for(i in 1:nm) {
+    traini <- x[[i]]
+    gammai <- gammas[[i]]
+    nr <- nrow(traini)
+    playi <- players[[i]]
+    
+    # nlag[payi]*(cvols[playi]^2) in Glicko-2, (nlag[payi]+1)*(cval^2) in Glicko
+    rdmax2 <- qv * qv * rdmax * rdmax
+    cdevs[playi] <- pmin(cdevs[playi] + (nlag[playi])*(cvols[playi]^2), rdmax2)
+    qip3 <- 3*(1/pi)^2 
+    gdevs <- 1/sqrt(1 + qip3*cdevs) 
+    ngamesi <- tabulate(c(traini$White,traini$Black), np)
+    dscore <- .C("glicko2_c",
+                 as.integer(np), as.integer(nr), as.integer(traini$White-1), as.integer(traini$Black-1),
+                 as.double(traini$Score), as.double(crats), as.double(gdevs), as.double(gammai),
+                 dscore = double(2*np))$dscore
+    vval <- dscore[(np+1):(2*np)]; dscore <- dscore[1:np]
+    
+    if(tau > 0) {
+      nllh <- function(z, pz, cdev, vvi, dsco) {
+        denom <- cdev + exp(z) + vvi
+        delta <- vvi * dsco
+        (z - pz) * (z - pz) / tau2 + log(denom) + delta*delta/denom
+      }
+      for(k in seq_along(playi)) {
+        prv <- 2*log(cvols[playi[k]])
+        oval <- optimize(nllh, lower = prv-4*tau, upper = prv+4*tau, pz = prv, 
+          cdev = cdevs[playi[k]], vvi = 1/vval[playi[k]], dsco = dscore[playi[k]])$minimum
+        cvols[playi[k]] <- min(exp(oval/2), qv * rdmax) 
+      }
+    }
+    
+    cdevs[playi] <- cdevs[playi] + cvols[playi]^2
+    cdevs <- pmin(1/(1/cdevs + vval), rdmax2)
+    crats <- crats + cdevs * dscore
+    
+    trainiplw <- c(traini$White[traini$Score==1],traini$Black[traini$Score==0])
+    trainipld <- c(traini$White[traini$Score==0.5],traini$Black[traini$Score==0.5])
+    trainipll <- c(traini$White[traini$Score==0],traini$Black[traini$Score==1])
+    ngames <- ngames + ngamesi
+    nwin <- nwin + tabulate(trainiplw, np)
+    ndraw <- ndraw + tabulate(trainipld, np)
+    nloss <- nloss + tabulate(trainipll, np)
+    nlag[ngames!=0] <- nlag[ngames!=0] + 1
+    nlag[playi] <- 0
+    
+    if(history) {
+      histry[,i,1] <- crats
+      histry[,i,2] <- sqrt(cdevs)
+      histry[,i,3] <- cvols
+      histry[,i,4] <- ngames
+      histry[,i,5] <- nlag
+    }
+  }
+  if(!history) histry <- NULL
+  player <- suppressWarnings(as.numeric(names(c(crats,orats))))
+  if (any(is.na(player))) player <- names(c(crats,orats))
+  dfout <- data.frame(Player=player, Rating=c(crats,orats), Deviation=sqrt(c(cdevs,odevs)), Volatility=c(cvols,ovols), 
+                      Games=c(ngames,ongames), Win=c(nwin,onwin), Draw=c(ndraw,ondraw), Loss=c(nloss,onloss), 
+                      Lag=c(nlag,olag),
+                      stringsAsFactors = FALSE)
+  if(sort) dfout <- dfout[order(dfout$Rating,decreasing=TRUE),] else dfout <- dfout[order(dfout$Player),]
+  row.names(dfout) <- 1:nrow(dfout)
+  
+  # conversion from Glicko-2 scale
+  dfout$Rating <- dfout$Rating/qv + 1500
+  dfout$Deviation <- dfout$Deviation/qv
+  if(history) {
+    histry[,,1] <- histry[,,1]/qv + 1500
+    histry[,,2] <- histry[,,2]/qv
+  }
+  
+  lout <- list(ratings=dfout, history=histry, gamma=gamma, tau=tau, type = "Glicko-2")
+  class(lout) <- "rating"
+  lout
+}
+
+"steph" <- function(x, status=NULL, init=c(2200,300), gamma=0, cval=10, hval=10, 
+  bval=0, lambda = 2, history=FALSE, sort=TRUE, rdmax = 350, ...)
+{
+  if(!is.data.frame(x)) x <- as.data.frame(x)
+  if(!is.data.frame(status) && !is.null(status)) status <- as.data.frame(status)
+  if(length(init) != 2) stop("the length of 'init' must be two")
+  if(init[2] <= 0) stop("initial deviation must be positive")
+  if(init[2] > rdmax) stop("initial deviation cannot be greater than rdmax")
+  if(ncol(x) != 4) stop("'x' must have four variables")
+  if(nrow(x) == 0) {
+    if(is.null(status)) stop("'x' is empty and 'status' is NULL")
+    lout <- list(ratings=status, history=NULL, gamma=gamma, cval=cval, hval=hval, 
+    bval=bval, lambda=lambda, type = "Stephenson")
+    class(lout) <- "rating"
+    return(lout)
+  }
+  gammas <- rep(gamma, length.out = nrow(x)) 
+  names(x) <- c("Month","White","Black","Score")
+  if(!is.numeric(x$Month)) 
+    stop("Time period must be numeric")
+  if(!is.numeric(x$White) && !is.character(x$White))
+    stop("Player identifiers must be numeric or character")
+  if(!is.numeric(x$Black) && !is.character(x$Black))
+    stop("Player identifiers must be numeric or character")	
+  if(!is.numeric(x$Score) || any(x$Score > 1) || any(x$Score < 0))
+    stop("Game scores must be in the interval [0,1]")
+	
+  play <- sort(unique(c(x$White,x$Black)))
+  np <- length(play)
+  x$White <- match(x$White, play)
+  x$Black <- match(x$Black, play)
+
+  if(!is.null(status)) {
+    npadd <- play[!(play %in% status$Player)]
+	zv <- rep(0, length(npadd))
+    npstatus <- data.frame(Player = npadd, Rating = rep(init[1],length(npadd)), 
+      Deviation = rep(init[2],length(npadd)), Games = zv, Win = zv, Draw = zv, 
+	  Loss = zv, Lag = zv)
+	if(!("Games" %in% names(status))) status <- cbind(status, Games = 0)
+	if(!("Win" %in% names(status))) status <- cbind(status, Win = 0)
+	if(!("Draw" %in% names(status))) status <- cbind(status, Draw = 0)
+	if(!("Loss" %in% names(status))) status <- cbind(status, Loss = 0)
+    if(!("Lag" %in% names(status))) status <- cbind(status, Lag = 0)
+    status <- rbind(status[,c("Player","Rating","Deviation","Games","Win","Draw","Loss","Lag")], npstatus)
+    rinit <- status[[2]]
+    dinit <- status[[3]]
+    ngames <- status[[4]]
+    nwin <- status[[5]]
+    ndraw <- status[[6]]
+    nloss <- status[[7]]
+    nlag <- status[[8]]
+    names(rinit) <- names(dinit) <- names(ngames) <- status$Player
+  }
+  else {
+    rinit <- rep(init[1], length.out=np)
+    dinit <- rep(init[2], length.out=np)
+    ngames <- nwin <- ndraw <- nloss <- rep(0, length.out=np)
+    nlag <- rep(0,np)
+    names(rinit) <- names(dinit) <- names(ngames) <- names(nlag) <- play
+  }
+
+  if(!all(names(rinit) == names(ngames)))
+    stop("names of ratings and ngames are different")
+  if(!all(play %in% names(rinit))) 
+    stop("Payers in data are not within current status")
+
+  nm <- length(unique(x$Month))
+  curplay <- match(play, names(rinit))
+  orats <- rinit[-curplay] 
+  odevs <- dinit[-curplay]^2
+  ongames <- ngames[-curplay]
+  onwin <- nwin[-curplay]
+  ondraw <- ndraw[-curplay]
+  onloss <- nloss[-curplay]
+  olag <- nlag[-curplay]
+  olag[ongames != 0] <- olag[ongames != 0] + nm
+  crats <- rinit[curplay] 
+  cdevs <- dinit[curplay]^2
+  ngames <- ngames[curplay] 
+  nwin <- nwin[curplay]
+  ndraw <- ndraw[curplay]
+  nloss <- nloss[curplay]
+  nlag <- nlag[curplay]
+
+  qv <- log(10)/400; qip3 <- 3*(qv/pi)^2
+  gammas <- split(gammas, x$Month)  
+  x <- split(x, x$Month)
+  players <- lapply(x, function(y) unique(c(y$White, y$Black)))
+  if(history) {
+    histry <- array(NA, dim=c(np,nm,4), dimnames=list(play,1:nm,c("Rating","Deviation","Games","Lag")))
+  }
+    
+  for(i in 1:nm) {
+    traini <- x[[i]]
+	  gammai <- gammas[[i]]
+    nr <- nrow(traini)
+    playi <- players[[i]]
+
+    cdevs[playi] <- pmin(cdevs[playi] + (nlag[playi]+1)*(cval^2), rdmax * rdmax)
+    gdevs <- 1/sqrt(1 + qip3*cdevs) 
+    ngamesi <- tabulate(c(traini$White,traini$Black), np)
+    
+    dscore <- .C("stephenson_c",
+      as.integer(np), as.integer(nr), as.integer(traini$White-1), as.integer(traini$Black-1),
+      as.double(traini$Score), as.double(crats), as.double(gdevs), as.double(gammai),
+      as.double(bval/100), dscore = double(3*np))$dscore
+  
+    l1t <- dscore[(2*np+1):(3*np)]
+    dval <- dscore[(np+1):(2*np)]
+    dscore <- dscore[1:np]
+    
+    cdevs <- 1/(1/(cdevs + ngamesi*(hval^2)) + dval)
+    crats <- crats + cdevs * qv * dscore 
+    crats[playi] <- crats[playi] + (lambda/100)*l1t[playi]/(ngamesi[playi])
+
+    trainiplw <- c(traini$White[traini$Score==1],traini$Black[traini$Score==0])
+    trainipld <- c(traini$White[traini$Score==0.5],traini$Black[traini$Score==0.5])
+    trainipll <- c(traini$White[traini$Score==0],traini$Black[traini$Score==1])
+    ngames <- ngames + ngamesi
+    nwin <- nwin + tabulate(trainiplw, np)
+    ndraw <- ndraw + tabulate(trainipld, np)
+    nloss <- nloss + tabulate(trainipll, np)
+    nlag[ngames!=0] <- nlag[ngames!=0] + 1
+    nlag[playi] <- 0
+
+    if(history) {
+      histry[,i,1] <- crats
+      histry[,i,2] <- sqrt(cdevs)
+      histry[,i,3] <- ngames
+      histry[,i,4] <- nlag
+    }
+  }
+  if(!history) histry <- NULL
+  player <- suppressWarnings(as.numeric(names(c(crats,orats))))
+  if (any(is.na(player))) player <- names(c(crats,orats))
+  dfout <- data.frame(Player=player, Rating=c(crats,orats), Deviation=sqrt(c(cdevs,odevs)), 
+    Games=c(ngames,ongames), Win=c(nwin,onwin), Draw=c(ndraw,ondraw), Loss=c(nloss,onloss), 
+    Lag=c(nlag,olag),
+	stringsAsFactors = FALSE)
+  if(sort) dfout <- dfout[order(dfout$Rating,decreasing=TRUE),] else dfout <- dfout[order(dfout$Player),]
+  row.names(dfout) <- 1:nrow(dfout)
+
+  lout <- list(ratings=dfout, history=histry, gamma=gamma, cval=cval, hval=hval, 
+    bval=bval, lambda=lambda, type = "Stephenson")
+  class(lout) <- "rating"
+  lout
+}
+
+"elom" <- function(x, nn=4, exact=TRUE, base=c(30,10,-10,-30), status=NULL, init=1500, kfac=kriichi, history=FALSE, sort=TRUE, ..., placing=FALSE)
+{
+  if(!is.data.frame(x)) x <- as.data.frame(x)
+  if(!is.data.frame(status) && !is.null(status)) status <- as.data.frame(status)
+  if(is.function(base) && placing) stop("'base' cannot be a function if using placings")
+  if(!is.function(base) && !is.vector(base) && !is.matrix(base))
+    stop("'base' must be a function, vector or matrix")
+  if(length(init) != 1) stop("the length of 'init' must be one")
+  if(ncol(x) != 2*nn+1) stop("'x' must have 2*nn+1 variables")
+  if(exact && any(is.na(x)))
+    stop("'x' cannot have missing values when 'exact' is TRUE")
+  if(is.vector(base) && length(base) != nn) 
+    stop("'base' must be a function or vector of length nn or a nrow(x) by nn matrix")
+  if(is.matrix(base) && (ncol(base) != nn || nrow(base) != nrow(x))) 
+    stop("'base' must be a function or vector of length nn or a nrow(x) by nn matrix")
+  if(nrow(x) == 0) {
+    if(is.null(status)) stop("'x' is empty and 'status' is NULL")
+    lout <- list(ratings = status, history = NULL, nn=nn, exact=exact, kfac=kfac, type = "EloM")
+    class(lout) <- "rating"
+    return(lout)
+  }
+  plays <- paste0("Player", 1:nn)
+  scores <- paste0("Score", 1:nn)
+  names(x) <- c("Month", plays, scores)
+  if(!is.numeric(x$Month)) 
+    stop("Time period must be numeric")
+  for(i in 1:nn) {
+    if(!is.numeric(x[[plays[i]]]) && !is.character(x[[plays[i]]]))
+      stop("Player identifiers must be numeric or character")
+    if(!is.numeric(x[[scores[i]]]))
+      stop("Game scores must be numeric")
+  }
+  npord <- paste0(1:nn, "th")
+  npord[npord == "1th"] <- "1st"
+  npord[npord == "2th"] <- "2nd"
+  npord[npord == "3th"] <- "3rd"
+  
+  play <- unique(c(x[["Player1"]],x[["Player2"]]))
+  for(i in seq_len(nn-2)) play <- unique(c(play, x[[plays[i+2]]]))
+  play <- sort(play)
+  for(i in seq_len(nn)) x[[plays[i]]] <- match(x[[plays[i]]], play)
+  np <- length(play)
+  
+  if(!is.null(status)) {
+    npadd <- play[!(play %in% status$Player)]
+    df <- data.frame(matrix(0, ncol = nn+2, nrow = length(npadd)))
+    colnames(df) <- c("Games", npord, "Lag")
+    npstatus <- cbind(data.frame(Player = npadd, Rating = rep(init,length(npadd))), df)
+    if(!("Games" %in% names(status))) status <- cbind(status, Games = 0)
+    for(i in 1:length(npord)) {
+      if(!(npord[i] %in% names(status))) {
+        status <- cbind(status, 0)
+        colnames(status)[ncol(status)] <- npord[i]
+	  }
+    }
+    if(!("Lag" %in% names(status))) status <- cbind(status, Lag = 0)
+    status <- rbind(status[,c("Player","Rating","Games",npord,"Lag")], npstatus)
+    rinit <- status[[2]]
+    ngames <- status[[3]]
+    for(i in 1:length(npord)) {
+      assign(paste0("n",npord[i]), status[[i + 3]])
+    }
+    nlag <- status[[length(npord) + 4]]
+    names(rinit) <- names(ngames) <- status$Player
+  }
+  else {
+    rinit <- rep(init, length.out=np)
+    ngames <- nlag <- rep(0, length.out=np)
+    for(i in 1:length(npord)) {
+      assign(paste0("n",npord[i]), rep(0, length.out=np))
+    }
+    names(rinit) <- names(ngames) <- names(nlag) <- play
+  }
+  
+  if(!all(names(rinit) == names(ngames)))
+    stop("names of ratings and ngames are different")
+  if(!all(play %in% names(rinit))) 
+    stop("Payers in data are not within current status")
+  
+  nm <- length(unique(x$Month))
+  curplay <- match(play, names(rinit))
+  orats <- rinit[-curplay] 
+  ongames <- ngames[-curplay]
+  for(i in 1:length(npord)) {
+    tmp <- get(paste0("n",npord[i]))[-curplay]
+    assign(paste0("on",npord[i]), tmp)
+  }
+  olag <- nlag[-curplay]
+  olag[ongames != 0] <- olag[ongames != 0] + nm
+  crats <- rinit[curplay] 
+  ngames <- ngames[curplay]
+  for(i in 1:length(npord)) {
+    tmp <- get(paste0("n",npord[i]))[curplay]
+    assign(paste0("n",npord[i]), tmp)
+  }
+  nlag <- nlag[curplay]
+  
+  ranks <- paste0("Rank", 1:nn)
+  bases <- paste0("Base", 1:nn)
+  tmp <- as.matrix(x[,(nn+2):(nn+nn+1)])
+  rnk <- t(apply(tmp, 1, 
+                 function(zz) {
+                   if(placing == TRUE) zz <- -zz
+                   rank(-zz, ties.method = "min", na.last = "keep")
+                   }))
+  colnames(rnk) <- ranks
+  x <- cbind(x, rnk)
+  
+  if(is.function(base)) {
+    for(i in 1:nn) x[[bases[i]]] <- base(x[[scores[i]]])
+  } else {
+    tmpfun <- function(zz, basev) 
+    {
+      if(placing == TRUE) zz <- -zz
+      nan <- sum(is.na(zz))
+      if(nan == 0) return(basev[rank(-zz, ties.method = "min")])
+      for(k in 1:(nn-2)) {
+        sbase <- basev
+        nb <- length(sbase)
+        if((nb %% 2) == 0) {
+          sbase <- c(sbase[1:(nb/2-1)], mean(sbase[(nb/2):(nb/2+1)]), sbase[(nb/2+2):nb])
+        } else {
+          sbase <- c(sbase[1:((nb-1)/2)], sbase[((nb+3)/2):nb])
+        }
+        if(nan == k) return(sbase[rank(-zz, ties.method = "min", na.last = "keep")])
+      } 
+    }
+    if(is.vector(base)) {
+      tmp <- t(apply(tmp, 1, tmpfun, basev = base))
+    } else {
+      tmp <- t(sapply(1:nrow(tmp), function(i) tmpfun(tmp[i,], base[i,])))
+    }
+    colnames(tmp) <- bases
+    x <- cbind(x, tmp)
+  }
+  
+  x[is.na(x)] <- 0
+  x <- split(x, x$Month)
+  if(history) {
+    histry <- array(NA, dim=c(np,nm,3), dimnames=list(play,1:nm,c("Rating","Games","Lag")))
+  }
+  
+  for(i in 1:nm) {
+    traini <- x[[i]]
+    trainip <- as.matrix(traini[,2:(nn+1)])
+    trainir <- as.matrix(traini[,(2*nn+2):(3*nn+1)])
+    trainib <- as.matrix(traini[,(3*nn+2):(4*nn+1)])
+    
+    nr <- nrow(traini)
+    dscore <- .C("elom_c",
+                 as.integer(np), as.integer(nr), as.integer(nn), as.integer(t(trainip) - 1),
+                 as.double(t(trainib)), as.double(crats), dscore = double(np))$dscore
+    
+    if(!is.function(kfac)) {
+      crats <- crats + kfac * dscore
+    }
+    else {
+      crats <- crats + kfac(crats, ngames, ...) * dscore
+    }
+    trainipl <- as.integer(trainip)
+    ngames <- ngames + tabulate(trainipl, np)
+    for(k in 1:length(npord)) {
+      tmp <- get(paste0("n",npord[k])) + tabulate(trainip[trainir == k] , np)
+      assign(paste0("n",npord[k]), tmp)
+    }
+    
+    playi <- unique(trainipl)
+    nlag[ngames!=0] <- nlag[ngames!=0] + 1
+    nlag[playi] <- 0
+    
+    if(history) {
+      histry[,i,1] <- crats
+      histry[,i,2] <- ngames
+      histry[,i,3] <- nlag
+    }
+  }
+  
+  if(!history) histry <- NULL
+  player <- suppressWarnings(as.numeric(names(c(crats,orats))))
+  if (any(is.na(player))) player <- names(c(crats,orats))
+  dfout <- data.frame(Player=player, Rating=c(crats,orats), Games=c(ngames,ongames), stringsAsFactors = FALSE)
+  for(k in 1:length(npord)) {
+    dfout <- cbind(dfout, c(get(paste0("n",npord[k])), get(paste0("on",npord[k]))))
+  }
+  dfout <- cbind(dfout, Lag=c(nlag,olag))
+  colnames(dfout) <- c("Player","Rating","Games",npord,"Lag")
+
+  if(sort) dfout <- dfout[order(dfout$Rating,decreasing=TRUE),] else dfout <- dfout[order(dfout$Player),]
+  row.names(dfout) <- 1:nrow(dfout)  
+  
+  lout <- list(ratings = dfout, history = histry, nn=nn, exact=exact, kfac=kfac, type = "EloM")
+  class(lout) <- "rating"
+  lout
+}
+
+# could add metrics for multiplayer
+
+"metrics" <- function(act, pred, cap = c(0.01,0.99), which = 1:3, na.rm = TRUE,
+  sort = TRUE, digits = 3, scale = TRUE)
+{
+  if(!is.numeric(pred)) stop("'pred' must be numeric")
+  if(!is.numeric(act)) stop("'act' must be numeric")
+  pred <- as.matrix(pred)
+  np <- ncol(pred); nr <- nrow(pred)
+  mets <- matrix(NA, ncol=3, nrow=np, 
+    dimnames=list(colnames(pred),c("bdev","mse","mae")))
+  for(i in 1:np) {
+    predc <- pmax.int(pmin.int(pred[,i], cap[2]), cap[1])
+    mets[i,1] <- -mean(act*log(predc) + (1-act)*log(1-predc), na.rm = na.rm)
+    if(scale) mets[i,1] <- mets[i,1]/(-mean(act*log(0.5) + (1-act)*log(0.5), na.rm = na.rm))
+    mets[i,2] <- sqrt(mean((pred[,i]-act)^2, na.rm = na.rm))
+    if(scale) mets[i,2] <- mets[i,2]/sqrt(mean((0.5-act)^2, na.rm = na.rm))
+    mets[i,3] <- mean(abs(pred[,i]-act), na.rm = na.rm)
+    if(scale) mets[i,3] <- mets[i,3]/mean(abs(0.5-act), na.rm = na.rm)
+  }
+  mets <- 100*mets[,which]
+  if(sort && is.matrix(mets)) mets <- mets[order(mets[,1]),]
+  round(drop(mets), digits)
+}
+
+"kfide" <- function(rating, games, elite = NULL, kv = c(10,15,30)) 
+{
+  if(any(is.na(rating))) stop("missing values in 'ratings' vector")
+  if(any(is.na(games))) stop("missing values in 'games' vector")
+  if(length(rating) != length(games)) 
+    stop("lengths of 'ratings' and 'games' must be the same")
+  kfac <- rep(NA, length(rating))
+  if(is.null(elite)) elite <- (rating >= 2400) else elite <- as.logical(elite)
+  kfac[!elite & games < 30] <- kv[3]
+  kfac[!elite & games >= 30] <- kv[2]
+  kfac[elite] <- kv[1]
+  if(any(is.na(kfac))) stop("missing values in K factor")
+  kfac
+}
+
+"krating" <- function(rating, games, elite = NULL, rv = 2300, kv = c(32,26)) 
+{
+  if(any(is.na(rating))) stop("missing values in 'ratings' vector")
+  if(any(is.na(games))) stop("missing values in 'games' vector")
+  if(length(rating) != length(games)) 
+    stop("lengths of 'ratings' and 'games' must be the same")
+  if(length(rv) != (length(kv)-1)) 
+    stop("length of 'kv' must be one more than 'gv'")
+
+  rv <- c(-Inf, rv, Inf)
+  rind <- as.numeric(cut(rating, rv))
+  kfac <- kv[rind]
+  if(any(is.na(kfac))) stop("missing values in K factor")
+  kfac
+}
+
+"kgames" <- function(rating, games, elite = NULL, gv = 30, kv = c(32,26)) 
+{
+  if(any(is.na(rating))) stop("missing values in 'ratings' vector")
+  if(any(is.na(games))) stop("missing values in 'games' vector")
+  if(length(rating) != length(games)) 
+    stop("lengths of 'ratings' and 'games' must be the same")
+  if(length(gv) != (length(kv)-1)) 
+    stop("length of 'kv' must be one more than 'gv'")
+
+  gv <- c(-Inf, gv, Inf)
+  gind <- as.numeric(cut(games, gv))
+  kfac <- kv[gind]
+  if(any(is.na(kfac))) stop("missing values in K factor")
+  kfac
+}
+
+"kriichi" <- function(rating, games, gv = 400, kv = 0.2)
+{
+  if(any(is.na(rating))) stop("missing values in 'ratings' vector")
+  if(any(is.na(games))) stop("missing values in 'games' vector")
+  if(length(rating) != length(games)) 
+    stop("lengths of 'ratings' and 'games' must be the same")
+  if(length(gv) != 1) 
+    stop("'gv' must be a single number")
+  if(length(kv) != 1) 
+    stop("'kv' must be a single number")
+  
+  kfac <- 1 - (1-kv)*games/gv
+  kfac[games >= gv] <- kv
+  if(any(is.na(kfac))) stop("missing values in K factor")
+  kfac
+}
+
+"print.rating" <-  function(x, cols = 1:ncol(x$ratings), digits = 0, ...) 
+{
+    rdf <- x$ratings
+    rdf$Rating <- round(rdf$Rating, digits)
+    if(x$type == "Glicko" || x$type == "Glicko-2" || x$type == "Stephenson") 
+	    rdf$Deviation <- round(rdf$Deviation, digits+2)
+    if(x$type == "Glicko-2") 
+      rdf$Volatility <- round(rdf$Volatility, digits+4)
+    np <- nrow(rdf)
+    if(x$type != "EloM") {
+      ng <- round(sum(rdf$Games)/2)
+      cat(paste("\n",x$type," Ratings For ",np," Players Playing ",ng," Games\n\n", sep=""))
+    } else if(x$exact) {
+      ng <- round(sum(rdf$Games)/x$nn)
+      cat(paste("\n",x$type," Ratings For ",np," Players Playing ",ng," Games\n\n", sep=""))
+    } else {
+      cat(paste("\n",x$type," Ratings For ",np," Players\n\n", sep=""))
+    }
+    
+    print(rdf[1:(min(1000,np)),cols,drop=FALSE])
+    if(np > 1000) cat("\nOutput Tructated To First 1000 Players \n")
+    cat("\n")
+    invisible(0)
+}
+
+"summary.rating" <-  function(object, ...) 
+{
+  obj <- object$ratings
+  obj$Games <- factor(obj$Games)
+  obj$Lag <- factor(obj$Lag)
+  summary(obj)
+}
+
+"predict.rating" <- function(object, newdata, tng=15, trat=NULL, gamma=30, 
+  thresh, placing = FALSE, ...)
+{
+  if(missing(newdata) || nrow(newdata) == 0) 
+    stop("'newdata' must be non-missing and have non-zero rows")
+  obj <- object$ratings
+  
+  fun_trat <- function(vec) {
+    vec[is.na(vec)] <- trat[1]
+    return(vec)
+  }
+  
+  if(object$type != "EloM") {
+    wmat <- match(newdata[[2]], obj$Player)
+    bmat <- match(newdata[[3]], obj$Player)
+    qv <- log(10)/400; qip3 <- 3*(qv/pi)^2
+  } else {
+    np <- (ncol(newdata)-1L) %/% 2L
+    for(i in 1:np) {
+      assign(paste0("mat",i), match(newdata[[i+1]], obj$Player))
+    }
+  }
+  
+  if(!is.null(trat)) {
+    if(object$type == "Elo" && length(trat) != 1)
+      stop("'trat' must be vector of length one")
+    if(object$type == "EloM" && length(trat) != 1)
+      stop("'trat' must be vector of length one")
+    if(object$type != "Elo" && object$type != "EloM" && length(trat) != 2)
+      stop("'trat' must be vector of length two")
+  }
+
+  if(!is.null(trat)) obj$Rating[obj$Games < tng] <- trat[1]
+  else is.na(obj$Rating[obj$Games < tng]) <- TRUE
+  if(object$type != "Elo" && object$type != "EloM") {
+    if(!is.null(trat)) obj$Deviation[obj$Games < tng] <- trat[2]
+    else is.na(obj$Deviation[obj$Games < tng]) <- TRUE
+  }
+  
+  if(object$type != "EloM") {  
+    wrat <- obj$Rating[wmat]; brat <- obj$Rating[bmat]
+    if(!is.null(trat)) wrat[is.na(wrat)] <- trat[1]
+    if(!is.null(trat)) brat[is.na(brat)] <- trat[1]
+  } else {
+    rats <- matrix(NA, nrow = nrow(newdata), ncol = np)
+    for(i in 1:np) {
+      assign(paste0("rat",i), obj$Rating[get(paste0("mat",i))])
+      if(!is.null(trat)) {
+        assign(paste0("rat",i), fun_trat(get(paste0("rat",i))))
+      }
+      rats[,i] <- get(paste0("rat",i))
+    }
+  }
+    
+  if(object$type != "Elo" && object$type != "EloM") 
+  {
+    wdev <- obj$Deviation[wmat]; bdev <- obj$Deviation[bmat]
+    if(!is.null(trat)) wdev[is.na(wdev)] <- trat[2]
+    if(!is.null(trat)) bdev[is.na(bdev)] <- trat[2]
+  }
+  
+  if(object$type == "Elo")
+    preds <- 1/(1+10^((brat-wrat-gamma)/400))
+  if(object$type != "Elo" && object$type != "EloM") {
+    vec <- 1/sqrt(1 + qip3*(wdev^2 + bdev^2))
+    preds <- 1/(1+10^(vec * (brat-wrat-gamma)/400))
+  }
+  if(object$type == "EloM") {
+    preds <- (rats  - rowMeans(rats, na.rm = TRUE))/40
+  }
+  
+  if(!missing(thresh) && object$type != "EloM") 
+    preds <- as.numeric(preds >= thresh)
+  if(placing && object$type == "EloM") 
+    preds <- t(apply(-preds, 1, rank, na.last = "keep", ties.method = "min"))
+  
+  return(preds)
+}
+
+"hist.rating" <- function(x, which = "Rating", tng=15, history = FALSE, log = FALSE, 
+  xlab = which, main = paste(x$type," Ratings System"), density=FALSE, add=FALSE, ...)
+{
+   if(!history) {
+     obj <- x$ratings
+     obj <- obj[obj$Games >= tng,]
+     obj <- obj[[which]]
+     if(log) obj <- log(obj+1) 
+     if(density) {
+       if(add) lines(density(obj), xlab=xlab, main=main, ...)
+       else plot(density(obj), xlab=xlab, main=main, ...)
+     } else hist(obj, xlab=xlab, main=main, ...)
+   } else {
+     if(is.null(x$history)) stop("Need Full History For Plotting")
+     obj <- x$history[,,which]
+     ngm <- x$history[,,"Games"]
+     nt <- ncol(obj)
+     old <- par(ask = TRUE)
+     for(i in 1:nt) {
+       ngi <- (ngm[,i] >= tng)
+	   if(all(!ngi)) next
+       if(density) {
+         if(add) lines(density(obj[ngi,i]), xlab=xlab, main=main, ...)
+         else plot(density(obj[ngi,i]), xlab=xlab, main=main, ...)
+       } else hist(obj[ngi,i], xlab=xlab, main=main, ...)
+     }
+     par(old)
+   }
+   invisible(obj)
+}
+
+"plot.rating" <- function(x, which = "Rating", players = NULL, t0 = 1, tv = NULL, 
+  npl = 10, random = FALSE, xlab = "Time Period", ylab = paste(x$type," Ratings"), 
+  main = paste(x$type," Ratings System"), inflation = FALSE, add=FALSE, ...) 
+{
+  if(is.null(x$history)) stop("Need Full History For Plotting")
+  dmh <- dim(x$history)
+  np <- dmh[1]
+  if(length(t0) == 2) {
+    nt <- t0[2]
+    t0 <- t0[1] 
+  } else nt <- dmh[2]
+  if(nt > dmh[2] || nt==1) stop("Not enough history available")
+  obj <- x$history[,t0:nt,which]
+  ngm <- x$history[,t0:nt,"Games"]
+  if(is.null(tv)) tv <- t0:nt 
+  if(inflation == TRUE) {
+    obj <- x$history[,t0:nt,"Rating"]
+    objG <- x$history[,t0:nt,"Games"]
+    objL <- x$history[,t0:nt,"Lag"]
+    is.na(obj) <- (objL > 11 | objG < 25)
+    obj <- apply(obj, 2, function(x) mean(sort(x, decreasing = TRUE)[1:npl]))
+    if(!add) plot(tv, obj, type="l", xlab=xlab, ylab=ylab, main=main, ...)
+    else lines(tv, obj, ...)
+    return(invisible(0))
+  }
+  if(!is.null(players)) {
+    obj <- t(as.matrix(obj[as.character(players),]))
+    matplot(tv, obj, type="l", xlab=xlab, ylab=ylab, main=main, add=add, ...)
+  } else {
+    if(!random) players <- order(ngm[,1],decreasing=TRUE)[1:npl]
+    else players <- sample(1:npl, 10)
+    obj <- t(as.matrix(obj[players,]))
+    matplot(tv, obj, type="l", xlab=xlab, ylab=ylab, main=main, add=add, ...)
+  }
+  invisible(0)
+}
+
+

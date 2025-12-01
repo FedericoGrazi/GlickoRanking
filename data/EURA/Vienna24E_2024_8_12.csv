@@ -1,0 +1,500 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open Elite,Group A,1,Single game,Eisenträger/Siemer,Ricochet Robots,Eisenträger/Siemer,15,11,,,,,Eisenträger Lukas,Paul Siemer,Kasimir Nerad,Tim Bichler
+Group Stage,Open Elite,Group A,1,Single game,Smile,Serial Chillers,Serial Chillers,13,15,,,,,Gabriel Stoisser,Felix Millton,Alessandro Zanellato,Jacopo Dudine
+Group Stage,Open Elite,Group B,1,Single game,Zwaffle everyone,Scientific Approach,Zwaffle everyone,15,9,,,,,Robin Florinda,Levi Vandaele,Teo Kukuljan,Jeroen Brus
+Group Stage,Open Elite,Group B,1,Single game,RCG Powerline,Never Cold🌡️,RCG Powerline,15,12,,,,,Nelson Dziruni,Benjamin Bachler,Jaroslav Čabala,Jan Stachiewicz
+Group Stage,Open Elite,Group C,1,Single game,Krehle / Christiani,Mercadini/Sacchini,Krehle / Christiani,20,18,,,,,Julian Krehle,Lucas Christiani,Matteo Sacchini,riccardo mercadini
+Group Stage,Open Elite,Group C,1,Single game,Le Spiko de Familia,Roundnet Middelfart,Le Spiko de Familia,15,13,,,,,Andreas Christensen,Kasper Søvndal,Aymeric Sandoz,Olivier Hui Bon Hoa
+Group Stage,Open Elite,Group D,1,Single game,nerds in disguise,2 sehr affine Engel,nerds in disguise,15,9,,,,,Stefan Handschmann,David Jindra,Carlo Engel,Serafin Rieser
+Group Stage,Open Elite,Group D,1,Single game,Bazzani/Borsotti,Full Send,Bazzani/Borsotti,15,11,,,,,Nicola Bazzani,Andrea Borsotti,Johannes Mitterwald,Mathias Gangkofner
+Group Stage,Open Elite,Group A,2,Single game,Eisenträger/Siemer,Serial Chillers,Eisenträger/Siemer,20,18,,,,,Eisenträger Lukas,Paul Siemer,Alessandro Zanellato,Jacopo Dudine
+Group Stage,Open Elite,Group A,2,Single game,Smile,Ricochet Robots,Ricochet Robots,14,16,,,,,Gabriel Stoisser,Felix Millton,Kasimir Nerad,Tim Bichler
+Group Stage,Open Elite,Group B,2,Single game,Zwaffle everyone,Never Cold🌡️,Zwaffle everyone,15,5,,,,,Robin Florinda,Levi Vandaele,Jaroslav Čabala,Jan Stachiewicz
+Group Stage,Open Elite,Group B,2,Single game,RCG Powerline,Scientific Approach,Scientific Approach,13,15,,,,,Nelson Dziruni,Benjamin Bachler,Teo Kukuljan,Jeroen Brus
+Group Stage,Open Elite,Group C,2,Single game,Krehle / Christiani,Roundnet Middelfart,Krehle / Christiani,15,12,,,,,Julian Krehle,Lucas Christiani,Aymeric Sandoz,Olivier Hui Bon Hoa
+Group Stage,Open Elite,Group C,2,Single game,Le Spiko de Familia,Mercadini/Sacchini,Le Spiko de Familia,21,19,,,,,Andreas Christensen,Kasper Søvndal,Matteo Sacchini,riccardo mercadini
+Group Stage,Open Elite,Group D,2,Single game,nerds in disguise,Full Send,Full Send,12,15,,,,,Stefan Handschmann,David Jindra,Johannes Mitterwald,Mathias Gangkofner
+Group Stage,Open Elite,Group D,2,Single game,Bazzani/Borsotti,2 sehr affine Engel,Bazzani/Borsotti,15,12,,,,,Nicola Bazzani,Andrea Borsotti,Carlo Engel,Serafin Rieser
+Group Stage,Open Elite,Group A,3,Single game,Eisenträger/Siemer,Smile,Eisenträger/Siemer,15,8,,,,,Eisenträger Lukas,Paul Siemer,Gabriel Stoisser,Felix Millton
+Group Stage,Open Elite,Group A,3,Single game,Serial Chillers,Ricochet Robots,Serial Chillers,15,10,,,,,Alessandro Zanellato,Jacopo Dudine,Kasimir Nerad,Tim Bichler
+Group Stage,Open Elite,Group B,3,Single game,Zwaffle everyone,RCG Powerline,Zwaffle everyone,15,10,,,,,Robin Florinda,Levi Vandaele,Nelson Dziruni,Benjamin Bachler
+Group Stage,Open Elite,Group B,3,Single game,Never Cold🌡️,Scientific Approach,Scientific Approach,13,15,,,,,Jaroslav Čabala,Jan Stachiewicz,Teo Kukuljan,Jeroen Brus
+Group Stage,Open Elite,Group C,3,Single game,Krehle / Christiani,Le Spiko de Familia,Krehle / Christiani,15,8,,,,,Julian Krehle,Lucas Christiani,Andreas Christensen,Kasper Søvndal
+Group Stage,Open Elite,Group C,3,Single game,Roundnet Middelfart,Mercadini/Sacchini,Mercadini/Sacchini,11,15,,,,,Aymeric Sandoz,Olivier Hui Bon Hoa,Matteo Sacchini,riccardo mercadini
+Group Stage,Open Elite,Group D,3,Single game,nerds in disguise,Bazzani/Borsotti,Bazzani/Borsotti,12,15,,,,,Stefan Handschmann,David Jindra,Nicola Bazzani,Andrea Borsotti
+Group Stage,Open Elite,Group D,3,Single game,Full Send,2 sehr affine Engel,2 sehr affine Engel,11,15,,,,,Johannes Mitterwald,Mathias Gangkofner,Carlo Engel,Serafin Rieser
+Group Stage,Open Elite,Group A,4,Single game,Eisenträger/Siemer,Ricochet Robots,Eisenträger/Siemer,15,6,,,,,Eisenträger Lukas,Paul Siemer,Kasimir Nerad,Tim Bichler
+Group Stage,Open Elite,Group A,4,Single game,Smile,Serial Chillers,Smile,15,12,,,,,Gabriel Stoisser,Felix Millton,Alessandro Zanellato,Jacopo Dudine
+Group Stage,Open Elite,Group B,4,Single game,Zwaffle everyone,Scientific Approach,Zwaffle everyone,15,6,,,,,Robin Florinda,Levi Vandaele,Teo Kukuljan,Jeroen Brus
+Group Stage,Open Elite,Group B,4,Single game,RCG Powerline,Never Cold🌡️,RCG Powerline,15,10,,,,,Nelson Dziruni,Benjamin Bachler,Jaroslav Čabala,Jan Stachiewicz
+Group Stage,Open Elite,Group C,4,Single game,Krehle / Christiani,Mercadini/Sacchini,Krehle / Christiani,15,10,,,,,Julian Krehle,Lucas Christiani,Matteo Sacchini,riccardo mercadini
+Group Stage,Open Elite,Group C,4,Single game,Le Spiko de Familia,Roundnet Middelfart,Roundnet Middelfart,16,18,,,,,Andreas Christensen,Kasper Søvndal,Aymeric Sandoz,Olivier Hui Bon Hoa
+Group Stage,Open Elite,Group D,4,Single game,nerds in disguise,2 sehr affine Engel,nerds in disguise,16,14,,,,,Stefan Handschmann,David Jindra,Carlo Engel,Serafin Rieser
+Group Stage,Open Elite,Group D,4,Single game,Bazzani/Borsotti,Full Send,Full Send,14,16,,,,,Nicola Bazzani,Andrea Borsotti,Johannes Mitterwald,Mathias Gangkofner
+Group Stage,Open Elite,Group A,5,Single game,Eisenträger/Siemer,Serial Chillers,Eisenträger/Siemer,15,11,,,,,Eisenträger Lukas,Paul Siemer,Alessandro Zanellato,Jacopo Dudine
+Group Stage,Open Elite,Group A,5,Single game,Smile,Ricochet Robots,Smile,15,13,,,,,Gabriel Stoisser,Felix Millton,Kasimir Nerad,Tim Bichler
+Group Stage,Open Elite,Group B,5,Single game,Zwaffle everyone,Never Cold🌡️,Zwaffle everyone,15,8,,,,,Robin Florinda,Levi Vandaele,Jaroslav Čabala,Jan Stachiewicz
+Group Stage,Open Elite,Group B,5,Single game,RCG Powerline,Scientific Approach,RCG Powerline,15,11,,,,,Nelson Dziruni,Benjamin Bachler,Teo Kukuljan,Jeroen Brus
+Group Stage,Open Elite,Group C,5,Single game,Krehle / Christiani,Roundnet Middelfart,Krehle / Christiani,15,9,,,,,Julian Krehle,Lucas Christiani,Aymeric Sandoz,Olivier Hui Bon Hoa
+Group Stage,Open Elite,Group C,5,Single game,Le Spiko de Familia,Mercadini/Sacchini,Mercadini/Sacchini,12,15,,,,,Andreas Christensen,Kasper Søvndal,Matteo Sacchini,riccardo mercadini
+Group Stage,Open Elite,Group D,5,Single game,nerds in disguise,Full Send,Full Send,9,15,,,,,Stefan Handschmann,David Jindra,Johannes Mitterwald,Mathias Gangkofner
+Group Stage,Open Elite,Group D,5,Single game,Bazzani/Borsotti,2 sehr affine Engel,2 sehr affine Engel,13,15,,,,,Nicola Bazzani,Andrea Borsotti,Carlo Engel,Serafin Rieser
+Group Stage,Open Elite,Group A,6,Single game,Eisenträger/Siemer,Smile,Eisenträger/Siemer,21,19,,,,,Eisenträger Lukas,Paul Siemer,Gabriel Stoisser,Felix Millton
+Group Stage,Open Elite,Group A,6,Single game,Serial Chillers,Ricochet Robots,Ricochet Robots,13,15,,,,,Alessandro Zanellato,Jacopo Dudine,Kasimir Nerad,Tim Bichler
+Group Stage,Open Elite,Group B,6,Single game,Zwaffle everyone,RCG Powerline,Zwaffle everyone,15,10,,,,,Robin Florinda,Levi Vandaele,Nelson Dziruni,Benjamin Bachler
+Group Stage,Open Elite,Group B,6,Single game,Never Cold🌡️,Scientific Approach,Scientific Approach,15,17,,,,,Jaroslav Čabala,Jan Stachiewicz,Teo Kukuljan,Jeroen Brus
+Group Stage,Open Elite,Group C,6,Single game,Krehle / Christiani,Le Spiko de Familia,Krehle / Christiani,15,9,,,,,Julian Krehle,Lucas Christiani,Andreas Christensen,Kasper Søvndal
+Group Stage,Open Elite,Group C,6,Single game,Roundnet Middelfart,Mercadini/Sacchini,Mercadini/Sacchini,12,15,,,,,Aymeric Sandoz,Olivier Hui Bon Hoa,Matteo Sacchini,riccardo mercadini
+Group Stage,Open Elite,Group D,6,Single game,nerds in disguise,Bazzani/Borsotti,Bazzani/Borsotti,11,15,,,,,Stefan Handschmann,David Jindra,Nicola Bazzani,Andrea Borsotti
+Group Stage,Open Elite,Group D,6,Single game,Full Send,2 sehr affine Engel,Full Send,15,13,,,,,Johannes Mitterwald,Mathias Gangkofner,Carlo Engel,Serafin Rieser
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Zwaffle everyone,Never Cold🌡️,Zwaffle everyone,21,16,21,9,,,Robin Florinda,Levi Vandaele,Jaroslav Čabala,Jan Stachiewicz
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Krehle / Christiani,Roundnet Middelfart,Krehle / Christiani,21,19,21,15,,,Julian Krehle,Lucas Christiani,Aymeric Sandoz,Olivier Hui Bon Hoa
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Eisenträger/Siemer,Ricochet Robots,Eisenträger/Siemer,21,13,21,14,,,Eisenträger Lukas,Paul Siemer,Kasimir Nerad,Tim Bichler
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Bazzani/Borsotti,Le Spiko de Familia,Le Spiko de Familia,19,21,19,21,,,Nicola Bazzani,Andrea Borsotti,Andreas Christensen,Kasper Søvndal
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Full Send,Smile,Smile,15,21,14,21,,,Johannes Mitterwald,Mathias Gangkofner,Gabriel Stoisser,Felix Millton
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Mercadini/Sacchini,nerds in disguise,Mercadini/Sacchini,21,19,1,0,,,Matteo Sacchini,riccardo mercadini,Stefan Handschmann,David Jindra
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,RCG Powerline,2 sehr affine Engel,RCG Powerline,21,14,25,23,,,Nelson Dziruni,Benjamin Bachler,Carlo Engel,Serafin Rieser
+Bracket Stage,Open Elite,Bracket A,Round of 16,Best of 3,Scientific Approach,Serial Chillers,Serial Chillers,0,1,1,0,0,1,Teo Kukuljan,Jeroen Brus,Alessandro Zanellato,Jacopo Dudine
+Bracket Stage,Open Elite,Bracket A,Quarter-final,Best of 3,Zwaffle everyone,Serial Chillers,Zwaffle everyone,21,12,21,14,,,Robin Florinda,Levi Vandaele,Alessandro Zanellato,Jacopo Dudine
+Bracket Stage,Open Elite,Bracket A,Quarter-final,Best of 3,Krehle / Christiani,RCG Powerline,RCG Powerline,21,13,24,25,24,25,Julian Krehle,Lucas Christiani,Nelson Dziruni,Benjamin Bachler
+Bracket Stage,Open Elite,Bracket A,Quarter-final,Best of 3,Eisenträger/Siemer,Mercadini/Sacchini,Eisenträger/Siemer,21,16,21,13,,,Eisenträger Lukas,Paul Siemer,Matteo Sacchini,riccardo mercadini
+Bracket Stage,Open Elite,Bracket A,Quarter-final,Best of 3,Le Spiko de Familia,Smile,Le Spiko de Familia,25,24,21,16,,,Andreas Christensen,Kasper Søvndal,Gabriel Stoisser,Felix Millton
+Bracket Stage,Open Elite,Bracket A,P9: Quarter-final,Best of 3,Scientific Approach,Never Cold🌡️,Scientific Approach,15,7,15,13,,,Teo Kukuljan,Jeroen Brus,Jaroslav Čabala,Jan Stachiewicz
+Bracket Stage,Open Elite,Bracket A,Semi-final,Best of 3,Zwaffle everyone,Le Spiko de Familia,Zwaffle everyone,21,15,21,11,,,Robin Florinda,Levi Vandaele,Andreas Christensen,Kasper Søvndal
+Bracket Stage,Open Elite,Bracket A,Semi-final,Best of 3,RCG Powerline,Eisenträger/Siemer,Eisenträger/Siemer,10,21,13,21,,,Nelson Dziruni,Benjamin Bachler,Eisenträger Lukas,Paul Siemer
+Bracket Stage,Open Elite,Bracket A,P5: Semi-final,Best of 3,Smile,Serial Chillers,Smile,21,14,1,0,,,Gabriel Stoisser,Felix Millton,Alessandro Zanellato,Jacopo Dudine
+Bracket Stage,Open Elite,Bracket A,P9: Semi-final,Best of 3,Scientific Approach,Full Send,Scientific Approach,15,13,15,13,,,Teo Kukuljan,Jeroen Brus,Johannes Mitterwald,Mathias Gangkofner
+Bracket Stage,Open Elite,Bracket A,Final,Best of 3,Zwaffle everyone,Eisenträger/Siemer,Zwaffle everyone,25,23,24,22,,,Robin Florinda,Levi Vandaele,Eisenträger Lukas,Paul Siemer
+Bracket Stage,Open Elite,Bracket A,P3: Final,Best of 3,RCG Powerline,Le Spiko de Familia,Le Spiko de Familia,18,21,17,21,,,Nelson Dziruni,Benjamin Bachler,Andreas Christensen,Kasper Søvndal
+Group Stage,Open Pro,Group A,1,Single game,Fake elites,Complement,Fake elites,15,10,,,,,Louis Mareschal,Vincent Mathieu,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group A,1,Single game,Denland & Switzermark,Ur Done,Denland & Switzermark,15,10,,,,,Nicolas Perriraz,Mathias Linnet,Jamie Douglas,David Rowlands
+Group Stage,Open Pro,Group B,1,Single game,Merlin/Yannick,Rebel,Rebel,13,15,,,,,Yannick Robert,Merlin Baumeler,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group B,1,Single game,Gauterin/Schlosser,Frosterle,Frosterle,13,15,,,,,Pascal Schlosser,Marcus Gauterin,Markus Anderle,David Leidenfrost
+Group Stage,Open Pro,Group A,2,Single game,Fake elites,Ur Done,Fake elites,15,8,,,,,Louis Mareschal,Vincent Mathieu,Jamie Douglas,David Rowlands
+Group Stage,Open Pro,Group A,2,Single game,Tbd,Complement,Complement,20,21,,,,,Mattia Pareschi,Matteo Molli,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group B,2,Single game,Merlin/Yannick,Frosterle,Merlin/Yannick,15,11,,,,,Yannick Robert,Merlin Baumeler,Markus Anderle,David Leidenfrost
+Group Stage,Open Pro,Group B,2,Single game,UnderDAWGS,Rebel,UnderDAWGS,21,19,,,,,Jakub Víšek,Sebi Mezzey,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group A,3,Single game,Fake elites,Tbd,Fake elites,15,10,,,,,Louis Mareschal,Vincent Mathieu,Mattia Pareschi,Matteo Molli
+Group Stage,Open Pro,Group A,3,Single game,Denland & Switzermark,Complement,Denland & Switzermark,18,16,,,,,Nicolas Perriraz,Mathias Linnet,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group B,3,Single game,Merlin/Yannick,UnderDAWGS,Merlin/Yannick,15,13,,,,,Yannick Robert,Merlin Baumeler,Jakub Víšek,Sebi Mezzey
+Group Stage,Open Pro,Group B,3,Single game,Gauterin/Schlosser,Rebel,Gauterin/Schlosser,15,9,,,,,Pascal Schlosser,Marcus Gauterin,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group A,4,Single game,Denland & Switzermark,Tbd,Tbd,12,15,,,,,Nicolas Perriraz,Mathias Linnet,Mattia Pareschi,Matteo Molli
+Group Stage,Open Pro,Group A,4,Single game,Ur Done,Complement,Complement,11,15,,,,,Jamie Douglas,David Rowlands,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group B,4,Single game,Gauterin/Schlosser,UnderDAWGS,Gauterin/Schlosser,15,9,,,,,Pascal Schlosser,Marcus Gauterin,Jakub Víšek,Sebi Mezzey
+Group Stage,Open Pro,Group B,4,Single game,Frosterle,Rebel,Frosterle,15,11,,,,,Markus Anderle,David Leidenfrost,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group A,5,Single game,Fake elites,Denland & Switzermark,Fake elites,15,7,,,,,Louis Mareschal,Vincent Mathieu,Nicolas Perriraz,Mathias Linnet
+Group Stage,Open Pro,Group A,5,Single game,Tbd,Ur Done,Tbd,15,11,,,,,Mattia Pareschi,Matteo Molli,Jamie Douglas,David Rowlands
+Group Stage,Open Pro,Group B,5,Single game,Merlin/Yannick,Gauterin/Schlosser,Gauterin/Schlosser,12,15,,,,,Yannick Robert,Merlin Baumeler,Pascal Schlosser,Marcus Gauterin
+Group Stage,Open Pro,Group B,5,Single game,UnderDAWGS,Frosterle,Frosterle,14,16,,,,,Jakub Víšek,Sebi Mezzey,Markus Anderle,David Leidenfrost
+Group Stage,Open Pro,Group A,6,Single game,Fake elites,Complement,Fake elites,15,10,,,,,Louis Mareschal,Vincent Mathieu,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group A,6,Single game,Denland & Switzermark,Ur Done,Ur Done,9,15,,,,,Nicolas Perriraz,Mathias Linnet,Jamie Douglas,David Rowlands
+Group Stage,Open Pro,Group B,6,Single game,Merlin/Yannick,Rebel,Rebel,12,15,,,,,Yannick Robert,Merlin Baumeler,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group B,6,Single game,Gauterin/Schlosser,Frosterle,Frosterle,12,15,,,,,Pascal Schlosser,Marcus Gauterin,Markus Anderle,David Leidenfrost
+Group Stage,Open Pro,Group A,7,Single game,Fake elites,Ur Done,Fake elites,15,6,,,,,Louis Mareschal,Vincent Mathieu,Jamie Douglas,David Rowlands
+Group Stage,Open Pro,Group A,7,Single game,Tbd,Complement,Tbd,15,11,,,,,Mattia Pareschi,Matteo Molli,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group B,7,Single game,Merlin/Yannick,Frosterle,Merlin/Yannick,15,10,,,,,Yannick Robert,Merlin Baumeler,Markus Anderle,David Leidenfrost
+Group Stage,Open Pro,Group B,7,Single game,UnderDAWGS,Rebel,Rebel,9,15,,,,,Jakub Víšek,Sebi Mezzey,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group A,8,Single game,Fake elites,Tbd,Fake elites,15,7,,,,,Louis Mareschal,Vincent Mathieu,Mattia Pareschi,Matteo Molli
+Group Stage,Open Pro,Group A,8,Single game,Denland & Switzermark,Complement,Denland & Switzermark,15,12,,,,,Nicolas Perriraz,Mathias Linnet,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group B,8,Single game,Merlin/Yannick,UnderDAWGS,Merlin/Yannick,15,12,,,,,Yannick Robert,Merlin Baumeler,Jakub Víšek,Sebi Mezzey
+Group Stage,Open Pro,Group B,8,Single game,Gauterin/Schlosser,Rebel,Gauterin/Schlosser,15,12,,,,,Pascal Schlosser,Marcus Gauterin,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group A,9,Single game,Denland & Switzermark,Tbd,Tbd,14,16,,,,,Nicolas Perriraz,Mathias Linnet,Mattia Pareschi,Matteo Molli
+Group Stage,Open Pro,Group A,9,Single game,Ur Done,Complement,Ur Done,15,13,,,,,Jamie Douglas,David Rowlands,Jonas Bottler,Karl Wolf
+Group Stage,Open Pro,Group B,9,Single game,Gauterin/Schlosser,UnderDAWGS,Gauterin/Schlosser,15,9,,,,,Pascal Schlosser,Marcus Gauterin,Jakub Víšek,Sebi Mezzey
+Group Stage,Open Pro,Group B,9,Single game,Frosterle,Rebel,Rebel,14,16,,,,,Markus Anderle,David Leidenfrost,Jerry Lee,Chou Po-Jui
+Group Stage,Open Pro,Group A,10,Single game,Fake elites,Denland & Switzermark,Fake elites,15,13,,,,,Louis Mareschal,Vincent Mathieu,Nicolas Perriraz,Mathias Linnet
+Group Stage,Open Pro,Group A,10,Single game,Tbd,Ur Done,Tbd,15,13,,,,,Mattia Pareschi,Matteo Molli,Jamie Douglas,David Rowlands
+Group Stage,Open Pro,Group B,10,Single game,Merlin/Yannick,Gauterin/Schlosser,Merlin/Yannick,15,13,,,,,Yannick Robert,Merlin Baumeler,Pascal Schlosser,Marcus Gauterin
+Group Stage,Open Pro,Group B,10,Single game,UnderDAWGS,Frosterle,Frosterle,13,15,,,,,Jakub Víšek,Sebi Mezzey,Markus Anderle,David Leidenfrost
+Bracket Stage,Open Pro,Bracket A,Round of 16,Best of 3,Denland & Switzermark,UnderDAWGS,Denland & Switzermark,15,11,15,12,,,Nicolas Perriraz,Mathias Linnet,Jakub Víšek,Sebi Mezzey
+Bracket Stage,Open Pro,Bracket A,Round of 16,Best of 3,Complement,Ur Done,Complement,21,18,21,19,,,Jonas Bottler,Karl Wolf,Jamie Douglas,David Rowlands
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Fake elites,Complement,Fake elites,21,18,21,16,,,Louis Mareschal,Vincent Mathieu,Jonas Bottler,Karl Wolf
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Gauterin/Schlosser,Denland & Switzermark,Gauterin/Schlosser,21,19,21,10,,,Pascal Schlosser,Marcus Gauterin,Nicolas Perriraz,Mathias Linnet
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Merlin/Yannick,Rebel,Merlin/Yannick,18,21,21,18,22,20,Yannick Robert,Merlin Baumeler,Jerry Lee,Chou Po-Jui
+Bracket Stage,Open Pro,Bracket A,Quarter-final,Best of 3,Frosterle,Tbd,Frosterle,16,21,21,15,21,19,Markus Anderle,David Leidenfrost,Mattia Pareschi,Matteo Molli
+Bracket Stage,Open Pro,Bracket A,Semi-final,Best of 3,Fake elites,Frosterle,Fake elites,21,12,21,13,,,Louis Mareschal,Vincent Mathieu,Markus Anderle,David Leidenfrost
+Bracket Stage,Open Pro,Bracket A,Semi-final,Best of 3,Gauterin/Schlosser,Merlin/Yannick,Gauterin/Schlosser,21,13,21,15,,,Pascal Schlosser,Marcus Gauterin,Yannick Robert,Merlin Baumeler
+Bracket Stage,Open Pro,Bracket A,P5: Semi-final,Best of 3,Tbd,Complement,Tbd,21,16,1,0,,,Mattia Pareschi,Matteo Molli,Jonas Bottler,Karl Wolf
+Bracket Stage,Open Pro,Bracket A,P5: Semi-final,Best of 3,Rebel,Denland & Switzermark,Rebel,13,15,15,12,15,13,Jerry Lee,Chou Po-Jui,Nicolas Perriraz,Mathias Linnet
+Bracket Stage,Open Pro,Bracket A,Final,Best of 3,Fake elites,Gauterin/Schlosser,Fake elites,21,17,21,9,,,Louis Mareschal,Vincent Mathieu,Pascal Schlosser,Marcus Gauterin
+Bracket Stage,Open Pro,Bracket A,P3: Final,Best of 3,Merlin/Yannick,Frosterle,Frosterle,9,15,10,15,,,Yannick Robert,Merlin Baumeler,Markus Anderle,David Leidenfrost
+Bracket Stage,Open Pro,Bracket A,P5: Final,Best of 3,Tbd,Rebel,Tbd,25,24,1,0,,,Mattia Pareschi,Matteo Molli,Jerry Lee,Chou Po-Jui
+Group Stage,Open Contender,Group A,1,Single game,Swifties,Niftboys,Swifties,21,15,,,,,Tim Klement,Noah Rohloff,Kasimir Pieritz,Tobias Lamohr
+Group Stage,Open Contender,Group A,1,Single game,Aerials,M&M,M&M,19,21,,,,,Paul Weber,Marko Barbir,Max Syndikus,Malte Fromm
+Group Stage,Open Contender,Group B,1,Single game,Trevor/Cook,Pedro the golddigger,Trevor/Cook,21,10,,,,,Trevor Cook,Joe Kerridge,Sebastian Nussbaumer,Edwin Eliasson
+Group Stage,Open Contender,Group B,1,Single game,🛑 DRC RoundNET Café,From a Land Down Under,From a Land Down Under,21,23,,,,,Birsan Razvan,Tiorean Marius-Mihai,Thomas Kaldor,Alex Capp
+Group Stage,Open Contender,Group C,1,Single game,Mightos Crew,PHINIgrane Spielweiße,PHINIgrane Spielweiße,16,21,,,,,Marco Bortoloso,Luca Tosatti,Niklas Grünewald,Philipp Hoffmann
+Group Stage,Open Contender,Group C,1,Single game,Manzo Italiano DOP,The Retired Consorts ,The Retired Consorts ,19,21,,,,,Sebastiano Guerra,Leonardo Travasoni,Mio Martens,Andreas Reisenhofer
+Group Stage,Open Contender,Group D,1,Single game,Tscharnutzer,Sergeant Mid-Point,Tscharnutzer,21,7,,,,,Jonas Tarnutzer,Yves Tschan,Youri Schliesenski,Konstantin Daume
+Group Stage,Open Contender,Group D,1,Single game,WS Vstávej ty lenochu!,Rawiak/Truijens,WS Vstávej ty lenochu!,21,13,,,,,Max Łochowski,Janek Dudzik,Nicolas Truijens,Mateusz Rawiak
+Group Stage,Open Contender,Group E,1,Single game,Nervous Boys,WS Crystal Fighters,Nervous Boys,21,17,,,,,Albin Janko,Fabian Hagen,Mateusz Kusztal,Jakub Kusztal
+Group Stage,Open Contender,Group E,1,Single game,360 No Scope,Master Shifu and Po,360 No Scope,21,16,,,,,Simon Wimmer,Maher Saadeddin,Adrian Constantinescu,Xavier van Gorp
+Group Stage,Open Contender,Group F,1,Single game,Tough crease,OZ California,Tough crease,21,17,,,,,Kristof Reitz,Jim Buhler,Stephen James,Jarrit Maassen
+Group Stage,Open Contender,Group F,1,Single game,Jewitt / Park,Meckl/Schwarz,Meckl/Schwarz,22,24,,,,,Jonty Park,James Jewitt,Jonas Meckl,Lucas Schwarz
+Group Stage,Open Contender,Group G,1,Single game,Stumble Guys,Titi Pauwer,Stumble Guys,21,15,,,,,Clément Martin-Gougenheim,Yanis Bouchemoua,Pieter De Pauw,Bram Verschoote
+Group Stage,Open Contender,Group G,1,Single game,Moon baboons,C’est pas clair,C’est pas clair,24,25,,,,,Malte Klinkby,Søren Høy,Benjamin LIVET,Olivier Saunier
+Group Stage,Open Contender,Group A,2,Single game,Swifties,M&M,Swifties,21,14,,,,,Tim Klement,Noah Rohloff,Max Syndikus,Malte Fromm
+Group Stage,Open Contender,Group A,2,Single game,WS Green Hat Boys,Niftboys,Niftboys,14,21,,,,,Mikołaj Cichocki,Tadeusz Pętlak,Kasimir Pieritz,Tobias Lamohr
+Group Stage,Open Contender,Group B,2,Single game,Trevor/Cook,From a Land Down Under,From a Land Down Under,17,21,,,,,Trevor Cook,Joe Kerridge,Thomas Kaldor,Alex Capp
+Group Stage,Open Contender,Group B,2,Single game,Marlon und Rafi,Pedro the golddigger,Marlon und Rafi,21,17,,,,,Marlon Kopriva,Rafael Bösch,Sebastian Nussbaumer,Edwin Eliasson
+Group Stage,Open Contender,Group C,2,Single game,Mightos Crew,The Retired Consorts ,Mightos Crew,21,12,,,,,Marco Bortoloso,Luca Tosatti,Mio Martens,Andreas Reisenhofer
+Group Stage,Open Contender,Group C,2,Single game,TPFCRN,PHINIgrane Spielweiße,PHINIgrane Spielweiße,19,21,,,,,Dario Filippi,Federico Librera,Niklas Grünewald,Philipp Hoffmann
+Group Stage,Open Contender,Group D,2,Single game,Tscharnutzer,Rawiak/Truijens,Tscharnutzer,21,6,,,,,Jonas Tarnutzer,Yves Tschan,Nicolas Truijens,Mateusz Rawiak
+Group Stage,Open Contender,Group D,2,Single game,Spartan Energy,Sergeant Mid-Point,Spartan Energy,21,13,,,,,Vlad Cornoiu,Ciprian Bizdideanu,Youri Schliesenski,Konstantin Daume
+Group Stage,Open Contender,Group E,2,Single game,Nervous Boys,Master Shifu and Po,Nervous Boys,21,9,,,,,Albin Janko,Fabian Hagen,Adrian Constantinescu,Xavier van Gorp
+Group Stage,Open Contender,Group E,2,Single game,Gandía best,WS Crystal Fighters,WS Crystal Fighters,19,21,,,,,Topias Zein,Dominik Diebolder,Mateusz Kusztal,Jakub Kusztal
+Group Stage,Open Contender,Group F,2,Single game,Tough crease,Meckl/Schwarz,Meckl/Schwarz,17,21,,,,,Kristof Reitz,Jim Buhler,Jonas Meckl,Lucas Schwarz
+Group Stage,Open Contender,Group F,2,Single game,Lucky to be,OZ California,Lucky to be,21,11,,,,,Lukas Lemberger,Tobias Alraun,Stephen James,Jarrit Maassen
+Group Stage,Open Contender,Group G,2,Single game,Stumble Guys,C’est pas clair,C’est pas clair,18,21,,,,,Clément Martin-Gougenheim,Yanis Bouchemoua,Benjamin LIVET,Olivier Saunier
+Group Stage,Open Contender,Group G,2,Single game,Moon baboons,Titi Pauwer,Moon baboons,21,9,,,,,Malte Klinkby,Søren Høy,Pieter De Pauw,Bram Verschoote
+Group Stage,Open Contender,Group A,3,Single game,Swifties,WS Green Hat Boys,Swifties,21,12,,,,,Tim Klement,Noah Rohloff,Mikołaj Cichocki,Tadeusz Pętlak
+Group Stage,Open Contender,Group A,3,Single game,Aerials,Niftboys,Niftboys,20,22,,,,,Paul Weber,Marko Barbir,Kasimir Pieritz,Tobias Lamohr
+Group Stage,Open Contender,Group B,3,Single game,Trevor/Cook,Marlon und Rafi,Trevor/Cook,21,19,,,,,Trevor Cook,Joe Kerridge,Marlon Kopriva,Rafael Bösch
+Group Stage,Open Contender,Group B,3,Single game,🛑 DRC RoundNET Café,Pedro the golddigger,🛑 DRC RoundNET Café,21,12,,,,,Birsan Razvan,Tiorean Marius-Mihai,Sebastian Nussbaumer,Edwin Eliasson
+Group Stage,Open Contender,Group C,3,Single game,Mightos Crew,TPFCRN,Mightos Crew,21,19,,,,,Marco Bortoloso,Luca Tosatti,Dario Filippi,Federico Librera
+Group Stage,Open Contender,Group C,3,Single game,Manzo Italiano DOP,PHINIgrane Spielweiße,Manzo Italiano DOP,21,16,,,,,Sebastiano Guerra,Leonardo Travasoni,Niklas Grünewald,Philipp Hoffmann
+Group Stage,Open Contender,Group D,3,Single game,Tscharnutzer,Spartan Energy,Tscharnutzer,21,15,,,,,Jonas Tarnutzer,Yves Tschan,Vlad Cornoiu,Ciprian Bizdideanu
+Group Stage,Open Contender,Group D,3,Single game,WS Vstávej ty lenochu!,Sergeant Mid-Point,WS Vstávej ty lenochu!,21,14,,,,,Max Łochowski,Janek Dudzik,Youri Schliesenski,Konstantin Daume
+Group Stage,Open Contender,Group E,3,Single game,Nervous Boys,Gandía best,Nervous Boys,21,17,,,,,Albin Janko,Fabian Hagen,Topias Zein,Dominik Diebolder
+Group Stage,Open Contender,Group E,3,Single game,360 No Scope,WS Crystal Fighters,360 No Scope,22,20,,,,,Simon Wimmer,Maher Saadeddin,Mateusz Kusztal,Jakub Kusztal
+Group Stage,Open Contender,Group F,3,Single game,Tough crease,Lucky to be,Tough crease,21,17,,,,,Kristof Reitz,Jim Buhler,Lukas Lemberger,Tobias Alraun
+Group Stage,Open Contender,Group F,3,Single game,Jewitt / Park,OZ California,OZ California,16,21,,,,,Jonty Park,James Jewitt,Stephen James,Jarrit Maassen
+Group Stage,Open Contender,Group G,3,Single game,Stumble Guys,Moon baboons,Stumble Guys,21,19,,,,,Clément Martin-Gougenheim,Yanis Bouchemoua,Malte Klinkby,Søren Høy
+Group Stage,Open Contender,Group G,3,Single game,C’est pas clair,Titi Pauwer,C’est pas clair,25,24,,,,,Benjamin LIVET,Olivier Saunier,Pieter De Pauw,Bram Verschoote
+Group Stage,Open Contender,Group A,4,Single game,Aerials,WS Green Hat Boys,WS Green Hat Boys,15,21,,,,,Paul Weber,Marko Barbir,Mikołaj Cichocki,Tadeusz Pętlak
+Group Stage,Open Contender,Group A,4,Single game,M&M,Niftboys,Niftboys,15,21,,,,,Max Syndikus,Malte Fromm,Kasimir Pieritz,Tobias Lamohr
+Group Stage,Open Contender,Group B,4,Single game,🛑 DRC RoundNET Café,Marlon und Rafi,🛑 DRC RoundNET Café,21,13,,,,,Birsan Razvan,Tiorean Marius-Mihai,Marlon Kopriva,Rafael Bösch
+Group Stage,Open Contender,Group B,4,Single game,From a Land Down Under,Pedro the golddigger,From a Land Down Under,21,9,,,,,Thomas Kaldor,Alex Capp,Sebastian Nussbaumer,Edwin Eliasson
+Group Stage,Open Contender,Group C,4,Single game,Manzo Italiano DOP,TPFCRN,Manzo Italiano DOP,21,16,,,,,Sebastiano Guerra,Leonardo Travasoni,Dario Filippi,Federico Librera
+Group Stage,Open Contender,Group C,4,Single game,The Retired Consorts ,PHINIgrane Spielweiße,PHINIgrane Spielweiße,12,21,,,,,Mio Martens,Andreas Reisenhofer,Niklas Grünewald,Philipp Hoffmann
+Group Stage,Open Contender,Group D,4,Single game,WS Vstávej ty lenochu!,Spartan Energy,Spartan Energy,19,21,,,,,Max Łochowski,Janek Dudzik,Vlad Cornoiu,Ciprian Bizdideanu
+Group Stage,Open Contender,Group D,4,Single game,Rawiak/Truijens,Sergeant Mid-Point,Rawiak/Truijens,21,18,,,,,Nicolas Truijens,Mateusz Rawiak,Youri Schliesenski,Konstantin Daume
+Group Stage,Open Contender,Group E,4,Single game,360 No Scope,Gandía best,360 No Scope,21,17,,,,,Simon Wimmer,Maher Saadeddin,Topias Zein,Dominik Diebolder
+Group Stage,Open Contender,Group E,4,Single game,Master Shifu and Po,WS Crystal Fighters,WS Crystal Fighters,14,21,,,,,Adrian Constantinescu,Xavier van Gorp,Mateusz Kusztal,Jakub Kusztal
+Group Stage,Open Contender,Group F,4,Single game,Jewitt / Park,Lucky to be,Lucky to be,14,21,,,,,Jonty Park,James Jewitt,Lukas Lemberger,Tobias Alraun
+Group Stage,Open Contender,Group F,4,Single game,Meckl/Schwarz,OZ California,OZ California,15,21,,,,,Jonas Meckl,Lucas Schwarz,Stephen James,Jarrit Maassen
+Group Stage,Open Contender,Group A,5,Single game,Swifties,Aerials,Swifties,21,8,,,,,Tim Klement,Noah Rohloff,Paul Weber,Marko Barbir
+Group Stage,Open Contender,Group A,5,Single game,WS Green Hat Boys,M&M,M&M,19,21,,,,,Mikołaj Cichocki,Tadeusz Pętlak,Max Syndikus,Malte Fromm
+Group Stage,Open Contender,Group B,5,Single game,Trevor/Cook,🛑 DRC RoundNET Café,Trevor/Cook,22,20,,,,,Trevor Cook,Joe Kerridge,Birsan Razvan,Tiorean Marius-Mihai
+Group Stage,Open Contender,Group B,5,Single game,Marlon und Rafi,From a Land Down Under,From a Land Down Under,12,21,,,,,Marlon Kopriva,Rafael Bösch,Thomas Kaldor,Alex Capp
+Group Stage,Open Contender,Group C,5,Single game,Mightos Crew,Manzo Italiano DOP,Mightos Crew,21,19,,,,,Marco Bortoloso,Luca Tosatti,Sebastiano Guerra,Leonardo Travasoni
+Group Stage,Open Contender,Group C,5,Single game,TPFCRN,The Retired Consorts ,TPFCRN,21,12,,,,,Dario Filippi,Federico Librera,Mio Martens,Andreas Reisenhofer
+Group Stage,Open Contender,Group D,5,Single game,Tscharnutzer,WS Vstávej ty lenochu!,Tscharnutzer,21,16,,,,,Jonas Tarnutzer,Yves Tschan,Max Łochowski,Janek Dudzik
+Group Stage,Open Contender,Group D,5,Single game,Spartan Energy,Rawiak/Truijens,Spartan Energy,21,17,,,,,Vlad Cornoiu,Ciprian Bizdideanu,Nicolas Truijens,Mateusz Rawiak
+Group Stage,Open Contender,Group E,5,Single game,Nervous Boys,360 No Scope,Nervous Boys,25,24,,,,,Albin Janko,Fabian Hagen,Simon Wimmer,Maher Saadeddin
+Group Stage,Open Contender,Group E,5,Single game,Gandía best,Master Shifu and Po,Gandía best,21,16,,,,,Topias Zein,Dominik Diebolder,Adrian Constantinescu,Xavier van Gorp
+Group Stage,Open Contender,Group F,5,Single game,Tough crease,Jewitt / Park,Tough crease,21,17,,,,,Kristof Reitz,Jim Buhler,Jonty Park,James Jewitt
+Group Stage,Open Contender,Group F,5,Single game,Lucky to be,Meckl/Schwarz,Lucky to be,21,18,,,,,Lukas Lemberger,Tobias Alraun,Jonas Meckl,Lucas Schwarz
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Tscharnutzer,Master Shifu and Po,Tscharnutzer,15,12,15,12,,,Jonas Tarnutzer,Yves Tschan,Adrian Constantinescu,Xavier van Gorp
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Swifties,Aerials,Swifties,15,4,15,13,,,Tim Klement,Noah Rohloff,Paul Weber,Marko Barbir
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,From a Land Down Under,Jewitt / Park,From a Land Down Under,15,7,15,12,,,Thomas Kaldor,Alex Capp,Jonty Park,James Jewitt
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Nervous Boys,Titi Pauwer,Nervous Boys,15,11,15,11,,,Albin Janko,Fabian Hagen,Pieter De Pauw,Bram Verschoote
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,C’est pas clair,The Retired Consorts ,C’est pas clair,1,0,1,0,,,Benjamin LIVET,Olivier Saunier,Mio Martens,Andreas Reisenhofer
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Lucky to be,Rawiak/Truijens,Lucky to be,15,10,15,9,,,Lukas Lemberger,Tobias Alraun,Nicolas Truijens,Mateusz Rawiak
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Trevor/Cook,Marlon und Rafi,Trevor/Cook,16,14,15,10,,,Trevor Cook,Joe Kerridge,Marlon Kopriva,Rafael Bösch
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,PHINIgrane Spielweiße,WS Green Hat Boys,PHINIgrane Spielweiße,16,14,15,11,,,Niklas Grünewald,Philipp Hoffmann,Mikołaj Cichocki,Tadeusz Pętlak
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,360 No Scope,Gandía best,360 No Scope,15,12,15,13,,,Simon Wimmer,Maher Saadeddin,Topias Zein,Dominik Diebolder
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Niftboys,TPFCRN,Niftboys,13,15,15,9,18,16,Kasimir Pieritz,Tobias Lamohr,Dario Filippi,Federico Librera
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Mightos Crew,M&M,M&M,10,15,15,10,10,15,Marco Bortoloso,Luca Tosatti,Max Syndikus,Malte Fromm
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Tough crease,OZ California,Tough crease,15,13,15,13,,,Kristof Reitz,Jim Buhler,Stephen James,Jarrit Maassen
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Spartan Energy,Meckl/Schwarz,Meckl/Schwarz,12,15,7,15,,,Vlad Cornoiu,Ciprian Bizdideanu,Jonas Meckl,Lucas Schwarz
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Stumble Guys,WS Crystal Fighters,Stumble Guys,15,10,15,11,,,Clément Martin-Gougenheim,Yanis Bouchemoua,Mateusz Kusztal,Jakub Kusztal
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,🛑 DRC RoundNET Café,Manzo Italiano DOP,🛑 DRC RoundNET Café,15,11,15,11,,,Birsan Razvan,Tiorean Marius-Mihai,Sebastiano Guerra,Leonardo Travasoni
+Bracket Stage,Open Contender,Bracket A,Round of 32,Best of 3,Moon baboons,WS Vstávej ty lenochu!,Moon baboons,19,17,15,12,,,Malte Klinkby,Søren Høy,Max Łochowski,Janek Dudzik
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Tscharnutzer,Moon baboons,Tscharnutzer,15,12,15,10,,,Jonas Tarnutzer,Yves Tschan,Malte Klinkby,Søren Høy
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Swifties,🛑 DRC RoundNET Café,Swifties,15,7,15,9,,,Tim Klement,Noah Rohloff,Birsan Razvan,Tiorean Marius-Mihai
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,From a Land Down Under,Stumble Guys,From a Land Down Under,15,12,12,15,15,12,Thomas Kaldor,Alex Capp,Clément Martin-Gougenheim,Yanis Bouchemoua
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Nervous Boys,Meckl/Schwarz,Meckl/Schwarz,11,15,9,15,,,Albin Janko,Fabian Hagen,Jonas Meckl,Lucas Schwarz
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,C’est pas clair,Tough crease,Tough crease,15,12,13,15,11,15,Benjamin LIVET,Olivier Saunier,Kristof Reitz,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Lucky to be,M&M,Lucky to be,15,11,15,10,,,Lukas Lemberger,Tobias Alraun,Max Syndikus,Malte Fromm
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,Trevor/Cook,Niftboys,Niftboys,12,15,16,14,13,15,Trevor Cook,Joe Kerridge,Kasimir Pieritz,Tobias Lamohr
+Bracket Stage,Open Contender,Bracket A,Round of 16,Best of 3,PHINIgrane Spielweiße,360 No Scope,360 No Scope,14,16,14,16,,,Niklas Grünewald,Philipp Hoffmann,Simon Wimmer,Maher Saadeddin
+Bracket Stage,Open Contender,Bracket A,P17: Round of 16,Best of 3,WS Vstávej ty lenochu!,Master Shifu and Po,WS Vstávej ty lenochu!,16,14,15,7,,,Max Łochowski,Janek Dudzik,Adrian Constantinescu,Xavier van Gorp
+Bracket Stage,Open Contender,Bracket A,P17: Round of 16,Best of 3,Manzo Italiano DOP,Aerials,Aerials,18,21,0,1,,,Sebastiano Guerra,Leonardo Travasoni,Paul Weber,Marko Barbir
+Bracket Stage,Open Contender,Bracket A,P17: Round of 16,Best of 3,WS Crystal Fighters,Jewitt / Park,Jewitt / Park,21,19,10,15,10,15,Mateusz Kusztal,Jakub Kusztal,Jonty Park,James Jewitt
+Bracket Stage,Open Contender,Bracket A,P17: Round of 16,Best of 3,Spartan Energy,Titi Pauwer,Spartan Energy,15,12,15,12,,,Vlad Cornoiu,Ciprian Bizdideanu,Pieter De Pauw,Bram Verschoote
+Bracket Stage,Open Contender,Bracket A,P17: Round of 16,Best of 3,Mightos Crew,Rawiak/Truijens,Rawiak/Truijens,19,21,19,21,,,Marco Bortoloso,Luca Tosatti,Nicolas Truijens,Mateusz Rawiak
+Bracket Stage,Open Contender,Bracket A,P17: Round of 16,Best of 3,Gandía best,WS Green Hat Boys,WS Green Hat Boys,12,15,15,11,8,15,Topias Zein,Dominik Diebolder,Mikołaj Cichocki,Tadeusz Pętlak
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Tscharnutzer,360 No Scope,Tscharnutzer,15,11,15,9,,,Jonas Tarnutzer,Yves Tschan,Simon Wimmer,Maher Saadeddin
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Swifties,Niftboys,Swifties,15,6,21,19,,,Tim Klement,Noah Rohloff,Kasimir Pieritz,Tobias Lamohr
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,From a Land Down Under,Lucky to be,From a Land Down Under,15,13,15,5,,,Thomas Kaldor,Alex Capp,Lukas Lemberger,Tobias Alraun
+Bracket Stage,Open Contender,Bracket A,Quarter-final,Best of 3,Meckl/Schwarz,Tough crease,Tough crease,15,11,12,15,11,15,Jonas Meckl,Lucas Schwarz,Kristof Reitz,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,PHINIgrane Spielweiße,Moon baboons,Moon baboons,16,21,0,1,,,Niklas Grünewald,Philipp Hoffmann,Malte Klinkby,Søren Høy
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,Trevor/Cook,🛑 DRC RoundNET Café,Trevor/Cook,21,16,1,0,,,Trevor Cook,Joe Kerridge,Birsan Razvan,Tiorean Marius-Mihai
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,M&M,Stumble Guys,M&M,15,10,15,10,,,Max Syndikus,Malte Fromm,Clément Martin-Gougenheim,Yanis Bouchemoua
+Bracket Stage,Open Contender,Bracket A,P9: Quarter-final,Best of 3,C’est pas clair,Nervous Boys,Nervous Boys,12,15,12,15,,,Benjamin LIVET,Olivier Saunier,Albin Janko,Fabian Hagen
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,WS Vstávej ty lenochu!,WS Green Hat Boys,WS Vstávej ty lenochu!,21,16,1,0,,,Max Łochowski,Janek Dudzik,Mikołaj Cichocki,Tadeusz Pętlak
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,Aerials,Marlon und Rafi,Aerials,21,12,1,0,,,Paul Weber,Marko Barbir,Marlon Kopriva,Rafael Bösch
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,Jewitt / Park,Rawiak/Truijens,Jewitt / Park,13,15,15,13,15,10,Jonty Park,James Jewitt,Nicolas Truijens,Mateusz Rawiak
+Bracket Stage,Open Contender,Bracket A,P17: Quarter-final,Best of 3,Spartan Energy,OZ California,OZ California,19,21,0,1,,,Vlad Cornoiu,Ciprian Bizdideanu,Stephen James,Jarrit Maassen
+Bracket Stage,Open Contender,Bracket A,P25: Quarter-final,Best of 3,Gandía best,Master Shifu and Po,Gandía best,15,8,20,18,,,Topias Zein,Dominik Diebolder,Adrian Constantinescu,Xavier van Gorp
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Tscharnutzer,Tough crease,Tscharnutzer,23,25,21,18,21,15,Jonas Tarnutzer,Yves Tschan,Kristof Reitz,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,Semi-final,Best of 3,Swifties,From a Land Down Under,Swifties,21,16,21,17,,,Tim Klement,Noah Rohloff,Thomas Kaldor,Alex Capp
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Meckl/Schwarz,360 No Scope,Meckl/Schwarz,21,11,1,0,,,Jonas Meckl,Lucas Schwarz,Simon Wimmer,Maher Saadeddin
+Bracket Stage,Open Contender,Bracket A,P5: Semi-final,Best of 3,Lucky to be,Niftboys,Lucky to be,21,19,1,0,,,Lukas Lemberger,Tobias Alraun,Kasimir Pieritz,Tobias Lamohr
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Moon baboons,Nervous Boys,Moon baboons,21,15,1,0,,,Malte Klinkby,Søren Høy,Albin Janko,Fabian Hagen
+Bracket Stage,Open Contender,Bracket A,P9: Semi-final,Best of 3,Trevor/Cook,M&M,Trevor/Cook,15,12,1,0,,,Trevor Cook,Joe Kerridge,Max Syndikus,Malte Fromm
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,C’est pas clair,PHINIgrane Spielweiße,PHINIgrane Spielweiße,0,1,0,1,,,Benjamin LIVET,Olivier Saunier,Niklas Grünewald,Philipp Hoffmann
+Bracket Stage,Open Contender,Bracket A,P13: Semi-final,Best of 3,Stumble Guys,🛑 DRC RoundNET Café,🛑 DRC RoundNET Café,0,1,0,1,,,Clément Martin-Gougenheim,Yanis Bouchemoua,Birsan Razvan,Tiorean Marius-Mihai
+Bracket Stage,Open Contender,Bracket A,P17: Semi-final,Best of 3,WS Vstávej ty lenochu!,OZ California,OZ California,14,21,0,1,,,Max Łochowski,Janek Dudzik,Stephen James,Jarrit Maassen
+Bracket Stage,Open Contender,Bracket A,P17: Semi-final,Best of 3,Aerials,Jewitt / Park,Jewitt / Park,0,21,0,21,,,Paul Weber,Marko Barbir,Jonty Park,James Jewitt
+Bracket Stage,Open Contender,Bracket A,Final,Best of 3,Tscharnutzer,Swifties,Swifties,17,19,12,15,,,Jonas Tarnutzer,Yves Tschan,Tim Klement,Noah Rohloff
+Bracket Stage,Open Contender,Bracket A,P3: Final,Best of 3,From a Land Down Under,Tough crease,From a Land Down Under,15,13,15,13,,,Thomas Kaldor,Alex Capp,Kristof Reitz,Jim Buhler
+Bracket Stage,Open Contender,Bracket A,P5: Final,Best of 3,Meckl/Schwarz,Lucky to be,,1,0,,,,,Jonas Meckl,Lucas Schwarz,Lukas Lemberger,Tobias Alraun
+Bracket Stage,Open Contender,Bracket A,P7: Final,Best of 3,Niftboys,360 No Scope,360 No Scope,15,21,0,1,,,Kasimir Pieritz,Tobias Lamohr,Simon Wimmer,Maher Saadeddin
+Bracket Stage,Open Contender,Bracket A,P13: Final,Best of 3,PHINIgrane Spielweiße,🛑 DRC RoundNET Café,🛑 DRC RoundNET Café,0,1,1,0,0,1,Niklas Grünewald,Philipp Hoffmann,Birsan Razvan,Tiorean Marius-Mihai
+Bracket Stage,Open Contender,Bracket A,P17: Final,Best of 3,OZ California,Jewitt / Park,Jewitt / Park,24,25,0,1,,,Stephen James,Jarrit Maassen,Jonty Park,James Jewitt
+Bracket Stage,Open Contender,Bracket B,Final,Best of 3,Sergeant Mid-Point,Pedro the golddigger,Sergeant Mid-Point,21,16,21,17,,,Youri Schliesenski,Konstantin Daume,Sebastian Nussbaumer,Edwin Eliasson
+Group Stage,Open,Group A,1,Single game,Mensch-United,Trachtenvögl,Trachtenvögl,17,21,,,,,Nicole Rupf Figueroa,Noah Mensch,Henning Stender,Johannes Friedrich
+Group Stage,Open,Group A,1,Single game,Raffi/Tobi,ein Lukas kommt selten allein,ein Lukas kommt selten allein,18,21,,,,,Tobias Stadler,Raffael Foidl,Lukas Stöbich,Gerald Kada
+Group Stage,Open,Group B,1,Single game,ABiNSdrama,TOULIER,TOULIER,10,21,,,,,Niki Seifert,Andreas Bolling,Fre Eskens,Alain Florinda
+Group Stage,Open,Group B,1,Single game,Leo & Kili,Net Ninjas,Net Ninjas,7,21,,,,,Kilian Hagmüller,Leo Schuetz,Christoph Lorenzoni,Andi Gjergji
+Group Stage,Open,Group C,1,Single game,Czechmate(s),Team SiMo,Team SiMo,12,21,,,,,David Macánek,Tomáš Kovářík,SIMON BÖSCH,Moritz Albrecht
+Group Stage,Open,Group C,1,Single game,Chodura/Kukucz,Spikebros,Spikebros,13,21,,,,,Richard Kukucz,Pavel Chodura,Alexander Winkler,Martin Lindorfer
+Group Stage,Open,Group A,2,Single game,Mensch-United,ein Lukas kommt selten allein,Mensch-United,21,9,,,,,Nicole Rupf Figueroa,Noah Mensch,Lukas Stöbich,Gerald Kada
+Group Stage,Open,Group A,2,Single game,Affenzirkus,Trachtenvögl,Trachtenvögl,19,21,,,,,Johannes Strigl,David Neidhart,Henning Stender,Johannes Friedrich
+Group Stage,Open,Group B,2,Single game,ABiNSdrama,Net Ninjas,Net Ninjas,16,21,,,,,Niki Seifert,Andreas Bolling,Christoph Lorenzoni,Andi Gjergji
+Group Stage,Open,Group B,2,Single game,NetWorkers,TOULIER,TOULIER,15,21,,,,,Fabian Hofacker,Leander Pfeiffer,Fre Eskens,Alain Florinda
+Group Stage,Open,Group C,2,Single game,Czechmate(s),Spikebros,Czechmate(s),21,19,,,,,David Macánek,Tomáš Kovářík,Alexander Winkler,Martin Lindorfer
+Group Stage,Open,Group C,2,Single game,WieBer,Team SiMo,Team SiMo,10,21,,,,,Manuel Spreitzer,Michael Lanschützer,SIMON BÖSCH,Moritz Albrecht
+Group Stage,Open,Group A,3,Single game,Mensch-United,Affenzirkus,Affenzirkus,18,21,,,,,Nicole Rupf Figueroa,Noah Mensch,Johannes Strigl,David Neidhart
+Group Stage,Open,Group A,3,Single game,Raffi/Tobi,Trachtenvögl,Trachtenvögl,12,21,,,,,Tobias Stadler,Raffael Foidl,Henning Stender,Johannes Friedrich
+Group Stage,Open,Group B,3,Single game,ABiNSdrama,NetWorkers,NetWorkers,11,21,,,,,Niki Seifert,Andreas Bolling,Fabian Hofacker,Leander Pfeiffer
+Group Stage,Open,Group B,3,Single game,Leo & Kili,TOULIER,TOULIER,10,21,,,,,Kilian Hagmüller,Leo Schuetz,Fre Eskens,Alain Florinda
+Group Stage,Open,Group C,3,Single game,Czechmate(s),WieBer,Czechmate(s),21,10,,,,,David Macánek,Tomáš Kovářík,Manuel Spreitzer,Michael Lanschützer
+Group Stage,Open,Group C,3,Single game,Chodura/Kukucz,Team SiMo,Team SiMo,11,21,,,,,Richard Kukucz,Pavel Chodura,SIMON BÖSCH,Moritz Albrecht
+Group Stage,Open,Group A,4,Single game,Raffi/Tobi,Affenzirkus,Affenzirkus,16,21,,,,,Tobias Stadler,Raffael Foidl,Johannes Strigl,David Neidhart
+Group Stage,Open,Group A,4,Single game,ein Lukas kommt selten allein,Trachtenvögl,Trachtenvögl,7,21,,,,,Lukas Stöbich,Gerald Kada,Henning Stender,Johannes Friedrich
+Group Stage,Open,Group B,4,Single game,Leo & Kili,NetWorkers,NetWorkers,15,21,,,,,Kilian Hagmüller,Leo Schuetz,Fabian Hofacker,Leander Pfeiffer
+Group Stage,Open,Group B,4,Single game,Net Ninjas,TOULIER,TOULIER,14,21,,,,,Christoph Lorenzoni,Andi Gjergji,Fre Eskens,Alain Florinda
+Group Stage,Open,Group C,4,Single game,Chodura/Kukucz,WieBer,WieBer,18,21,,,,,Richard Kukucz,Pavel Chodura,Manuel Spreitzer,Michael Lanschützer
+Group Stage,Open,Group C,4,Single game,Spikebros,Team SiMo,Spikebros,21,18,,,,,Alexander Winkler,Martin Lindorfer,SIMON BÖSCH,Moritz Albrecht
+Group Stage,Open,Group A,5,Single game,Mensch-United,Raffi/Tobi,Mensch-United,21,17,,,,,Nicole Rupf Figueroa,Noah Mensch,Tobias Stadler,Raffael Foidl
+Group Stage,Open,Group A,5,Single game,Affenzirkus,ein Lukas kommt selten allein,Affenzirkus,21,8,,,,,Johannes Strigl,David Neidhart,Lukas Stöbich,Gerald Kada
+Group Stage,Open,Group B,5,Single game,ABiNSdrama,Leo & Kili,ABiNSdrama,21,18,,,,,Niki Seifert,Andreas Bolling,Kilian Hagmüller,Leo Schuetz
+Group Stage,Open,Group B,5,Single game,NetWorkers,Net Ninjas,Net Ninjas,18,21,,,,,Fabian Hofacker,Leander Pfeiffer,Christoph Lorenzoni,Andi Gjergji
+Group Stage,Open,Group C,5,Single game,Czechmate(s),Chodura/Kukucz,Czechmate(s),21,12,,,,,David Macánek,Tomáš Kovářík,Richard Kukucz,Pavel Chodura
+Group Stage,Open,Group C,5,Single game,WieBer,Spikebros,Spikebros,12,21,,,,,Manuel Spreitzer,Michael Lanschützer,Alexander Winkler,Martin Lindorfer
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Trachtenvögl,Leo & Kili,Trachtenvögl,21,8,,,,,Henning Stender,Johannes Friedrich,Kilian Hagmüller,Leo Schuetz
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Team SiMo,Chodura/Kukucz,Chodura/Kukucz,9,21,,,,,SIMON BÖSCH,Moritz Albrecht,Richard Kukucz,Pavel Chodura
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Affenzirkus,Raffi/Tobi,Affenzirkus,21,10,,,,,Johannes Strigl,David Neidhart,Tobias Stadler,Raffael Foidl
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Spikebros,ein Lukas kommt selten allein,Spikebros,21,14,,,,,Alexander Winkler,Martin Lindorfer,Lukas Stöbich,Gerald Kada
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Net Ninjas,WieBer,Net Ninjas,21,6,,,,,Christoph Lorenzoni,Andi Gjergji,Manuel Spreitzer,Michael Lanschützer
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Czechmate(s),ABiNSdrama,Czechmate(s),21,9,,,,,David Macánek,Tomáš Kovářík,Niki Seifert,Andreas Bolling
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Mensch-United,NetWorkers,Mensch-United,25,23,,,,,Nicole Rupf Figueroa,Noah Mensch,Fabian Hofacker,Leander Pfeiffer
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,TOULIER,Mensch-United,TOULIER,13,15,15,10,15,8,Fre Eskens,Alain Florinda,Nicole Rupf Figueroa,Noah Mensch
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Trachtenvögl,Czechmate(s),Trachtenvögl,15,11,17,19,15,7,Henning Stender,Johannes Friedrich,David Macánek,Tomáš Kovářík
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Chodura/Kukucz,Net Ninjas,Net Ninjas,8,15,8,15,,,Richard Kukucz,Pavel Chodura,Christoph Lorenzoni,Andi Gjergji
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Affenzirkus,Spikebros,Spikebros,15,13,12,15,12,15,Johannes Strigl,David Neidhart,Alexander Winkler,Martin Lindorfer
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,ABiNSdrama,Leo & Kili,ABiNSdrama,1,0,1,0,1,0,Niki Seifert,Andreas Bolling,Kilian Hagmüller,Leo Schuetz
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,WieBer,Team SiMo,Team SiMo,0,21,0,1,,,Manuel Spreitzer,Michael Lanschützer,SIMON BÖSCH,Moritz Albrecht
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Best of 3,ein Lukas kommt selten allein,Raffi/Tobi,Raffi/Tobi,18,21,18,21,,,Lukas Stöbich,Gerald Kada,Tobias Stadler,Raffael Foidl
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,TOULIER,Spikebros,TOULIER,15,12,15,13,,,Fre Eskens,Alain Florinda,Alexander Winkler,Martin Lindorfer
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Trachtenvögl,Net Ninjas,Trachtenvögl,12,15,15,6,15,6,Henning Stender,Johannes Friedrich,Christoph Lorenzoni,Andi Gjergji
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Affenzirkus,Mensch-United,Affenzirkus,13,15,15,12,15,13,Johannes Strigl,David Neidhart,Nicole Rupf Figueroa,Noah Mensch
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Chodura/Kukucz,Czechmate(s),Czechmate(s),8,15,10,15,,,Richard Kukucz,Pavel Chodura,David Macánek,Tomáš Kovářík
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,NetWorkers,Raffi/Tobi,NetWorkers,21,19,21,19,,,Fabian Hofacker,Leander Pfeiffer,Tobias Stadler,Raffael Foidl
+Bracket Stage,Open,Bracket A,P9: Semi-final,Best of 3,ABiNSdrama,Team SiMo,ABiNSdrama,13,15,15,13,15,13,Niki Seifert,Andreas Bolling,SIMON BÖSCH,Moritz Albrecht
+Bracket Stage,Open,Bracket A,Final,Best of 3,TOULIER,Trachtenvögl,Trachtenvögl,10,15,8,15,,,Fre Eskens,Alain Florinda,Henning Stender,Johannes Friedrich
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,Net Ninjas,Spikebros,Net Ninjas,15,8,15,11,,,Christoph Lorenzoni,Andi Gjergji,Alexander Winkler,Martin Lindorfer
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,Affenzirkus,Czechmate(s),Affenzirkus,22,20,21,19,,,Johannes Strigl,David Neidhart,David Macánek,Tomáš Kovářík
+Bracket Stage,Open,Bracket A,P7: Final,Best of 3,Chodura/Kukucz,Mensch-United,Mensch-United,11,21,11,21,,,Richard Kukucz,Pavel Chodura,Nicole Rupf Figueroa,Noah Mensch
+Bracket Stage,Open,Bracket A,P9: Final,Best of 3,NetWorkers,ABiNSdrama,NetWorkers,21,20,9,15,16,14,Fabian Hofacker,Leander Pfeiffer,Niki Seifert,Andreas Bolling
+Bracket Stage,Open,Bracket A,P11: Final,Best of 3,Team SiMo,Raffi/Tobi,Team SiMo,15,13,9,15,15,9,SIMON BÖSCH,Moritz Albrecht,Tobias Stadler,Raffael Foidl
+Group Stage,Open,Group A,1,Single game,Rocking Stones,cojones,Rocking Stones,15,9,,,,,Jakob Trsek,Chris Honma,Franz Beyer,Tobias Moser
+Group Stage,Open,Group A,1,Single game,DataLords,Unknowns,DataLords,15,6,,,,,Manuel Karner,Fabio Gerhold,Tim Phan Quoc,Jakob Geyer
+Group Stage,Open,Group B,1,Single game,Pengu spikers,Schau ma mal was wird,Schau ma mal was wird,12,21,,,,,Patrick Ghebrial,Fabian W,Manuel Schuster,Felix Lehecka
+Group Stage,Open,Group B,1,Single game,Minderjährige,Restfett ans Roundnet,Minderjährige,15,13,,,,,Finn Verhounig,nikolaus seiringer,Jonas Mikulsky,Felix Warth
+Group Stage,Open,Group A,2,Single game,Rocking Stones,Unknowns,Rocking Stones,15,11,,,,,Jakob Trsek,Chris Honma,Tim Phan Quoc,Jakob Geyer
+Group Stage,Open,Group A,2,Single game,Kizz my Ace,cojones,Kizz my Ace,15,12,,,,,Caspar Balder,Manuel Frigeri,Franz Beyer,Tobias Moser
+Group Stage,Open,Group B,2,Single game,Pengu spikers,Restfett ans Roundnet,Restfett ans Roundnet,12,21,,,,,Patrick Ghebrial,Fabian W,Jonas Mikulsky,Felix Warth
+Group Stage,Open,Group B,2,Single game,Ws mikmac,Schau ma mal was wird,Ws mikmac,21,3,,,,,Maciek Malczyk,Mikolaj Dudzik,Manuel Schuster,Felix Lehecka
+Group Stage,Open,Group A,3,Single game,Rocking Stones,Kizz my Ace,Rocking Stones,15,10,,,,,Jakob Trsek,Chris Honma,Caspar Balder,Manuel Frigeri
+Group Stage,Open,Group A,3,Single game,DataLords,cojones,DataLords,15,9,,,,,Manuel Karner,Fabio Gerhold,Franz Beyer,Tobias Moser
+Group Stage,Open,Group B,3,Single game,Pengu spikers,Ws mikmac,Ws mikmac,12,21,,,,,Patrick Ghebrial,Fabian W,Maciek Malczyk,Mikolaj Dudzik
+Group Stage,Open,Group B,3,Single game,Minderjährige,Schau ma mal was wird,Minderjährige,15,5,,,,,Finn Verhounig,nikolaus seiringer,Manuel Schuster,Felix Lehecka
+Group Stage,Open,Group A,4,Single game,DataLords,Kizz my Ace,DataLords,15,10,,,,,Manuel Karner,Fabio Gerhold,Caspar Balder,Manuel Frigeri
+Group Stage,Open,Group A,4,Single game,Unknowns,cojones,cojones,5,15,,,,,Tim Phan Quoc,Jakob Geyer,Franz Beyer,Tobias Moser
+Group Stage,Open,Group B,4,Single game,Minderjährige,Ws mikmac,Ws mikmac,17,21,,,,,Finn Verhounig,nikolaus seiringer,Maciek Malczyk,Mikolaj Dudzik
+Group Stage,Open,Group B,4,Single game,Restfett ans Roundnet,Schau ma mal was wird,Restfett ans Roundnet,21,14,,,,,Jonas Mikulsky,Felix Warth,Manuel Schuster,Felix Lehecka
+Group Stage,Open,Group A,5,Single game,Rocking Stones,DataLords,DataLords,9,15,,,,,Jakob Trsek,Chris Honma,Manuel Karner,Fabio Gerhold
+Group Stage,Open,Group A,5,Single game,Kizz my Ace,Unknowns,Kizz my Ace,21,15,,,,,Caspar Balder,Manuel Frigeri,Tim Phan Quoc,Jakob Geyer
+Group Stage,Open,Group B,5,Single game,Pengu spikers,Minderjährige,Minderjährige,12,21,,,,,Patrick Ghebrial,Fabian W,Finn Verhounig,nikolaus seiringer
+Group Stage,Open,Group B,5,Single game,Ws mikmac,Restfett ans Roundnet,Ws mikmac,21,14,,,,,Maciek Malczyk,Mikolaj Dudzik,Jonas Mikulsky,Felix Warth
+Bracket Stage,Open,Bracket A,Round of 16,Single game,Schau ma mal was wird,Unknowns,Unknowns,18,21,,,,,Manuel Schuster,Felix Lehecka,Tim Phan Quoc,Jakob Geyer
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Ws mikmac,Unknowns,Ws mikmac,15,7,15,8,,,Maciek Malczyk,Mikolaj Dudzik,Tim Phan Quoc,Jakob Geyer
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,DataLords,cojones,DataLords,15,9,15,7,0,0,Manuel Karner,Fabio Gerhold,Franz Beyer,Tobias Moser
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Minderjährige,Kizz my Ace,Minderjährige,21,13,1,0,,,Finn Verhounig,nikolaus seiringer,Caspar Balder,Manuel Frigeri
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Rocking Stones,Restfett ans Roundnet,Rocking Stones,15,11,15,11,,,Jakob Trsek,Chris Honma,Jonas Mikulsky,Felix Warth
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Ws mikmac,Rocking Stones,Ws mikmac,20,21,15,13,15,9,Maciek Malczyk,Mikolaj Dudzik,Jakob Trsek,Chris Honma
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,DataLords,Minderjährige,DataLords,15,8,15,12,0,0,Manuel Karner,Fabio Gerhold,Finn Verhounig,nikolaus seiringer
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Restfett ans Roundnet,Unknowns,Unknowns,17,19,15,10,10,15,Jonas Mikulsky,Felix Warth,Tim Phan Quoc,Jakob Geyer
+Bracket Stage,Open,Bracket A,P5: Semi-final,Best of 3,Kizz my Ace,cojones,Kizz my Ace,12,15,15,11,15,9,Caspar Balder,Manuel Frigeri,Franz Beyer,Tobias Moser
+Bracket Stage,Open,Bracket A,Final,Best of 3,Ws mikmac,DataLords,DataLords,15,21,17,21,0,0,Maciek Malczyk,Mikolaj Dudzik,Manuel Karner,Fabio Gerhold
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,Minderjährige,Rocking Stones,Rocking Stones,12,15,13,15,,,Finn Verhounig,nikolaus seiringer,Jakob Trsek,Chris Honma
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,Unknowns,Kizz my Ace,,8,15,,,,,Tim Phan Quoc,Jakob Geyer,Caspar Balder,Manuel Frigeri
+Bracket Stage,Open,Bracket A,P7: Final,Best of 3,cojones,Restfett ans Roundnet,cojones,11,15,15,6,15,12,Franz Beyer,Tobias Moser,Jonas Mikulsky,Felix Warth
+Group Stage,Women's Pro,Group A,1,Single game,Nova,You made my day ☀️,Nova,15,11,,,,,Inès Paysan,Laura Kunzelmann,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group A,1,Single game,Chicken Joe,Troughton/Cooke,Chicken Joe,15,8,,,,,Alexa Peusch,Theresa Knauf,Ruth Troughton,Sophie Cooke
+Group Stage,Women's Pro,Group B,1,Single game,tiramisu,Lescargooo,tiramisu,15,8,,,,,Daniela Kadlec,Megan Leybourne,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group B,1,Single game,Cucciolone guerriere,caffè corretto,Cucciolone guerriere,15,10,,,,,Silvia Zanella,Chiara Pernigo,Constanze Lehner,daria orlandini
+Group Stage,Women's Pro,Group C,1,Single game,Ronja/Sarah,Waves Energy,Waves Energy,12,15,,,,,Sarah Steinbrecht,Ronja Lorenz,Alina Pîrlea,Beatrice Tărășilă
+Group Stage,Women's Pro,Group C,1,Single game,Blue Rabbit,Amély/Lucile,Amély/Lucile,12,15,,,,,Sarah Martinez,Natacha Alt,Lucile Rouault,Amely Joly
+Group Stage,Women's Pro,Group A,2,Single game,Nova,Troughton/Cooke,Nova,15,8,,,,,Inès Paysan,Laura Kunzelmann,Ruth Troughton,Sophie Cooke
+Group Stage,Women's Pro,Group A,2,Single game,Double Ding Dong,You made my day ☀️,Double Ding Dong,15,7,,,,,Aylin Altenwegner,Julia Grob,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group B,2,Single game,tiramisu,caffè corretto,tiramisu,15,7,,,,,Daniela Kadlec,Megan Leybourne,Constanze Lehner,daria orlandini
+Group Stage,Women's Pro,Group B,2,Single game,Divine Intervention,Lescargooo,Divine Intervention,15,12,,,,,Jessi Riedelsheimer,Ricarda Witt,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group C,2,Single game,Ronja/Sarah,Amély/Lucile,Ronja/Sarah,18,16,,,,,Sarah Steinbrecht,Ronja Lorenz,Lucile Rouault,Amely Joly
+Group Stage,Women's Pro,Group C,2,Single game,Blue Rabbit,Waves Energy,Blue Rabbit,15,12,,,,,Sarah Martinez,Natacha Alt,Alina Pîrlea,Beatrice Tărășilă
+Group Stage,Women's Pro,Group A,3,Single game,Nova,Double Ding Dong,Nova,15,8,,,,,Inès Paysan,Laura Kunzelmann,Aylin Altenwegner,Julia Grob
+Group Stage,Women's Pro,Group A,3,Single game,Chicken Joe,You made my day ☀️,Chicken Joe,15,8,,,,,Alexa Peusch,Theresa Knauf,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group B,3,Single game,tiramisu,Divine Intervention,tiramisu,15,5,,,,,Daniela Kadlec,Megan Leybourne,Jessi Riedelsheimer,Ricarda Witt
+Group Stage,Women's Pro,Group B,3,Single game,Cucciolone guerriere,Lescargooo,Cucciolone guerriere,15,6,,,,,Silvia Zanella,Chiara Pernigo,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group C,3,Single game,Ronja/Sarah,Blue Rabbit,Ronja/Sarah,15,10,,,,,Sarah Steinbrecht,Ronja Lorenz,Sarah Martinez,Natacha Alt
+Group Stage,Women's Pro,Group C,3,Single game,Amély/Lucile,Waves Energy,Amély/Lucile,15,9,,,,,Lucile Rouault,Amely Joly,Alina Pîrlea,Beatrice Tărășilă
+Group Stage,Women's Pro,Group A,4,Single game,Chicken Joe,Double Ding Dong,Chicken Joe,15,6,,,,,Alexa Peusch,Theresa Knauf,Aylin Altenwegner,Julia Grob
+Group Stage,Women's Pro,Group A,4,Single game,Troughton/Cooke,You made my day ☀️,Troughton/Cooke,15,12,,,,,Ruth Troughton,Sophie Cooke,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group B,4,Single game,Cucciolone guerriere,Divine Intervention,Cucciolone guerriere,19,17,,,,,Silvia Zanella,Chiara Pernigo,Jessi Riedelsheimer,Ricarda Witt
+Group Stage,Women's Pro,Group B,4,Single game,caffè corretto,Lescargooo,caffè corretto,19,17,,,,,Constanze Lehner,daria orlandini,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group A,5,Single game,Nova,Chicken Joe,Nova,15,11,,,,,Inès Paysan,Laura Kunzelmann,Alexa Peusch,Theresa Knauf
+Group Stage,Women's Pro,Group A,5,Single game,Double Ding Dong,Troughton/Cooke,Double Ding Dong,15,13,,,,,Aylin Altenwegner,Julia Grob,Ruth Troughton,Sophie Cooke
+Group Stage,Women's Pro,Group B,5,Single game,tiramisu,Cucciolone guerriere,tiramisu,15,11,,,,,Daniela Kadlec,Megan Leybourne,Silvia Zanella,Chiara Pernigo
+Group Stage,Women's Pro,Group B,5,Single game,Divine Intervention,caffè corretto,Divine Intervention,15,9,,,,,Jessi Riedelsheimer,Ricarda Witt,Constanze Lehner,daria orlandini
+Group Stage,Women's Pro,Group A,6,Single game,Nova,You made my day ☀️,Nova,15,8,,,,,Inès Paysan,Laura Kunzelmann,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group A,6,Single game,Chicken Joe,Troughton/Cooke,Chicken Joe,16,14,,,,,Alexa Peusch,Theresa Knauf,Ruth Troughton,Sophie Cooke
+Group Stage,Women's Pro,Group B,6,Single game,tiramisu,Lescargooo,tiramisu,15,2,,,,,Daniela Kadlec,Megan Leybourne,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group B,6,Single game,Cucciolone guerriere,caffè corretto,Cucciolone guerriere,15,10,,,,,Silvia Zanella,Chiara Pernigo,Constanze Lehner,daria orlandini
+Group Stage,Women's Pro,Group C,4,Single game,Ronja/Sarah,Waves Energy,Ronja/Sarah,15,12,,,,,Sarah Steinbrecht,Ronja Lorenz,Alina Pîrlea,Beatrice Tărășilă
+Group Stage,Women's Pro,Group C,4,Single game,Blue Rabbit,Amély/Lucile,Blue Rabbit,15,11,,,,,Sarah Martinez,Natacha Alt,Lucile Rouault,Amely Joly
+Group Stage,Women's Pro,Group A,7,Single game,Nova,Troughton/Cooke,Nova,15,8,,,,,Inès Paysan,Laura Kunzelmann,Ruth Troughton,Sophie Cooke
+Group Stage,Women's Pro,Group A,7,Single game,Double Ding Dong,You made my day ☀️,Double Ding Dong,15,12,,,,,Aylin Altenwegner,Julia Grob,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group B,7,Single game,tiramisu,caffè corretto,tiramisu,15,11,,,,,Daniela Kadlec,Megan Leybourne,Constanze Lehner,daria orlandini
+Group Stage,Women's Pro,Group B,7,Single game,Divine Intervention,Lescargooo,Divine Intervention,15,13,,,,,Jessi Riedelsheimer,Ricarda Witt,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group C,5,Single game,Ronja/Sarah,Amély/Lucile,Amély/Lucile,11,15,,,,,Sarah Steinbrecht,Ronja Lorenz,Lucile Rouault,Amely Joly
+Group Stage,Women's Pro,Group C,5,Single game,Blue Rabbit,Waves Energy,Blue Rabbit,15,13,,,,,Sarah Martinez,Natacha Alt,Alina Pîrlea,Beatrice Tărășilă
+Group Stage,Women's Pro,Group A,8,Single game,Nova,Double Ding Dong,Nova,15,7,,,,,Inès Paysan,Laura Kunzelmann,Aylin Altenwegner,Julia Grob
+Group Stage,Women's Pro,Group A,8,Single game,Chicken Joe,You made my day ☀️,Chicken Joe,16,14,,,,,Alexa Peusch,Theresa Knauf,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group B,8,Single game,tiramisu,Divine Intervention,tiramisu,15,7,,,,,Daniela Kadlec,Megan Leybourne,Jessi Riedelsheimer,Ricarda Witt
+Group Stage,Women's Pro,Group B,8,Single game,Cucciolone guerriere,Lescargooo,Cucciolone guerriere,18,16,,,,,Silvia Zanella,Chiara Pernigo,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group C,6,Single game,Ronja/Sarah,Blue Rabbit,Ronja/Sarah,15,9,,,,,Sarah Steinbrecht,Ronja Lorenz,Sarah Martinez,Natacha Alt
+Group Stage,Women's Pro,Group C,6,Single game,Amély/Lucile,Waves Energy,Amély/Lucile,15,10,,,,,Lucile Rouault,Amely Joly,Alina Pîrlea,Beatrice Tărășilă
+Group Stage,Women's Pro,Group A,9,Single game,Chicken Joe,Double Ding Dong,Chicken Joe,15,11,,,,,Alexa Peusch,Theresa Knauf,Aylin Altenwegner,Julia Grob
+Group Stage,Women's Pro,Group A,9,Single game,Troughton/Cooke,You made my day ☀️,You made my day ☀️,14,16,,,,,Ruth Troughton,Sophie Cooke,Irina Bob,Eline Meijer
+Group Stage,Women's Pro,Group B,9,Single game,Cucciolone guerriere,Divine Intervention,Cucciolone guerriere,15,10,,,,,Silvia Zanella,Chiara Pernigo,Jessi Riedelsheimer,Ricarda Witt
+Group Stage,Women's Pro,Group B,9,Single game,caffè corretto,Lescargooo,Lescargooo,12,15,,,,,Constanze Lehner,daria orlandini,Freya Levie,Kaija Eigenmann
+Group Stage,Women's Pro,Group A,10,Single game,Nova,Chicken Joe,Nova,15,10,,,,,Inès Paysan,Laura Kunzelmann,Alexa Peusch,Theresa Knauf
+Group Stage,Women's Pro,Group A,10,Single game,Double Ding Dong,Troughton/Cooke,Double Ding Dong,15,12,,,,,Aylin Altenwegner,Julia Grob,Ruth Troughton,Sophie Cooke
+Group Stage,Women's Pro,Group B,10,Single game,tiramisu,Cucciolone guerriere,tiramisu,18,16,,,,,Daniela Kadlec,Megan Leybourne,Silvia Zanella,Chiara Pernigo
+Group Stage,Women's Pro,Group B,10,Single game,Divine Intervention,caffè corretto,Divine Intervention,15,9,,,,,Jessi Riedelsheimer,Ricarda Witt,Constanze Lehner,daria orlandini
+Bracket Stage,Women's Pro,Bracket A,Round of 16,Best of 3,Chicken Joe,Lescargooo,Chicken Joe,21,14,21,13,,,Alexa Peusch,Theresa Knauf,Freya Levie,Kaija Eigenmann
+Bracket Stage,Women's Pro,Bracket A,Round of 16,Best of 3,Cucciolone guerriere,caffè corretto,Cucciolone guerriere,21,14,21,15,,,Silvia Zanella,Chiara Pernigo,Constanze Lehner,daria orlandini
+Bracket Stage,Women's Pro,Bracket A,Round of 16,Best of 3,Amély/Lucile,You made my day ☀️,Amély/Lucile,21,13,19,21,21,19,Lucile Rouault,Amely Joly,Irina Bob,Eline Meijer
+Bracket Stage,Women's Pro,Bracket A,Round of 16,Best of 3,Ronja/Sarah,Troughton/Cooke,Ronja/Sarah,21,19,19,21,21,16,Sarah Steinbrecht,Ronja Lorenz,Ruth Troughton,Sophie Cooke
+Bracket Stage,Women's Pro,Bracket A,Round of 16,Best of 3,Blue Rabbit,Waves Energy,Waves Energy,17,21,21,15,24,25,Sarah Martinez,Natacha Alt,Alina Pîrlea,Beatrice Tărășilă
+Bracket Stage,Women's Pro,Bracket A,Round of 16,Best of 3,Divine Intervention,Double Ding Dong,Divine Intervention,21,19,17,21,21,18,Jessi Riedelsheimer,Ricarda Witt,Aylin Altenwegner,Julia Grob
+Bracket Stage,Women's Pro,Bracket A,Quarter-final,Best of 3,Nova,Waves Energy,Nova,21,11,21,7,,,Inès Paysan,Laura Kunzelmann,Alina Pîrlea,Beatrice Tărășilă
+Bracket Stage,Women's Pro,Bracket A,Quarter-final,Best of 3,Chicken Joe,Ronja/Sarah,Chicken Joe,21,10,21,14,,,Alexa Peusch,Theresa Knauf,Sarah Steinbrecht,Ronja Lorenz
+Bracket Stage,Women's Pro,Bracket A,Quarter-final,Best of 3,Cucciolone guerriere,Amély/Lucile,Cucciolone guerriere,21,10,21,11,,,Silvia Zanella,Chiara Pernigo,Lucile Rouault,Amely Joly
+Bracket Stage,Women's Pro,Bracket A,Semi-final,Best of 3,Divine Intervention,Cucciolone guerriere,Cucciolone guerriere,18,21,13,21,,,Jessi Riedelsheimer,Ricarda Witt,Silvia Zanella,Chiara Pernigo
+Bracket Stage,Women's Pro,Bracket A,Semi-final,Best of 3,Nova,Chicken Joe,Nova,21,14,21,19,,,Inès Paysan,Laura Kunzelmann,Alexa Peusch,Theresa Knauf
+Bracket Stage,Women's Pro,Bracket A,P5: Semi-final,Single game,Ronja/Sarah,Waves Energy,Ronja/Sarah,21,19,,,,,Sarah Steinbrecht,Ronja Lorenz,Alina Pîrlea,Beatrice Tărășilă
+Bracket Stage,Women's Pro,Bracket A,P9: Semi-final,Single game,Double Ding Dong,caffè corretto,Double Ding Dong,25,24,,,,,Aylin Altenwegner,Julia Grob,Constanze Lehner,daria orlandini
+Bracket Stage,Women's Pro,Bracket A,Final,Single game,Cucciolone guerriere,Nova,Nova,13,21,12,21,,,Silvia Zanella,Chiara Pernigo,Inès Paysan,Laura Kunzelmann
+Bracket Stage,Women's Pro,Bracket A,P3: Final,Single game,Chicken Joe,Divine Intervention,Chicken Joe,21,15,,,,,Alexa Peusch,Theresa Knauf,Jessi Riedelsheimer,Ricarda Witt
+Bracket Stage,Women's Pro,Bracket A,P7: Final,Single game,Waves Energy,Amély/Lucile,Waves Energy,21,10,,,,,Alina Pîrlea,Beatrice Tărășilă,Lucile Rouault,Amely Joly
+Group Stage,Women's Contender,Group A,1,Single game,Hot Dogs,Chocolatechip with extra whip,Hot Dogs,21,17,,,,,Tamara Sundl,Angelika Bauer,Lina Dannemann,Klára Bedrnová
+Group Stage,Women's Contender,Group A,1,Single game,ABCD,Glitters,Glitters,15,21,,,,,Abbey Capp,Bec Dumesny,Tereza Caltová,Markéta Nývltová
+Group Stage,Women's Contender,Group B,1,Single game,Cowabunga,HASA Rockets,Cowabunga,21,7,,,,,Sarah Joy Quibell,Nicole Fatt,Hannah Seferovic,Sara Pungor
+Group Stage,Women's Contender,Group B,1,Single game,tissue issue,Eliso,tissue issue,21,7,,,,,Selina Bachmann,Lisa Schiegg,Elisa Jagersberger,Sophia Sparr
+Group Stage,Women's Contender,Group C,1,Single game,Ferragina/Stranieri,Hit on Two(ucans),Hit on Two(ucans),9,21,,,,,Marianne Ferragina,Irene Stranieri,Bettina Meinhart,Sarah Brenker
+Group Stage,Women's Contender,Group D,1,Single game,Hanna & Nene,Danish Spikealicious,Hanna & Nene,21,3,,,,,Elena Rossetto,Hanna Mrak,Emilie Jensen,Josefine Kramer
+Group Stage,Women's Contender,Group D,1,Single game,Wien some lose some,Lion...,Lion...,13,21,,,,,Ditte Møller Gregersen,Mie Korsholt,Yasmin Graeter,Teresa Stoffl
+Group Stage,Women's Contender,Group E,1,Single game,Klipp Klipp,WS Kąski,Klipp Klipp,21,13,,,,,Vivienne Nenz,Tosca Pecorino,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group E,1,Single game,22 years old like you,Carina/Maude,Carina/Maude,14,21,,,,,Theresa Schaufler,Juliette Dumesnil,Maude JOURNET,Carina Kuo
+Group Stage,Women's Contender,Group F,1,Single game,The S world,Sweeties,The S world,21,2,,,,,Jade Lacombe,ondine novarese,Antonia Sencovici,Ellinor Gustavsson
+Group Stage,Women's Contender,Group F,1,Single game,Hill-Smith/Cheung,Drop it like it’s hot,Hill-Smith/Cheung,21,8,,,,,Jasmine Cheung,Emily Hill-Smith,Harriet Field,Una Ognjenovic
+Group Stage,Women's Contender,Group A,2,Single game,Hot Dogs,Glitters,Hot Dogs,21,15,,,,,Tamara Sundl,Angelika Bauer,Tereza Caltová,Markéta Nývltová
+Group Stage,Women's Contender,Group A,2,Single game,Cosmic Feeling,Chocolatechip with extra whip,Cosmic Feeling,21,14,,,,,Costanza Patat,Felicia Höchtl,Lina Dannemann,Klára Bedrnová
+Group Stage,Women's Contender,Group B,2,Single game,Cowabunga,Eliso,Cowabunga,21,10,,,,,Sarah Joy Quibell,Nicole Fatt,Elisa Jagersberger,Sophia Sparr
+Group Stage,Women's Contender,Group B,2,Single game,RCB schigg schigg,HASA Rockets,RCB schigg schigg,21,9,,,,,Rikke Bloch,Mirjam Wiedmer,Hannah Seferovic,Sara Pungor
+Group Stage,Women's Contender,Group C,2,Single game,GeRo Energy,Hit on Two(ucans),GeRo Energy,21,14,,,,,Sabina Labonc,Svenja Kühner,Bettina Meinhart,Sarah Brenker
+Group Stage,Women's Contender,Group D,2,Single game,Hanna & Nene,Lion...,Hanna & Nene,21,14,,,,,Elena Rossetto,Hanna Mrak,Yasmin Graeter,Teresa Stoffl
+Group Stage,Women's Contender,Group D,2,Single game,Wien some lose some,Danish Spikealicious,Wien some lose some,21,6,,,,,Ditte Møller Gregersen,Mie Korsholt,Emilie Jensen,Josefine Kramer
+Group Stage,Women's Contender,Group E,2,Single game,Klipp Klipp,Carina/Maude,Klipp Klipp,21,19,,,,,Vivienne Nenz,Tosca Pecorino,Maude JOURNET,Carina Kuo
+Group Stage,Women's Contender,Group E,2,Single game,22 years old like you,WS Kąski,22 years old like you,21,11,,,,,Theresa Schaufler,Juliette Dumesnil,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group F,2,Single game,The S world,Drop it like it’s hot,The S world,21,12,,,,,Jade Lacombe,ondine novarese,Harriet Field,Una Ognjenovic
+Group Stage,Women's Contender,Group F,2,Single game,Hill-Smith/Cheung,Sweeties,Hill-Smith/Cheung,21,15,,,,,Jasmine Cheung,Emily Hill-Smith,Antonia Sencovici,Ellinor Gustavsson
+Group Stage,Women's Contender,Group A,3,Single game,Hot Dogs,Cosmic Feeling,Hot Dogs,21,14,,,,,Tamara Sundl,Angelika Bauer,Costanza Patat,Felicia Höchtl
+Group Stage,Women's Contender,Group A,3,Single game,ABCD,Chocolatechip with extra whip,ABCD,21,12,,,,,Abbey Capp,Bec Dumesny,Lina Dannemann,Klára Bedrnová
+Group Stage,Women's Contender,Group B,3,Single game,Cowabunga,RCB schigg schigg,Cowabunga,21,16,,,,,Sarah Joy Quibell,Nicole Fatt,Rikke Bloch,Mirjam Wiedmer
+Group Stage,Women's Contender,Group B,3,Single game,tissue issue,HASA Rockets,tissue issue,21,8,,,,,Selina Bachmann,Lisa Schiegg,Hannah Seferovic,Sara Pungor
+Group Stage,Women's Contender,Group C,3,Single game,GeRo Energy,Mega Bite Energy,GeRo Energy,21,9,,,,,Sabina Labonc,Svenja Kühner,Nicoleta Toporas,Madalina Mariuta
+Group Stage,Women's Contender,Group D,3,Single game,Hanna & Nene,Wien some lose some,Hanna & Nene,21,11,,,,,Elena Rossetto,Hanna Mrak,Ditte Møller Gregersen,Mie Korsholt
+Group Stage,Women's Contender,Group D,3,Single game,Lion...,Danish Spikealicious,Lion...,21,0,,,,,Yasmin Graeter,Teresa Stoffl,Emilie Jensen,Josefine Kramer
+Group Stage,Women's Contender,Group E,3,Single game,Klipp Klipp,22 years old like you,Klipp Klipp,21,11,,,,,Vivienne Nenz,Tosca Pecorino,Theresa Schaufler,Juliette Dumesnil
+Group Stage,Women's Contender,Group E,3,Single game,Carina/Maude,WS Kąski,WS Kąski,19,21,,,,,Maude JOURNET,Carina Kuo,Julia Stawarek,Pola Wolff
+Group Stage,Women's Contender,Group F,3,Single game,The S world,Hill-Smith/Cheung,The S world,21,18,,,,,Jade Lacombe,ondine novarese,Jasmine Cheung,Emily Hill-Smith
+Group Stage,Women's Contender,Group F,3,Single game,Drop it like it’s hot,Sweeties,Drop it like it’s hot,21,17,,,,,Harriet Field,Una Ognjenovic,Antonia Sencovici,Ellinor Gustavsson
+Group Stage,Women's Contender,Group A,4,Single game,ABCD,Cosmic Feeling,Cosmic Feeling,17,21,,,,,Abbey Capp,Bec Dumesny,Costanza Patat,Felicia Höchtl
+Group Stage,Women's Contender,Group A,4,Single game,Glitters,Chocolatechip with extra whip,Glitters,21,15,,,,,Tereza Caltová,Markéta Nývltová,Lina Dannemann,Klára Bedrnová
+Group Stage,Women's Contender,Group B,4,Single game,tissue issue,RCB schigg schigg,RCB schigg schigg,17,21,,,,,Selina Bachmann,Lisa Schiegg,Rikke Bloch,Mirjam Wiedmer
+Group Stage,Women's Contender,Group B,4,Single game,Eliso,HASA Rockets,Eliso,21,19,,,,,Elisa Jagersberger,Sophia Sparr,Hannah Seferovic,Sara Pungor
+Group Stage,Women's Contender,Group C,4,Single game,Ferragina/Stranieri,Mega Bite Energy,Mega Bite Energy,10,21,,,,,Marianne Ferragina,Irene Stranieri,Nicoleta Toporas,Madalina Mariuta
+Group Stage,Women's Contender,Group A,5,Single game,Hot Dogs,ABCD,Hot Dogs,21,13,,,,,Tamara Sundl,Angelika Bauer,Abbey Capp,Bec Dumesny
+Group Stage,Women's Contender,Group A,5,Single game,Cosmic Feeling,Glitters,Cosmic Feeling,21,10,,,,,Costanza Patat,Felicia Höchtl,Tereza Caltová,Markéta Nývltová
+Group Stage,Women's Contender,Group B,5,Single game,Cowabunga,tissue issue,Cowabunga,21,17,,,,,Sarah Joy Quibell,Nicole Fatt,Selina Bachmann,Lisa Schiegg
+Group Stage,Women's Contender,Group B,5,Single game,RCB schigg schigg,Eliso,RCB schigg schigg,21,9,,,,,Rikke Bloch,Mirjam Wiedmer,Elisa Jagersberger,Sophia Sparr
+Group Stage,Women's Contender,Group C,5,Single game,GeRo Energy,Ferragina/Stranieri,GeRo Energy,21,10,,,,,Sabina Labonc,Svenja Kühner,Marianne Ferragina,Irene Stranieri
+Group Stage,Women's Contender,Group C,5,Single game,Mega Bite Energy,Hit on Two(ucans),Mega Bite Energy,21,18,,,,,Nicoleta Toporas,Madalina Mariuta,Bettina Meinhart,Sarah Brenker
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Lion...,HASA Rockets,Lion...,15,5,15,8,,,Yasmin Graeter,Teresa Stoffl,Hannah Seferovic,Sara Pungor
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,RCB schigg schigg,Chocolatechip with extra whip,RCB schigg schigg,15,5,15,9,,,Rikke Bloch,Mirjam Wiedmer,Lina Dannemann,Klára Bedrnová
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Hill-Smith/Cheung,Danish Spikealicious,Hill-Smith/Cheung,15,4,15,1,,,Jasmine Cheung,Emily Hill-Smith,Emilie Jensen,Josefine Kramer
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Cosmic Feeling,Ferragina/Stranieri,Cosmic Feeling,15,3,15,10,,,Costanza Patat,Felicia Höchtl,Marianne Ferragina,Irene Stranieri
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Mega Bite Energy,RomPol Power,Mega Bite Energy,15,6,15,3,,,Nicoleta Toporas,Madalina Mariuta,Julia Zając,Mara Magdău
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,tissue issue,Eliso,tissue issue,15,9,12,15,15,10,Selina Bachmann,Lisa Schiegg,Elisa Jagersberger,Sophia Sparr
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Carina/Maude,ABCD,Carina/Maude,12,15,15,11,15,9,Maude JOURNET,Carina Kuo,Abbey Capp,Bec Dumesny
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Hit on Two(ucans),Drop it like it’s hot,Drop it like it’s hot,12,15,15,12,10,15,Bettina Meinhart,Sarah Brenker,Harriet Field,Una Ognjenovic
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Wien some lose some,WS Kąski,WS Kąski,11,15,10,15,,,Ditte Møller Gregersen,Mie Korsholt,Julia Stawarek,Pola Wolff
+Bracket Stage,Women's Contender,Bracket A,Round of 32,Best of 3,Glitters,22 years old like you,22 years old like you,15,17,11,15,,,Tereza Caltová,Markéta Nývltová,Theresa Schaufler,Juliette Dumesnil
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Hanna & Nene,22 years old like you,Hanna & Nene,15,11,15,5,,,Elena Rossetto,Hanna Mrak,Theresa Schaufler,Juliette Dumesnil
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,The S world,WS Kąski,The S world,15,11,15,2,,,Jade Lacombe,ondine novarese,Julia Stawarek,Pola Wolff
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,GeRo Energy,Drop it like it’s hot,GeRo Energy,15,8,15,7,,,Sabina Labonc,Svenja Kühner,Harriet Field,Una Ognjenovic
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Cowabunga,Carina/Maude,Cowabunga,15,10,15,7,,,Sarah Joy Quibell,Nicole Fatt,Maude JOURNET,Carina Kuo
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Klipp Klipp,tissue issue,Klipp Klipp,13,15,15,11,15,12,Vivienne Nenz,Tosca Pecorino,Selina Bachmann,Lisa Schiegg
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Hot Dogs,Mega Bite Energy,Hot Dogs,15,11,15,9,,,Tamara Sundl,Angelika Bauer,Nicoleta Toporas,Madalina Mariuta
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,Lion...,Cosmic Feeling,Cosmic Feeling,10,15,16,14,12,15,Yasmin Graeter,Teresa Stoffl,Costanza Patat,Felicia Höchtl
+Bracket Stage,Women's Contender,Bracket A,Round of 16,Best of 3,RCB schigg schigg,Hill-Smith/Cheung,RCB schigg schigg,15,13,10,15,15,8,Rikke Bloch,Mirjam Wiedmer,Jasmine Cheung,Emily Hill-Smith
+Bracket Stage,Women's Contender,Bracket A,P17: Round of 16,Best of 3,Ferragina/Stranieri,HASA Rockets,HASA Rockets,12,15,12,15,,,Marianne Ferragina,Irene Stranieri,Hannah Seferovic,Sara Pungor
+Bracket Stage,Women's Contender,Bracket A,P17: Round of 16,Best of 3,Danish Spikealicious,Chocolatechip with extra whip,Chocolatechip with extra whip,8,15,4,15,,,Emilie Jensen,Josefine Kramer,Lina Dannemann,Klára Bedrnová
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Hanna & Nene,RCB schigg schigg,RCB schigg schigg,14,16,13,15,,,Elena Rossetto,Hanna Mrak,Rikke Bloch,Mirjam Wiedmer
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,The S world,Cosmic Feeling,The S world,15,6,15,11,,,Jade Lacombe,ondine novarese,Costanza Patat,Felicia Höchtl
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,GeRo Energy,Hot Dogs,GeRo Energy,12,15,18,16,15,5,Sabina Labonc,Svenja Kühner,Tamara Sundl,Angelika Bauer
+Bracket Stage,Women's Contender,Bracket A,Quarter-final,Best of 3,Cowabunga,Klipp Klipp,Cowabunga,17,15,15,11,,,Sarah Joy Quibell,Nicole Fatt,Vivienne Nenz,Tosca Pecorino
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Hill-Smith/Cheung,22 years old like you,22 years old like you,20,22,10,15,,,Jasmine Cheung,Emily Hill-Smith,Theresa Schaufler,Juliette Dumesnil
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Lion...,WS Kąski,Lion...,15,6,15,9,,,Yasmin Graeter,Teresa Stoffl,Julia Stawarek,Pola Wolff
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,Mega Bite Energy,Drop it like it’s hot,Mega Bite Energy,15,12,11,15,15,12,Nicoleta Toporas,Madalina Mariuta,Harriet Field,Una Ognjenovic
+Bracket Stage,Women's Contender,Bracket A,P9: Quarter-final,Best of 3,tissue issue,Carina/Maude,tissue issue,15,5,15,11,,,Selina Bachmann,Lisa Schiegg,Maude JOURNET,Carina Kuo
+Bracket Stage,Women's Contender,Bracket A,P17: Quarter-final,Best of 3,Glitters,Chocolatechip with extra whip,Glitters,15,8,15,7,,,Tereza Caltová,Markéta Nývltová,Lina Dannemann,Klára Bedrnová
+Bracket Stage,Women's Contender,Bracket A,P17: Quarter-final,Best of 3,Wien some lose some,HASA Rockets,HASA Rockets,15,8,11,15,13,15,Ditte Møller Gregersen,Mie Korsholt,Hannah Seferovic,Sara Pungor
+Bracket Stage,Women's Contender,Bracket A,P17: Quarter-final,Best of 3,Hit on Two(ucans),RomPol Power,Hit on Two(ucans),15,10,15,6,,,Bettina Meinhart,Sarah Brenker,Julia Zając,Mara Magdău
+Bracket Stage,Women's Contender,Bracket A,P17: Quarter-final,Best of 3,ABCD,Eliso,Eliso,12,15,12,15,,,Abbey Capp,Bec Dumesny,Elisa Jagersberger,Sophia Sparr
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,RCB schigg schigg,Cowabunga,RCB schigg schigg,21,18,21,11,,,Rikke Bloch,Mirjam Wiedmer,Sarah Joy Quibell,Nicole Fatt
+Bracket Stage,Women's Contender,Bracket A,Semi-final,Best of 3,The S world,GeRo Energy,GeRo Energy,21,17,15,21,11,21,Jade Lacombe,ondine novarese,Sabina Labonc,Svenja Kühner
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Klipp Klipp,Hanna & Nene,Hanna & Nene,7,15,11,15,,,Vivienne Nenz,Tosca Pecorino,Elena Rossetto,Hanna Mrak
+Bracket Stage,Women's Contender,Bracket A,P5: Semi-final,Best of 3,Hot Dogs,Cosmic Feeling,Cosmic Feeling,0,1,0,1,,,Tamara Sundl,Angelika Bauer,Costanza Patat,Felicia Höchtl
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,22 years old like you,tissue issue,tissue issue,16,21,16,21,,,Theresa Schaufler,Juliette Dumesnil,Selina Bachmann,Lisa Schiegg
+Bracket Stage,Women's Contender,Bracket A,P9: Semi-final,Best of 3,Lion...,Mega Bite Energy,Lion...,15,10,15,12,,,Yasmin Graeter,Teresa Stoffl,Nicoleta Toporas,Madalina Mariuta
+Bracket Stage,Women's Contender,Bracket A,P13: Semi-final,Best of 3,Carina/Maude,Hill-Smith/Cheung,Hill-Smith/Cheung,0,1,0,1,,,Maude JOURNET,Carina Kuo,Jasmine Cheung,Emily Hill-Smith
+Bracket Stage,Women's Contender,Bracket A,P13: Semi-final,Best of 3,Drop it like it’s hot,WS Kąski,WS Kąski,15,11,11,15,12,15,Harriet Field,Una Ognjenovic,Julia Stawarek,Pola Wolff
+Bracket Stage,Women's Contender,Bracket A,P17: Semi-final,Best of 3,Glitters,Eliso,Glitters,16,14,10,15,17,15,Tereza Caltová,Markéta Nývltová,Elisa Jagersberger,Sophia Sparr
+Bracket Stage,Women's Contender,Bracket A,P17: Semi-final,Best of 3,HASA Rockets,Hit on Two(ucans),Hit on Two(ucans),7,15,6,15,,,Hannah Seferovic,Sara Pungor,Bettina Meinhart,Sarah Brenker
+Bracket Stage,Women's Contender,Bracket A,P21: Semi-final,Best of 3,RomPol Power,Wien some lose some,Wien some lose some,18,21,0,1,,,Julia Zając,Mara Magdău,Ditte Møller Gregersen,Mie Korsholt
+Bracket Stage,Women's Contender,Bracket A,Final,Best of 3,RCB schigg schigg,GeRo Energy,RCB schigg schigg,24,22,14,21,21,16,Rikke Bloch,Mirjam Wiedmer,Sabina Labonc,Svenja Kühner
+Bracket Stage,Women's Contender,Bracket A,P3: Final,Best of 3,The S world,Cowabunga,Cowabunga,20,22,21,19,19,21,Jade Lacombe,ondine novarese,Sarah Joy Quibell,Nicole Fatt
+Bracket Stage,Women's Contender,Bracket A,P5: Final,Best of 3,Hanna & Nene,Cosmic Feeling,,22,20,,,,,Elena Rossetto,Hanna Mrak,Costanza Patat,Felicia Höchtl
+Bracket Stage,Women's Contender,Bracket A,P9: Final,Best of 3,tissue issue,Lion...,tissue issue,15,13,15,13,,,Selina Bachmann,Lisa Schiegg,Yasmin Graeter,Teresa Stoffl
+Bracket Stage,Women's Contender,Bracket A,P17: Final,Best of 3,Glitters,Hit on Two(ucans),Glitters,10,15,15,10,1,0,Tereza Caltová,Markéta Nývltová,Bettina Meinhart,Sarah Brenker
+Bracket Stage,Women's Contender,Bracket A,P19: Final,Best of 3,HASA Rockets,Eliso,Eliso,12,15,8,15,,,Hannah Seferovic,Sara Pungor,Elisa Jagersberger,Sophia Sparr
+Bracket Stage,Women's Contender,Bracket A,P21: Final,Best of 3,Chocolatechip with extra whip,Wien some lose some,Wien some lose some,18,21,0,1,,,Lina Dannemann,Klára Bedrnová,Ditte Møller Gregersen,Mie Korsholt
+Bracket Stage,Women's Contender,Bracket A,P23: Final,Best of 3,RomPol Power,ABCD,RomPol Power,1,0,1,0,,,Julia Zając,Mara Magdău,Abbey Capp,Bec Dumesny
+Bracket Stage,Women's Contender,Bracket A,P25: Final,Best of 3,Danish Spikealicious,Ferragina/Stranieri,Ferragina/Stranieri,8,15,9,15,,,Emilie Jensen,Josefine Kramer,Marianne Ferragina,Irene Stranieri

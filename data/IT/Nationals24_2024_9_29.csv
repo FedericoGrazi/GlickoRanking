@@ -1,0 +1,98 @@
+﻿Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Open,Power Pool A,1,Single game,Bazzani/Borsotti,Ace o Doppio,Bazzani/Borsotti,2,0,,,,,Andrea Borsotti,Nicola Bazzani,Luca Tosatti,Mattia Pareschi
+Group Stage,Open,Power Pool A,1,Single game,Serial Chillers,Hinata/Nishinoya,Serial Chillers,1,1,,,,,Jacopo Dudine,Alessandro Zanellato,riccardo mercadini,Matteo Molli
+Group Stage,Open,Energy Pool A,1,Single game,Se non sughiamo perdiamo,Zuca zala,Se non sughiamo perdiamo,21,9,,,,,Luca Leoni,Silvia Zanella,Mattia Penasa,simone magnani
+Group Stage,Open,Energy Pool A,1,Single game,Mordecut & Fwangby,RnRcucumberhouse,Mordecut & Fwangby,21,5,,,,,Dario Filippi,Sebastiano Guerra,Lennard Michaelis,Stefano Riccardi
+Group Stage,Open,Energy Pool A,1,Single game,Prendi e porta a casa,Guilty pleasure,Prendi e porta a casa,21,14,,,,,Gianluca Sartin,Andrea Piccirillo,Mirko Biondini,Giovanni Messina
+Group Stage,Open,Energy Pool B,1,Single game,Carta bianca,RnR Le Noci,Carta bianca,21,9,,,,,Chiara Pernigo,Tobia Sermenghi,Iacopo Cinelli,Paolo  Baldini
+Group Stage,Open,Energy Pool B,1,Single game,TBD- Tanto Battiamo Dritto,RnR Bolzoma,TBD- Tanto Battiamo Dritto,21,18,,,,,Michele Berlanda,Tommaso Marzocchi,Hannes Huber,Francesco Stupazzini
+Group Stage,Open,Energy Pool B,1,Single game,Sanla2020,Interstellars,Sanla2020,21,8,,,,,Leonardo Travasoni,Francesco Mezzetti,Lorenzo Favati,Simone Mastronardi
+Group Stage,Open,Power Pool A,2,Single game,Bazzani/Borsotti,Hinata/Nishinoya,Bazzani/Borsotti,2,0,,,,,Andrea Borsotti,Nicola Bazzani,riccardo mercadini,Matteo Molli
+Group Stage,Open,Power Pool A,2,Single game,RBZ Tocco Italiano,Ace o Doppio,RBZ Tocco Italiano,1,1,,,,,Giacomo Merlin,Matteo Sacchini,Luca Tosatti,Mattia Pareschi
+Group Stage,Open,Energy Pool A,2,Single game,Se non sughiamo perdiamo,RnRcucumberhouse,Se non sughiamo perdiamo,21,11,,,,,Luca Leoni,Silvia Zanella,Lennard Michaelis,Stefano Riccardi
+Group Stage,Open,Energy Pool A,2,Single game,Mordecut & Fwangby,Ficarra & Picone,Mordecut & Fwangby,21,11,,,,,Dario Filippi,Sebastiano Guerra,Riccardo Magnani,Alberto Amato
+Group Stage,Open,Energy Pool A,2,Single game,Guilty pleasure,Zuca zala,Guilty pleasure,21,16,,,,,Mirko Biondini,Giovanni Messina,Mattia Penasa,simone magnani
+Group Stage,Open,Energy Pool B,2,Single game,Carta bianca,RnR Bolzoma,Carta bianca,21,11,,,,,Chiara Pernigo,Tobia Sermenghi,Hannes Huber,Francesco Stupazzini
+Group Stage,Open,Energy Pool B,2,Single game,TBD- Tanto Battiamo Dritto,Tek&Birrette,Tek&Birrette,18,21,,,,,Michele Berlanda,Tommaso Marzocchi,Federico Librera,Fabio Bassi
+Group Stage,Open,Energy Pool B,2,Single game,Interstellars,RnR Le Noci,RnR Le Noci,19,21,,,,,Lorenzo Favati,Simone Mastronardi,Iacopo Cinelli,Paolo  Baldini
+Group Stage,Open,Power Pool A,3,Single game,Serial Chillers,Ace o Doppio,Ace o Doppio,1,1,,,,,Jacopo Dudine,Alessandro Zanellato,Luca Tosatti,Mattia Pareschi
+Group Stage,Open,Power Pool A,3,Single game,Bazzani/Borsotti,RBZ Tocco Italiano,Bazzani/Borsotti,2,0,,,,,Andrea Borsotti,Nicola Bazzani,Giacomo Merlin,Matteo Sacchini
+Group Stage,Open,Energy Pool A,3,Single game,Se non sughiamo perdiamo,Guilty pleasure,Se non sughiamo perdiamo,21,12,,,,,Luca Leoni,Silvia Zanella,Mirko Biondini,Giovanni Messina
+Group Stage,Open,Energy Pool A,3,Single game,Mordecut & Fwangby,Prendi e porta a casa,Mordecut & Fwangby,21,18,,,,,Dario Filippi,Sebastiano Guerra,Gianluca Sartin,Andrea Piccirillo
+Group Stage,Open,Energy Pool A,3,Single game,Ficarra & Picone,RnRcucumberhouse,Ficarra & Picone,21,18,,,,,Riccardo Magnani,Alberto Amato,Lennard Michaelis,Stefano Riccardi
+Group Stage,Open,Energy Pool B,3,Single game,Carta bianca,Interstellars,Carta bianca,21,9,,,,,Chiara Pernigo,Tobia Sermenghi,Lorenzo Favati,Simone Mastronardi
+Group Stage,Open,Energy Pool B,3,Single game,TBD- Tanto Battiamo Dritto,Sanla2020,Sanla2020,17,21,,,,,Michele Berlanda,Tommaso Marzocchi,Leonardo Travasoni,Francesco Mezzetti
+Group Stage,Open,Energy Pool B,3,Single game,Tek&Birrette,RnR Bolzoma,Tek&Birrette,21,17,,,,,Federico Librera,Fabio Bassi,Hannes Huber,Francesco Stupazzini
+Group Stage,Open,Power Pool A,4,Single game,Serial Chillers,RBZ Tocco Italiano,Serial Chillers,2,0,,,,,Jacopo Dudine,Alessandro Zanellato,Giacomo Merlin,Matteo Sacchini
+Group Stage,Open,Power Pool A,4,Single game,Hinata/Nishinoya,Ace o Doppio,Ace o Doppio,1,1,,,,,riccardo mercadini,Matteo Molli,Luca Tosatti,Mattia Pareschi
+Group Stage,Open,Energy Pool A,4,Single game,Se non sughiamo perdiamo,Ficarra & Picone,Se non sughiamo perdiamo,21,12,,,,,Luca Leoni,Silvia Zanella,Riccardo Magnani,Alberto Amato
+Group Stage,Open,Energy Pool A,4,Single game,Mordecut & Fwangby,Zuca zala,Mordecut & Fwangby,21,8,,,,,Dario Filippi,Sebastiano Guerra,Mattia Penasa,simone magnani
+Group Stage,Open,Energy Pool A,4,Single game,Prendi e porta a casa,RnRcucumberhouse,Prendi e porta a casa,21,16,,,,,Gianluca Sartin,Andrea Piccirillo,Lennard Michaelis,Stefano Riccardi
+Group Stage,Open,Energy Pool B,4,Single game,Carta bianca,Tek&Birrette,Carta bianca,21,19,,,,,Chiara Pernigo,Tobia Sermenghi,Federico Librera,Fabio Bassi
+Group Stage,Open,Energy Pool B,4,Single game,TBD- Tanto Battiamo Dritto,RnR Le Noci,TBD- Tanto Battiamo Dritto,21,13,,,,,Michele Berlanda,Tommaso Marzocchi,Iacopo Cinelli,Paolo  Baldini
+Group Stage,Open,Energy Pool B,4,Single game,Sanla2020,RnR Bolzoma,Sanla2020,21,10,,,,,Leonardo Travasoni,Francesco Mezzetti,Hannes Huber,Francesco Stupazzini
+Group Stage,Open,Power Pool A,5,Single game,Bazzani/Borsotti,Serial Chillers,Bazzani/Borsotti,1,1,,,,,Andrea Borsotti,Nicola Bazzani,Jacopo Dudine,Alessandro Zanellato
+Group Stage,Open,Power Pool A,5,Single game,RBZ Tocco Italiano,Hinata/Nishinoya,Hinata/Nishinoya,1,1,,,,,Giacomo Merlin,Matteo Sacchini,riccardo mercadini,Matteo Molli
+Group Stage,Open,Energy Pool A,5,Single game,Mordecut & Fwangby,Guilty pleasure,Mordecut & Fwangby,21,10,,,,,Dario Filippi,Sebastiano Guerra,Mirko Biondini,Giovanni Messina
+Group Stage,Open,Energy Pool A,5,Single game,Prendi e porta a casa,Ficarra & Picone,Prendi e porta a casa,23,22,,,,,Gianluca Sartin,Andrea Piccirillo,Riccardo Magnani,Alberto Amato
+Group Stage,Open,Energy Pool A,5,Single game,RnRcucumberhouse,Zuca zala,Zuca zala,17,21,,,,,Lennard Michaelis,Stefano Riccardi,Mattia Penasa,simone magnani
+Group Stage,Open,Energy Pool B,5,Single game,TBD- Tanto Battiamo Dritto,Interstellars,TBD- Tanto Battiamo Dritto,21,11,,,,,Michele Berlanda,Tommaso Marzocchi,Lorenzo Favati,Simone Mastronardi
+Group Stage,Open,Energy Pool B,5,Single game,Sanla2020,Tek&Birrette,Sanla2020,21,17,,,,,Leonardo Travasoni,Francesco Mezzetti,Federico Librera,Fabio Bassi
+Group Stage,Open,Energy Pool B,5,Single game,RnR Bolzoma,RnR Le Noci,RnR Bolzoma,21,12,,,,,Hannes Huber,Francesco Stupazzini,Iacopo Cinelli,Paolo  Baldini
+Group Stage,Open,Energy Pool A,6,Single game,Se non sughiamo perdiamo,Prendi e porta a casa,Se non sughiamo perdiamo,21,14,,,,,Luca Leoni,Silvia Zanella,Gianluca Sartin,Andrea Piccirillo
+Group Stage,Open,Energy Pool A,6,Single game,Ficarra & Picone,Zuca zala,Ficarra & Picone,21,14,,,,,Riccardo Magnani,Alberto Amato,Mattia Penasa,simone magnani
+Group Stage,Open,Energy Pool A,6,Single game,Guilty pleasure,RnRcucumberhouse,Guilty pleasure,21,19,,,,,Mirko Biondini,Giovanni Messina,Lennard Michaelis,Stefano Riccardi
+Group Stage,Open,Energy Pool B,6,Single game,Carta bianca,Sanla2020,Sanla2020,19,21,,,,,Chiara Pernigo,Tobia Sermenghi,Leonardo Travasoni,Francesco Mezzetti
+Group Stage,Open,Energy Pool B,6,Single game,Tek&Birrette,RnR Le Noci,Tek&Birrette,21,9,,,,,Federico Librera,Fabio Bassi,Iacopo Cinelli,Paolo  Baldini
+Group Stage,Open,Energy Pool B,6,Single game,Interstellars,RnR Bolzoma,RnR Bolzoma,17,21,,,,,Lorenzo Favati,Simone Mastronardi,Hannes Huber,Francesco Stupazzini
+Group Stage,Open,Energy Pool A,7,Single game,Se non sughiamo perdiamo,Mordecut & Fwangby,Se non sughiamo perdiamo,21,18,,,,,Luca Leoni,Silvia Zanella,Dario Filippi,Sebastiano Guerra
+Group Stage,Open,Energy Pool A,7,Single game,Prendi e porta a casa,Zuca zala,Zuca zala,18,21,,,,,Gianluca Sartin,Andrea Piccirillo,Mattia Penasa,simone magnani
+Group Stage,Open,Energy Pool A,7,Single game,Ficarra & Picone,Guilty pleasure,Ficarra & Picone,21,17,,,,,Riccardo Magnani,Alberto Amato,Mirko Biondini,Giovanni Messina
+Group Stage,Open,Energy Pool B,7,Single game,Carta bianca,TBD- Tanto Battiamo Dritto,Carta bianca,21,19,,,,,Chiara Pernigo,Tobia Sermenghi,Michele Berlanda,Tommaso Marzocchi
+Group Stage,Open,Energy Pool B,7,Single game,Sanla2020,RnR Le Noci,Sanla2020,21,9,,,,,Leonardo Travasoni,Francesco Mezzetti,Iacopo Cinelli,Paolo  Baldini
+Group Stage,Open,Energy Pool B,7,Single game,Tek&Birrette,Interstellars,Tek&Birrette,21,12,,,,,Federico Librera,Fabio Bassi,Lorenzo Favati,Simone Mastronardi
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Bazzani/Borsotti,RnRcucumberhouse,Bazzani/Borsotti,15,10,15,7,,,Andrea Borsotti,Nicola Bazzani,Lennard Michaelis,Stefano Riccardi
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Serial Chillers,RnR Bolzoma,Serial Chillers,1,0,1,0,,,Jacopo Dudine,Alessandro Zanellato,Hannes Huber,Francesco Stupazzini
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Ace o Doppio,Zuca zala,Ace o Doppio,15,11,15,10,,,Luca Tosatti,Mattia Pareschi,Mattia Penasa,simone magnani
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Hinata/Nishinoya,Ficarra & Picone,Hinata/Nishinoya,15,12,15,8,,,riccardo mercadini,Matteo Molli,Riccardo Magnani,Alberto Amato
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,RBZ Tocco Italiano,Prendi e porta a casa,RBZ Tocco Italiano,15,8,15,8,,,Giacomo Merlin,Matteo Sacchini,Gianluca Sartin,Andrea Piccirillo
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Se non sughiamo perdiamo,TBD- Tanto Battiamo Dritto,Se non sughiamo perdiamo,15,10,15,6,,,Luca Leoni,Silvia Zanella,Michele Berlanda,Tommaso Marzocchi
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Sanla2020,Tek&Birrette,Sanla2020,15,10,18,16,,,Leonardo Travasoni,Francesco Mezzetti,Federico Librera,Fabio Bassi
+Bracket Stage,Open,Bracket A,Round of 16,Best of 3,Carta bianca,Mordecut & Fwangby,Mordecut & Fwangby,13,15,11,15,,,Chiara Pernigo,Tobia Sermenghi,Dario Filippi,Sebastiano Guerra
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Bazzani/Borsotti,Mordecut & Fwangby,Bazzani/Borsotti,15,8,15,12,,,Andrea Borsotti,Nicola Bazzani,Dario Filippi,Sebastiano Guerra
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Serial Chillers,Sanla2020,Serial Chillers,15,9,15,11,,,Jacopo Dudine,Alessandro Zanellato,Leonardo Travasoni,Francesco Mezzetti
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Ace o Doppio,Se non sughiamo perdiamo,Ace o Doppio,15,12,15,9,,,Luca Tosatti,Mattia Pareschi,Luca Leoni,Silvia Zanella
+Bracket Stage,Open,Bracket A,Quarter-final,Best of 3,Hinata/Nishinoya,RBZ Tocco Italiano,RBZ Tocco Italiano,12,15,20,21,,,riccardo mercadini,Matteo Molli,Giacomo Merlin,Matteo Sacchini
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Bazzani/Borsotti,RBZ Tocco Italiano,Bazzani/Borsotti,21,17,21,17,,,Andrea Borsotti,Nicola Bazzani,Giacomo Merlin,Matteo Sacchini
+Bracket Stage,Open,Bracket A,Semi-final,Best of 3,Serial Chillers,Ace o Doppio,Serial Chillers,21,12,21,19,,,Jacopo Dudine,Alessandro Zanellato,Luca Tosatti,Mattia Pareschi
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,Hinata/Nishinoya,Mordecut & Fwangby,Hinata/Nishinoya,1,0,,,,,riccardo mercadini,Matteo Molli,Dario Filippi,Sebastiano Guerra
+Bracket Stage,Open,Bracket A,P5: Semi-final,Single game,Se non sughiamo perdiamo,Sanla2020,Sanla2020,12,21,,,,,Luca Leoni,Silvia Zanella,Leonardo Travasoni,Francesco Mezzetti
+Bracket Stage,Open,Bracket A,Final,Best of 3,Bazzani/Borsotti,Serial Chillers,Bazzani/Borsotti,17,18,17,15,17,15,Andrea Borsotti,Nicola Bazzani,Jacopo Dudine,Alessandro Zanellato
+Bracket Stage,Open,Bracket A,P5: Final,Best of 3,Hinata/Nishinoya,Sanla2020,Hinata/Nishinoya,21,17,1,0,,,riccardo mercadini,Matteo Molli,Leonardo Travasoni,Francesco Mezzetti
+Bracket Stage,Open,Bracket A,P7: Final,Best of 3,Se non sughiamo perdiamo,Mordecut & Fwangby,Se non sughiamo perdiamo,22,20,1,0,,,Luca Leoni,Silvia Zanella,Dario Filippi,Sebastiano Guerra
+Bracket Stage,Open,Bracket A,P3: Final,Best of 3,Ace o Doppio,RBZ Tocco Italiano,Ace o Doppio,21,17,21,17,,,Luca Tosatti,Mattia Pareschi,Giacomo Merlin,Matteo Sacchini
+Bracket Stage,Open,Bracket A,P9: Round of 16,Single game,Ficarra e Picone,RnR Bolzoma,RnR Bolzoma,2,3,,,,,Riccardo Magnani,Alberto Amato,Hannes Huber,Francesco Stupazzini
+Bracket Stage,Open,Bracket A,P9: Round of 16,Single game,Interstellars,Tek&Birrette,Tek&Birrette,2,3,,,,,Lorenzo Favati,Simone Mastronardi,Federico Librera,Fabio Bassi
+Bracket Stage,Open,Bracket A,P9: Round of 16,Single game,TBD- Tanto Battiamo Dritto,RnRcucumberhouse,TBD- Tanto Battiamo Dritto,21,11,,,,,Michele Berlanda,Tommaso Marzocchi,Lennard Michaelis,Stefano Riccardi
+Bracket Stage,Open,Bracket A,P13: Quarter-final,Single game,Interstellars,Ficarra e Picone,Ficarra e Picone,2,3,,,,,Lorenzo Favati,Simone Mastronardi,Riccardo Magnani,Alberto Amato
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,TBD- Tanto Battiamo Dritto,Guilty pleasure,TBD- Tanto Battiamo Dritto,21,11,,,,,Michele Berlanda,Tommaso Marzocchi,Mirko Biondini,Giovanni Messina
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Carta bianca,Zuca zala,Carta bianca,21,9,,,,,Chiara Pernigo,Tobia Sermenghi,Mattia Penasa,simone magnani
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Prendi e porta a casa,RnR Le Noci,Prendi e porta a casa,21,14,,,,,Gianluca Sartin,Andrea Piccirillo,Iacopo Cinelli,Paolo  Baldini
+Bracket Stage,Open,Bracket A,P9: Quarter-final,Single game,Tek&Birrette,RnR Bolzoma,Tek&Birrette,21,12,,,,,Federico Librera,Fabio Bassi,Hannes Huber,Francesco Stupazzini
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,Prendi e porta a casa,Tek&Birrette,Tek&Birrette,19,21,,,,,Gianluca Sartin,Andrea Piccirillo,Federico Librera,Fabio Bassi
+Bracket Stage,Open,Bracket A,P9: Semi-final,Single game,Carta bianca,TBD- Tanto Battiamo Dritto,Carta bianca,21,9,,,,,Chiara Pernigo,Tobia Sermenghi,Michele Berlanda,Tommaso Marzocchi
+Bracket Stage,Open,Bracket A,P9: Final,Single game,Carta bianca,Tek&Birrette,Carta bianca,21,9,,,,,Chiara Pernigo,Tobia Sermenghi,Federico Librera,Fabio Bassi
+Group Stage,Women's Advanced,Group A,1,Single game,Managers,MARTIRE,Managers,21,10,,,,,Elena Rossetto,Amanda Y. Pesenti,Martina Melchionda,Irene Stranieri
+Group Stage,Women's Advanced,Group A,1,Single game,Mari e Lalla,Canu e Gatti,Canu e Gatti,20,22,,,,,Laura Lucchiari,Marianne Ferragina,fabia canu,martina gatti
+Group Stage,Women's Advanced,Group A,2,Single game,Managers,Canu e Gatti,Managers,21,2,,,,,Elena Rossetto,Amanda Y. Pesenti,fabia canu,martina gatti
+Group Stage,Women's Advanced,Group A,2,Single game,Niki vero,MARTIRE,Niki vero,21,15,,,,,Veronica Specchia,Nicole Biondini,Martina Melchionda,Irene Stranieri
+Group Stage,Women's Advanced,Group A,3,Single game,Managers,Niki vero,Managers,21,12,,,,,Elena Rossetto,Amanda Y. Pesenti,Veronica Specchia,Nicole Biondini
+Group Stage,Women's Advanced,Group A,3,Single game,Mari e Lalla,MARTIRE,Mari e Lalla,21,12,,,,,Laura Lucchiari,Marianne Ferragina,Martina Melchionda,Irene Stranieri
+Group Stage,Women's Advanced,Group A,4,Single game,Mari e Lalla,Niki vero,Niki vero,14,21,,,,,Laura Lucchiari,Marianne Ferragina,Veronica Specchia,Nicole Biondini
+Group Stage,Women's Advanced,Group A,4,Single game,Canu e Gatti,MARTIRE,Canu e Gatti,25,23,,,,,fabia canu,martina gatti,Martina Melchionda,Irene Stranieri
+Group Stage,Women's Advanced,Group A,5,Single game,Managers,Mari e Lalla,Managers,21,16,,,,,Elena Rossetto,Amanda Y. Pesenti,Laura Lucchiari,Marianne Ferragina
+Group Stage,Women's Advanced,Group A,5,Single game,Niki vero,Canu e Gatti,Niki vero,21,16,,,,,Veronica Specchia,Nicole Biondini,fabia canu,martina gatti
+Bracket Stage,Women's Advanced,Bracket A,Quarter-final,Single game,Mari e Lalla,MARTIRE,Mari e Lalla,21,13,,,,,Laura Lucchiari,Marianne Ferragina,Martina Melchionda,Irene Stranieri
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Managers,Mari e Lalla,Managers,15,8,15,12,,,Elena Rossetto,Amanda Y. Pesenti,Laura Lucchiari,Marianne Ferragina
+Bracket Stage,Women's Advanced,Bracket A,Semi-final,Best of 3,Niki vero,Canu e Gatti,Niki vero,21,16,16,21,21,16,Veronica Specchia,Nicole Biondini,fabia canu,martina gatti
+Bracket Stage,Women's Advanced,Bracket A,Final,Best of 3,Managers,Niki vero,Managers,21,16,21,19,,,Elena Rossetto,Amanda Y. Pesenti,Veronica Specchia,Nicole Biondini
