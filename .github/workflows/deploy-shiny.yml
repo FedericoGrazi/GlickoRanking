@@ -29,8 +29,8 @@ jobs:
     - name: Deploy to ShinyApps.io
       uses: rstudio/shinyapps-deploy@v1
       with:
-        shinyapps-token: ${{ secrets.62CB10C8BCD7F7845A15990CDEFD38D6 }}
-        shinyapps-secret: ${{ secrets.ER5ayeZh3ba51nqX2E/4qrmRucx3rKMyEhNHIDmr }}
+        shinyapps-token: ${{ secrets.MY_SHINYAPPS_TOKEN }}
+        shinyapps-secret: ${{ secrets.MY_SHINYAPPS_SECRET }}
         account: "federicograzi"
         app-name: "GlickoRanking"
         app-dir: "shiny"
